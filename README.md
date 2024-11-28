@@ -14,31 +14,39 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ## Project Structure
+```bash
 .
-├── data/                    # Data files and datasets
-│   ├── raw/                # Original medical texts
-│   └── processed/          # Preprocessed data
+├── data/                        # Data files and datasets
+│   ├── raw/                     # Original medical texts
+│   └── processed/               # Preprocessed data
 │
-├── src/                    # Source code
+├── src/                         # Source code
 │   ├── data/              
-│   │   ├── collector.py    # Data collection utilities
-│   │   └── preprocessor.py # Text preprocessing
-│   ├── models/            
-│   │   ├── gnn.py         # Graph Neural Network
-│   │   └── transformer.py  # Question generation model
+│   │   ├── data_collector.py    # Data collection utilities
+│   │   ├── dataset.py           # Processing text data
+│   │   └── preprocessor.py      # Text preprocessing
+│   ├── models/  
+│   │   ├── emgeddings.py        # Creating embeddings          
+│   │   ├── gnn.py               # Graph Neural Network
+│   │   └── transformer.py       # Question generation model
+│   ├── question_generation/  
+│   │   ├── rule_engine.py       # Rules for generating questions       
+│   │   └── templates.py         # Question templates
 │   └── utils/             
-│       └── helpers.py      # Utility functions
+│       └── metrics.py           # Utility functions
 │
-├── tests/                  # Unit tests
+├── tests/                       # Unit tests
+│   ├── test_data_collector.py
 │   ├── test_preprocessor.py
 │   └── test_models.py
 │
-├── notebooks/              # Jupyter notebooks
-├── config/                 # Configuration files
+├── notebooks/                   # Jupyter notebooks
+├── config/                      # Configuration files
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── setup.py
 └── .python-version
+```
