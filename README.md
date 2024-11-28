@@ -1,37 +1,44 @@
+# Logical Structure Analysis and Question Generation
 
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-logical_structure_analysis/
-├── data/
-│   ├── raw/                    # Raw Wikipedia articles
-│   └── processed/              # Preprocessed text data
-├── src/
-│   ├── data/
-│   │   ├── __init__.py
-│   │   ├── data_collector.py   # Wikipedia API integration
-│   │   ├── preprocessor.py     # Text cleaning and preprocessing
-│   │   └── dataset.py         # PyTorch dataset classes
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── gnn.py             # GNN model implementation
-│   │   ├── transformer.py      # Transformer model implementation
-│   │   └── embeddings.py      # Text embedding utilities
-│   ├── question_generation/
-│   │   ├── __init__.py
-│   │   ├── rule_engine.py     # Rule-based question generation
-│   │   └── templates.py       # Question templates
-│   └── utils/
-│       ├── __init__.py
-│       └── metrics.py         # Evaluation metrics
-├── tests/
-│   ├── __init__.py
-│   ├── test_data_collector.py
+## Project Overview
+AI-powered system for analyzing logical structures in medical texts and generating TMS preparation questions.
+
+## Installation
+```bash
+# Create virtual environment
+python3.10 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+## Project Structure
+.
+├── data/                    # Data files and datasets
+│   ├── raw/                # Original medical texts
+│   └── processed/          # Preprocessed data
+│
+├── src/                    # Source code
+│   ├── data/              
+│   │   ├── collector.py    # Data collection utilities
+│   │   └── preprocessor.py # Text preprocessing
+│   ├── models/            
+│   │   ├── gnn.py         # Graph Neural Network
+│   │   └── transformer.py  # Question generation model
+│   └── utils/             
+│       └── helpers.py      # Utility functions
+│
+├── tests/                  # Unit tests
 │   ├── test_preprocessor.py
 │   └── test_models.py
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   └── model_evaluation.ipynb
-├── config/
-│   └── config.yaml            # Configuration parameters
+│
+├── notebooks/              # Jupyter notebooks
+├── config/                 # Configuration files
+├── .gitignore
+├── README.md
 ├── requirements.txt
 ├── setup.py
-└── README.md
+└── .python-version
