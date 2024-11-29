@@ -48,5 +48,6 @@ pip install -r requirements.txt
 ├── README.md
 ├── requirements.txt
 ├── setup.py
+├── app.py                       # Streamlit application
 └── .python-version
 ```
