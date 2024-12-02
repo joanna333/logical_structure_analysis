@@ -12,3 +12,4 @@ jupyter>=1.0.0
 spacy>=3.0.0
 networkx>=2.6.0
 streamlit>=1.10.0
+streamlit-agraph>=0.0.7

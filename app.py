@@ -1,5 +1,7 @@
 # app.py
 import streamlit as st
+from streamlit_agraph import agraph, Node, Edge, Config
+import networkx as nx
 
 def main_page():
     st.title("Welcome to the TMS Preparation Tool!")
@@ -356,14 +358,56 @@ def settings_page():
     st.multiselect("Text Sources", ["Biology", "Medicine", "Physics"], key="sources")
     st.checkbox("Enable GNN Analysis", key="gnn_enabled")
 
+def create_logical_graph(data=None):
+    G = nx.DiGraph()
+    # Example nodes and edges
+    G.add_node(1, label="Cardiac Output")
+    G.add_node(2, label="Blood Pressure")
+    G.add_edge(1, 2, label="affects")
+    return G
+
+def graph_page():
+    st.title("Logical Structure Graph")
+    
+    config = Config(
+        width=750,
+        height=500,
+        directed=True,
+        nodeHighlightBehavior=True,
+        highlightColor="#F7A7A6",
+        collapsible=True,
+        node={'labelProperty': 'label'},
+        link={'labelProperty': 'label'}
+    )
+    
+    G = create_logical_graph(None)
+    
+    # Fixed node creation
+    nodes = [
+        Node(id=node_id, 
+            label=G.nodes[node_id]['label'],
+            size=25,
+            color="#1f77b4")
+        for node_id in G.nodes()
+    ]
+    
+    # Fixed edge creation
+    edges = [
+        Edge(source=source,
+             target=target,
+             label=data.get('label', ''),
+             type="CURVE_SMOOTH")
+        for source, target, data in G.edges(data=True)
+    ]
+    
+    agraph(nodes=nodes, edges=edges, config=config)
+
 def main():
     st.set_page_config(page_title="TMS Prep Tool", layout="wide")
     
-    # Initialize session state
     if "page" not in st.session_state:
         st.session_state.page = "main"
     
-    # Navigation sidebar with unique keys
     with st.sidebar:
         st.title("Navigation")
         if st.button("Home", key="nav_home"): 
@@ -376,6 +420,9 @@ def main():
             st.session_state.page = "results"
         if st.button("Settings", key="nav_settings"): 
             st.session_state.page = "settings"
+        # Add new graph button
+        if st.button("View Graph", key="nav_graph"):
+            st.session_state.page = "graph"
     
     # Page routing
     pages = {
@@ -383,7 +430,8 @@ def main():
         "analyze": analyze_page,
         "generate": generate_page,
         "results": results_page,
-        "settings": settings_page
+        "settings": settings_page,
+        "graph": graph_page  # Add graph page
     }
     
     pages[st.session_state.page]()

@@ -44,3 +44,5 @@ coverage.xml
 ._*
 .Spotlight-V100
 .Trashes
+data
+src/utils/scratchpad.py
