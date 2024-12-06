@@ -11,18 +11,11 @@ class OLMoHandler:
         logging.basicConfig(level=logging.INFO)
         self.logger = logging.getLogger(__name__)
         
-        # Check for MPS (Apple Silicon GPU) availability
-        self.device = (
-            "mps" 
-            if torch.backends.mps.is_available() 
-            else "cpu"
-        )
-        self.logger.info(f"Using device: {self.device}")
-        
         self.model_name = "allenai/OLMo-2-1124-7B-Instruct"
         self.cache_dir = cache_dir
         self.chat_template = "<|endoftext|><|user|>\n{}\n<|assistant|>\n"
         os.makedirs(cache_dir, exist_ok=True)
+        self.logger.info(f"Initialized OLMoHandler with cache dir: {cache_dir}")
         
     def load_model(self):
         """Load model and tokenizer from cache or download"""
@@ -35,27 +28,31 @@ class OLMoHandler:
             )
             self.logger.info("Tokenizer loaded successfully")
             
-            self.logger.info(f"Loading model to {self.device}...")
+            self.logger.info("Loading model (this may take a few minutes)...")
             mem_before = psutil.Process().memory_info().rss / 1024 / 1024
             
+            # Remove progress_bar argument
             self.model = AutoModelForCausalLM.from_pretrained(
                 self.model_name,
                 cache_dir=self.cache_dir,
                 torch_dtype=torch.float16,
-                device_map={"": self.device}
+                device_map="auto"
             )
             
             mem_after = psutil.Process().memory_info().rss / 1024 / 1024
-            self.logger.info(f"Model loaded. RAM usage: {mem_after - mem_before:.2f} MB")
+            mem_diff = mem_after - mem_before
+            
+            self.logger.info(f"Model loaded successfully")
+            self.logger.info(f"Memory usage: {mem_diff:.2f}MB")
+            self.logger.info(f"Device map: {self.model.hf_device_map}")
             
             return True
-            
         except Exception as e:
             self.logger.error(f"Error loading model: {e}")
             return False
             
     def generate(self, prompt: str, max_length: int = 512) -> str:
-        """Generate text from prompt"""
+        """Generate text from prompt with proper sampling configuration"""
         if not hasattr(self, 'model'):
             if not self.load_model():
                 return ""
@@ -69,23 +66,32 @@ class OLMoHandler:
             add_special_tokens=True
         ).to(self.model.device)
         
-        outputs = self.model.generate(
-            **inputs,
-            max_length=max_length,
-            num_return_sequences=1,
-            temperature=0.7,
-            pad_token_id=self.tokenizer.eos_token_id,
-            eos_token_id=self.tokenizer.encode("<|endoftext|>")[0]
-        )
-        
-        # Extract only assistant response
-        response = self.tokenizer.decode(outputs[0], skip_special_tokens=False)
-        assistant_response = response.split("<|assistant|>\n")[-1].split("<|endoftext|>")[0]
-        return assistant_response.strip()
+        try:
+            outputs = self.model.generate(
+                **inputs,
+                max_length=max_length,
+                do_sample=True,  # Enable sampling
+                temperature=0.7,  # Keep temperature for creativity
+                top_p=0.95,      # Nucleus sampling
+                top_k=50,        # Top-k sampling
+                num_return_sequences=1,
+                pad_token_id=self.tokenizer.eos_token_id,
+                eos_token_id=self.tokenizer.encode("<|endoftext|>")[0]
+            )
+            
+            # Extract only assistant response
+            response = self.tokenizer.decode(outputs[0], skip_special_tokens=False)
+            assistant_response = response.split("<|assistant|>\n")[-1].split("<|endoftext|>")[0]
+            return assistant_response.strip()
+            
+        except Exception as e:
+            self.logger.error(f"Error generating response: {e}")
+            return f"Error generating response: {str(e)}"
     
 
 # Initialize handler
 olmo = OLMoHandler(cache_dir="models/")
 
 # First use will download and cache
-response = olmo.generate("Explain the cardiovascular system:")
+response = olmo.generate("Determine the relationship between the following sentences: Sentence 1: 'The abdomen is the front part of the torso between the thorax chest and pelvis in humans and in other vertebrates.' Sentence 2: 'The area occupied by the abdomen is called the abdominal cavity.' Possible relationships: [Causal, Conditional, Sequential, Comparison, Contradiction] Output: The relationship is")
+print(response)
