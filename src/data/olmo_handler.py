@@ -87,11 +87,4 @@ class OLMoHandler:
         except Exception as e:
             self.logger.error(f"Error generating response: {e}")
             return f"Error generating response: {str(e)}"
-    
 
-# Initialize handler
-olmo = OLMoHandler(cache_dir="models/")
-
-# First use will download and cache
-response = olmo.generate("Determine the relationship between the following sentences: Sentence 1: 'The abdomen is the front part of the torso between the thorax chest and pelvis in humans and in other vertebrates.' Sentence 2: 'The area occupied by the abdomen is called the abdominal cavity.' Possible relationships: [Causal, Conditional, Sequential, Comparison, Contradiction] Output: The relationship is")
-print(response)
