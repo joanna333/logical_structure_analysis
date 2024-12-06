@@ -1,0 +1,251 @@
+Sentence 1,Sentence 2,Relationship
+The ribs protect the lungs and heart from external injury,Lungs and heart are protected by the ribcage,causality
+The skeletal system provides structural support to the body,Structural integrity of the body depends on the skeleton,causality
+The diaphragm facilitates breathing by changing thoracic volume,Breathing occurs due to diaphragm movement,causality
+The spine protects the spinal cord from damage,The spinal cord is safeguarded by the vertebral column,causality
+The heart pumps blood to maintain circulation,Circulation is driven by the pumping action of the heart,causality
+The skin prevents pathogens from entering the body,Skin acts as a barrier against infections,causality
+The liver metabolizes drugs to detoxify the body,Drugs are detoxified in the liver,causality
+The small intestine absorbs nutrients to nourish the body,Nutrients from food are absorbed by the small intestine,causality
+The skull encases the brain for protection,The brain is protected by the skull,causality
+The kidneys filter blood to produce urine,Urine is formed as kidneys filter blood,causality
+"If the ACL is torn, knee stability is compromised",A torn ACL results in an unstable knee joint,condition
+A fractured rib makes breathing painful,Breathing becomes difficult when ribs are fractured,condition
+"When blood flow to the brain is interrupted, a stroke occurs",A stroke happens when blood supply to the brain is cut off,condition
+"If the retina detaches, vision is impaired",Vision problems arise from retinal detachment,condition
+A herniated disc can press on spinal nerves and cause pain,Spinal nerve compression causes pain in a herniated disc,condition
+"Lack of calcium weakens bones, increasing fracture risk",Bone fractures become more likely with calcium deficiency,condition
+Inflammation of the appendix can cause severe abdominal pain,Appendicitis causes acute abdominal pain,condition
+"Dehydration reduces joint lubrication, leading to stiffness",Stiffness in joints occurs due to dehydration,condition
+"If the nasal passages are blocked, breathing becomes difficult",Blocked nasal passages make breathing harder,condition
+An injured rotator cuff limits shoulder movement,Rotator cuff injuries reduce shoulder mobility,condition
+Food passes through the esophagus before reaching the stomach,The stomach receives food after it passes through the esophagus,sequence
+Blood enters the right atrium before being pumped to the lungs,Blood flows from the right atrium to the lungs for oxygenation,sequence
+"Neurons transmit electrical signals to muscles, causing contraction",Electrical signals from neurons activate muscle fibers,sequence
+Urine flows from the kidneys to the bladder via the ureters,Urine travels through ureters to reach the bladder,sequence
+Oxygenated blood exits the heart through the aorta,The aorta carries oxygen-rich blood to the body,sequence
+Digestive enzymes are secreted into the stomach before food digestion begins,Food is digested in the stomach before entering the intestines,sequence
+Tears are produced by the lacrimal glands before draining through the ducts,Tears drain from the lacrimal glands into ducts,sequence
+The pharynx directs food to the esophagus during swallowing,Swallowed food moves from the pharynx to the esophagus,sequence
+Air enters the nasal cavity before passing into the lungs,Air flows from the nasal cavity into the trachea,sequence
+Sweat glands produce sweat that is released through skin pores,Sweat is released through skin pores after being produced,sequence
+Bones are harder and denser than cartilage,Cartilage is softer and more flexible than bones,comparison
+Arteries have thicker walls than veins,Veins have thinner walls compared to arteries,comparison
+The femur is longer and stronger than the humerus,The humerus is shorter and less robust than the femur,comparison
+"Smooth muscle contracts involuntarily, unlike skeletal muscle","Skeletal muscles contract voluntarily, unlike smooth muscles",comparison
+The heart is more muscular than the lungs,Lungs are less muscular than the heart,comparison
+"The skin is the largest organ, compared to the liver as the heaviest organ",The liver is heavier but smaller than the skin in surface area,comparison
+Ligaments are less elastic than tendons,Tendons are more elastic than ligaments,comparison
+The brain has more neurons than the spinal cord,The spinal cord contains fewer neurons than the brain,comparison
+Red blood cells are smaller than white blood cells,White blood cells are larger compared to red blood cells,comparison
+The pelvis is more robust in females than in males,Male pelvises are narrower than female pelvises,comparison
+The esophagus moves food downward before it enters the stomach,Food enters the stomach after passing through the esophagus,sequence
+The trachea carries air to the lungs after passing the larynx,Air enters the lungs after traveling through the trachea,sequence
+Bile is released into the small intestine after being stored in the gallbladder,Gallbladder releases bile into the intestines for fat digestion,sequence
+The optic nerve transmits signals to the brain after detecting light,Light signals from the retina reach the brain via the optic nerve,sequence
+The vertebral column provides structure before facilitating movement,Movement follows support provided by the vertebral column,sequence
+"If the meniscus is damaged, knee cushioning is reduced",Reduced knee cushioning occurs with meniscus damage,condition
+"Arthritis causes joint inflammation, leading to reduced mobility",Joint pain and stiffness are common with arthritis,condition
+"When the inner ear is damaged, balance can be affected",Inner ear damage affects balance and spatial orientation,comparison
+The stomach holds food temporarily before digestion continues in the intestines,Digestion continues in the intestines after food leaves the stomach,comparison
+"Veins return deoxygenated blood to the heart, unlike arteries that carry oxygenated blood","Arteries transport oxygenated blood, unlike veins that carry deoxygenated blood",comparison
+Mitochondria produce ATP through cellular respiration,ATP is generated by mitochondria via cellular respiration,causality
+Ribosomes are responsible for protein synthesis,Protein synthesis occurs at ribosomes,causality
+The cell membrane regulates the movement of substances,Substance movement is controlled by the cell membrane,causality
+DNA is transcribed into RNA in the nucleus,RNA synthesis takes place in the nucleus from DNA templates,sequence
+The Golgi apparatus modifies and packages proteins,Proteins are processed and packaged in the Golgi apparatus,causality
+Lysosomes break down cellular waste,Cellular waste is degraded by lysosomes,causality
+Chloroplasts perform photosynthesis in plant cells,Photosynthesis in chloroplasts converts light energy into glucose,causality
+Cell division occurs through mitosis or meiosis,Mitosis and meiosis are methods of cell division,sequence
+The cytoskeleton provides structural support to the cell,Structural integrity of cells is maintained by the cytoskeleton,causality
+Cell signaling involves receptor-ligand interactions,Ligand binding to receptors initiates cell signaling,causality
+Endoplasmic reticulum transports proteins within the cell,Proteins are transported within the cell by the endoplasmic reticulum,causality
+Osmosis regulates water movement across the cell membrane,Water movement in cells is regulated by osmosis,causality
+Mitochondrial DNA is inherited maternally,Mitochondrial DNA inheritance is maternal,causality
+Stem cells differentiate into specialized cell types,Specialized cells develop from stem cells,causality
+The nucleolus is the site of ribosome assembly,Ribosome synthesis occurs in the nucleolus,causality
+Enzymes catalyze biochemical reactions in cells,Biochemical reactions are accelerated by enzymes,causality
+Plasma membranes contain phospholipid bilayers,Phospholipid bilayers form the plasma membrane,condition
+Protein folding occurs in the endoplasmic reticulum,The endoplasmic reticulum facilitates protein folding,sequence
+Cytokinesis divides the cytoplasm after mitosis,Cytokinesis is the final step of cell division,sequence
+Apoptosis is a programmed cell death process,Programmed cell death is known as apoptosis,sequence
+Prokaryotic cells lack membrane-bound organelles,Prokaryotic cells do not have organelles like mitochondria,comparison
+Eukaryotic cells have a nucleus and other organelles,Eukaryotic cells contain organelles such as the nucleus,comparison
+Cell cycle checkpoints regulate division,Division is regulated by checkpoints in the cell cycle,condition
+Photosynthesis occurs in chloroplasts,Chloroplasts carry out photosynthesis,causality
+Autophagy recycles damaged organelles,Damaged organelles are recycled via autophagy,causality
+Chromosomes contain genetic information,Genetic information is encoded in chromosomes,causality
+Transport proteins facilitate molecule movement,Molecule transport is mediated by specialized proteins,sequence
+Active transport requires ATP,ATP is necessary for active transport,causality
+Diffusion moves molecules down their concentration gradient,Molecules move passively during diffusion,sequence
+Interphase is the longest phase of the cell cycle,The cell cycle's longest phase is interphase,causality
+Mutations in DNA can lead to cell malfunction,DNA mutations can cause cellular issues,causality
+Endocytosis brings substances into the cell,Substances enter cells through endocytosis,causality
+Exocytosis releases substances outside the cell,Exocytosis expels substances from cells,causality
+Golgi apparatus dysfunction affects protein secretion,Protein secretion is disrupted by Golgi apparatus malfunction,comparison
+Flagella enable cell motility,Motility in cells is enabled by flagella,comparison
+"Cellular respiration involves glycolysis, Krebs cycle, and electron transport chain",Glycolysis is the first step in cellular respiration,causality
+Cancer results from uncontrolled cell division,Uncontrolled division of cells results in cancer,causality
+Hormones can affect gene expression in cells,Cells respond to hormones by altering gene expression,causality
+Neurons transmit signals using action potentials,Action potentials allow neurons to communicate,sequence
+Synaptic transmission occurs between neurons,Neurons exchange signals at synapses,causality
+Cytoplasmic streaming helps distribute nutrients,Nutrient distribution in cells is aided by cytoplasmic streaming,causality
+Proteins embedded in the cell membrane act as receptors,Receptor proteins are located in cell membranes,comparison
+Gene expression is regulated by transcription factors,Transcription factors regulate how genes are expressed,condition
+Viruses use host cells for replication,Host cells are required for viral replication,comparison
+Membrane-bound organelles are unique to eukaryotes,Eukaryotic cells possess membrane-bound organelles,comparison
+"Plasmids are small, circular DNA molecules in bacteria",Plasmids carry genes in bacterial cells,causality
+Cell wall composition varies between plants and fungi,"Plant cell walls are composed of cellulose, unlike fungal walls",causality
+Photosynthesis produces oxygen as a byproduct,Oxygen is released as a byproduct of photosynthesis,causality
+Cell junctions facilitate communication between adjacent cells,Adjacent cells communicate via junctions,causality
+Cilia help move fluids across the cell surface,Fluid movement is assisted by cilia,sequence
+Smoking is a major cause of lung cancer,Smoking leads to lung cancer,causality
+Obesity increases the risk of heart disease,People with obesity have a higher risk of cardiovascular problems,causality
+Asthma can cause shortness of breath,Asthma is a condition that affects the lungs,condition
+High blood pressure can lead to heart attacks,Heart attacks are often caused by high blood pressure,causality
+"After consuming alcohol, a person may experience drowsiness",Drowsiness follows alcohol consumption,sequence
+Smoking is harmful to health,Smoking causes a variety of diseases,causality
+Excessive alcohol intake can cause liver damage,Liver damage is caused by alcohol abuse,causality
+Patients with diabetes are at risk of kidney failure,Diabetes can result in kidney failure,causality
+Certain medications may cause allergic reactions,An allergic reaction is a condition caused by specific medications,condition
+The flu virus spreads quickly during winter,Winter increases the spread of flu virus,sequence
+Genetic mutations can lead to cancer,Cancer can develop as a result of genetic mutations,causality
+Regular exercise helps reduce the risk of cardiovascular diseases,Cardiovascular diseases can be prevented by regular exercise,sequence
+High cholesterol can lead to plaque buildup in arteries,Plaque buildup in arteries can lead to heart attack or stroke,causality
+Diabetes can cause nerve damage,Nerve damage in diabetes affects the peripheral nervous system,causality
+Obesity is linked to an increased risk of stroke,Stroke can occur due to obesity,causality
+High salt intake can raise blood pressure,Increased blood pressure due to salt intake can cause heart disease,causality
+Chronic stress can affect your immune system,Chronic stress weakens the immune system,causality
+A balanced diet can help in weight management,Weight management is supported by a healthy diet,causality
+Poor sleep habits can lead to mental health issues,Poor mental health can result from inadequate sleep,causality
+Lack of exercise can contribute to obesity,Lack of exercise often results in excessive body weight,sequence
+Uncontrolled diabetes can cause heart disease,Heart disease can result from poorly controlled blood sugar,causality
+Cancer treatments can cause nausea and fatigue,Nausea and fatigue are common side effects of chemotherapy,causality
+Exposure to UV rays can increase the risk of skin cancer,Skin cancer is often caused by prolonged sun exposure,causality
+High alcohol consumption can damage the liver,Liver cirrhosis is a consequence of long-term excessive drinking,causality
+Smoking during pregnancy can harm the fetus,The fetus can develop complications if the mother smokes,causality
+Mental health disorders can affect physical health,Mental health issues often contribute to physical health problems,causality
+Obesity is a risk factor for type 2 diabetes,Type 2 diabetes is more likely with obesity,causality
+Heavy drinking can result in liver cirrhosis,Cirrhosis of the liver results from heavy drinking,causality
+Vitamin D deficiency can affect bone health,Bones become brittle due to lack of vitamin D,causality
+Chronic pain can lead to depression,Chronic pain is a precursor to depression,sequence
+High blood sugar can cause vision problems,Uncontrolled blood sugar can lead to diabetic retinopathy,causality
+Healthy eating improves quality of life,Healthy eating is associated with improved well-being,condition
+Diabetes is managed differently than high blood pressure,Managing diabetes requires a different approach than controlling blood pressure,comparison
+Lung cancer treatment differs significantly from breast cancer treatment,"Lung cancer treatment involves chemotherapy, unlike the treatment for breast cancer",comparison
+Hereditary diseases are more prevalent in certain populations,Certain genetic diseases are more common in populations with certain ancestries,comparison
+Exercise is a key factor in improving mental health,Mental health benefits are a key outcome of regular exercise,comparison
+Weight loss programs vary in effectiveness for different individuals,Not all weight loss programs are effective for every individual,comparison
+Vaccines are different from antibiotics in their use and action,"Vaccines provide preventive care, unlike antibiotics that treat infections",comparison
+Mental illness and physical illness are often interconnected,Physical and mental health are closely related and influence each other,comparison
+Nutritional therapy plays a critical role in cancer treatment,Nutritional therapy enhances the treatment process in cancer care,comparison
+Drug addiction treatment has varying success rates based on the individual,Drug addiction treatment varies significantly from person to person,comparison
+Comparison of exercise types reveals distinct benefits,Exercise provides long-term benefits that are different from diet,comparison
+Smoking has worse long-term health consequences than moderate drinking,Moderate drinking has fewer long-term effects than smoking,comparison
+Exercise is more effective than diet alone for long-term weight loss,Exercise is more effective for long-term weight loss than diet alone,comparison
+Surgical treatment for obesity has greater immediate results than diet control,Diet alone is not as effective as surgical treatment for obesity,comparison
+Mental health treatment is often more complex than physical health treatment,Mental health treatment often requires a multidisciplinary approach,comparison
+Obesity causes more long-term health issues than malnutrition,Obesity has more serious long-term health effects than malnutrition,comparison
+Chronic stress is more damaging than acute stress in the long term,Chronic stress results in more severe health problems than acute stress,comparison
+Processed food consumption is more harmful than whole foods,Unprocessed foods are healthier than processed foods,comparison
+Yoga and meditation are more beneficial for mental health than traditional therapies,Yoga and meditation offer distinct benefits compared to conventional therapies,comparison
+Neurons transmit signals through electrical impulses,Electrical impulses are used by neurons for communication,causality
+A stroke occurs when blood flow to the brain is disrupted,Disruption in brain blood flow causes strokes,causality
+Parkinson's disease results from reduced dopamine levels,Parkinson’s symptoms arise from dopamine deficiency,causality
+Head injuries can cause traumatic brain injury,Traumatic brain injury results from severe head trauma,causality
+Multiple sclerosis damages the protective covering of nerves,Nerve coverings are damaged in multiple sclerosis,causality
+Seizures occur due to abnormal electrical activity in the brain,Abnormal brain activity is the root cause of seizures,causality
+Alzheimer's disease is characterized by memory loss,Memory loss is a hallmark of Alzheimer’s disease,causality
+Migraines are triggered by neurological and vascular factors,Neurological factors contribute to migraines,causality
+Spinal cord injuries often lead to paralysis,Paralysis is a consequence of spinal cord injuries,causality
+Sleep deprivation affects cognitive function,Cognitive performance declines with lack of sleep,causality
+Neurotransmitters regulate mood and behavior,Mood regulation is controlled by neurotransmitters,causality
+Brain plasticity allows the brain to adapt to changes,The brain adapts due to its plasticity,causality
+Excessive stress can lead to anxiety disorders,Anxiety disorders are linked to high stress levels,causality
+Epilepsy is managed by controlling seizure triggers,Seizures can be reduced by avoiding known triggers,condition
+Brainstem damage affects essential life functions,Damage to the brainstem disrupts vital functions,causality
+Neurodegenerative diseases lead to progressive brain damage,Progressive brain damage is caused by neurodegenerative conditions,causality
+Autism spectrum disorders affect communication skills,Communication deficits are a feature of autism spectrum disorders,causality
+Chronic pain alters neural pathways,Neural pathway changes occur with chronic pain,causality
+The blood-brain barrier protects the brain from toxins,The brain is shielded from harmful substances by the blood-brain barrier,causality
+Prolonged depression changes brain structure,Brain structure changes during prolonged depression,causality
+Stroke rehabilitation improves motor functions over time,Motor skills improve with stroke rehabilitation over time,sequence
+Synaptic pruning occurs during brain development,Synaptic pruning refines neural connections,sequence
+Nerve damage leads to loss of sensation,Loss of sensation is due to nerve damage,causality
+Dopamine deficiency causes motor symptoms in Parkinson’s disease,Parkinson's motor issues stem from dopamine loss,causality
+Electrical stimulation improves recovery in spinal injuries,Spinal recovery is aided by electrical stimulation,causality
+Brain injuries require immediate medical attention,Prompt care is critical for brain injuries,condition
+Sleep stages follow a predictable cycle,Sleep cycles proceed in predictable stages,sequence
+Memory consolidation occurs during REM sleep,REM sleep aids memory formation,sequence
+Neurogenesis declines with age,Aging reduces the rate of neurogenesis,causality
+Chronic stress can suppress neurogenesis,Chronic stress impacts brain cell production,condition
+Brain scans reveal differences in neurological disorders,Brain imaging identifies neurological disorder patterns,comparison
+Neurological exams detect abnormalities in reflexes,Reflex abnormalities are detected in neurological tests,condition
+Patients with epilepsy often avoid bright flashing lights,Flashing lights can trigger seizures in epileptics,condition
+Stroke patients benefit from early physical therapy,Early therapy enhances stroke recovery,comparison
+Neurological disorders vary in severity among individuals,Severity of neurological disorders varies widely,comparison
+Sensory neurons transmit signals from the body to the brain,Body signals are sent to the brain by sensory neurons,causality
+Motor neurons control voluntary muscle movement,Voluntary movements are controlled by motor neurons,causality
+The autonomic nervous system regulates involuntary functions,Involuntary actions are regulated by the autonomic nervous system,condition
+Myelin sheath damage slows nerve signal transmission,Signal transmission slows when the myelin sheath is damaged,causality
+Neuron regeneration is limited in the central nervous system,Neuron regeneration is limited in the CNS,comparison
+Spinal cord reflexes bypass brain involvement,Reflexes bypass the brain via the spinal cord,sequence
+Neurotransmitter imbalances cause mood disorders,Mood disorders arise from neurotransmitter imbalances,causality
+Certain medications restore neurotransmitter balance,Medications restore neurotransmitter function,causality
+Visual cortex damage leads to vision loss,Vision loss follows damage to the visual cortex,causality
+Temporal lobe seizures affect memory and speech,Memory and speech are disrupted by temporal lobe seizures,causality
+Frontal lobe injuries impair decision-making,Decision-making suffers with frontal lobe injuries,causality
+Cerebral palsy results from abnormal brain development,Abnormal brain development causes cerebral palsy,causality
+ALS progressively weakens muscles by damaging motor neurons,"ALS damages motor neurons, leading to muscle weakness",comparison
+Neurofeedback therapy improves focus in ADHD,ADHD focus improves with neurofeedback therapy,comparison
+Deep brain stimulation reduces tremors in Parkinson’s disease,Parkinson's tremors are reduced by deep brain stimulation,comparison
+The heart pumps blood to supply oxygen to the body,Blood is pumped by the heart to deliver oxygen,causality
+Lung expansion allows oxygen to enter the bloodstream,Oxygen enters the bloodstream as lungs expand,causality
+Kidneys filter blood to remove waste products,Kidneys remove waste by filtering blood,causality
+The stomach produces acid to digest food,Food is digested in the stomach by acidic secretions,causality
+The liver detoxifies harmful substances in the body,Toxins are processed and neutralized by the liver,causality
+Muscle contraction relies on calcium and ATP,ATP and calcium are necessary for muscle contraction,causality
+Insulin regulates blood sugar levels,Blood sugar levels are controlled by insulin,causality
+Adrenal glands release hormones during stress,Stress hormones are released by adrenal glands,causality
+Sweat cools the body through evaporation,Evaporation of sweat cools the body,causality
+Blood clotting prevents excessive blood loss,Excess blood loss is prevented by clotting,causality
+Dehydration reduces blood volume and affects blood pressure,Blood pressure drops with dehydration,condition
+Low oxygen levels trigger increased breathing rate,Rapid breathing compensates for low oxygen levels,condition
+Muscle fatigue occurs if ATP is depleted,ATP depletion leads to muscle fatigue,condition
+The body uses fat for energy when carbohydrate stores are low,Fat is metabolized when carbohydrates are unavailable,condition
+Exercise-induced sweating occurs when body temperature rises,Sweating begins when the body overheats,condition
+"If the hypothalamus is damaged, body temperature regulation is impaired",Temperature control fails if the hypothalamus is damaged,condition
+The immune system becomes less effective under prolonged stress,Chronic stress weakens the immune response,condition
+Hormone imbalances can lead to metabolic disorders,Disorders arise from imbalances in hormone levels,condition
+Vitamin deficiencies affect enzyme activity,Enzyme activity decreases with vitamin deficiency,condition
+"If blood vessels constrict, blood pressure increases",Blood pressure rises as vessels constrict,condition
+Oxygen is inhaled into the lungs before entering the bloodstream,Oxygen enters the bloodstream after being inhaled,sequence
+Food moves from the stomach to the small intestine for digestion,Digestion continues in the small intestine after the stomach,sequence
+Blood travels through arteries before reaching capillaries,Capillaries receive blood after it passes through arteries,sequence
+Neurons fire signals to the brain after detecting stimuli,The brain receives signals after sensory detection,sequence
+The digestive process starts in the mouth and ends in the intestines,The digestive system completes its process in the intestines,sequence
+Nutrients are absorbed into the bloodstream after digestion,Nutrients enter the bloodstream following digestion,sequence
+Red blood cells release oxygen to tissues before returning to the lungs,Oxygen is unloaded by red blood cells before they return to the lungs,sequence
+Cardiac muscles contract before the heart valves open,Heart valves open after cardiac muscles contract,sequence
+The diaphragm contracts before air is drawn into the lungs,Air flows into the lungs after the diaphragm contracts,sequence
+Sweat evaporates after being secreted to cool the skin,Skin cools as sweat evaporates from the surface,sequence
+Arteries have thicker walls than veins,Veins have thinner walls than arteries,comparison
+Lungs are more efficient in oxygen exchange than skin in humans,Oxygen exchange is more effective in lungs than through skin,comparison
+Skeletal muscles contract more forcefully than smooth muscles,Smooth muscles generate less force than skeletal muscles,comparison
+Aerobic respiration produces more ATP than anaerobic respiration,Aerobic pathways generate more energy than anaerobic ones,comparison
+Voluntary actions are controlled more consciously than reflex actions,Reflex actions are quicker but less conscious than voluntary movements,comparison
+The small intestine absorbs more nutrients than the large intestine,The large intestine absorbs fewer nutrients than the small intestine,comparison
+The liver processes toxins faster than the kidneys excrete them,Kidneys excrete toxins slower than the liver processes them,comparison
+Blood flow increases more during exercise than at rest,"During exercise, blood flow is greater than at rest",comparison
+White blood cells are larger than red blood cells,Red blood cells are smaller than white blood cells,comparison
+The brain requires more oxygen than most other organs,Oxygen consumption is higher in the brain than in other tissues,comparison
+The pancreas releases insulin after a meal to regulate blood sugar,Blood sugar stabilizes after insulin is released by the pancreas,sequence
+Fasting leads to glycogen breakdown before fat metabolism begins,Fat metabolism starts after glycogen reserves are depleted,sequence
+Neurotransmitters are released into the synapse before binding to receptors,Neurotransmitters bind to receptors after being released,sequence
+The heart rate slows after physical activity ends,Heart rate gradually returns to normal after physical exertion,sequence
+"During digestion, proteins are broken into amino acids before absorption",Amino acids are absorbed into the bloodstream after protein digestion,sequence
+"If the diaphragm is paralyzed, breathing becomes shallow",Shallow breathing occurs when the diaphragm is paralyzed,condition
+Electrolyte imbalances can occur after excessive water intake,Water intoxication causes electrolyte imbalances,condition
+The respiratory rate increases during exercise compared to rest,Resting respiratory rates are lower than during exercise,comparison
+The skeletal system supports more weight than the muscular system,Muscles depend on bones for structural support,comparison
+Blood pressure is higher in the arteries than in the veins,Venous blood pressure is lower compared to arterial blood pressure,comparison
