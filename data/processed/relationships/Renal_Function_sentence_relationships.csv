@@ -1,0 +1,41 @@
+Sentence 1,Sentence 2,Relationship
+"The nephron is the functional unit of the kidney, responsible for filtering the blood, reabsorbing essential substances, and secreting waste products to maintain fluid balance",This process involves three primary mechanisms,Explanation
+This process involves three primary mechanisms,"filtration, reabsorption, and secretion",Explanation
+"filtration, reabsorption, and secretion",Each plays a crucial role in ensuring that the body maintains the appropriate concentration of water and solutes,Explanation
+Each plays a crucial role in ensuring that the body maintains the appropriate concentration of water and solutes,### Filtration,None
+### Filtration,"Filtration begins in the renal corpuscle, which consists of the glomerulus (a network of capillaries) and Bowman's capsule",Explanation
+"Filtration begins in the renal corpuscle, which consists of the glomerulus (a network of capillaries) and Bowman's capsule",Blood pressure forces plasma and solutes through the fenestrated capillaries of the glomerulus into Bowman's space,Causal
+Blood pressure forces plasma and solutes through the fenestrated capillaries of the glomerulus into Bowman's space,"This process is selective, allowing small molecules like water, ions (Na+, Cl-, K+, HCO₃⁻), and small organic molecules to pass through, while larger molecules (such as proteins and blood cells) are largely retained",Explanation
+"This process is selective, allowing small molecules like water, ions (Na+, Cl-, K+, HCO₃⁻), and small organic molecules to pass through, while larger molecules (such as proteins and blood cells) are largely retained","The filtrate formed in the Bowman's capsule moves into the proximal convoluted tubule (PCT), where the process of reabsorption begins",Explanation
+"The filtrate formed in the Bowman's capsule moves into the proximal convoluted tubule (PCT), where the process of reabsorption begins",### Reabsorption,Sequential
+### Reabsorption,"Reabsorption is the process by which the nephron retrieves essential substances from the filtrate back into the blood, conserving them for the body's use",Explanation
+"Reabsorption is the process by which the nephron retrieves essential substances from the filtrate back into the blood, conserving them for the body's use","This occurs primarily in the PCT and the loop of Henle, with some additional reabsorption in the distal convoluted tubule (DCT)",Explanation
+"This occurs primarily in the PCT and the loop of Henle, with some additional reabsorption in the distal convoluted tubule (DCT)",Proximal Convoluted Tubule (PCT),Explanation
+Proximal Convoluted Tubule (PCT),"Nearly all the glucose, amino acids, and electrolytes are reabsorbed here, thanks to the presence of numerous transport proteins in the tubule's epithelial cells",Explanation
+"Nearly all the glucose, amino acids, and electrolytes are reabsorbed here, thanks to the presence of numerous transport proteins in the tubule's epithelial cells",Water reabsorption is also regulated by hormones such as antidiuretic hormone (ADH) and aldosterone,Explanation
+Water reabsorption is also regulated by hormones such as antidiuretic hormone (ADH) and aldosterone,Loop of Henle,Explanation
+Loop of Henle,This segment is crucial for creating a concentration gradient that aids in the reabsorption of sodium ions and chloride ions,Explanation
+This segment is crucial for creating a concentration gradient that aids in the reabsorption of sodium ions and chloride ions,The countercurrent exchange mechanism in the descending limb and the vasa recta helps maintain this gradient,Explanation
+The countercurrent exchange mechanism in the descending limb and the vasa recta helps maintain this gradient,Distal Convoluted Tubule (DCT),Explanation
+Distal Convoluted Tubule (DCT),"Here, sodium reabsorption is fine-tuned by the action of hormones like aldosterone (which increases sodium reabsorption) and atrial natriuretic peptide (ANP), which reduces it",Explanation
+"Here, sodium reabsorption is fine-tuned by the action of hormones like aldosterone (which increases sodium reabsorption) and atrial natriuretic peptide (ANP), which reduces it",Potassium and hydrogen ions (H+) are also regulated during this phase,Explanation
+Potassium and hydrogen ions (H+) are also regulated during this phase,"Reabsorption is vital for maintaining the concentrations of important solutes in the blood, ensuring that essential nutrients and electrolytes are not lost in the urine",Explanation
+"Reabsorption is vital for maintaining the concentrations of important solutes in the blood, ensuring that essential nutrients and electrolytes are not lost in the urine",### Secretion,Explanation
+### Secretion,"Secretion is the process by which the nephron disposes of waste products, drugs, and toxins into the filtrate, to be excreted in the urine",Explanation
+"Secretion is the process by which the nephron disposes of waste products, drugs, and toxins into the filtrate, to be excreted in the urine",This occurs in the DCT and collecting ducts,Explanation
+This occurs in the DCT and collecting ducts,Distal Convoluted Tubule (DCT),Explanation
+Distal Convoluted Tubule (DCT),"Here, the secretion of hydrogen ions (H+) and potassium ions (K+) occurs",Explanation
+"Here, the secretion of hydrogen ions (H+) and potassium ions (K+) occurs","The secretion of these ions is regulated by the action of hormones such as aldosterone (for sodium) and calcitonin (which decreases calcium reabsorption, indirectly affecting potassium secretion)",Explanation
+"The secretion of these ions is regulated by the action of hormones such as aldosterone (for sodium) and calcitonin (which decreases calcium reabsorption, indirectly affecting potassium secretion)",Collecting Ducts,Explanation
+Collecting Ducts,"Additional secretion of substances like ammonia (a byproduct of protein metabolism) occurs here, helping to neutralize acidic urine and further eliminate waste",Explanation
+"Additional secretion of substances like ammonia (a byproduct of protein metabolism) occurs here, helping to neutralize acidic urine and further eliminate waste",Secretion is essential for excreting unwanted substances and maintaining appropriate pH levels in the blood,Explanation
+Secretion is essential for excreting unwanted substances and maintaining appropriate pH levels in the blood,### Contribution to Fluid Balance,Explanation
+### Contribution to Fluid Balance,"Together, filtration, reabsorption, and secretion work in tandem to maintain fluid balance by adjusting the volume and composition of the blood",Explanation
+"Together, filtration, reabsorption, and secretion work in tandem to maintain fluid balance by adjusting the volume and composition of the blood",- Filtration,Explanation
+- Filtration,Provides a constant volume of fluid that can be modified through reabsorption and secretion,Explanation
+Provides a constant volume of fluid that can be modified through reabsorption and secretion,- Reabsorption,Explanation
+- Reabsorption,"Ensures that vital substances are retained in the bloodstream, conserving water and electrolytes",Explanation
+"Ensures that vital substances are retained in the bloodstream, conserving water and electrolytes",- Secretion,Explanation
+- Secretion,"Eliminates waste and adjusts pH, preventing the build-up of harmful substances",Causal
+"Eliminates waste and adjusts pH, preventing the build-up of harmful substances","The kidney's ability to precisely control these processes enables it to adapt to changes in fluid intake and output, maintaining homeostasis and preventing dehydration or overhydration",Explanation
+"The kidney's ability to precisely control these processes enables it to adapt to changes in fluid intake and output, maintaining homeostasis and preventing dehydration or overhydration","Disorders in these processes can lead to conditions such as hypertension, edema, or kidney failure, highlighting the kidney's crucial role in maintaining fluid balance",Explanation

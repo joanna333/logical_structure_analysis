@@ -1,0 +1,31 @@
+Content
+The fetal circulation is a remarkable system designed to support the needs of the developing fetus within the womb
+"It is distinct from the circulation of a newborn, reflecting adaptations necessary for the exchange of gases and nutrients within the placenta"
+"Several unique aspects characterize fetal circulation, which then undergo dramatic changes at birth as the newborn transitions to an extrauterine life"
+Unique Aspects of Fetal Circulation
+Ductus Venosus
+"This is a large vein that bypasses the liver to shunt blood directly to the left atrium of the heart, thus reducing hepatic blood flow and allowing more oxygenated blood to reach vital organs"
+Foramen Ovale
+"A large opening between the right and left atria that allows blood to pass from the right to the left side of the heart, facilitating the mixing of oxygenated and deoxygenated blood, which is efficient given the lower oxygen levels in the fetal blood compared to the mother’s"
+Ductus Arteriosus
+"A large arterial vessel that connects the pulmonary artery to the aorta, allowing most of the blood bypassing the non-functional fetal lungs to be directed towards the body, minimizing the work of the heart"
+Placental Circulation
+"The placenta acts as the primary site for gas exchange, where oxygen is transferred from the maternal blood to the fetal blood, and carbon dioxide is moved in the opposite direction"
+This makes the fetal lungs unnecessary during the intrauterine period
+High Oxygen Extraction
+"Fetal hemoglobin has a higher affinity for oxygen than adult hemoglobin, which allows for efficient oxygen extraction from the placental blood"
+Changes at Birth
+"When the fetus takes its first breath, several changes occur instantaneously and over the following hours and days"
+Closure of Foramen Ovale
+"The pressure changes induced by breathing cause the foramen ovale to close, usually within the first few days of life"
+"It transforms into the fossa ovalis, a vestigial remnant"
+Closure of Ductus Venosus
+"The high pressure in the ductus venosus due to fetal blood flow diminishes post-birth, leading to its closure and development into the ligamentum venosum"
+Ductus Arteriosus
+"The increased oxygen levels and decreased carbon dioxide in the newborn’s blood cause the ductus arteriosus to constrict and eventually close, becoming the ligamentum arteriosum"
+Functional Lungs
+"The onset of breathing leads to increased blood flow to the lungs, stimulating the production of surfactant (a substance that reduces surface tension within the alveoli and allows for proper lung expansion)"
+"This, in turn, enables the lungs to function effectively, removing the need for the ductus arteriosus"
+Increased Oxygenation
+"The newborn’s circulation now depends on efficient gas exchange in the lungs, which necessitates the need for the pulmonary arteries to carry blood to the lungs for oxygenation"
+"These changes are critical for the transition from fetal to neonatal life, ensuring that the newborn can efficiently extract oxygen from the air and remove carbon dioxide, while also supporting the systemic circulation through the fully functioning lungs and heart"
