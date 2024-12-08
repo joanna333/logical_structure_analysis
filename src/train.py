@@ -1,45 +1,34 @@
 # src/train.py
-import torch
-import torch.nn.functional as F
-from torch_geometric.loader import DataLoader
 import os
-import numpy as np
-from sklearn.metrics import classification_report
-from data.dataset import SentenceRelationDataset
-from models.sentence_gnn import SentenceGNN
 import glob
+import torch
+from torch_geometric.loader import DataLoader
+from torch_geometric.nn import global_mean_pool
+from models.sentence_gnn import SentenceGNN
+from data.dataset import SentenceRelationDataset
+from data.dataset_preprocessor import move_invalid_files
+import torch.nn.functional as F
+from sklearn.metrics import classification_report
+import logging
+logging.basicConfig(level=logging.INFO)
 
-def train(model, train_loader, test_loader, num_epochs=200):
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
-    best_val_loss = float('inf')
-    
-    # Create directory for model checkpoints
-    os.makedirs('models', exist_ok=True)
-    
+def train(model, loader, test_loader, num_epochs=100):
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+    criterion = torch.nn.CrossEntropyLoss()
+
     for epoch in range(num_epochs):
-        # Training
+        loss = 0
         model.train()
-        total_loss = 0
-        for batch in train_loader:
+        for batch in loader:
             optimizer.zero_grad()
-            out = model(batch.x, batch.edge_index)
-            loss = F.nll_loss(out, batch.y)
+            out = model(batch)
+            print(f"Output shape: {out.shape}, Labels shape: {batch.y.shape}")  # Debug
+            loss = criterion(out, batch.y)
             loss.backward()
             optimizer.step()
-            total_loss += loss.item()
-            
-        # Validation
-        val_loss = evaluate(model, test_loader)
-        
-        # Save best model
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
-            torch.save({
-                'epoch': epoch,
-                'model_state_dict': model.state_dict(),
-                'optimizer_state_dict': optimizer.state_dict(),
-                'loss': best_val_loss,
-            }, 'models/best_model.pt')
+            loss += loss.item()
+        print(f"Epoch {epoch+1}, Loss: {loss/len(loader)}")
+    # Add validation/testing steps as needed
 
 def evaluate(model, loader):
     model.eval()
@@ -49,8 +38,8 @@ def evaluate(model, loader):
     
     with torch.no_grad():
         for batch in loader:
-            out = model(batch.x, batch.edge_index)
-            loss = F.nll_loss(out, batch.y)
+            out = model(batch)  # Pass the entire batch object
+            loss = F.cross_entropy(out, batch.y)  # Use appropriate loss function
             total_loss += loss.item()
             
             pred = out.argmax(dim=1)
@@ -83,45 +72,87 @@ def predict(model, sentence, tokenizer, label_map):
 
 def load_model(model, path):
     """Load trained model"""
-    checkpoint = torch.load(path)
-    model.load_state_dict(checkpoint['model_state_dict'])
+    checkpoint = torch.load(path, weights_only=True)
+    model.load_state_dict(checkpoint)
+    model.eval()
     return model
 
 if __name__ == "__main__":
-    # Get all txt files from directory
-    file_pattern = os.path.join('data', 'processed', 'labeled_sentences', '*.txt')
-    filenames = sorted(glob.glob(file_pattern))
+    # Setup directories - fix the path construction
+    data_root = 'data'
+    raw_data_dir = os.path.join(data_root, 'processed', 'labeled_sentences')
+    invalid_dir = os.path.join(data_root, 'processed', 'invalid_files')
+    processed_dir = 'gnn_training_data'  # Remove extra 'processed' from path
+
+    # Debug the paths
+    logging.info(f"Raw data directory: {raw_data_dir}")
+    logging.info(f"Processed directory: {os.path.join(data_root, 'processed', processed_dir)}")
+
+    # Get and validate input files
+    file_pattern = os.path.join(raw_data_dir, '*.txt')
+    all_files = sorted(glob.glob(file_pattern))
+    print(f"Found {len(all_files)} files")
     
-    print(f"Found {len(filenames)} files")
+    # Move invalid files and get valid ones
+    valid_files = move_invalid_files(all_files, invalid_dir)
+    print(f"Valid files: {len(valid_files)}")
     
-    # Create processed directory if it doesn't exist
-    os.makedirs('data/processed', exist_ok=True)
+    if not valid_files:
+        print("No valid files found. Exiting.")
+        exit(1)
     
-    # Load data with found files
-    dataset = SentenceRelationDataset(
-        root='data',  # Project root directory
-        filenames=filenames  # All text files
-    )
-    
-    # Calculate split indices
-    train_size = int(0.8 * len(dataset))
-    test_size = len(dataset) - train_size
-    
-    # Split dataset
-    train_dataset, test_dataset = torch.utils.data.random_split(
-        dataset, [train_size, test_size]
-    )
-    
-    # Create data loaders
-    train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=32)
-    
-    # Create model with correct number of output classes
-    model = SentenceGNN(
-        in_channels=768,     # BioBERT embedding dimension
-        hidden_channels=64,  # Hidden dimension
-        out_channels=len(dataset.label_map)  # Number of relationship types
-    )
-    print(model)
-    
-    train(model, train_loader, test_loader, num_epochs=1)
+    try:
+        # First get the processed files list
+        processed_files = []
+        for file in valid_files:
+            base_name = os.path.splitext(os.path.basename(file))[0]
+            processed_path = os.path.join(data_root, 'processed', processed_dir, f"{base_name}.pt")
+            processed_files.append(processed_path)
+
+        # Create dataset with valid files
+        dataset = SentenceRelationDataset(
+            root=data_root,
+            filenames=valid_files,
+            processed_dir=processed_dir  # Ensure this matches the directory structure
+        )
+        
+        # Add debug logging
+        logging.debug(f"Dataset created with {len(dataset)} samples")
+        logging.debug(f"First few processed files: {dataset.processed_file_paths[:3]}")
+        
+        # Verify files exist
+        missing_files = [p for p in processed_files if not os.path.exists(p)]
+        if missing_files:
+            print(f"Missing {len(missing_files)} processed files:")
+            for f in missing_files[:5]:  # Show first 5 missing files
+                print(f"  - {f}")
+            raise FileNotFoundError("Missing processed files")
+        
+        # Calculate split indices
+        train_size = int(0.8 * len(dataset))
+        test_size = len(dataset) - train_size
+        
+        # Split dataset
+        train_dataset, test_dataset = torch.utils.data.random_split(
+            dataset, [train_size, test_size]
+        )
+        
+        # Create data loaders
+        train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+        test_loader = DataLoader(test_dataset, batch_size=32, shuffle=False)
+        
+        # Before model creation
+        logging.info(f"Creating model with {dataset.num_classes} classes")
+        
+        # Create model with correct number of output classes
+        model = SentenceGNN(
+            in_channels=768,     # BioBERT embedding dimension
+            hidden_channels=512,
+            num_classes=dataset.num_classes
+        )
+        
+    except Exception as e:
+        print(f"Error during setup: {str(e)}")
+        exit(1)
+    print("Setup complete")
+    train(model, train_loader, test_loader, num_epochs=100)

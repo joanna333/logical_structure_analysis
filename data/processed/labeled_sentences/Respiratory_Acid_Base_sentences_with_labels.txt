@@ -1,6 +1,5 @@
 Sentence,Label
 The body has several mechanisms to compensate for this acid buildup.,Explanation
-,Sequential
 "On the other hand, in respiratory alkalosis, which happens when there's a decrease in carbon dioxide levels, the body compensates by retaining more carbon dioxide.",Comparison
 This retention helps to counteract the blood's becoming too alkaline.,Explanation
 The kidneys also play a role in compensation by excreting bicarbonate to further buffer the blood.,Addition

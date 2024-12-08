@@ -5,7 +5,6 @@ This transformation is a crucial step in the activation process of vitamin D.,Ex
 "Vitamin D3 is then transported to the liver, where it is hydroxylated to form 25-hydroxyvitamin D, also known as calcidiol.",Sequential
 "The kidneys further convert calcidiol into its active form, 1,25-dihydroxyvitamin D, or calcitriol.",Sequential
 "Active vitamin D regulates calcium and phosphorus homeostasis, which is vital for bone health.",Causal
-,Explanation
 "Vitamin D also plays a role in immune function, reducing the risk of autoimmune diseases.",Explanation
 Adequate vitamin D levels are also associated with improved muscle function and reduced falls in the elderly.,Addition
 "Therefore, maintaining adequate vitamin D levels is important for overall health.",Generalization

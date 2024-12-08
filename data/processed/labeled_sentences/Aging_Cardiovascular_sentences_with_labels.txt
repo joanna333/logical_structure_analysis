@@ -1,11 +1,8 @@
 Sentence,Label
 "With aging, the cardiovascular system undergoes several physiological changes, which have significant clinical implications.",Explanation
 "The heart tends to lose muscle mass and elasticity, leading to a condition known as systolic dysfunction or heart failure with preserved ejection fraction.",Definition
-,Causal
 "Aging also affects blood vessels, with arteries becoming stiffer and less flexible, a process called arteriosclerosis.",Definition
 "Moreover, the blood tends to clot more easily as platelets become more reactive and the blood vessels' lining thickens.",Definition
-,Explanation
 "In clinical terms, managing these physiological changes is crucial for preventing and treating cardiovascular diseases in the elderly population.",Purpose
 "Therefore, regular monitoring and lifestyle modifications are often recommended to mitigate these risks.",Solution
-,Addition
 "In summary, aging brings about several cardiovascular changes that can have serious health consequences if not managed properly.",Summary
