@@ -1,0 +1,9 @@
+Sentence,Label
+Starling's forces play a crucial role in capillary exchange and fluid balance.,Explanation
+Osmotic pressure and hydrostatic pressure are key components of Starling's forces.,Definition
+"The net filtration pressure is the balance between these two pressures, influencing fluid movement.",Explanation
+The balance between these forces determines the movement of fluid across the capillary wall.,Explanation
+"Starling's forces ensure that fluid exchange is balanced, preventing overhydration or dehydration.",Purpose
+Understanding these forces is essential for maintaining fluid homeostasis in the body.,Generalization
+"In summary, Starling's forces manage fluid exchange through the delicate balance of hydrostatic and osmotic pressures.",Summary
+These forces are vital for maintaining fluid balance and preventing pathological conditions.,Emphasis

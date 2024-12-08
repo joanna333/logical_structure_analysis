@@ -1,0 +1,10 @@
+Sentence,Label
+"Autoimmunity occurs when the immune system mistakenly attacks the body's own tissues, mistaking them for foreign invaders.",Definition
+The mechanisms leading to autoimmunity are complex and involve a breakdown in immune tolerance.,Explanation
+"For example, in rheumatoid arthritis, the immune system attacks the joints, causing inflammation and pain.",Illustration
+"Another example is type 1 diabetes, where the immune system destroys the insulin-producing cells in the pancreas.",Illustration
+"Contrastingly, in lupus, the immune system targets the body's own tissues, leading to a wide range of symptoms.",Contrast
+Autoimmune diseases often share the characteristic of chronic inflammation and can affect various organs and systems.,Generalization
+Understanding these mechanisms is crucial for developing better treatments and potentially preventing autoimmunity.,Purpose
+Research into the immune system's balance between tolerance and response is essential for advancing our knowledge in autoimmunity.,Explanation
+"In summary, autoimmunity is a result of a combination of genetic and environmental factors leading to the immune system attacking the body's own tissues.",Summary

@@ -1,0 +1,10 @@
+Sentence,Label
+"Hemoglobinopathies are genetic disorders that arise from mutations in the genes that encode hemoglobin, the oxygen-carrying protein in red blood cells.",Definition
+"One common example is sickle cell anemia, where a single point mutation causes the hemoglobin to form insoluble fibers under certain conditions.",Illustration
+"The physiological effects of hemoglobinopathies include impaired oxygen transport, organ damage due to blocked blood flow, and increased risk of infections.",Explanation
+"Individuals with hemoglobinopathies often experience chronic anemia, fatigue, and pain, which can severely impact their quality of life.",Explanation
+Genetic counseling is crucial for individuals with hemoglobinopathies to understand the inheritance pattern and potential risks to future generations.,Clarification
+"There are various types of hemoglobinopathies, each with its own specific genetic basis and clinical manifestations.",Enumeration
+Understanding the genetic basis of hemoglobinopathies is essential for developing targeted therapies and improving patient outcomes.,Purpose
+"Despite the challenges, advances in genetic research continue to provide insights into the complex mechanisms underlying these disorders.",Generalization
+"In summary, hemoglobinopathies are genetic conditions affecting hemoglobin, leading to various health issues due to improper oxygen transport.",Summary

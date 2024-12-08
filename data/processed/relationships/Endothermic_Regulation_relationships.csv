@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+"Mammals maintain body temperature through endothermic regulation, which means they generate heat internally","Mammals have a high metabolic rate, allowing them to produce heat even when it's cold outside",Cause and Effect
+"Mammals have a high metabolic rate, allowing them to produce heat even when it's cold outside","Fur and fat serve as insulation, helping to retain body heat",Cause and Effect
+"Fur and fat serve as insulation, helping to retain body heat","When it's hot, mammals sweat or pant to cool down, which is a form of heat dissipation",Cause and Effect
+"When it's hot, mammals sweat or pant to cool down, which is a form of heat dissipation","Endothermy enables mammals to be active in a wide range of temperatures, unlike ectotherms that rely on external heat sources",Cause and Effect
+"Endothermy enables mammals to be active in a wide range of temperatures, unlike ectotherms that rely on external heat sources","Shivering is another way mammals generate heat when they are cold, by contracting muscles rapidly",Cause and Effect
+"Shivering is another way mammals generate heat when they are cold, by contracting muscles rapidly",The relationship between these processes is crucial for mammals to maintain a stable internal temperature,Cause and Effect
+The relationship between these processes is crucial for mammals to maintain a stable internal temperature,Understanding these mechanisms helps us appreciate the complexity of mammalian physiology,Cause and Effect
+Understanding these mechanisms helps us appreciate the complexity of mammalian physiology,"In summary, mammals use a combination of metabolic heat production, insulation, and heat loss mechanisms to regulate their body temperature",Cause and Effect
+"In summary, mammals use a combination of metabolic heat production, insulation, and heat loss mechanisms to regulate their body temperature",These processes are essential for mammals to survive in diverse environments,Cause and Effect

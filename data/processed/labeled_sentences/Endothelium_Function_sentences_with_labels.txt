@@ -1,0 +1,6 @@
+Sentence,Label
+"The endothelium plays a crucial role in vascular homeostasis, maintaining the integrity and function of blood vessels.",Definition
+"The endothelium is responsible for regulating blood flow, managing inflammation, and controlling the passage of substances between the blood and surrounding tissues.",Explanation
+"Endothelial cells also produce factors that promote the formation of new blood vessels, a process known as angiogenesis, to restore blood flow.",Explanation
+Maintaining the health of the endothelium is essential for preserving vascular homeostasis and preventing vascular diseases.,Generalization
+"In summary, the endothelium is vital for the regulation of vascular function and plays a key role in the body's response to injury, influencing both healing and disease development.",Summary

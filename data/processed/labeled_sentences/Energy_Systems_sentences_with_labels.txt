@@ -1,0 +1,13 @@
+Sentence,Label
+"Muscle contraction relies on several energy systems, each playing a crucial role.",Definition
+"The first system is ATP, adenosine triphosphate, which directly provides energy for short, high-intensity bursts.",Definition
+"ATP is immediately available but is quickly depleted, lasting only a few seconds.",Causal
+"Creatine phosphate acts as a secondary reserve, replenishing ATP by donating phosphate molecules.",Explanation
+Creatine phosphate is essential for maintaining energy during the early stages of intense exercise.,Explanation
+"Aerobic metabolism kicks in after ATP and creatine phosphate are exhausted, providing sustained energy.",Explanation
+This system uses oxygen and is slower to initiate but can last for extended periods.,Definition
+"Anaerobic metabolism occurs when oxygen is insufficient, leading to the production of lactic acid.",Definition
+This process is faster than aerobic metabolism but can only sustain exercise for a few minutes due to the accumulation of lactic acid.,Causal
+The contrast between aerobic and anaerobic metabolism lies in their reliance on oxygen and their duration of effectiveness.,Contrast
+Understanding these energy systems helps in optimizing exercise performance and recovery.,Purpose
+"In summary, muscle contraction involves ATP, creatine phosphate, and the aerobic/anaerobic systems, each serving distinct roles based on energy demands and duration.",Summary

@@ -1,0 +1,8 @@
+Sentence,Label
+"The regulation of gut motility is crucial for the proper functioning of the digestive system.  Without regulation, food would not move through the intestines efficiently, leading to issues like constipation or diarrhea. -[Cause and Effect]",Explanation
+"Gut motility is controlled by the enteric nervous system and the autonomic nervous system, which work together to coordinate contractions in the gastrointestinal tract.",Definition
+"For instance, increasing fiber intake can help slow down motility in cases of diarrhea, while staying hydrated and using laxatives may be necessary for constipation.",Addition
+Understanding the regulation of gut motility is essential for diagnosing and treating related disorders effectively.,Explanation
+"In summary, the regulation of gut motility involves complex interactions between the nervous systems and is vital for maintaining digestive health.",Summary
+"Disorders in gut motility can significantly impact a person's quality of life, making it important to address these issues promptly.",Emphasis
+"Therefore, recognizing the causes and effects of irregular gut motility is a key step in managing digestive health problems.",Explanation

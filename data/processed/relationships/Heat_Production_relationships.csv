@@ -1,0 +1,14 @@
+Sentence 1,Sentence 2,Relationship
+"Heat production occurs primarily through metabolic processes, such as shivering and non-shivering thermogenesis in brown adipose tissue","When body temperature rises, the hypothalamus activates mechanisms to cool down the body",Cause and Effect
+"When body temperature rises, the hypothalamus activates mechanisms to cool down the body","One way to cool down is by increasing sweat production, which cools the skin as it evaporates",Cause and Effect
+"One way to cool down is by increasing sweat production, which cools the skin as it evaporates","Another mechanism is vasodilation, where blood vessels near the skin expand to allow more heat to escape",Cause and Effect
+"Another mechanism is vasodilation, where blood vessels near the skin expand to allow more heat to escape","If these mechanisms fail, the body may start to shiver, which generates heat through muscle contractions",Cause and Effect
+"If these mechanisms fail, the body may start to shiver, which generates heat through muscle contractions",Shivering and non-shivering thermogenesis are examples of heat production processes,Cause and Effect
+Shivering and non-shivering thermogenesis are examples of heat production processes,"Brown adipose tissue is particularly effective at generating heat without shivering, using uncoupling proteins",Cause and Effect
+"Brown adipose tissue is particularly effective at generating heat without shivering, using uncoupling proteins","In contrast, regular adipose tissue stores energy but does not produce heat directly",Contrast
+"In contrast, regular adipose tissue stores energy but does not produce heat directly","When the environment is cold, the body conserves heat by reducing non-essential movements and slowing down metabolism",Contrast
+"When the environment is cold, the body conserves heat by reducing non-essential movements and slowing down metabolism",The skin's blood vessels constrict to minimize heat loss to the surroundings,Cause and Effect
+The skin's blood vessels constrict to minimize heat loss to the surroundings,These physiological responses collectively maintain the body's core temperature within a narrow range,Cause and Effect
+These physiological responses collectively maintain the body's core temperature within a narrow range,"If these systems fail, hypothermia can occur, which is a dangerous drop in body temperature",Cause and Effect
+"If these systems fail, hypothermia can occur, which is a dangerous drop in body temperature",Understanding these mechanisms is crucial for treating conditions like hypothermia and hyperthermia,Cause and Effect
+Understanding these mechanisms is crucial for treating conditions like hypothermia and hyperthermia,"By regulating heat production and loss, the",Cause and Effect

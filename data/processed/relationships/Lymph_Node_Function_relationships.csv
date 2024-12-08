@@ -1,0 +1,7 @@
+Sentence 1,Sentence 2,Relationship
+Lymph nodes play a crucial role in immune surveillance and response,"They act as filters for lymph, trapping pathogens and debris",Cause and Effect
+"They act as filters for lymph, trapping pathogens and debris","When the immune system detects an invader, lymphocytes in the nodes are activated",Cause and Effect
+"When the immune system detects an invader, lymphocytes in the nodes are activated",These activated lymphocytes produce antibodies and proliferate to combat the infection,Cause and Effect
+These activated lymphocytes produce antibodies and proliferate to combat the infection,The swollen nodes often felt during an illness are a sign of this active immune response,Cause and Effect
+The swollen nodes often felt during an illness are a sign of this active immune response,"Essentially, lymph nodes are part of the body's defense network, facilitating the immune system's ability to recognize and fight infections",Cause and Effect
+"Essentially, lymph nodes are part of the body's defense network, facilitating the immune system's ability to recognize and fight infections",This process underscores the importance of lymph nodes in maintaining overall health and preventing disease,Cause and Effect

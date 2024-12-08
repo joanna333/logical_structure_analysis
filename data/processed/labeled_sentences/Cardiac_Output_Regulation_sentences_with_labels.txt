@@ -1,0 +1,10 @@
+Sentence,Label
+"Cardiac output is influenced by several factors, including heart rate, stroke volume, and vascular resistance.",Definition
+"Stroke volume, the amount of blood ejected with each heartbeat, also plays a crucial role in regulating cardiac output.",Definition
+The body senses the increased demand for oxygen during exercise and adjusts these factors to maintain adequate cardiac output.,Explanation
+"The autonomic nervous system, specifically the sympathetic nervous system, increases heart rate to elevate cardiac output.",Explanation
+"At the same time, hormones like epinephrine and norepinephrine are released, which also increase heart rate and stroke volume.",Addition
+"These hormonal changes are a response to the increased demand for blood flow to active muscles, illustrating the body's complex regulation system.",Illustration
+The body's feedback mechanisms ensure that cardiac output remains within a functional range during exercise.,Explanation
+"In summary, cardiac output is regulated during exercise through the coordinated increase of heart rate, stroke volume, and the reduction of vascular resistance.",Summary
+Understanding these factors and their relationships is key to comprehending how the body maintains adequate circulation during physical activity.,Purpose

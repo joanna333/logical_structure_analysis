@@ -1,0 +1,9 @@
+Sentence,Label
+"Starling forces regulate capillary filtration and fluid exchange, which are crucial for maintaining blood pressure and fluid balance in the body.",Explanation
+"The forces include hydrostatic pressure and oncotic pressure, both of which act against each other.",Definition
+"Hydrostatic pressure, exerted by the blood, tends to force fluid out of the capillaries.",Causal
+"On the other hand, oncotic pressure, mainly due to plasma proteins, tends to pull fluid back into the capillaries.",Causal
+"The balance between these two pressures determines the net filtration pressure and, consequently, the rate of fluid exchange.",Explanation
+These forces are essential for the proper functioning of the circulatory system and the regulation of tissue fluid.,Generalization
+Understanding Starling forces helps in diagnosing and treating conditions like edema or hypovolemia.,Purpose
+"In summary, Starling forces, through the balance of hydrostatic and oncotic pressures, control the movement of fluid in and out of capillaries, crucial for health and homeostasis.",Summary

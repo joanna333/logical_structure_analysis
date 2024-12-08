@@ -1,0 +1,7 @@
+Sentence,Label
+"Wound healing occurs in several distinct phases, each crucial for restoring tissue integrity. **Definition** Initially, the wound undergoes the hemostasis phase, where the body stops bleeding.",Definition
+"The **Sequential** proliferation phase then takes place, marked by the growth of new tissue.",Sequential
+"Next, the **Sequential** remodeling phase occurs, where collagen fibers become organized and the wound tightens.",Sequential
+"In summary, wound healing progresses through several well-orchestrated phases, each vital for the restoration of tissue and function.",Summary
+"Understanding these phases helps in managing wounds effectively, ensuring they heal properly.",Purpose
+"In conclusion, the phases of wound healing are sequential and interconnected, with each phase playing a critical role in the overall outcome.",Summary

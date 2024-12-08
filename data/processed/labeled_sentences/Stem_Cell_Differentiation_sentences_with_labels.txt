@@ -1,0 +1,9 @@
+Sentence,Label
+"One key factor is the presence of specific growth factors in the local environment, which send signals instructing the stem cell to differentiate into a particular type.",Explanation
+"The genetic program of the stem cell also plays a crucial role, with certain genes being activated or repressed to guide differentiation.",Elaboration
+"The cell's physical location within the body can influence differentiation, as different tissues provide distinct chemical signals.",Explanation
+"For instance, in the bone marrow, certain cytokines encourage the differentiation of stem cells into blood cells.",Illustration
+"Despite these factors, stem cells maintain the potential to become multiple cell types, a property that is carefully balanced by these physiological controls.",Definition
+"Understanding these physiological factors is essential for stem cell therapy, as it helps scientists manipulate differentiation for medical purposes.",Purpose
+"In summary, stem cell differentiation is a complex process regulated by a combination of environmental cues, genetic instructions, and cellular location.",Summary
+Each of these elements works in concert to ensure that stem cells differentiate into the right type of cell at the right time and place.,Explanation

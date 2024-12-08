@@ -1,0 +1,8 @@
+Sentence,Label
+"The nephron loop, also known as the loop of Henle, plays a crucial role in the reabsorption of water and solutes in the kidney.",Definition
+Water reabsorption is significantly enhanced in the descending limb of the loop due to its high permeability to water but low permeability to solutes.,Explanation
+"The countercurrent exchange mechanism, involving the interplay between the descending and ascending limbs, maximizes the concentration gradient for solute reabsorption.",Explanation
+"This gradient is essential for the efficient reabsorption of solutes like sodium and chloride, which are crucial for maintaining the osmotic balance in the blood.",Explanation
+"The nephron loop's ability to concentrate solutes is conditional upon the counterflow of fluid between the two limbs, which is a key feature of its design.",Conditional
+"Overall, the nephron loop's structure and function are tailored to optimize water and solute reabsorption, ensuring that the blood leaving the kidney is properly concentrated.",Summary
+"Thus, the nephron loop is indispensable for maintaining homeostasis by precisely controlling the reabsorption of water and solutes.",Emphasis

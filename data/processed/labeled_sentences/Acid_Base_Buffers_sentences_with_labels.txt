@@ -1,0 +1,10 @@
+Sentence,Label
+"The human body employs several buffering systems to maintain pH balance, which is crucial for the proper functioning of cells and organs.",Definition
+One of the key buffering systems is the bicarbonate buffer system.,Definition
+"This system involves carbon dioxide (CO2), water (H2O), and bicarbonate ions (HCO3-).",Explanation
+"The bicarbonate ions then bind with hydrogen ions, preventing a significant change in pH.",Explanation
+"This binding action acts as a buffer, absorbing excess hydrogen ions and maintaining the body's pH within a narrow range.",Explanation
+The bicarbonate buffer system is particularly important in the blood and extracellular fluid.,Generalization
+It helps regulate pH during periods of increased metabolic activity or when external acids are introduced.,Explanation
+"Without effective buffering, even slight pH changes could be lethal to cells.",Emphasis
+"Therefore, the bicarbonate buffer system is vital for homeostasis in the human body.",Emphasis

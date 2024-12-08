@@ -1,0 +1,4 @@
+Sentence,Label
+"The inflammatory response is a protective reaction of the body to remove harmful stimuli, such as pathogens or damaged cells, and begin the healing process.",Definition
+"Feedback regulation is essential to control the inflammatory response; it ensures that the response is adequate but not excessive, preventing damage to healthy tissues.",Explanation
+"Therefore, cytokines, immune cells, and feedback mechanisms work together to maintain a balanced inflammatory response.",Summary

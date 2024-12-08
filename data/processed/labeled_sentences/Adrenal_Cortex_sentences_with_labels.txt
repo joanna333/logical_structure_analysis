@@ -1,0 +1,13 @@
+Sentence,Label
+"The adrenal cortex produces three main hormones: cortisol, aldosterone, and androgens.",Definition
+"Cortisol regulates metabolism, helping the body handle stress and maintaining blood sugar levels.",Function
+Aldosterone is crucial for regulating blood pressure by controlling sodium and potassium balance in the kidneys.,Function
+"Androgens, though in smaller amounts, contribute to male sexual characteristics and are converted into estrogen in females.",Definition
+"Cortisol's release is triggered by stress, while aldosterone is released in response to sodium levels.",Causal
+Aldosterone's role in sodium balance is essential for maintaining blood pressure and fluid balance.,Function
+"Contrastingly, androgens play a less direct role in immediate physiological responses compared to cortisol and aldosterone.",Contrast
+Understanding these hormones' functions helps in diagnosing adrenal gland disorders.,Purpose
+The interplay between these hormones is vital for maintaining homeostasis in the body.,Explanation
+"In summary, cortisol manages stress, aldosterone regulates blood pressure, and androgens influence sexual characteristics.",Summary
+These hormones work together to support the body's response to various internal and external stimuli.,Generalization
+Marking the relationships between these sentences helps illustrate their complex interactions and functions within the body.,Illustration

@@ -1,0 +1,15 @@
+Sentence 1,Sentence 2,Relationship
+B cells are a type of white blood cell crucial for humoral immunity,B cells differentiate from progenitor cells in the bone marrow,Cause and Effect
+B cells differentiate from progenitor cells in the bone marrow,"Upon activation, B cells mature into plasma cells, which produce antibodies",Cause and Effect
+"Upon activation, B cells mature into plasma cells, which produce antibodies","Antibodies produced by plasma cells bind to antigens, marking them for destruction",Cause and Effect
+"Antibodies produced by plasma cells bind to antigens, marking them for destruction",The differentiation of B cells is essential for recognizing and neutralizing pathogens,Cause and Effect
+The differentiation of B cells is essential for recognizing and neutralizing pathogens,"Contrastingly, T cells play a key role in cell-mediated immunity",Contrast
+"Contrastingly, T cells play a key role in cell-mediated immunity","B cells, unlike T cells, primarily operate through the humoral immune response",Contrast
+"B cells, unlike T cells, primarily operate through the humoral immune response",The role of B cells in humoral immunity underscores the importance of antibody production,Contrast
+The role of B cells in humoral immunity underscores the importance of antibody production,Understanding B cell differentiation helps in comprehending how the immune system defends against infections,Cause and Effect
+Understanding B cell differentiation helps in comprehending how the immune system defends against infections,"In summary, B cells are differentiated to provide a crucial defense mechanism through antibodies in humoral immunity",Cause and Effect
+"In summary, B cells are differentiated to provide a crucial defense mechanism through antibodies in humoral immunity",The differentiation of B cells into plasma cells is a critical step in the immune response to pathogens,Cause and Effect
+The differentiation of B cells into plasma cells is a critical step in the immune response to pathogens,This process highlights the intricate workings of the immune system in protecting the body,Cause and Effect
+This process highlights the intricate workings of the immune system in protecting the body,"Without B cells, the body would struggle to defend against infections through the humoral pathway",Cause and Effect
+"Without B cells, the body would struggle to defend against infections through the humoral pathway","In conclusion, the differentiation of B cells and their role in humoral immunity are fundamental to the body's defense mechanisms",Cause and Effect
+"In conclusion, the differentiation of B cells and their role in humoral immunity are fundamental to the body's defense mechanisms","The differentiation of B cells into plasma cells is a necessary step for the production of antibodies, which are vital for humoral immunity",Cause and Effect

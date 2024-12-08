@@ -1,0 +1,10 @@
+Sentence,Label
+Thyroid hormones play a crucial role in metabolism and energy regulation within the body.,Definition
+The primary hormones produced by the thyroid gland are triiodothyronine (T3) and thyroxine (T4).,Definition
+"These hormones increase the basal metabolic rate, influencing nearly every cell in the body.",Explanation
+The secretion of thyroid hormones is regulated by the hypothalamic-pituitary-thyroid (HPT) axis.,Definition
+"The hypothalamus releases thyrotropin-releasing hormone (TRH), which stimulates the pituitary gland to secrete thyroid-stimulating hormone (TSH).",Sequential
+TSH then prompts the thyroid gland to produce T3 and T4.,Sequential
+"This feedback loop ensures that thyroid hormone levels remain within a narrow, healthy range.",Explanation
+The sensitivity of target tissues to thyroid hormones can also be modulated by additional feedback loops at the cellular level.,Elaboration
+This mechanism helps maintain homeostasis even when systemic hormone levels are elevated.,Explanation

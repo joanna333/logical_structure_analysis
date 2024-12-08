@@ -1,0 +1,9 @@
+Sentence,Label
+"Synovial fluid plays a crucial role in joint lubrication, acting as a cushion to reduce friction during movement.",Definition
+"Cartilage, on the other hand, serves as a protective layer over the bone ends, allowing smooth gliding motions and absorbing shock.",Definition
+"Cartilage, being smooth and resilient, ensures that this gliding motion is both efficient and silent.",Definition
+"The presence of synovial fluid and cartilage in a joint creates a near-frictionless environment, essential for flexibility and range of motion.",Explanation
+"In contrast, joints without adequate synovial fluid and cartilage function poorly, leading to conditions like osteoarthritis.",Contrast
+The combination of synovial fluid and cartilage is a sophisticated system designed to support movement and protect the joint.,Explanation
+Understanding this system helps in diagnosing and treating joint disorders effectively.,Purpose
+"Thus, both synovial fluid and cartilage are vital for the health and proper functioning of joints.",Summary

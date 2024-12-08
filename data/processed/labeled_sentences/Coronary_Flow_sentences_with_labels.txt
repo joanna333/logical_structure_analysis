@@ -1,0 +1,4 @@
+Sentence,Label
+"The coronary arteries also respond to changes in metabolic demands by altering their diameter through a process called vasomotion, which is a smooth muscle cell phenomenon that adjusts blood flow dynamically.",Explanation
+"Under normal conditions, the balance between these regulatory mechanisms ensures that the heart receives sufficient blood flow to function effectively, whether at rest or during physical activity.",Explanation
+"Therefore, understanding these regulatory mechanisms is crucial for diagnosing and treating cardiovascular diseases.",Purpose

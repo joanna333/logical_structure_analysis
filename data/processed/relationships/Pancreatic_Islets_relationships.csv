@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+The islet cells in the pancreas play a crucial role in glucose homeostasis,"Beta cells in the islets produce insulin, which is essential for glucose uptake by cells",Cause and Effect
+"Beta cells in the islets produce insulin, which is essential for glucose uptake by cells","When blood glucose levels rise, beta cells secrete more insulin to facilitate glucose entry into cells for energy or storage",Cause and Effect
+"When blood glucose levels rise, beta cells secrete more insulin to facilitate glucose entry into cells for energy or storage","Alpha cells, located adjacent to beta cells, produce glucagon, which has the opposite effect of insulin",Cause and Effect
+"Alpha cells, located adjacent to beta cells, produce glucagon, which has the opposite effect of insulin",Glucagon signals the liver to release stored glucose into the bloodstream when levels are low,Cause and Effect
+Glucagon signals the liver to release stored glucose into the bloodstream when levels are low,This balance between insulin and glucagon is vital for maintaining stable blood glucose levels,Cause and Effect
+This balance between insulin and glucagon is vital for maintaining stable blood glucose levels,"In contrast, delta cells produce somatostatin, which inhibits the secretion of both insulin and glucagon",Cause and Effect
+"In contrast, delta cells produce somatostatin, which inhibits the secretion of both insulin and glucagon","The presence of these different islet cells ensures a finely tuned response to changes in blood glucose, maintaining homeostasis",Contrast
+"The presence of these different islet cells ensures a finely tuned response to changes in blood glucose, maintaining homeostasis","Without this intricate system of islet cells, glucose homeostasis would be disrupted, leading to diabetes or hypoglycemia",Cause and Effect
+"Without this intricate system of islet cells, glucose homeostasis would be disrupted, leading to diabetes or hypoglycemia","Thus, each type of islet cell plays a distinct role in regulating glucose levels, showcasing the complexity of the body's regulatory mechanisms",Cause and Effect

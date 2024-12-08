@@ -1,0 +1,10 @@
+Sentence,Label
+Respiratory failure occurs when the lungs cannot adequately provide oxygen to the bloodstream or remove carbon dioxide from it.,Definition
+There are two main types of respiratory failure: hypoxemic and hypercapnic.,Enumeration
+"Hypoxemic respiratory failure happens when there is a low level of oxygen in the blood, even though carbon dioxide levels are normal.",Definition
+"On the other hand, hypercapnic respiratory failure is characterized by elevated carbon dioxide levels in the blood, while oxygen levels remain within normal range.",Definition
+"In contrast, hypercapnic failure often results from conditions that impair the ability of the lungs to exhale carbon dioxide effectively, such as chronic obstructive pulmonary disease (COPD).",Contrast
+"Mechanisms of respiratory failure include ventilation-perfusion mismatch, where the amount of blood flowing through the lungs does not match the amount of air reaching them.",Explanation
+"Another mechanism is a decrease in the diffusion capacity of the lungs, which prevents adequate exchange of gases at the alveolar level.",Explanation
+"Treatment may involve supplemental oxygen, mechanical ventilation, or addressing the underlying cause of the failure.",Solution
+Understanding these types and mechanisms is crucial for effective diagnosis and management of respiratory failure.,Generalization

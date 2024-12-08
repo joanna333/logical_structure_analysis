@@ -1,0 +1,18 @@
+Sentence 1,Sentence 2,Relationship
+"Spinal reflexes are crucial for rapid, automatic responses to stimuli","They bypass the brain, acting swiftly to protect the body",Cause and Effect
+"They bypass the brain, acting swiftly to protect the body","For instance, withdrawing your hand from a hot surface is a spinal reflex",Cause and Effect
+"For instance, withdrawing your hand from a hot surface is a spinal reflex",These reflexes are essential for quick survival actions,Cause and Effect
+These reflexes are essential for quick survival actions,"Without spinal reflexes, injuries could occur due to delayed reactions",Cause and Effect
+"Without spinal reflexes, injuries could occur due to delayed reactions",Spinal reflexes are a part of the autonomic nervous system,Cause and Effect
+Spinal reflexes are a part of the autonomic nervous system,They help maintain homeostasis by regulating body functions automatically,Cause and Effect
+They help maintain homeostasis by regulating body functions automatically,"Contrastingly, voluntary movements involve the brain and are slower",Contrast
+"Contrastingly, voluntary movements involve the brain and are slower",Spinal reflexes ensure that certain movements occur without conscious thought,Contrast
+Spinal reflexes ensure that certain movements occur without conscious thought,Understanding spinal reflexes is key to comprehending movement control,Cause and Effect
+Understanding spinal reflexes is key to comprehending movement control,"In summary, spinal reflexes are vital for immediate, protective movements",Cause and Effect
+"In summary, spinal reflexes are vital for immediate, protective movements",The problem of potential harm is solved by these quick reflex actions,Cause and Effect
+The problem of potential harm is solved by these quick reflex actions,"Despite their simplicity, spinal reflexes play a significant role in daily life",Cause and Effect
+"Despite their simplicity, spinal reflexes play a significant role in daily life",Clarification is needed to understand how these reflexes operate independently of the brain,Clarification
+Clarification is needed to understand how these reflexes operate independently of the brain,"There are various types of spinal reflexes, such as the patellar reflex",Cause and Effect
+"There are various types of spinal reflexes, such as the patellar reflex",Each type serves a specific function in maintaining bodily integrity,Cause and Effect
+Each type serves a specific function in maintaining bodily integrity,"The knee jerk reflex is an example, triggered by tapping the patellar tendon",Cause and Effect
+"The knee jerk reflex is an example, triggered by tapping the patellar tendon",The knee jerk reflex is a response to protect the lower body from harm,Cause and Effect

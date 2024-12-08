@@ -1,0 +1,7 @@
+Sentence,Label
+"The body employs several adaptive mechanisms during hypoxic ventilatory responses.  One such mechanism is the increase in respiratory rate, which is a Causal relationship to improve oxygen uptake.",Definition
+"When oxygen levels drop, the brainstem's medulla oblongata detects the hypoxia.  This detection triggers a series of events, leading to an increase in the frequency of breaths.",Explanation
+"Additionally, the diaphragm and intercostal muscles contract more forcefully, which is an Additive effect to the increased rate.  This helps to maximize the amount of air inhaled with each breath.",Addition
+"The lungs also become more compliant, allowing for a larger volume of air to be exchanged, which is another Additive effect.  This adaptation further aids in oxygen uptake during hypoxia.",Addition
+"Despite these adaptations, there is a limit to how much the body can compensate for low oxygen levels.  Beyond a certain point, these mechanisms may not be sufficient to prevent tissue hypoxia.",Generalization
+"In summary, the body's adaptive mechanisms during hypoxic ventilatory responses include increased respiratory rate, enhanced respiratory muscle activity, and lung compliance changes. These mechanisms are Causal in their efforts to improve oxygen delivery and utilization. However, there are limits to these compensatory strategies.  Understanding these mechanisms is essential for comprehending how the body responds to hypoxic conditions.",Summary

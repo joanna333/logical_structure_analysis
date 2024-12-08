@@ -1,0 +1,14 @@
+Sentence,Label
+The lung volumes and capacities are crucial in understanding respiratory function.,Definition
+Tidal volume is the amount of air inhaled or exhaled during normal breathing.,Definition
+Inspiratory reserve volume is the additional air that can be inhaled beyond the normal tidal volume.,Definition
+Expiratory reserve volume is the extra air that can be exhaled after the normal tidal exhalation.,Definition
+Residual volume is the air remaining in the lungs after a maximal exhalation.,Definition
+Vital capacity is the maximum amount of air that can be exhaled after a maximal inhalation.,Definition
+"Total lung capacity is the sum of all lung volumes, including residual volume.",Definition
+"These volumes and capacities are measured using spirometry, a respiratory function test.",Method
+Understanding these measurements helps diagnose respiratory conditions and assess lung health.,Significance
+Tidal volume and vital capacity are particularly significant for everyday breathing and physical activity.,Comparison
+Respiratory therapists use knowledge of these lung volumes to create treatment plans for patients.,Purpose
+Each lung volume serves a specific purpose in maintaining optimal respiratory function.,Explanation
+Measurement of these capacities is essential for assessing the effectiveness of respiratory interventions.,Purpose

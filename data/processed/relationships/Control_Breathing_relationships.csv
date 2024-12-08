@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+"Breathing is controlled through a complex system involving CO₂ levels, chemoreceptors, and neural regulation","When CO₂ levels in the blood rise, chemoreceptors in the brain and arteries sense this change",Cause and Effect
+"When CO₂ levels in the blood rise, chemoreceptors in the brain and arteries sense this change","These chemoreceptors send signals to the brain, alerting it of the increased CO₂ concentration",Cause and Effect
+"These chemoreceptors send signals to the brain, alerting it of the increased CO₂ concentration","The brain, in response, sends signals to the respiratory muscles",Cause and Effect
+"The brain, in response, sends signals to the respiratory muscles","The respiratory muscles then contract to increase breathing rate, allowing more oxygen in and expelling more CO₂",Cause and Effect
+"The respiratory muscles then contract to increase breathing rate, allowing more oxygen in and expelling more CO₂",This process is crucial for maintaining homeostasis within the body,Cause and Effect
+This process is crucial for maintaining homeostasis within the body,Neural regulation plays a key role in adjusting the breathing rate according to the body's needs,Cause and Effect
+Neural regulation plays a key role in adjusting the breathing rate according to the body's needs,"Without this control mechanism, the body would not be able to efficiently manage CO₂ levels or supply oxygen",Cause and Effect
+"Without this control mechanism, the body would not be able to efficiently manage CO₂ levels or supply oxygen","In summary, breathing is controlled by monitoring CO₂ levels through chemoreceptors and regulating it via neural signals",Cause and Effect
+"In summary, breathing is controlled by monitoring CO₂ levels through chemoreceptors and regulating it via neural signals",Understanding these processes highlights the importance of the respiratory system in maintaining life,Cause and Effect

@@ -1,0 +1,10 @@
+Sentence,Label
+The aerobic threshold is a crucial concept in physical fitness.,Definition
+It marks the transition point during exercise where the body starts to rely more on aerobic metabolism.,Explanation
+"Above this threshold, the body primarily uses oxygen to generate energy, which is sustainable for longer periods.",Explanation
+Understanding the aerobic threshold is essential for optimizing training regimes.,Purpose
+"Pushing past the aerobic threshold leads to increased reliance on anaerobic metabolism, which is less efficient and results in quicker fatigue.",Explanation
+This threshold helps in setting realistic training goals and prevents overtraining.,Purpose
+It is a key indicator of an individual's cardiovascular fitness level.,Definition
+Recognizing and training at the aerobic threshold can enhance performance and overall health.,Purpose
+"In summary, the aerobic threshold is a vital component in understanding and improving one's physical fitness.",Summary

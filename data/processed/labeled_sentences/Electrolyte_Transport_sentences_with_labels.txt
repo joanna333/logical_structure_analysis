@@ -1,0 +1,8 @@
+Sentence,Label
+The renal tubules play a crucial role in electrolyte transport.,Definition
+Electrolytes are reabsorbed in the proximal convoluted tubule primarily via passive transport.,Explanation
+"Active transport mechanisms, such as the sodium-potassium pump, are employed in the thick ascending limb.",Explanation
+The distal convoluted tubule and collecting ducts regulate electrolyte reabsorption through hormonal influence.,Explanation
+The interplay between active and passive transport ensures precise electrolyte balance.,Addition
+Understanding these mechanisms is vital for comprehending kidney function.,Purpose
+"Thus, the renal tubules utilize a combination of active and passive transport, along with specialized mechanisms like the counter-current multiplier, to control electrolyte transport efficiently.",Summary

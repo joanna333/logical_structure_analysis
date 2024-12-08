@@ -1,0 +1,5 @@
+Sentence,Label
+"In contrast, normal red blood cells are flexible and can move easily through small blood vessels.",Contrast
+Patients with sickle cell disease often experience chronic pain and fatigue due to poor circulation.,Explanation
+Understanding the physiological effects is crucial for developing better therapies and improving the quality of life for those affected.,Explanation
+"In summary, sickle cell disease significantly impacts oxygen transport and circulation, leading to various health issues.",Summary

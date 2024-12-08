@@ -1,0 +1,11 @@
+Sentence,Label
+Leptin plays a crucial role in appetite regulation and energy homeostasis.,Definition
+Leptin is a hormone produced by fat cells that sends signals to the brain about the body's energy stores.,Explanation
+"On the other hand, low leptin levels can increase appetite, prompting the body to seek out more food.",Contrast
+"The brain, particularly the hypothalamus, interprets these leptin signals to maintain energy balance.",Explanation
+"Leptin helps the body know when it is full and when to stop eating, thus preventing excessive calorie intake.",Purpose
+"However, in some cases, individuals can become leptin resistant, similar to insulin resistance, which disrupts this regulatory system.",Explanation
+"Therefore, leptin is essential for the body's ability to regulate appetite and prevent energy imbalance.",Summary
+Understanding leptin's role in appetite and energy regulation is key to addressing obesity and related health issues.,Generalization
+Research into leptin and leptin resistance continues to provide insights into managing weight and metabolic disorders.,Generalization
+"In summary, leptin is a critical hormone in the body's system for controlling hunger and maintaining a healthy weight.",Summary

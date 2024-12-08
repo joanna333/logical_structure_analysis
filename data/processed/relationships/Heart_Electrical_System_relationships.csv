@@ -1,0 +1,14 @@
+Sentence 1,Sentence 2,Relationship
+The heart's electrical conduction system is crucial for maintaining a regular heartbeat,"The SA node, often called the pacemaker of the heart, initiates the heartbeat by sending an electrical impulse",Cause and Effect
+"The SA node, often called the pacemaker of the heart, initiates the heartbeat by sending an electrical impulse","Following the signal from the SA node, the electrical impulse travels to the AV node",Cause and Effect
+"Following the signal from the SA node, the electrical impulse travels to the AV node","The AV node acts as a gateway, slowing the electrical signal to allow time for the ventricles to fill with blood",Cause and Effect
+"The AV node acts as a gateway, slowing the electrical signal to allow time for the ventricles to fill with blood","Once the signal passes through the AV node, it continues to the Purkinje fibers",Cause and Effect
+"Once the signal passes through the AV node, it continues to the Purkinje fibers","Purkinje fibers then distribute the electrical signal to the ventricles, causing them to contract and pump blood",Cause and Effect
+"Purkinje fibers then distribute the electrical signal to the ventricles, causing them to contract and pump blood",This coordinated sequence ensures that blood is efficiently pumped throughout the body,Cause and Effect
+This coordinated sequence ensures that blood is efficiently pumped throughout the body,"In contrast, if any part of this system malfunctions, it can lead to arrhythmias",Cause and Effect
+"In contrast, if any part of this system malfunctions, it can lead to arrhythmias",Understanding these components is vital for diagnosing and treating heart rhythm disorders,Cause and Effect
+Understanding these components is vital for diagnosing and treating heart rhythm disorders,"In summary, the SA node starts the heartbeat, the AV node regulates it, and the Purkinje fibers ensure efficient contraction",Cause and Effect
+"In summary, the SA node starts the heartbeat, the AV node regulates it, and the Purkinje fibers ensure efficient contraction",Each component plays a critical role in the electrical conduction system of the heart,Cause and Effect
+Each component plays a critical role in the electrical conduction system of the heart,"Together, they form a complex network that maintains the heart's rhythm and function",Cause and Effect
+"Together, they form a complex network that maintains the heart's rhythm and function",Any disruption in this system can have serious implications for heart health,Cause and Effect
+Any disruption in this system can have serious implications for heart health,"Thus, the heart's electrical conduction system is a finely tuned network essential for life",Cause and Effect

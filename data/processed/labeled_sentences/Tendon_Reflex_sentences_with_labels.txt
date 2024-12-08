@@ -1,0 +1,11 @@
+Sentence,Label
+The tendon reflex is a rapid muscle contraction evoked by stretching a tendon.,Definition
+The physiological basis involves sensory neurons detecting the stretch and sending signals to the spinal cord.,Explanation
+"The spinal cord then sends a signal back to the muscle, causing it to contract.",Explanation
+This reflex is important for maintaining posture and protecting muscles from injury.,Explanation
+"For instance, when the doctor taps your knee, the tap stretches the tendon, triggering the reflex to move your leg away.",Illustration
+"The reflex arc is quick, which is crucial for immediate protective responses.",Emphasis
+"In clinical settings, tendon reflexes are tested to assess the integrity of the nervous system.",Purpose
+"Therefore, tendon reflexes are not only a physiological curiosity but a vital clinical tool.",Generalization
+Understanding the tendon reflex helps in diagnosing and monitoring various conditions.,Explanation
+"In summary, the tendon reflex is a protective mechanism with significant clinical implications.",Summary

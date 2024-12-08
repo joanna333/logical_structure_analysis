@@ -1,0 +1,13 @@
+Sentence,Label
+The autonomic nervous system regulates organ function automatically without conscious control.,Definition
+The autonomic nervous system consists of two main branches: the sympathetic and parasympathetic systems.,Definition
+"The sympathetic system is often referred to as the ""fight or flight"" response.",Definition
+This prepares the body for intense physical activity by mobilizing resources.,Explanation
+"On the other hand, the parasympathetic system is known as the ""rest and digest"" response.",Definition
+These opposing actions of the sympathetic and parasympathetic systems maintain homeostasis within the body.,Explanation
+"Together, they ensure that organs function optimally whether the body is at rest or under stress.",Addition
+The balance between these systems is crucial for maintaining bodily functions in a healthy state.,Emphasis
+Understanding their roles helps explain how the body adapts to different situations.,Explanation
+"In summary, the autonomic nervous system manages organ function through the contrasting actions of the sympathetic and parasympathetic systems.",Summary
+This dual system ensures the body can respond appropriately to both rest and active states.,Purpose
+"By recognizing these mechanisms, one can appreciate the complexity of the body's automatic regulatory processes.",Clarification

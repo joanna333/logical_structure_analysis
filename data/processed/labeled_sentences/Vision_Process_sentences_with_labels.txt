@@ -1,0 +1,11 @@
+Sentence,Label
+"The eye is the organ responsible for vision, and it begins the process of sight.",Definition
+"Photoreceptor cells, specifically rods and cones, are located in the retina and are crucial for detecting light.",Definition
+"Rods are more sensitive to light but do not distinguish colors, while cones are responsible for color vision and work best in bright light.",Comparison
+"When light enters the eye, it passes through the cornea, lens, and vitreous humor, eventually striking the retina.",Sequential
+The rods and cones convert light into electrical signals.,Definition
+These signals travel along the retinal ganglion cells through the optic nerve.,Sequential
+"The optic nerve carries this information to the brain, where it is processed into the visual image we perceive.",Sequential
+The brain's occipital lobe is primarily responsible for interpreting these signals into vision.,Explanation
+"Without photoreceptor cells and the neural pathways, the eye would not be able to translate light into visual images.",Explanation
+"Thus, photoreceptor function and neural pathways are essential for the physiological process of vision.",Emphasis

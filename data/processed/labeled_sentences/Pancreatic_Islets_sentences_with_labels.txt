@@ -1,0 +1,8 @@
+Sentence,Label
+The islet cells in the pancreas play a crucial role in glucose homeostasis.,Definition
+"When blood glucose levels rise, beta cells secrete more insulin to facilitate glucose entry into cells for energy or storage.",Causal
+"Alpha cells, located adjacent to beta cells, produce glucagon, which has the opposite effect of insulin.",Definition
+This balance between insulin and glucagon is vital for maintaining stable blood glucose levels.,Explanation
+"In contrast, delta cells produce somatostatin, which inhibits the secretion of both insulin and glucagon.",Contrast
+"The presence of these different islet cells ensures a finely tuned response to changes in blood glucose, maintaining homeostasis.",Explanation
+"Thus, each type of islet cell plays a distinct role in regulating glucose levels, showcasing the complexity of the body's regulatory mechanisms.",Explanation

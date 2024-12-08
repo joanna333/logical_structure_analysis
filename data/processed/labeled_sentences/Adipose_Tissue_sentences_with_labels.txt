@@ -1,0 +1,8 @@
+Sentence,Label
+"Adipose tissue is not just a storage depot for fat but also an endocrine organ, playing a crucial role in the body's energy balance.",Definition
+"Adipose tissue secretes hormones such as leptin and adiponectin, which have significant effects on metabolism and appetite.",Explanation
+"Leptin helps to regulate food intake and energy expenditure, while adiponectin plays a role in glucose regulation and insulin sensitivity.",Explanation
+This feedback loop is essential for maintaining energy balance and preventing excessive fat accumulation or depletion.,Explanation
+"Adipose tissue's endocrine functions highlight its importance beyond just a fat-storing organ, demonstrating its active role in metabolic health.",Emphasis
+Understanding these functions can lead to better strategies for managing obesity and metabolic disorders.,Purpose
+"Thus, adipose tissue's endocrine functions are vital for the body's ability to maintain energy balance and overall health.",Summary

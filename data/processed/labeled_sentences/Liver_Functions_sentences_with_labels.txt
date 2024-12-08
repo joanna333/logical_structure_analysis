@@ -1,0 +1,8 @@
+Sentence,Label
+"The liver is essential for metabolism, breaking down nutrients to provide energy for the body.",Definition
+Detoxification is a crucial function where the liver filters harmful substances from the blood.,Definition
+"Bile production is important for digesting fats, allowing the body to absorb fat-soluble vitamins.",Definition
+The liver's metabolic processes convert nutrients into essential compounds the body needs.,Explanation
+"The liver produces bile, which is necessary for the digestion and absorption of fats.",Definition
+"The liver's functions are interconnected, with metabolism influencing detoxification and bile production.",Elaboration
+"In summary, the liver's major roles include metabolism, detoxification, and bile production, all of which are vital for maintaining health.",Summary

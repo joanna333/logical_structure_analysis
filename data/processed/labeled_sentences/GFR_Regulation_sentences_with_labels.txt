@@ -1,0 +1,7 @@
+Sentence,Label
+"Glomerular filtration rate (GFR) is influenced by several factors, each playing a crucial role in its regulation.",Definition
+"The primary factors influencing GFR include blood pressure, plasma oncotic pressure, glomerular endothelial permeability, and glomerular mesangial tone.",Enumeration
+The clinical significance of GFR lies in its role as a marker for kidney function.,Definition
+Monitoring GFR is essential for assessing kidney health and guiding treatment decisions.,Purpose
+Understanding these factors and their effects on GFR helps in diagnosing and managing kidney disorders effectively.,Explanation
+"In summary, multiple factors influence GFR, and its clinical significance cannot be overstated as it provides critical information about kidney health.",Summary

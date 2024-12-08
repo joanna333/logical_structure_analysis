@@ -1,0 +1,11 @@
+Sentence,Label
+The chemoreceptor reflex is a crucial mechanism in the body.,Definition
+"It detects changes in blood gas levels, such as oxygen and carbon dioxide.",Explanation
+This reflex plays a significant role in regulating breathing patterns.,Explanation
+The primary chemoreceptors involved are located in the aorta and carotid arteries.,Definition
+These receptors send signals to the brainstem when they sense changes.,Sequential
+The brainstem then initiates commands to adjust breathing rate and depth.,Sequential
+The purpose of this reflex is to maintain homeostasis in the body's blood gases.,Purpose
+"Without this reflex, the body would not be able to respond effectively to changes in blood gases.",Contrast
+"Thus, the chemoreceptor reflex is essential for survival by ensuring proper oxygenation and carbon dioxide removal.",Emphasis
+"In summary, the chemoreceptor reflex detects blood gas levels and regulates breathing through a series of responses to maintain homeostasis.",Summary

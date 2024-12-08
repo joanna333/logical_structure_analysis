@@ -1,0 +1,6 @@
+Sentence,Label
+The body employs several compensatory mechanisms during different types of shock to maintain homeostasis.,Definition
+Shock is a condition where the body does not receive adequate blood flow and oxygen to vital organs.,Definition
+"This vasoconstriction helps to shunt blood to essential organs, but it also increases blood pressure.",Causal
+The kidneys release hormones like aldosterone and antidiuretic hormone to conserve fluid and electrolytes.,Sequential
+"In contrast, neurogenic shock, often caused by severe spinal cord injuries, results in widespread vasodilation.",Contrast

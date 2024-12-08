@@ -1,0 +1,12 @@
+Sentence,Label
+Neuropathic pain is a complex condition that arises from damage or dysfunction of the nervous system.,Definition
+The physiological mechanisms underlying neuropathic pain involve various pathways and neurotransmitters.,Explanation
+The neurotransmitter glutamate plays a crucial role in neuropathic pain by amplifying signals.,Explanation
+"Additionally, changes in how the brain processes pain signals occur, leading to increased sensitivity.",Explanation
+The role of proteins like NMDA receptors and voltage-gated sodium channels is significant in this process.,Explanation
+"These mechanisms can result in chronic pain, which is persistent and often resistant to typical analgesics.",Explanation
+Understanding these physiological processes is essential for developing targeted treatments for neuropathic pain.,Purpose
+"Despite advances, managing neuropathic pain remains challenging due to its complex nature.",Generalization
+"Research continues to explore new avenues for intervention, aiming to correct the underlying physiological disruptions.",Purpose
+Neuropathic pain underscores the importance of studying the nervous system's intricate workings.,Emphasis
+"Ultimately, unraveling these mechanisms could lead to more effective therapies for patients suffering from neuropathic pain.",Purpose

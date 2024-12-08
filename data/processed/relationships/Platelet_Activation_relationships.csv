@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+"Platelets play a crucial role in hemostasis, the process of stopping bleeding","When a blood vessel is injured, platelets are the first to respond",Cause and Effect
+"When a blood vessel is injured, platelets are the first to respond",Platelets adhere to the vessel wall at the site of injury,Cause and Effect
+Platelets adhere to the vessel wall at the site of injury,This adherence is followed by shape change and aggregation of platelets,Cause and Effect
+This adherence is followed by shape change and aggregation of platelets,Aggregated platelets form a plug that helps seal the break in the vessel,Cause and Effect
+Aggregated platelets form a plug that helps seal the break in the vessel,The plug prevents further blood loss by forming a temporary barrier,Cause and Effect
+The plug prevents further blood loss by forming a temporary barrier,Platelets also release substances that promote clot formation,Cause and Effect
+Platelets also release substances that promote clot formation,These substances include clotting factors that further stabilize the clot,Cause and Effect
+These substances include clotting factors that further stabilize the clot,"Without adequate platelets, clot formation can be impaired, leading to increased bleeding risk",Cause and Effect
+"Without adequate platelets, clot formation can be impaired, leading to increased bleeding risk","Thus, platelets are essential for hemostasis and maintaining normal blood coagulation",Cause and Effect

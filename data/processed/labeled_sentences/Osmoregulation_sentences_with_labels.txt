@@ -1,0 +1,11 @@
+Sentence,Label
+Osmoregulation is the process of maintaining the balance of water and solutes in an organism's body.,Definition
+Osmoreceptors are specialized cells that detect changes in the osmotic pressure of the body fluids.,Definition
+Osmoreceptors send signals to the brain when the osmotic balance is disrupted.,Causal
+Osmoreceptors play a crucial role in ensuring that the body's fluids remain at the proper concentration.,Emphasis
+"Without osmoreceptors, organisms would not be able to effectively regulate their internal fluid balance.",Contrast
+The role of osmoreceptors is essential for the survival of an organism in varying environmental conditions.,Emphasis
+Osmoregulation and osmoreceptors work together to maintain homeostasis within the body.,Explanation
+"In summary, osmoregulation is the process of maintaining fluid balance, and osmoreceptors are vital for detecting changes in osmotic pressure.",Summary
+Understanding osmoregulation and the role of osmoreceptors is key to comprehending how organisms survive in different environments.,Purpose
+Clarifying these processes helps in appreciating the complexity of physiological systems in living organisms.,Clarification

@@ -1,0 +1,7 @@
+Sentence,Label
+The kidneys play a crucial role in regulating acid-base homeostasis in the body.,Explanation
+This dual process helps to maintain the proper pH balance.,Explanation
+Excreting hydrogen ions and reabsorbing bicarbonate are separate mechanisms that work together.,Addition
+The excretion of hydrogen ions is essential to rid the body of excess acid.,Causal
+The precise regulation of hydrogen ions and bicarbonate is vital for maintaining life.,Emphasis
+"In summary, the kidneys manage acid-base homeostasis by excreting hydrogen ions and reabsorbing bicarbonate, ensuring the body's pH remains stable.",Summary

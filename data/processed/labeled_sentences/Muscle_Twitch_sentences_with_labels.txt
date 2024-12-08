@@ -1,0 +1,6 @@
+Sentence,Label
+- Initiation: The muscle fiber begins to contract in response to a stimulus.,Definition
+- Contraction: The muscle fiber shortens and contracts.,Definition
+- Relaxation: The muscle fiber returns to its original length.,Definition
+"- Temperature: High temperatures can increase muscle speed and strength, while low temperatures can decrease them.",Comparison
+"Muscle contraction is a complex process influenced by various factors, each playing a distinct role in the initiation, maintenance, and termination of muscle twitches.",Generalization

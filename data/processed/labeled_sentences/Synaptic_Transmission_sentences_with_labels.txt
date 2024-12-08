@@ -1,0 +1,13 @@
+Sentence,Label
+Neurons communicate with each other through a process called synaptic transmission.,Definition
+The first step in this process is the generation of an action potential in the presynaptic neuron.,Causal
+This action potential travels down the axon and triggers the release of neurotransmitters.,Causal
+Neurotransmitters are stored in vesicles within the axon terminal.,Definition
+"When the action potential reaches the axon terminal, calcium ions enter the cell.",Causal
+"The influx of calcium ions causes the vesicles to fuse with the membrane, releasing the neurotransmitters into the synaptic cleft.",Causal
+The neurotransmitters then bind to receptors on the postsynaptic neuron.,Causal
+"This binding can either excite or inhibit the postsynaptic neuron, depending on the type of neurotransmitter and receptor.",Explanation
+"After the neurotransmitters have exerted their effect, they are either reabsorbed by the presynaptic neuron or broken down by enzymes in the synaptic cleft.",Causal
+"This process ensures that neurotransmitter action is brief and localized, allowing precise control over neuronal communication.",Explanation
+"Synaptic transmission is fundamental for all neural activities, enabling complex behaviors and thought processes.",Generalization
+Understanding these mechanisms is crucial for comprehending how the brain functions and how neural communication can be affected by various factors.,Explanation

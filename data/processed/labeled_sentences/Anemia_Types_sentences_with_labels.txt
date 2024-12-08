@@ -1,0 +1,9 @@
+Sentence,Label
+Anemia is a condition where the blood lacks sufficient healthy red blood cells to carry oxygen to the body's tissues.,Definition
+"Iron-deficiency anemia occurs when the body doesn't have enough iron to make hemoglobin, the oxygen-carrying component of red blood cells.",Definition
+"Vitamin-deficiency anemia happens when the body doesn't get enough vitamin B12 or folate, which are crucial for red blood cell production.",Definition
+"Symptoms of vitamin-deficiency anemia can include weakness, numbness, and a smooth tongue.",Explanation
+"Sickle cell anemia is a genetic disorder where red blood cells are misshapen, leading to blockages and oxygen shortages.",Definition
+"The physiological implications of anemia vary depending on the type but generally include fatigue, shortness of breath, and dizziness.",Generalization
+Anemia can be diagnosed through blood tests that measure hemoglobin levels and red blood cell counts.,Definition
+It's important to identify the specific type of anemia to determine the most effective treatment.,Explanation

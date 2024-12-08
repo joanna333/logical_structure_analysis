@@ -1,0 +1,10 @@
+Sentence,Label
+Memory consolidation is the process by which short-term memories are strengthened and transformed into long-term memories.,Definition
+Sleep plays a crucial role in this process.,Role
+"Sleep stages, particularly slow-wave sleep (SWS) and rapid eye movement (REM) sleep, are vital for different aspects of memory consolidation.",Elaboration
+"These stages allow the brain to reorganize and consolidate memories, making them more durable and accessible.",Explanation
+"In contrast, being awake involves a high level of neural activity that can interfere with the memory consolidation process.",Contrast
+"Thus, sleep is essential for ensuring that the information we learn during the day is properly stored in our long-term memory.",Purpose
+Understanding these processes highlights the importance of sleep not only for overall health but also for cognitive functions like memory.,Generalization
+"In summary, sleep is integral to the memory consolidation process, reinforcing memories and ensuring they are stored for future retrieval.",Summary
+"In conclusion, sleep is not just a passive state but an active process that supports memory consolidation, demonstrating the complex relationship between sleep and memory.",Emphasis

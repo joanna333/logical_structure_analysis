@@ -1,0 +1,5 @@
+Sentence,Label
+"Fluid in the lungs impairs the ability of the alveoli to expand properly, which is essential for efficient gas exchange.",Explanation
+"Patients may experience shortness of breath and a feeling of suffocation, which are direct consequences of the compromised gas exchange.",Explanation
+"Therefore, understanding the mechanisms of pulmonary edema is crucial for effective management and improving patient outcomes.",Generalization
+"In summary, pulmonary edema disrupts gas exchange by filling the lungs with fluid, causing a range of respiratory symptoms and potential severe health consequences.",Summary

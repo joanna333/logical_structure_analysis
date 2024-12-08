@@ -1,0 +1,8 @@
+Sentence,Label
+"Fever is a physiological response to infection or illness, marked by an elevated body temperature.",Definition
+"These pyrogens affect the hypothalamus, the part of the brain that regulates body temperature, causing it to set a higher thermostat.",Explanation
+The systemic effects of fever include increased heart rate and metabolism to provide more energy for the immune system.,Explanation
+"Fever can also cause chills as the body tries to warm itself, and it may make you feel generally weak or fatigued.",Explanation
+"Despite these effects, fever is generally beneficial as it helps the body fight off infections.",Explanation
+"However, very high fevers can be harmful, potentially leading to seizures in children or dehydration in severe cases.",Causal
+"In summary, fever is a complex response with both beneficial and potentially harmful effects, regulated by the body's immune and thermoregulatory systems.",Summary

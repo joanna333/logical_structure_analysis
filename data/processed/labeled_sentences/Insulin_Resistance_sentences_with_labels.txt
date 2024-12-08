@@ -1,0 +1,6 @@
+Sentence,Label
+"Insulin resistance occurs when cells fail to respond adequately to insulin, a hormone crucial for glucose uptake.",Definition
+"Insulin resistance is often associated with obesity, physical inactivity, and a poor diet.",Addition
+"To manage insulin resistance, lifestyle changes such as diet, exercise, and weight loss are often recommended.",Solution
+Understanding the mechanisms behind insulin resistance is crucial for developing effective treatments and preventive strategies.,Explanation
+"In summary, insulin resistance is a complex condition with multiple contributing factors and significant metabolic consequences.",Summary

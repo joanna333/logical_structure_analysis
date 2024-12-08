@@ -1,0 +1,10 @@
+Sentence,Label
+The countercurrent multiplication system in the kidney is a crucial mechanism for urine concentration.,Definition
+This system involves a series of tubules that work against the flow of fluid.,Definition
+The countercurrent exchange occurs between the descending limb and the ascending limb of the loop of Henle.,Explanation
+"The descending limb is permeable to water and salts, while the ascending limb is not.",Explanation
+The concentrated solutes create a high osmotic gradient.,Explanation
+"Without this system, the kidneys would not be able to produce concentrated urine.",Generalization
+The countercurrent multiplication system is essential for conserving water in the body.,Purpose
+Understanding this system helps clarify how the kidneys manage fluid balance.,Clarification
+"In summary, the countercurrent multiplication system is vital for urine concentration by creating a high osmotic gradient.",Summary

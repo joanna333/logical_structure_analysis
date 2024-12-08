@@ -1,52 +1,28 @@
-from wikipedia import wikipedia
-import pandas as pd
-from typing import List, Dict
+# # # Usage
+# olmo = OLMoHandler()
+# response = olmo.generate("""
+#                          Generate a text explaining the relationship between different thyroid hormones.
+#                          Write the text as short sentences and so, that the logical relationship between two sentences following each other can be easily classified. 
+#                          Possible relationships between sentences are: [Causal, Conditional, Sequential, Comparison, Contradiction, Explanation, Definition]. 
+#                          Mark the relationships between the sentences using '-[kind of relationship]-'
+#                          """)
 
-def show_wiki_search(query: str, results_limit: int = 5) -> List[Dict]:
-    """
-    Search Wikipedia articles based on a query.
-    
-    Args:
-        query: Search term
-        results_limit: Maximum number of results to return (default=5)
-    
-    Returns:
-        List of dictionaries containing article titles and summaries
-    """
-    try:
-        # Search Wikipedia
-        search_results = wikipedia.search(query, results=results_limit)
-        articles = []
-        
-        for title in search_results:
-            try:
-                # Get page content
-                page = wikipedia.page(title)
-                articles.append({
-                    'title': page.title,
-                    'summary': page.summary,
-                    'url': page.url,
-                    'content': page.content
-                })
-            except wikipedia.exceptions.DisambiguationError as e:
-                # Handle disambiguation pages
-                continue
-            except wikipedia.exceptions.PageError:
-                # Handle non-existent pages
-                continue
-                
-        return articles
-        
-    except Exception as e:
-        print(f"Error during Wikipedia search: {str(e)}")
-        return []
-
-# Search for medical topics
-results = show_wiki_search("cardiac physiology", results_limit=3)
-
-# Print results
-for article in results:
-    print(f"Title: {article['title']}")
-    print(f"Summary: {article['summary'][:200]}...")
-    print(f"URL: {article['url']}")
-    print("-" * 50)
+# response1 = olmo.generate("""
+#                             Generate a text about the thyroid and the different thyroid hormones.
+#                             Write the text as short sentences and so, that there is a logical relationship (Causal, Conditional, Sequential, Comparison, Contradiction, Explanation, Definition) between two sentences following each other.
+#                          """)
+# print(response1)
+# # prompt2 = f"The text is: '{response1}'." + """
+# #                             Mark the relationships between the sentences in the text using '-[kind of relationship]-'
+# #                             Possible [kind of relationship]: [Causal, Conditional, Sequential, Comparison, Contradiction, Explanation, Definition].
+# #                          """
+# # response2 = olmo.generate(prompt2)
+# # print(response2)
+# prompt3 = f"The text is: '{response1}'." + """
+#                                             Identify the most important keywords in this text and give a csv file as output in which keywords and their relationships with the other keywords are given.
+#                                             In each row give a keyword and its relationship with the other keywords: following the format 'Keyword1, Keyword2, Relationship'.
+#                                             Generate three relationships for each keyword.
+#                                             Possible kind of relationship: [Causal, Conditional, Sequential, Comparison, Contradiction, Explanation, Definition].
+#                                             """
+# response3 = olmo.generate(prompt3)
+# print(response3)

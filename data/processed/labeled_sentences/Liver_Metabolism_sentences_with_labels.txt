@@ -1,0 +1,10 @@
+Sentence,Label
+Detoxification is a fundamental function that protects the body from potential damage by toxins.,Explanation
+"Carbohydrate metabolism involves the conversion of dietary sugars into glucose, which the liver stores as glycogen for later use.",Definition
+"The liver's role in carbohydrate metabolism is to maintain blood sugar levels, providing energy when needed.",Explanation
+"For lipid metabolism, the liver synthesizes cholesterol and triglycerides, which are essential components of cell membranes and energy storage.",Definition
+"Lipid metabolism also includes the breakdown of fats and the removal of waste products, a process that the liver manages efficiently.",Explanation
+"In contrast to carbohydrate metabolism, lipid metabolism involves both synthesis and degradation.",Contrast
+The liver's dual role in carbohydrate and lipid metabolism ensures a balanced supply of energy and cellular components.,Generalization
+"Understanding the liver's functions in detoxification, carbohydrate, and lipid metabolism is key to appreciating its importance in maintaining bodily health.",Purpose
+Clarifying these roles helps in recognizing the liver's significance in various metabolic processes and potential health implications when it is compromised.,Clarification

@@ -1,0 +1,20 @@
+Sentence 1,Sentence 2,Relationship
+The clotting cascade begins with the injury to a blood vessel,"This damage exposes blood platelets and vessel walls to the blood, initiating the process",Cause and Effect
+"This damage exposes blood platelets and vessel walls to the blood, initiating the process","When platelets adhere to the damaged vessel, they aggregate and form a plug",Cause and Effect
+"When platelets adhere to the damaged vessel, they aggregate and form a plug",This plug helps to seal the break and prevent further blood loss,Cause and Effect
+This plug helps to seal the break and prevent further blood loss,"Fibrinogen, a clotting factor, then converts to fibrin",Cause and Effect
+"Fibrinogen, a clotting factor, then converts to fibrin","Fibrin forms a meshwork that stabilizes the platelet plug, creating a stable clot",Cause and Effect
+"Fibrin forms a meshwork that stabilizes the platelet plug, creating a stable clot",Factor XII activates the clotting cascade,Cause and Effect
+Factor XII activates the clotting cascade,This activation triggers a series of enzymatic reactions,Cause and Effect
+This activation triggers a series of enzymatic reactions,Calcium ions are essential for the activation of clotting factors,Cause and Effect
+Calcium ions are essential for the activation of clotting factors,"They bind to these factors, making them active and able to catalyze further reactions",Cause and Effect
+"They bind to these factors, making them active and able to catalyze further reactions",Anticoagulants like heparin inhibit factor XII and calcium binding,Cause and Effect
+Anticoagulants like heparin inhibit factor XII and calcium binding,This prevents excessive clotting and maintains blood fluidity,Cause and Effect
+This prevents excessive clotting and maintains blood fluidity,Tissue factor (TF) plays a crucial role by activating factor VII,Cause and Effect
+Tissue factor (TF) plays a crucial role by activating factor VII,This step is crucial for the initiation of the intrinsic pathway,Cause and Effect
+This step is crucial for the initiation of the intrinsic pathway,The presence of thrombomodulin converts factor X to its active form,Cause and Effect
+The presence of thrombomodulin converts factor X to its active form,This conversion is necessary for the conversion of prothrombin to thrombin,Cause and Effect
+This conversion is necessary for the conversion of prothrombin to thrombin,Thrombin then converts fibrinogen to fibrin,Cause and Effect
+Thrombin then converts fibrinogen to fibrin,"This forms the clot matrix, securing the platelet plug",Cause and Effect
+"This forms the clot matrix, securing the platelet plug",The clotting cascade is tightly regulated to prevent unnecessary clot formation,Cause and Effect
+The clotting cascade is tightly regulated to prevent unnecessary clot formation,This regulation involves,Cause and Effect

@@ -1,0 +1,8 @@
+Sentence,Label
+"Sympathetic activation during exercise stimulates the heart to contract more forcefully and rapidly, thereby elevating heart rate.",Explanation
+"Simultaneously, stroke volume, the amount of blood ejected by the heart with each beat, tends to increase as well.",Addition
+The increased muscle oxygen demand during exercise signals the body to boost both heart rate and stroke volume for efficient delivery of oxygen to the muscles.,Explanation
+"In summary, exercise leads to a complex interplay of physiological responses, including increased heart rate and stroke volume, which are crucial for meeting the body's heightened metabolic demands.",Summary
+"Understanding these effects helps clarify how the body adapts to physical activity, ensuring adequate oxygen supply to working muscles.",Clarification
+These adaptations are vital for sustaining prolonged physical exertion without causing oxygen deficiency.,Explanation
+"In essence, exercise prompts a coordinated response involving the sympathetic nervous system, venous return, and muscle oxygen demand to optimize cardiovascular function.",Generalization

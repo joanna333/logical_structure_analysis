@@ -1,0 +1,8 @@
+Sentence,Label
+"Fetal development begins with the fertilization of an egg by a sperm, marking the start of a new life.",Definition
+"The embryo develops three germ layers: ectoderm, mesoderm, and endoderm, each giving rise to different tissues and organs.",Explanation
+"By the fifth week, limb buds appear, indicating the beginning of limb development.",Enumeration
+"By the eighth week, the embryo is officially classified as a fetus, with distinct facial features and limb movements.",Definition
+"Throughout the second trimester, the fetus grows rapidly in size and complexity, with the ears and fingers becoming more defined.",Enumeration
+"By the end of the third trimester, the fetus is fully developed with all organs and systems ready for birth.",Summary
+Fetal development is a complex process with each stage essential for the formation of a healthy baby.,Explanation

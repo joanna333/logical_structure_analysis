@@ -1,0 +1,8 @@
+Sentence,Label
+A sarcomere is the basic functional unit of muscle contraction.,Definition
+It is composed of thin filaments made primarily of the protein actin and thick filaments made of myosin.,Definition
+The Z lines anchor the filaments on both ends of the sarcomere.,Definition
+"Tropomyosin and troponin regulate the interaction between myosin and actin, allowing contraction only when signaled by calcium ions.",Explanation
+The sarcomere's structure and the actions of its components are crucial for precise and controlled muscle movements.,Explanation
+"Without the sarcomere's structure and the role of its components, muscle contraction would not be possible.",Explanation
+"Thus, the sarcomere's architecture and the function of its parts are essential for muscle function.",Explanation

@@ -1,0 +1,8 @@
+Sentence,Label
+"Fetal circulation has several unique features, such as the presence of the ductus arteriosus and the foramen ovale, which are not found in the adult circulation.",Definition
+"The ductus arteriosus connects the pulmonary artery to the aorta, allowing blood to bypass the non-functioning fetal lungs.",Explanation
+"The foramen ovale, a hole between the right and left atria, allows blood to flow directly from the right atrium to the left atrium, reducing the need for the right ventricle to work hard.",Explanation
+Postnatal adaptations occur as these structures close and the normal adult circulation takes over.,Definition
+"The ductus arteriosus closes and becomes the ligamentum arteriosum, while the foramen ovale closes and is replaced by the fossa ovalis.",Enumeration
+The closure of these fetal structures ensures that blood is pumped efficiently through the lungs and the rest of the body.,Explanation
+"In summary, fetal circulation is adapted for the prenatal environment, with specific structures that facilitate blood flow without the need for lung function. Postnatally, these structures close to accommodate the newborn's breathing and circulation needs.",Summary

@@ -1,0 +1,7 @@
+Sentence,Label
+The oxygen dissociation curve is a graphical representation of the amount of oxygen that can be bound to hemoglobin at various partial pressures of oxygen.,Definition
+"At normal physiological conditions, the curve shows a sigmoid shape, indicating that hemoglobin has a cooperative binding affinity for oxygen.",Explanation
+"Factors that shift the oxygen dissociation curve include changes in temperature, pH, and the presence of 2,3-bisphosphoglycerate.",Enumeration
+These shifts are crucial for adapting oxygen delivery to the body's changing needs.,Generalization
+Understanding these shifts helps in diagnosing and treating respiratory and circulatory disorders.,Purpose
+"In summary, the oxygen dissociation curve is influenced by temperature, pH, 2,3-bisphosphoglycerate, and other factors, each having specific effects on hemoglobin's oxygen binding capacity.",Summary

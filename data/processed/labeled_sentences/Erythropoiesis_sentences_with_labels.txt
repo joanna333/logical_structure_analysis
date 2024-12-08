@@ -1,0 +1,8 @@
+Sentence,Label
+"Erythropoiesis is the process of red blood cell production, regulated by the body to maintain adequate oxygen levels in the blood.",Definition
+Erythropoietin then stimulates the bone marrow to increase red blood cell production.,Causal
+This increased production helps restore oxygen levels to normal.,Effect
+"Without erythropoietin, the body cannot effectively regulate erythropoiesis, leading to anemia.",Explanation
+"Thus, erythropoietin is essential for maintaining a healthy red blood cell count.",Emphasis
+"In summary, erythropoietin regulates erythropoiesis by responding to oxygen levels, ensuring the body maintains sufficient red blood cells.",Summary
+Understanding this process is key to recognizing how the body manages and corrects anemia.,Purpose

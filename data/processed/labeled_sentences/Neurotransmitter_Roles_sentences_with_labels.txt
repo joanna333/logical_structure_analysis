@@ -1,0 +1,12 @@
+Sentence,Label
+Dopamine is a neurotransmitter associated with pleasure and reward.  It plays a crucial role in motivation and addiction.,Definition
+Serotonin helps regulate mood and is linked to feelings of well-being.  Low levels are associated with depression.,Definition
+"GABA is the primary inhibitory neurotransmitter in the brain.  It reduces neural activity, which can calm excitatory signals.",Definition
+Serotonin's role in mood regulation is conditional on its availability in the synaptic gap.,Conditional
+"GABA's function is sequential to excitatory neurotransmitters, working to balance neural activity.",Sequential
+"Dopamine and serotonin are often contrasted in their effects on mood, with dopamine enhancing pleasure and serotonin promoting calmness.",Contrast
+"The purpose of neurotransmitters like dopamine, serotonin, and GABA is to facilitate neural communication.",Purpose
+Understanding these neurotransmitters clarifies how brain chemistry influences mood and behavior.,Clarification
+"Dopamine, serotonin, and GABA are key neurotransmitters with distinct roles in neural communication.",Enumeration
+GABA's role as an inhibitor is essential for preventing neural overactivity.,Explanation
+"While dopamine enhances pleasure, serotonin promotes a sense of well-being, illustrating their different roles.",Comparison

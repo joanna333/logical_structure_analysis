@@ -1,0 +1,13 @@
+Sentence,Label
+Renal clearance is a measure used to evaluate kidney function.,Definition
+It quantifies the ability of the kidneys to remove substances from the blood.,Explanation
+"Renal clearance is calculated by dividing the urine concentration of a substance by its plasma concentration, adjusted for plasma flow rate.",Definition
+This concept is crucial for assessing how effectively the kidneys filter blood.,Emphasis
+Clearance tests help determine if kidney disease is present and how well the kidneys are working.,Purpose
+"By comparing renal clearance values to normal ranges, healthcare professionals can diagnose kidney issues.",Comparison
+Renal clearance is a key tool in clinical settings for monitoring kidney health over time.,Generalization
+"When kidneys function normally, they maintain a consistent renal clearance rate.",Causal
+Understanding renal clearance is essential for managing kidney diseases effectively.,Emphasis
+"In summary, renal clearance is a critical assessment tool for kidney function, providing essential information for diagnosis and management.",Summary
+"Despite its importance, it's just one of several tests used to evaluate kidney health comprehensively.",Contrast
+The application of renal clearance in clinical practice underscores its value in nephrology.,Emphasis

@@ -1,0 +1,10 @@
+Sentence,Label
+"Anatomical dead space refers to the parts of the respiratory system that do not participate in gas exchange, such as the trachea and bronchi.",Definition
+"Physiological dead space, on the other hand, includes both anatomical dead space and alveoli that do not participate in gas exchange due to ventilation-perfusion mismatch.",Definition
+Anatomical dead space is constant and determined by the structure of the respiratory system.,Definition
+"Physiological dead space, however, can vary depending on lung function and disease states.",Definition
+Understanding both types of dead space is crucial for assessing lung function and diagnosing respiratory issues.,Explanation
+The contrast between anatomical and physiological dead space highlights the complexity of respiratory physiology.,Contrast
+"By recognizing these distinctions, healthcare professionals can better manage respiratory conditions and monitor patient progress.",Purpose
+"In summary, anatomical dead space is structural, while physiological dead space is functional and variable.",Summary
+These concepts are essential for a comprehensive understanding of how the respiratory system works and where it can fail.,Emphasis

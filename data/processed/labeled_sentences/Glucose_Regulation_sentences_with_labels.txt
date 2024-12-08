@@ -1,0 +1,7 @@
+Sentence,Label
+The regulation of blood glucose levels is crucial for maintaining homeostasis in the body.,Explanation
+Insulin is a hormone produced by the pancreas that helps cells absorb glucose from the bloodstream.,Definition
+"On the other hand, glucagon is another hormone released by the pancreas, primarily when blood glucose levels are low.",Definition
+"During times of stress, the body releases adrenaline and cortisol, which have opposing effects on glucose regulation.",Explanation
+"The interplay between insulin, glucagon, and stress hormones ensures that blood glucose levels remain stable despite varying demands.",Generalization
+"Therefore, understanding this hormonal interplay is essential for managing and preventing metabolic disorders.",Purpose

@@ -1,0 +1,9 @@
+Sentence,Label
+"During exercise, the body maintains homeostasis through intricate interactions between the cardiovascular, respiratory, and muscular systems.",Explanation
+"Muscles demand more oxygen and nutrients, prompting the cardiovascular and respiratory systems to work in tandem.",Addition
+This coordination ensures that muscles receive the necessary oxygen and remove carbon dioxide efficiently.,Explanation
+"Conversely, if the respiratory system cannot provide sufficient oxygen, the cardiovascular system struggles to meet the muscles' demands.",Contrast
+"Together, these systems ensure that homeostasis is maintained even during intense physical activity.",Summary
+The interplay between these systems is crucial for sustaining exercise and preventing homeostatic imbalance.,Emphasis
+Understanding these interactions helps clarify how the body adapts to physical stress.,Clarification
+"In summary, the cardiovascular, respiratory, and muscular systems collaborate to maintain homeostasis during exercise through cause-and-effect relationships and coordinated efforts.",Summary

@@ -1,0 +1,8 @@
+Sentence,Label
+The oxygen-hemoglobin dissociation curve illustrates how tightly oxygen binds to hemoglobin at various partial pressures of oxygen.,Definition
+Understanding this curve is crucial for oxygen delivery in the body.,Purpose
+"At low oxygen levels, hemoglobin has a higher affinity for oxygen, meaning it binds more strongly.",Explanation
+"As oxygen levels increase, hemoglobin's affinity for oxygen decreases, allowing easier release of oxygen to tissues.",Explanation
+This curve is significant because it shows the optimal partial pressure of oxygen for maximum oxygen unloading from hemoglobin to tissues.,Explanation
+The curve's shape ensures efficient oxygen delivery under normal conditions.,Generalization
+"Overall, the oxygen-hemoglobin dissociation curve is essential for maintaining adequate oxygen levels in tissues.",Summary

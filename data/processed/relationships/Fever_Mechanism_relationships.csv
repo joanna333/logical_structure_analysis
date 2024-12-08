@@ -1,0 +1,11 @@
+Sentence 1,Sentence 2,Relationship
+Fever is a physiological response where the body temperature increases,This rise in temperature is regulated by the hypothalamus,Cause and Effect
+This rise in temperature is regulated by the hypothalamus,"The hypothalamus sets a higher thermostat setting, triggering the body to generate heat",Cause and Effect
+"The hypothalamus sets a higher thermostat setting, triggering the body to generate heat",Fever is a mechanism to combat infections,Cause and Effect
+Fever is a mechanism to combat infections,It is triggered by the release of cytokines by immune cells,Cause and Effect
+It is triggered by the release of cytokines by immune cells,These cytokines signal the hypothalamus to increase the body's temperature,Cause and Effect
+These cytokines signal the hypothalamus to increase the body's temperature,The elevated temperature can inhibit bacterial growth and enhance the activity of immune cells,Cause and Effect
+The elevated temperature can inhibit bacterial growth and enhance the activity of immune cells,"Essentially, fever is a part of the immune response",Cause and Effect
+"Essentially, fever is a part of the immune response",It helps the body fight off infections more effectively,Cause and Effect
+It helps the body fight off infections more effectively,This mechanism underscores the body's adaptive strategies to combat illness,Cause and Effect
+This mechanism underscores the body's adaptive strategies to combat illness,"Fever is a common symptom in many illnesses, highlighting its importance in the immune response",Cause and Effect

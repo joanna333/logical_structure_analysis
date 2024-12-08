@@ -1,0 +1,7 @@
+Sentence,Label
+The gut microbiota also modulates the immune system by educating it to differentiate between harmful pathogens and harmless substances.  This education helps to prevent excessive immune responses that could lead to inflammation.,Explanation
+"The presence of a diverse gut microbiota is linked to a stronger immune system.  This diversity provides a wider range of benefits, including better protection against infections and diseases.",Comparison
+"Probiotics, which are live bacteria similar to beneficial gut microbes, can be used to restore gut microbiota balance.  By introducing these probiotics, one can potentially improve digestion and immune health.",Solution
+"In contrast, antibiotics, while effective at killing harmful bacteria, can also disrupt the gut microbiota balance.  This disruption can lead to side effects such as diarrhea and an increased risk of infections.",Contrast
+Maintaining a healthy gut microbiota is essential for both digestion and immune system function.  This highlights the importance of a balanced diet and good gut health practices.,Generalization
+Research continues to explore how the gut microbiota influences the immune system and what specific microbes are involved.  This ongoing research aims to develop targeted therapies for various health conditions.,Purpose

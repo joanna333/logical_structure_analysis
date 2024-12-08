@@ -1,0 +1,8 @@
+Sentence,Label
+This weakening is due to the interference with the electrical impulses that control heart rhythms.,Explanation
+"The cardiac muscles rely on precise electrical signals to contract properly, and hyperkalemia disrupts these signals.",Explanation
+"In contrast, normal potassium levels are crucial for maintaining the heart's normal rhythm and strength.",Contrast
+"Therefore, managing hyperkalemia is essential to prevent these cardiac complications.",Purpose
+"Monitoring potassium levels and managing them through diet, medication, or dialysis is key to preventing the adverse effects on cardiac function.",Solution
+"In summary, hyperkalemia can severely impair cardiac function by causing muscle weakness and irregular heartbeats, which can lead to life-threatening conditions.",Summary
+Understanding these physiological causes and consequences is vital for the prevention and treatment of hyperkalemia-related cardiac issues.,Purpose

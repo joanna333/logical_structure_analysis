@@ -1,0 +1,6 @@
+Sentence,Label
+The complement system is a crucial part of the immune defense.,Definition
+"It is activated through several pathways, including the classical, lectin, and alternative pathways.",Explanation
+"In contrast, if not regulated properly, the system can cause damage to healthy cells.",Contrast
+"Overall, the complement system plays a vital role in eliminating pathogens and initiating immune responses.",Summary
+Understanding its activation and roles is essential for comprehending immune defense mechanisms.,Purpose

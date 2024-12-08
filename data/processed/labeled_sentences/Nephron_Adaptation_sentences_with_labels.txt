@@ -1,0 +1,6 @@
+Sentence,Label
+The nephron adapts to changes in fluid or electrolyte balance through various feedback mechanisms.,Explanation
+"On the other hand, if the body has too much fluid, the increased blood volume is sensed by baroreceptors in the arteries.",Explanation
+The nephron also adjusts based on the concentration of electrolytes in the filtrate.,Addition
+These feedback mechanisms ensure that the internal environment remains stable despite fluctuations in intake and output.,Generalization
+"In summary, the nephron and its regulatory hormones work together to maintain fluid and electrolyte balance through a series of feedback loops.",Summary

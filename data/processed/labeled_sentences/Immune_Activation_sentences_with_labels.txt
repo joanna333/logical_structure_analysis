@@ -1,0 +1,9 @@
+Sentence,Label
+The immune response begins when an antigen is recognized by specific receptors on immune cells.,Definition
+"The immune cell then differentiates and proliferates, leading to the activation of more cells.",Sequential
+"These activated cells release cytokines, which are signaling molecules.",Causal
+Cytokines instruct other immune cells to move to the site of infection and to activate.,Explanation
+The release of cytokines is crucial for coordinating the immune response.,Emphasis
+"Different types of cytokines can have contrasting effects, such as inducing inflammation or regulating immune activity.",Contrast
+"Together, antigen recognition and cytokine release form the backbone of the immune response.",Summary
+Understanding these processes is key to comprehending how the immune system defends against pathogens.,Purpose

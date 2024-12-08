@@ -1,0 +1,9 @@
+Sentence 1,Sentence 2,Relationship
+"At high altitudes, the air pressure is lower, which means there is less oxygen available","To compensate, the body undergoes several physiological adaptations",Cause and Effect
+"To compensate, the body undergoes several physiological adaptations",One adaptation is an increase in red blood cell production,Cause and Effect
+One adaptation is an increase in red blood cell production,"This process, known as erythropoiesis, is triggered by the hormone erythropoietin, which signals the bone marrow to produce more red blood cells",Cause and Effect
+"This process, known as erythropoiesis, is triggered by the hormone erythropoietin, which signals the bone marrow to produce more red blood cells",These red blood cells are crucial for oxygen delivery because they carry oxygen through the bloodstream,Cause and Effect
+These red blood cells are crucial for oxygen delivery because they carry oxygen through the bloodstream,"The concentration of hemoglobin, the oxygen-carrying protein in red blood cells, often increases as well",Cause and Effect
+"The concentration of hemoglobin, the oxygen-carrying protein in red blood cells, often increases as well","Furthermore, breathing rate increases to take in more oxygen, and the body produces more oxygen-carrying molecules, such as hemoglobin",Cause and Effect
+"Furthermore, breathing rate increases to take in more oxygen, and the body produces more oxygen-carrying molecules, such as hemoglobin",This adjustment in blood composition and breathing patterns helps maintain adequate oxygen delivery to tissues,Cause and Effect
+This adjustment in blood composition and breathing patterns helps maintain adequate oxygen delivery to tissues,"These changes are essential for survival at high altitudes, where the body must adapt to the reduced oxygen levels",Cause and Effect

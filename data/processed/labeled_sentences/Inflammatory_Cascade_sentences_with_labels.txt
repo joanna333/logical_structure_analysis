@@ -1,0 +1,11 @@
+Sentence,Label
+"The key mediators include histamine, bradykinin, prostaglandins, and leukotrienes.",Definition
+"Histaminereleased by mast cells, increases vascular permeability, allowing fluid and white blood cells to move into the tissues.",Causal
+"Bradykininanother mediator, enhances vasodilation and increases vascular permeability, contributing to swelling.",Causal
+"Prostaglandinsincrease pain sensitivity and vasodilation, amplifying the inflammatory response.",Causal
+"Leukotrienesconstrict bronchioles and increase vascular permeability, playing a role in allergic reactions.",Causal
+"Following the release of these mediators, the endothelial cells express adhesion molecules, attracting leukocytes to the site.",Sequential
+"The recruited leukocytes, such as neutrophils and macrophages, thenrelease enzymes and reactive oxygen species to destroy pathogens.",Causal
+"This process also attracts more immune cells and activates the complement system, which marks pathogens for destruction.",Addition
+The inflammatory responseis a complex and coordinated series of events aimed at removing harmful stimuli and initiating tissue repair.,Generalization
+The key mediators and steps are crucial for understanding how the body responds to acute inflammation.,Clarification

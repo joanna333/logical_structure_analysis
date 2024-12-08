@@ -1,0 +1,9 @@
+Sentence,Label
+"The lymphatic system is a crucial part of the circulatory system, primarily responsible for fluid balance and immune function.",Definition
+Fluid balance is maintained as lymphatic vessels collect excess interstitial fluid and return it to the bloodstream.,Explanation
+The lymphatic system is essential for immune function because it carries lymphocytes and other immune cells throughout the body.,Explanation
+"Lymph nodes filter lymph, trapping pathogens and cancer cells, thus playing a vital role in immune defense.",Explanation
+The relationship between lymphatic flow and immune function is such that a healthy flow ensures the efficient transport of immune cells to sites of infection or injury.,Explanation
+"In contrast, a blocked or slowed lymphatic flow can lead to immune deficiencies and increased susceptibility to diseases.",Contrast
+"Understanding these mechanisms helps in diagnosing and treating lymphatic disorders, which can affect both fluid balance and immune response.",Purpose
+"In summary, lymphatic flow is vital for maintaining fluid balance and supporting immune function through the transportation of fluids and immune cells throughout the body.",Summary

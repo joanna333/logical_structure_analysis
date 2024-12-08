@@ -1,0 +1,13 @@
+Sentence,Label
+Alzheimer's is characterized by the buildup of amyloid-beta plaques and tau protein tangles.,Definition
+The cognitive decline in Alzheimer's is directly linked to these pathological changes.,Causal
+Memory loss and confusion are early symptoms due to these physiological alterations.,Explanation
+Neurofibrillary tangles and reduced synaptic connections are also observed.,Elaboration
+"Contrastingly, healthy brains maintain a balance of synaptic activity and neuronal integrity.",Contrast
+"The progression of Alzheimer's is not reversible, highlighting the importance of early intervention.",Generalization
+Research aims to understand these physiological changes to develop effective treatments.,Purpose
+Identifying the cause of these changes is crucial for potential therapies.,Clarification
+"Several risk factors, including genetics and lifestyle, contribute to the onset of Alzheimer's.",Enumeration
+Understanding these physiological changes helps in developing diagnostic tools.,Purpose
+The brain shrinkage seen in Alzheimer's is a visible sign of extensive neuronal loss.,Definition
+These changes ultimately impair brain function and lead to dementia.,Explanation

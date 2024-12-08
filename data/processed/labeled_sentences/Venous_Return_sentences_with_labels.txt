@@ -1,0 +1,7 @@
+Sentence,Label
+"Venous return is crucial for maintaining cardiac output, as it provides the necessary blood volume to fill the ventricles before they contract.",Explanation
+"The importance of venous return is emphasized by its role in ensuring that the heart receives sufficient blood, which is essential for its proper functioning and the body's overall circulation.",Emphasis
+"In contrast, when an individual is immobile, such as during a long period of bed rest, the lack of muscle contraction can hinder venous return, potentially reducing cardiac output.",Contrast
+"Venous valves play a critical role in ensuring unidirectional flow of blood towards the heart, which is essential for maintaining venous return and cardiac output.",Explanation
+"The efficiency of venous return is also influenced by the presence of compression from surrounding tissues and the effects of gravity, which can impede blood flow if not adequately countered.",Explanation
+Understanding these factors is vital for comprehending how the body maintains cardiac output and how disruptions in venous return can lead to cardiovascular issues.,Purpose

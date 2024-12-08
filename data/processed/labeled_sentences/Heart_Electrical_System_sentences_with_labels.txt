@@ -1,0 +1,12 @@
+Sentence,Label
+The heart's electrical conduction system is crucial for maintaining a regular heartbeat.,Definition
+"Following the signal from the SA node, the electrical impulse travels to the AV node.",Sequential
+"The AV node acts as a gateway, slowing the electrical signal to allow time for the ventricles to fill with blood.",Explanation
+"Once the signal passes through the AV node, it continues to the Purkinje fibers.",Sequential
+This coordinated sequence ensures that blood is efficiently pumped throughout the body.,Explanation
+"In contrast, if any part of this system malfunctions, it can lead to arrhythmias.",Contrast
+Understanding these components is vital for diagnosing and treating heart rhythm disorders.,Purpose
+"In summary, the SA node starts the heartbeat, the AV node regulates it, and the Purkinje fibers ensure efficient contraction.",Summary
+Each component plays a critical role in the electrical conduction system of the heart.,Emphasis
+"Together, they form a complex network that maintains the heart's rhythm and function.",Explanation
+Any disruption in this system can have serious implications for heart health.,Generalization

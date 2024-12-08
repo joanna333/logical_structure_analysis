@@ -1,0 +1,7 @@
+Sentence,Label
+"Stress hormones, like cortisol and adrenaline, play a crucial role in the body's response to stress.",Definition
+This immediate reaction is essential for survival in acute stress situations.,Explanation
+"Over time, prolonged exposure to stress hormones can have detrimental effects on health.",Definition
+The body's response to stress is a delicate balance between immediate survival and long-term health implications.,Generalization
+Understanding these roles helps in managing stress effectively.,Purpose
+"Thus, stress hormones are vital for immediate survival but must be managed to prevent long-term health issues.",Contrast

@@ -1,0 +1,13 @@
+Sentence,Label
+"The heart becomes more efficient at pumping blood, allowing it to deliver oxygen and nutrients to working muscles more effectively.",Explanation
+"With chronic exercise, the left ventricle of the heart enlarges, which enhances its ability to pump a larger volume of blood.",Explanation
+This adaptation is known as hypertrophy and is a positive response to regular physical activity.,Definition
+"In contrast, acute exercise causes temporary changes that do not alter the heart's structure permanently.",Contrast
+These adaptations help to improve overall cardiovascular health and performance during both acute and chronic exercise.,Generalization
+Regular exercise is essential for maintaining these beneficial cardiac adaptations.,Purpose
+Understanding these adaptations helps in designing exercise programs that optimize heart health.,Clarification
+The heart's ability to adapt to exercise is a testament to its resilience and efficiency.,Emphasis
+"Each type of exercise, whether acute or chronic, triggers specific responses that contribute to these adaptations.",Enumeration
+The heart's capacity to undergo these changes is crucial for sustaining physical activity over time.,Explanation
+"Without these adaptations, individuals might struggle to maintain an active lifestyle.",Inference
+"In summary, acute exercise triggers immediate changes, while chronic exercise leads to lasting structural adaptations.",Summary

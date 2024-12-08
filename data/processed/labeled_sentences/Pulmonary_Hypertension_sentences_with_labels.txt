@@ -1,0 +1,8 @@
+Sentence,Label
+Pulmonary hypertension is a condition where the blood pressure in the pulmonary artery rises above normal levels.,Definition
+The systemic effects of pulmonary hypertension are widespread and can be severe.,Generalization
+"Additionally, patients may experience dizziness, fainting, and fatigue due to reduced blood flow to the body.",Explanation
+"Pulmonary hypertension can worsen existing conditions like coronary artery disease or diabetes, complicating treatment.",Concession
+Monitoring and managing pulmonary hypertension is crucial to prevent these systemic effects and improve quality of life.,Purpose
+Understanding the pathophysiology and systemic effects helps in devising targeted treatments and management plans.,Explanation
+"Therefore, early detection and intervention are key to mitigating the impact of pulmonary hypertension on overall health.",Generalization

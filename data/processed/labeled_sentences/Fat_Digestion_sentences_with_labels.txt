@@ -1,0 +1,10 @@
+Sentence,Label
+The process of fat digestion begins with the breakdown of large fat droplets into smaller particles.,Sequential
+Bile is produced by the liver and stored in the gallbladder; it is released into the small intestine to aid in fat digestion.,Definition
+"Bile contains bile acids which help emulsify fats, breaking them down into smaller molecules.",Explanation
+"Lipase, an enzyme produced by the pancreas, is crucial for the next step; it breaks down the emulsified fats into fatty acids and glycerol.",Causal
+"Once broken down, the fatty acids can be absorbed by the intestinal walls.",Sequential
+"The intestinal walls contain villi, which increase the surface area for absorption.",Definition
+"The fatty acids then enter the lymphatic system, bypassing the bloodstream to prevent fat from being deposited in the wrong places.",Explanation
+"Once in the lymphatic system, they are transported to the bloodstream where they can be used by the body for energy.",Sequential
+This entire process is essential for the body to utilize fats from the diet effectively.,Purpose

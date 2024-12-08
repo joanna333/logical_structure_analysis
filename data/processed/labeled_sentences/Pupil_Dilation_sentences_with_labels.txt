@@ -1,0 +1,9 @@
+Sentence,Label
+The iris of the eye controls pupil dilation and constriction.,Definition
+"In low light conditions, the iris relaxes, allowing the pupil to dilate, letting more light enter the eye.",Explanation
+"Conversely, in bright light, the iris contracts, making the pupil smaller to reduce the amount of light entering the eye.",Explanation
+"The autonomic nervous system influences these changes, responding to light exposure and adjusting the pupil size accordingly.",Explanation
+"Pupil constriction and dilation are involuntary actions, controlled by the brain to optimize vision.",Explanation
+These processes are crucial for maintaining clear vision under varying light conditions.,Explanation
+Understanding these mechanisms helps in diagnosing eye disorders that affect pupil function.,Purpose
+"Thus, light sensitivity and the autonomic nervous system work together to adjust pupil size for optimal vision.",Addition

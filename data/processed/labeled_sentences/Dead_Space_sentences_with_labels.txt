@@ -1,0 +1,8 @@
+Sentence,Label
+"Physiological dead space refers to the parts of the respiratory system where air enters but does not participate in gas exchange, such as the trachea and bronchi.",Definition
+Anatomical dead space includes the conducting airways and the alveoli that do not exchange gases due to lack of blood supply.,Definition
+Anatomical dead space affects respiratory efficiency because it increases the volume of air that must be inhaled to achieve adequate gas exchange.,Effect
+"The larger the dead space, the less efficient the respiratory process becomes.",Generalization
+Efficient breathing requires minimizing both physiological and anatomical dead space.,Purpose
+Understanding dead space helps in managing respiratory conditions and optimizing breathing techniques.,Explanation
+"In summary, physiological and anatomical dead space impact respiratory efficiency negatively, affecting gas exchange and potentially leading to health issues.",Summary

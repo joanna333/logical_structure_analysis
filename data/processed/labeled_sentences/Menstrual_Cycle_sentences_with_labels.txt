@@ -1,0 +1,9 @@
+Sentence,Label
+The menstrual cycle is regulated by a complex interplay of hormones.,Definition
+Estrogen and progesterone are the primary hormones involved.,Definition
+Menstruation marks the start of a new cycle.,Explanation
+The hormonal regulation of the menstrual cycle is essential for reproduction.,Explanation
+Understanding these hormonal changes helps in comprehending the physiological effects of the menstrual cycle.,Explanation
+The menstrual cycle prepares the body for potential pregnancy and eliminates the uterine lining if conception does not occur.,Explanation
+The hormonal regulation of the menstrual cycle is a crucial aspect of female reproductive health.,Emphasis
+This balance ensures that the body is ready for reproduction when conditions are optimal.,Explanation

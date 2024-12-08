@@ -1,0 +1,15 @@
+Sentence 1,Sentence 2,Relationship
+"Proteinuria occurs when there is an abnormal amount of protein in the urine, which can be caused by  various underlying conditions","One common cause is kidney disease, where  the kidneys are damaged and cannot filter proteins properly",Cause and Effect
+"One common cause is kidney disease, where  the kidneys are damaged and cannot filter proteins properly","Another cause is high blood pressure, which  increases the pressure on the kidneys, leading to protein leakage",Cause and Effect
+"Another cause is high blood pressure, which  increases the pressure on the kidneys, leading to protein leakage",Proteinuria can have several physiological implications,Cause and Effect
+Proteinuria can have several physiological implications,"It often indicates  underlying kidney damage, as healthy kidneys retain proteins",Cause and Effect
+"It often indicates  underlying kidney damage, as healthy kidneys retain proteins","In severe cases,  it can lead to kidney failure",Cause and Effect
+"In severe cases,  it can lead to kidney failure","Additionally, excess protein in the urine can cause  swelling, as the body retains more fluid",Cause and Effect
+"Additionally, excess protein in the urine can cause  swelling, as the body retains more fluid","The presence of protein in the urine can also affect the kidneys' ability to filter waste products, potentially worsening kidney function over time",Cause and Effect
+"The presence of protein in the urine can also affect the kidneys' ability to filter waste products, potentially worsening kidney function over time","This is because proteins are essential for blood clotting and immune function, and their loss in urine can lead to systemic issues",Cause and Effect
+"This is because proteins are essential for blood clotting and immune function, and their loss in urine can lead to systemic issues","While some levels of proteinuria are mild and may not require immediate treatment,  severe proteinuria can be a sign of serious health problems that need prompt medical attention",Cause and Effect
+"While some levels of proteinuria are mild and may not require immediate treatment,  severe proteinuria can be a sign of serious health problems that need prompt medical attention","Proteinuria is a symptom that can occur in various conditions, not just kidney diseases",Cause and Effect
+"Proteinuria is a symptom that can occur in various conditions, not just kidney diseases",It can also be seen in other disorders like diabetes or inflammation,Cause and Effect
+It can also be seen in other disorders like diabetes or inflammation,"If left untreated, the proteinuria might increase, indicating progressive kidney damage",Cause and Effect
+"If left untreated, the proteinuria might increase, indicating progressive kidney damage","Therefore, it is crucial to identify and manage the underlying cause",Cause and Effect
+"Therefore, it is crucial to identify and manage the underlying cause","In summary, proteinuria is caused",Cause and Effect

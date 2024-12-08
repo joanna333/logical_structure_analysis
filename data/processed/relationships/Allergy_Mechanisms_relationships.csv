@@ -1,0 +1,12 @@
+Sentence 1,Sentence 2,Relationship
+Allergic reactions are complex immune responses to normally harmless substances,"The body mistakes these substances, known as allergens, for harmful invaders",Cause and Effect
+"The body mistakes these substances, known as allergens, for harmful invaders","IgE, or immunoglobulin E, plays a crucial role in allergic reactions",Cause and Effect
+"IgE, or immunoglobulin E, plays a crucial role in allergic reactions","When exposed to an allergen, IgE antibodies are produced in large quantities",Cause and Effect
+"When exposed to an allergen, IgE antibodies are produced in large quantities","These antibodies bind to mast cells, which are found in various tissues like the skin and lungs",Cause and Effect
+"These antibodies bind to mast cells, which are found in various tissues like the skin and lungs","Upon re-exposure to the same allergen, the IgE-bound mast cells are triggered",Cause and Effect
+"Upon re-exposure to the same allergen, the IgE-bound mast cells are triggered",This activation leads to the release of inflammatory mediators like histamine,Cause and Effect
+This activation leads to the release of inflammatory mediators like histamine,"Mast cells' degranulation causes the typical symptoms of an allergic response, such as itching, swelling, and mucus production",Cause and Effect
+"Mast cells' degranulation causes the typical symptoms of an allergic response, such as itching, swelling, and mucus production",The interaction between IgE and mast cells is essential for the allergic reaction to occur,Cause and Effect
+The interaction between IgE and mast cells is essential for the allergic reaction to occur,"Without IgE, mast cells would remain inactive to these specific allergens",Cause and Effect
+"Without IgE, mast cells would remain inactive to these specific allergens",Understanding these mechanisms helps in developing treatments to manage allergic conditions,Cause and Effect
+Understanding these mechanisms helps in developing treatments to manage allergic conditions,"Thus, IgE and mast cells are central to the mechanisms of allergic reactions",Cause and Effect

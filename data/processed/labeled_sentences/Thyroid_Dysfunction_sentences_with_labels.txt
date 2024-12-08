@@ -1,0 +1,7 @@
+Sentence,Label
+"Both conditions affect the body's metabolism, but they operate in opposite directions. Hyperthyroidism speeds up bodily functions, while hypothyroidism slows them down.",Comparison
+"Hyperthyroidism is characterized by an overactive thyroid, and hypothyroidism is defined by an underactive thyroid. Understanding these definitions is crucial for diagnosing and treating thyroid disorders effectively.",Definition
+"While hyperthyroidism leads to an increased metabolic rate, hypothyroidism results in a decreased metabolic rate. This contrast highlights the opposing effects of excessive and deficient thyroid hormone production.",Contrast
+"Treatment for hyperthyroidism often involves medications to reduce hormone production, while hypothyroidism treatment typically requires hormone replacement therapy. These treatments aim to restore the body's normal metabolic functions.",Addition
+"Many symptoms of hyperthyroidism and hypothyroidism are shared, such as changes in weight and mood. However, the direction and severity of these symptoms differ significantly between the two conditions.",Generalization
+"Given the contrasting effects of hyperthyroidism and hypothyroidism, it's important to accurately diagnose which condition is present to provide the correct",Inference

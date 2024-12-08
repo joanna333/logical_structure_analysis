@@ -1,0 +1,10 @@
+Sentence,Label
+"The liver possesses a remarkable regenerative capacity, which is a defining feature of its functionality.",Definition
+The liver's ability to regenerate is essential for maintaining homeostasis when a portion of the organ is damaged.,Explanation
+"Contrary to other organs, the liver can regenerate completely after significant damage, making it unique.",Contrast
+The process involves the activation of specific genes that promote cell division and tissue repair.,Elaboration
+"However, excessive alcohol consumption or chronic viral infections can impair this regenerative capacity.",Contrast
+"In summary, the liver's regenerative capacity is a crucial feature that allows it to recover from injuries, making it resilient.",Summary
+Understanding these processes is vital for developing treatments for liver diseases and injuries.,Purpose
+"In conclusion, the liver's regenerative ability is a complex process that involves precise cellular responses and genetic regulation.",Explanation
+"Despite its robust regenerative capacity, the liver can still suffer permanent damage if the injuries are severe or chronic.",Contrast

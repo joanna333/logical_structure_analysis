@@ -1,0 +1,17 @@
+Sentence,Label
+"Spinal reflexes are crucial for rapid, automatic responses to stimuli.",Definition
+"They bypass the brain, acting swiftly to protect the body.",Explanation
+"For instance, withdrawing your hand from a hot surface is a spinal reflex.",Illustration
+These reflexes are essential for quick survival actions.,Emphasis
+Spinal reflexes are a part of the autonomic nervous system.,Definition
+They help maintain homeostasis by regulating body functions automatically.,Explanation
+"Contrastingly, voluntary movements involve the brain and are slower.",Contrast
+Spinal reflexes ensure that certain movements occur without conscious thought.,Definition
+Understanding spinal reflexes is key to comprehending movement control.,Generalization
+"In summary, spinal reflexes are vital for immediate, protective movements.",Summary
+"Despite their simplicity, spinal reflexes play a significant role in daily life.",Emphasis
+Clarification is needed to understand how these reflexes operate independently of the brain.,Clarification
+"There are various types of spinal reflexes, such as the patellar reflex.",Enumeration
+Each type serves a specific function in maintaining bodily integrity.,Explanation
+"The knee jerk reflex is an example, triggered by tapping the patellar tendon.",Illustration
+The knee jerk reflex is a response to protect the lower body from harm.,Explanation

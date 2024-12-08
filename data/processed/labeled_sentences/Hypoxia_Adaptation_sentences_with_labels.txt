@@ -1,0 +1,9 @@
+Sentence,Label
+The body increases the production of red blood cells to enhance oxygen transport.,Explanation
+High altitude living often results in a higher respiratory rate to intake more oxygen.,Consequence
+This condition is known as chronic hypoxia.,Definition
+The heart beats faster to circulate blood more efficiently.,Explanation
+These adaptations are essential for survival in environments with reduced oxygen availability.,Purpose
+The body's response to chronic hypoxia at high altitudes is a clear example of adaptation.,Generalization
+"In summary, high altitude living necessitates physiological changes to compensate for lower oxygen levels.",Summary
+These adaptations are a testament to the body's ability to adjust to environmental challenges.,Emphasis

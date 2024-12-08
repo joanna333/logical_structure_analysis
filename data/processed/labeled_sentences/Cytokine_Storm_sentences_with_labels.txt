@@ -1,0 +1,12 @@
+Sentence,Label
+A cytokine storm is a severe immune response characterized by the overproduction of cytokines.,Definition
+Cytokines are small proteins that regulate inflammation and immune system activity.,Explanation
+The physiological aspect involves the normal immune system response gone awry.,Explanation
+"Symptoms include fever, shock, and respiratory distress.",Enumeration
+Cytokine storms are a serious medical emergency requiring immediate intervention.,Emphasis
+Understanding cytokine storms is crucial for developing better therapies for severe immune reactions.,Purpose
+"Despite advances, managing cytokine storms remains a challenge due to their complexity and rapid progression.",Generalization
+Research continues to explore ways to specifically target the cytokines involved without suppressing the entire immune system.,Generalization
+A cytokine storm highlights the delicate balance of the immune response that must be maintained for health.,Explanation
+"Failure to control a cytokine storm can have dire consequences, underscoring the need for rapid diagnosis and treatment.",Emphasis
+"In summary, a cytokine storm is a life-threatening condition where the immune system overreacts, leading to widespread tissue damage.",Summary

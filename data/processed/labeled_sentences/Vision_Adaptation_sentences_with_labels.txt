@@ -1,0 +1,9 @@
+Sentence,Label
+The visual system undergoes two primary processes: light adaptation and dark adaptation.,Definition
+Light adaptation occurs when the eyes adjust to an increase in light intensity.,Definition
+"Conversely, dark adaptation happens when the eyes adjust to a decrease in light intensity.",Definition
+"The visual system takes time to fully adapt to darkness, as rhodopsin, a light-sensitive pigment, needs to rebuild.",Explanation
+"In contrast, light adaptation occurs almost immediately, making it faster than dark adaptation.",Comparison
+Both processes are essential for the visual system to function effectively in varying light conditions.,Generalization
+Understanding these processes helps in appreciating how the eye adapts to different lighting environments.,Purpose
+"In summary, light adaptation and dark adaptation are crucial for the visual system to adjust to different levels of light, ensuring optimal vision.",Summary

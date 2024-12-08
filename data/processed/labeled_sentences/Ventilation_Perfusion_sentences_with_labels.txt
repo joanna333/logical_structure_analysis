@@ -1,0 +1,6 @@
+Sentence,Label
+Ventilation-perfusion matching is crucial for efficient gas exchange in the lungs.,Definition
+"Without proper matching, oxygen cannot effectively move from the lungs into the bloodstream, and carbon dioxide cannot be adequately removed.",Explanation
+This matching occurs when alveolar ventilation equals pulmonary blood flow.,Definition
+The importance lies in maintaining adequate oxygen levels and removing carbon dioxide to sustain life.,Emphasis
+"Therefore, ventilation-perfusion matching is essential for gas exchange and overall health.",Summary

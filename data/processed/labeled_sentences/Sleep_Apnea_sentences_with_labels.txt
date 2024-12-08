@@ -1,0 +1,8 @@
+Sentence,Label
+"Men are more likely to be diagnosed with OSA than women, although the risk increases in women after menopause.",Comparison
+"High blood pressure and type 2 diabetes are often associated with OSA, highlighting the condition's systemic effects.",Explanation
+"Central sleep apnea, though less common, occurs when the brain fails to send proper signals to the breathing muscles.",Definition
+"Despite the differences, both obstructive and central sleep apnea share the risk factor of aging, as the muscles and brain functions can deteriorate over time.",Comparison
+"It's crucial to recognize the signs of OSA, such as loud snoring and daytime sleepiness, to seek medical advice promptly.",Emphasis
+"Continuous positive airway pressure (CPAP) therapy is a common treatment for OSA, keeping the airways open during sleep.",Definition
+"Even with treatment, some individuals may experience residual symptoms, underscoring the complexity of OSA management.",Elaboration

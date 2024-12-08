@@ -1,0 +1,16 @@
+Sentence 1,Sentence 2,Relationship
+The lung volumes and capacities are crucial in understanding respiratory function,Tidal volume is the amount of air inhaled or exhaled during normal breathing,Definition
+Tidal volume is the amount of air inhaled or exhaled during normal breathing,Inspiratory reserve volume is the additional air that can be inhaled beyond the normal tidal volume,Definition
+Inspiratory reserve volume is the additional air that can be inhaled beyond the normal tidal volume,Expiratory reserve volume is the extra air that can be exhaled after the normal tidal exhalation,Definition
+Expiratory reserve volume is the extra air that can be exhaled after the normal tidal exhalation,Residual volume is the air remaining in the lungs after a maximal exhalation,Definition
+Residual volume is the air remaining in the lungs after a maximal exhalation,Vital capacity is the maximum amount of air that can be exhaled after a maximal inhalation,Definition
+Vital capacity is the maximum amount of air that can be exhaled after a maximal inhalation,"Total lung capacity is the sum of all lung volumes, including residual volume",Definition
+"Total lung capacity is the sum of all lung volumes, including residual volume","These volumes and capacities are measured using spirometry, a respiratory function test",Definition
+"These volumes and capacities are measured using spirometry, a respiratory function test",Understanding these measurements helps diagnose respiratory conditions and assess lung health,Cause and Effect
+Understanding these measurements helps diagnose respiratory conditions and assess lung health,Tidal volume and vital capacity are particularly significant for everyday breathing and physical activity,Cause and Effect
+Tidal volume and vital capacity are particularly significant for everyday breathing and physical activity,"If a person's vital capacity is reduced, it may indicate respiratory issues like asthma or COPD",Cause and Effect
+"If a person's vital capacity is reduced, it may indicate respiratory issues like asthma or COPD",Respiratory therapists use knowledge of these lung volumes to create treatment plans for patients,Cause and Effect
+Respiratory therapists use knowledge of these lung volumes to create treatment plans for patients,Each lung volume serves a specific purpose in maintaining optimal respiratory function,Cause and Effect
+Each lung volume serves a specific purpose in maintaining optimal respiratory function,The contrast between normal and abnormal lung function volumes can highlight health disparities,Contrast
+The contrast between normal and abnormal lung function volumes can highlight health disparities,Measurement of these capacities is essential for assessing the effectiveness of respiratory interventions,Contrast
+Measurement of these capacities is essential for assessing the effectiveness of respiratory interventions,Spirometry is a non-invasive test that provides critical,Cause and Effect

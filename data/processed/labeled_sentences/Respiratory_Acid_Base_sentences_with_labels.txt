@@ -1,0 +1,10 @@
+Sentence,Label
+The body has several mechanisms to compensate for this acid buildup.,Explanation
+,Sequential
+"On the other hand, in respiratory alkalosis, which happens when there's a decrease in carbon dioxide levels, the body compensates by retaining more carbon dioxide.",Comparison
+This retention helps to counteract the blood's becoming too alkaline.,Explanation
+The kidneys also play a role in compensation by excreting bicarbonate to further buffer the blood.,Addition
+"These compensatory mechanisms work to maintain the blood's pH within a narrow range, which is crucial for normal bodily functions.",Explanation
+"In summary, the body uses both respiratory and renal mechanisms to correct pH imbalances caused by respiratory acidosis or alkalosis.",Summary
+Understanding these compensation mechanisms is key to managing respiratory disorders effectively.,Purpose
+"By recognizing how the body naturally adjusts pH levels, healthcare professionals can better diagnose and treat conditions leading to acid-base imbalances.",Explanation

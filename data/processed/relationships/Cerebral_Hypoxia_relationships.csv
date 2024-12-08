@@ -1,0 +1,17 @@
+Sentence 1,Sentence 2,Relationship
+"Hypoxia, a condition of inadequate oxygen supply to the body's tissues, particularly the brain, has severe effects","The brain, being highly sensitive to oxygen levels, suffers first",Cause and Effect
+"The brain, being highly sensitive to oxygen levels, suffers first","Without oxygen, brain cells begin to die, leading to cognitive impairment",Cause and Effect
+"Without oxygen, brain cells begin to die, leading to cognitive impairment","To compensate, the body activates several mechanisms",Cause and Effect
+"To compensate, the body activates several mechanisms","One such mechanism is the release of erythropoietin, stimulating the production of red blood cells",Cause and Effect
+"One such mechanism is the release of erythropoietin, stimulating the production of red blood cells",This increases oxygen carrying capacity in the blood,Cause and Effect
+This increases oxygen carrying capacity in the blood,Another compensatory response is the increase in respiratory rate,Cause and Effect
+Another compensatory response is the increase in respiratory rate,The body attempts to take in more oxygen,Cause and Effect
+The body attempts to take in more oxygen,"This helps to some extent, but it's not always sufficient to prevent damage",Cause and Effect
+"This helps to some extent, but it's not always sufficient to prevent damage",Hypoxia can lead to confusion and impaired judgment,Cause and Effect
+Hypoxia can lead to confusion and impaired judgment,These symptoms are due to the brain's inability to function optimally without adequate oxygen,Cause and Effect
+These symptoms are due to the brain's inability to function optimally without adequate oxygen,The brain also tries to conserve oxygen by reducing non-essential activities,Cause and Effect
+The brain also tries to conserve oxygen by reducing non-essential activities,This includes slowing down metabolic processes,Cause and Effect
+This includes slowing down metabolic processes,"Despite these compensatory mechanisms, prolonged hypoxia can lead to irreversible brain damage",Cause and Effect
+"Despite these compensatory mechanisms, prolonged hypoxia can lead to irreversible brain damage",This underscores the critical importance of oxygen for brain health,Cause and Effect
+This underscores the critical importance of oxygen for brain health,"In summary, hypoxia affects the brain by causing cell death and impairing function, and the body tries to compensate through increased red blood cell production, respiratory rate, and metabolic reduction",Cause and Effect
+"In summary, hypoxia affects the brain by causing cell death and impairing function, and the body tries to compensate through increased red blood cell production, respiratory rate, and metabolic reduction","However, these mechanisms may not always prevent damage, especially if hypoxia is prolonged",Cause and Effect

@@ -1,0 +1,7 @@
+Sentence,Label
+The countercurrent multiplication system in the kidney is a crucial mechanism for urine concentration.,Definition
+This system involves a series of tubules where fluid flows in opposite directions.,Definition
+This process concentrates urine up to about 300 times.,Result
+The countercurrent multiplication system is essential for conserving water in the body.,Purpose
+It demonstrates an efficient use of energy and resources.,Explanation
+"In summary, the countercurrent multiplication system in the kidney plays a vital role in urine concentration by utilizing a series of tubules with opposing fluid flows to create a gradient and concentrate urine effectively.",Summary

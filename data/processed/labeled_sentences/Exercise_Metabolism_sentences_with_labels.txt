@@ -1,0 +1,8 @@
+Sentence,Label
+"During exercise, the body's energy demands increase, and  as a result, metabolic changes occur.  One of the primary metabolic changes is an increase in substrate utilization.",Causal
+"The body turns to glycogen stored in the muscles and liver for -[Cause and Effect]- energy production through glycolysis.  This process is initiated to quickly provide ATP, the energy currency of the cell, to contracting muscles.",Causal
+"When glycogen stores are depleted, -[Cause and Effect]- the body begins to utilize fats and, to a lesser extent, proteins for energy.  This shift is a metabolic adaptation to sustain exercise over longer periods.",Explanation
+"Fats are broken down into fatty acids, which are then  transported to the mitochondria for beta-oxidation.  This process generates acetyl CoA, which enters the Krebs cycle to produce NADH and FADH2.",Sequential
+"The increased demand for ATP during exercise also stimulates  the release of hormones like adrenaline and cortisol.  These hormones facilitate the mobilization of glucose from the bloodstream, ensuring a continuous energy supply.",Causal
+"Muscle cells undergo changes such as increased capillary density and mitochondria proliferation,  which enhance their ability to utilize substrates more efficiently.  These adaptations are long-term responses to regular exercise, improving overall metabolic capacity.",Elaboration
+"In summary, exercise triggers a cascade of metabolic changes focused on increasing energy production and substrate utilization.  The body dynamically switches between different substrates and metabolic pathways to",Summary

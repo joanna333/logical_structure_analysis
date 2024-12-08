@@ -1,0 +1,17 @@
+Sentence 1,Sentence 2,Relationship
+Antigen presentation is a crucial process in the immune system,The process involves presenting antigens to T-cells,Cause and Effect
+The process involves presenting antigens to T-cells,This presentation is essential for immune activation,Cause and Effect
+This presentation is essential for immune activation,"Without antigen presentation, the immune system cannot recognize pathogens",Cause and Effect
+"Without antigen presentation, the immune system cannot recognize pathogens","T-cells, specifically helper T-cells, need to see antigens to be activated",Cause and Effect
+"T-cells, specifically helper T-cells, need to see antigens to be activated","Once activated, helper T-cells signal to other immune cells to mount an immune response",Cause and Effect
+"Once activated, helper T-cells signal to other immune cells to mount an immune response","Antigen presentation, therefore, is a key step in initiating an immune response",Cause and Effect
+"Antigen presentation, therefore, is a key step in initiating an immune response",The relationship between antigen presentation and immune activation is sequential,Cause and Effect
+The relationship between antigen presentation and immune activation is sequential,"First, antigens are processed and presented by antigen-presenting cells",Temporal Sequence
+"First, antigens are processed and presented by antigen-presenting cells","Then, T-cells are activated, leading to a broader immune response",Temporal Sequence
+"Then, T-cells are activated, leading to a broader immune response",This process highlights the importance of antigen presentation in immune defense,Cause and Effect
+This process highlights the importance of antigen presentation in immune defense,"In summary, antigen presentation is a fundamental process that activates the immune system by enabling T-cells to recognize pathogens",Cause and Effect
+"In summary, antigen presentation is a fundamental process that activates the immune system by enabling T-cells to recognize pathogens",Understanding this process is vital for comprehending how the immune system functions,Cause and Effect
+Understanding this process is vital for comprehending how the immune system functions,Clarification of these steps helps in identifying potential points of failure in immune responses,Cause and Effect
+Clarification of these steps helps in identifying potential points of failure in immune responses,"In contrast, if antigens are not properly presented, the immune system may fail to respond effectively",Cause and Effect
+"In contrast, if antigens are not properly presented, the immune system may fail to respond effectively","Thus, antigen presentation is not just a step but a critical mechanism ensuring the immune system's readiness against infections",Cause and Effect
+"Thus, antigen presentation is not just a step but a critical mechanism ensuring the immune system's readiness against infections",The relationship between antigen presentation and immune activation is complex yet structured,Cause and Effect

@@ -1,0 +1,8 @@
+Sentence,Label
+The renin-angiotensin-aldosterone system (RAAS) is a crucial physiological system that plays a vital role in regulating blood pressure and fluid balance within the body.,Definition
+Angiotensin I is then formed when renin acts on a protein precursor.,Sequential
+"Angiotensin I is converted to angiotensin II, a powerful vasoconstrictor, by angiotensin-converting enzyme (ACE).",Sequential
+"Angiotensin II increases blood pressure by constricting blood vessels, thereby enhancing vascular resistance.",Explanation
+"Additionally, angiotensin II stimulates the adrenal glands to secrete aldosterone, which promotes sodium reabsorption in the kidneys.",Explanation
+"The RAAS is tightly regulated to maintain homeostasis, ensuring that blood pressure and fluid balance are maintained within narrow limits.",Explanation
+Understanding the renin-angiotensin-aldosterone system is essential for comprehending how the body controls and maintains blood pressure and fluid balance.,Explanation

@@ -1,0 +1,15 @@
+Sentence,Label
+Antigen presentation is a crucial process in the immune system.,Definition
+The process involves presenting antigens to T-cells.,Process
+"Without antigen presentation, the immune system cannot recognize pathogens.",Explanation
+"T-cells, specifically helper T-cells, need to see antigens to be activated.",Causal
+"Once activated, helper T-cells signal to other immune cells to mount an immune response.",Consequence
+"Antigen presentation, therefore, is a key step in initiating an immune response.",Summary
+"First, antigens are processed and presented by antigen-presenting cells.",Sequential
+"Then, T-cells are activated, leading to a broader immune response.",Sequential
+This process highlights the importance of antigen presentation in immune defense.,Emphasis
+"In summary, antigen presentation is a fundamental process that activates the immune system by enabling T-cells to recognize pathogens.",Summary
+Understanding this process is vital for comprehending how the immune system functions.,Purpose
+Clarification of these steps helps in identifying potential points of failure in immune responses.,Clarification
+"In contrast, if antigens are not properly presented, the immune system may fail to respond effectively.",Contrast
+"Thus, antigen presentation is not just a step but a critical mechanism ensuring the immune system's readiness against infections.",Emphasis

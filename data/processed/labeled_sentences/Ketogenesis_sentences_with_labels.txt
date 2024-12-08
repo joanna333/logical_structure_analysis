@@ -1,0 +1,9 @@
+Sentence,Label
+Ketogenesis is a metabolic pathway that produces ketone bodies from fatty acids in the liver.,Definition
+"The physiological significance of ketogenesis is to provide an alternative fuel source for tissues, particularly the brain, when glucose is scarce.",Explanation
+"During ketogenesis, fatty acids are broken down into acetyl CoA, which is then converted into ketone bodies like acetoacetate, beta-hydroxybutyrate, and acetone.",Elaboration
+"Ketone bodies serve as an energy source for various tissues, including muscle and brain cells, which can utilize them in the absence of glucose.",Explanation
+Ketogenesis is crucial for maintaining homeostasis and preventing hypoglycemia when glucose levels are low.,Explanation
+"In contrast to glycolysis, which breaks down glucose for energy, ketogenesis is activated under different metabolic conditions.",Contrast
+"Understanding ketogenesis is essential for managing conditions like diabetes and epilepsy, where controlling ketone production is crucial.",Generalization
+"In summary, ketogenesis is a vital process that ensures energy supply when glucose is limited, protecting the body from hypoglycemia and providing an alternative fuel source.",Summary

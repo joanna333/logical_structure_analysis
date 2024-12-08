@@ -1,0 +1,9 @@
+Sentence,Label
+Hyperbaric conditions involve breathing in air or oxygen under increased atmospheric pressure.,Definition
+Hyperbaric oxygen therapy (HBOT) uses these conditions therapeutically to enhance oxygen delivery to tissues.,Purpose
+"It is also used to treat carbon monoxide poisoning, wound healing issues, and infections like gangrene.",Addition
+"The increased pressure allows oxygen to dissolve more in the blood, reaching areas with poor circulation.",Explanation
+"Despite its benefits, hyperbaric therapy must be administered carefully to avoid adverse effects.",Emphasis
+"In summary, hyperbaric conditions can have both harmful and beneficial impacts on the body, depending on the context and control.",Summary
+Understanding these effects is crucial for safe and effective therapeutic applications.,Clarification
+The key is to harness the pressure and oxygen concentration for healing without causing harm.,Purpose

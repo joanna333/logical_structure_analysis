@@ -1,0 +1,8 @@
+Sentence,Label
+Ventilation-perfusion matching in the lungs is crucial for efficient gas exchange.,Definition
+"This mismatch can occur due to various factors, such as lung diseases or physical obstruction.",Explanation
+"When ventilation is low, not enough oxygen reaches the alveoli, and carbon dioxide cannot be expelled effectively.",Explanation
+"Conversely, if perfusion is reduced, blood flow to the alveoli is insufficient, leading to poor gas exchange.",Explanation
+Maintaining proper ventilation and perfusion is essential for healthy lung function.,Generalization
+Understanding ventilation-perfusion matching helps in diagnosing and treating respiratory issues.,Purpose
+"In summary, ventilation-perfusion matching is vital for gas exchange, and mismatches can lead to serious health complications.",Summary

@@ -1,0 +1,5 @@
+Sentence,Label
+"Postural (orthostatic) hypotension occurs when standing up from a seated or lying position, leading to a sudden drop in blood pressure.",Definition
+The body normally compensates for this change by increasing heart rate and constricting blood vessels to maintain blood flow to the brain.,Explanation
+"Standing up too quickly can exacerbate this condition, as it gives the body less time to adjust to the change in position.",Sequential
+"In summary, postural hypotension is a drop in blood pressure upon standing, caused by the body's failure to maintain adequate circulation.",Summary

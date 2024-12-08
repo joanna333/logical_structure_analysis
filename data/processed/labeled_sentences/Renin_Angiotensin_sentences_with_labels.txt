@@ -1,0 +1,10 @@
+Sentence,Label
+The renin-angiotensin system plays a crucial role in blood pressure regulation.,Definition
+"Renin, an enzyme produced by the kidneys, is the starting point of this system.",Explanation
+"Renin then converts angiotensin I from angiotensinogen, a protein produced by the liver.",Explanation
+"Angiotensin II is a powerful vasoconstrictor, narrowing blood vessels and increasing blood pressure.",Explanation
+"It also stimulates the secretion of aldosterone from the adrenal glands, which increases sodium reabsorption in the kidneys.",Explanation
+The renin-angiotensin system thus helps maintain homeostasis by adjusting blood pressure in response to changes in fluid balance.,Explanation
+"However, its activity can be dysregulated in conditions like hypertension, highlighting its importance in blood pressure control.",Emphasis
+Understanding the renin-angiotensin system is essential for developing treatments targeting blood pressure regulation.,Purpose
+"In summary, the renin-angiotensin system is a key player in maintaining blood pressure through a series of hormonal actions.",Summary

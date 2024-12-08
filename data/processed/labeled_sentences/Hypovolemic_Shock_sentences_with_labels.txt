@@ -1,0 +1,11 @@
+Sentence,Label
+"Hypovolemic shock occurs when there is a significant reduction in blood volume, leading to -[Cause and Effect]- inadequate blood flow to vital organs. The body's initial response is to  increase heart rate and contractility to maintain blood pressure.",Causal
+"The blood vessels constrict to further increase blood pressure, a mechanism known as vasoconstriction.",Sequential
+"This constriction helps to shunt blood to essential organs, but it also increases resistance against which the heart must pump, potentially worsening the situation.",Explanation
+The heart's increased effort is a compensatory mechanism called tachycardia.,Definition
+"The kidneys release renin, which leads to the production of angiotensin II, a powerful vasoconstrictor, contributing to blood pressure elevation.",Addition
+These responses are crucial for the body to try and maintain adequate perfusion to critical tissues.,Emphasis
+"However, if blood loss continues or if these compensatory mechanisms are insufficient, shock can progress to a life-threatening condition.",Elaboration
+"Imagine the body as a network; when the volume of fluid in the pipes (blood vessels) decreases, the pump (heart) has to work harder and narrower paths (vessels) are used to deliver blood to vital areas.",Illustration
+"Despite these efforts, hypoxia and organ dysfunction can occur if the blood supply is still insufficient, contrasting the body's initial attempts to preserve function.",Contrast
+"Generally,",Generalization

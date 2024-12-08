@@ -1,0 +1,6 @@
+Sentence,Label
+The retina is a layer at the back of the eye that plays a crucial role in vision.,Definition
+These electrical signals then travel along the optic nerve to the brain.,Sequential
+The brain processes these signals to form the visual image we perceive.,Explanation
+"Without the retina's initial processing, the brain would not receive the necessary information to create vision.",Concession
+"Thus, the retina is essential for converting light into visual information that the brain can interpret.",Summary

@@ -1,0 +1,10 @@
+Sentence,Label
+Glomerular filtration is the process by which blood plasma is filtered in the kidneys to form urine.,Definition
+"The kidneys receive blood through the renal artery, and this blood enters the glomerulus.",Sequential
+"The filtrate, which is now urine, contains water, ions, and small molecules but not blood cells or large proteins.",Explanation
+Regulation of glomerular filtration is crucial to maintain fluid and electrolyte balance in the body.,Emphasis
+"The primary regulators include blood pressure, glomerular capillary hydrostatic pressure, and colloid osmotic pressure.",Definition
+The kidneys also adjust filtration based on the osmotic pressure of plasma proteins.,Explanation
+This process helps to fine-tune the amount of water reabsorbed into the bloodstream.,Explanation
+"The net filtration pressure, a combination of these pressures, determines the rate of filtration.",Definition
+The kidneys use hormones like angiotensin II and aldosterone to further regulate filtration.,Explanation

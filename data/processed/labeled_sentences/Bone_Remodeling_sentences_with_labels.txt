@@ -1,0 +1,11 @@
+Sentence,Label
+Bone remodeling is a continuous process where old bone is removed and new bone is formed.,Definition
+Osteoclasts are specialized cells that break down bone tissue through a process called resorption.,Definition
+"Osteoblasts, on the other hand, are cells responsible for new bone formation.",Definition
+"Osteoclasts are then recruited to the site to remove old bone, creating a path for new bone growth.",Sequential
+The balance between osteoclast and osteoblast activity is essential for maintaining bone strength and structure.,Explanation
+"Osteoporosis, a condition of weakened bones, can occur when osteoclast activity outpaces osteoblast activity.",Explanation
+"Thus, mechanical stress is not only a factor in bone strength but also in the regulation of bone remodeling processes.",Explanation
+"In summary, osteoclasts break down bone, osteoblasts build it up, and mechanical stress influences this cycle.",Summary
+Understanding these processes helps in comprehending how bones adapt to mechanical demands.,Explanation
+This balance ensures bones can withstand daily forces and heal after injuries.,Explanation

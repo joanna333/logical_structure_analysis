@@ -1,0 +1,12 @@
+Sentence,Label
+"During puberty, hormonal changes occur in the body, initiating physical development.",Definition
+These hormonal changes include the increase of sex hormones like estrogen in girls and testosterone in boys.,Explanation
+"Girls experience breast development and the start of menstruation, while boys see growth in their muscles and voice deepening.",Comparison
+These physiological effects prepare the body for reproduction.,Explanation
+These fluctuations are part of the transition into adulthood.,Generalization
+The end result is the transformation from childhood to adult physical and emotional capabilities.,Summary
+Puberty is a crucial period where hormonal changes have significant impacts on the body.,Emphasis
+Understanding these changes helps in navigating the challenges and transitions of this stage of life.,Purpose
+It's important to recognize that these hormonal changes are normal and essential for development.,Clarification
+Several hormones work together to bring about the diverse effects seen during puberty.,Enumeration
+"Thus, puberty is a pivotal time marked by hormonal shifts with profound effects on the body and psyche.",Summary

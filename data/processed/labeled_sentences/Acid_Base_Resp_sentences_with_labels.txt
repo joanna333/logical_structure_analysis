@@ -1,0 +1,10 @@
+Sentence,Label
+The respiratory system plays a crucial role in acid-base balance through a process called respiratory compensation.,Definition
+"This increase in ventilation serves to expel more carbon dioxide, which is converted to bicarbonate in the blood, thus acting to correct the acidosis.",Explanation
+"Conversely, in metabolic alkalosis, the respiratory system compensates by decreasing ventilation, retaining more carbon dioxide and thus lowering blood pH.",Explanation
+The relationship between respiratory changes and pH is a key mechanism for maintaining homeostasis.,Generalization
+"Respiratory compensation is rapid compared to renal compensation, making it the immediate response to acid-base imbalances.",Comparison
+Understanding this relationship is essential for diagnosing and managing acid-base disorders effectively.,Purpose
+"In summary, the respiratory system is vital for correcting metabolic imbalances by adjusting carbon dioxide levels, thereby influencing blood pH.",Summary
+"In cases of severe acid-base disturbances, both respiratory and renal mechanisms may be required for adequate compensation.",Generalization
+The respiratory system's role in acid-base balance is a testament to the body's intricate mechanisms for maintaining homeostasis.,Emphasis

@@ -1,0 +1,9 @@
+Sentence,Label
+"Acute stress is a sudden response to a stressful event, and it is often characterized by increased heart rate and adrenaline.",Definition
+"Chronic stress, on the other hand, occurs when the stress response is prolonged over a longer period, and it can lead to more serious health issues.",Definition
+"Chronic stress, , can have a contrastive emphasis on long-term impacts, affecting the immune system and mental health.",Contrast
+"The systemic impacts of acute stress are generally short-lived, while chronic stress can lead to more severe health problems such as heart disease and depression.",Comparison
+"Managing acute stress often involves quick relief strategies, whereas chronic stress requires long-term management and lifestyle changes.",Addition
+Understanding the difference between acute and chronic stress is crucial for effective stress management and prevention of systemic health issues.,Purpose
+Identifying stress as acute or chronic helps in clarifying the kind of support and interventions needed.,Clarification
+"In summary, acute stress is a short-term response, while chronic stress is a prolonged condition with more significant systemic impacts.",Summary

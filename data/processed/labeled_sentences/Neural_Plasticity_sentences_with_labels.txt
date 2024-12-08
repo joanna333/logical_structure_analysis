@@ -1,0 +1,8 @@
+Sentence,Label
+Neural plasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life.,Definition
+"For instance, after a stroke, neural plasticity can help the brain relearn movements by strengthening connections in healthy parts of the brain.",Illustration
+"In contrast, without neural plasticity, the brain would be less capable of adapting to changes or injuries, potentially leading to more severe and long-lasting deficits.",Contrast
+Understanding neural plasticity is essential for developing effective rehabilitation strategies that harness the brain's ability to heal and adapt.,Purpose
+"In summary, neural plasticity is a fundamental property of the brain that supports learning and recovery, making it a key area of study in neuroscience.",Summary
+"Despite its importance, the mechanisms of neural plasticity are complex and not fully understood, which presents a challenge for researchers.",Explanation
+"In conclusion, neural plasticity is a dynamic process that underlies the brain's capacity to learn and adapt, playing a critical role in both normal development and recovery from injury.",Summary

@@ -1,0 +1,11 @@
+Sentence,Label
+The kidneys play a crucial role in renal compensation for acid-base imbalances such as acidosis and alkalosis.,Definition
+"In contrast, during alkalosis, the kidneys conserve hydrogen ions and excrete bicarbonate to lower the blood's pH.",Contrast
+These adjustments are part of the body's homeostatic mechanisms to maintain a narrow pH range.,Explanation
+The kidneys' ability to compensate for acid-base imbalances is essential for survival.,Emphasis
+"However, if the kidneys cannot compensate adequately, other organs may become involved to correct the pH.",Addition
+Understanding these mechanisms is vital for diagnosing and treating acid-base disorders effectively.,Purpose
+"In summary, the kidneys adjust the excretion and reabsorption of hydrogen ions and bicarbonate to correct pH imbalances, whether the condition is acidosis or alkalosis.",Summary
+"In cases where renal compensation fails, other compensatory mechanisms must be considered.",Generalization
+The relationship between the kidneys and acid-base balance is a prime example of homeostasis in action.,Explanation
+"Each mechanism has a specific role, and the interplay between them ensures the body's pH remains stable.",Addition

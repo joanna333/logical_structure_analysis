@@ -1,0 +1,5 @@
+Sentence,Label
+"Ischemia occurs when blood flow to a tissue or organ is restricted, leading to a lack of oxygen and nutrients.",Definition
+"Reperfusion injury happens when blood flow is restored after a period of ischemia, causing further cellular damage.",Definition
+"Therefore, managing reperfusion injury is crucial to minimize the overall damage caused by ischemia.",Explanation
+"In summary, ischemia deprives tissues of oxygen, leading to cellular damage, and reperfusion injury exacerbates this damage through additional mechanisms.",Summary

@@ -1,0 +1,7 @@
+Sentence,Label
+The regulation of blood osmolarity is crucial for maintaining homeostasis within the body.,Explanation
+"Osmolarity refers to the concentration of osmotically active particles in a solution, which directly affects the volume of body fluids.",Definition
+"When osmolarity becomes too high, meaning the blood is too concentrated, the body activates several mechanisms to restore balance.",Explanation
+"Aldosterone, a steroid hormone produced by the adrenal glands, also influences osmolarity by affecting sodium reabsorption.",Explanation
+"The reabsorption of water and sodium is tightly linked; as sodium is reabsorbed, water follows to maintain osmotic balance.",Addition
+The interaction between ADH and aldosterone ensures that water reabsorption is both efficient and precisely regulated.,Emphasis

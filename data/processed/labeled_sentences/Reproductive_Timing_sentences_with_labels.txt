@@ -1,0 +1,4 @@
+Sentence,Label
+"Hormonal regulation plays a crucial role in the timing of reproductive events, ensuring that these events occur in a precise order. ' Without hormones, the body would not be able to coordinate the complex processes involved in reproduction.",Explanation
+"The pituitary gland and ovaries, for example, work together to control the menstrual cycle, with hormones like estrogen and progesterone influencing the timing of ovulation and menstruation. ' When hormone levels drop, the uterus lining sheds, leading to menstruation.",Explanation
+"Hormonal regulation ensures that these events are timed correctly, maintaining the reproductive system's health and readiness for potential fertilization. ' Any disruption in this hormonal balance can lead to reproductive issues.",Explanation

@@ -1,0 +1,11 @@
+Sentence 1,Sentence 2,Relationship
+Pleural pressure is a crucial factor in lung expansion and ventilation,Pleural pressure is the pressure difference between the pleural cavity and the atmosphere,Cause and Effect
+Pleural pressure is the pressure difference between the pleural cavity and the atmosphere,Chest expansion increases pleural pressure in the lungs during inhalation,Cause and Effect
+Chest expansion increases pleural pressure in the lungs during inhalation,The increase in pleural pressure relative to atmospheric pressure helps expand the lungs,Cause and Effect
+The increase in pleural pressure relative to atmospheric pressure helps expand the lungs,This lung expansion allows for air to flow into the respiratory passages,Cause and Effect
+This lung expansion allows for air to flow into the respiratory passages,"Pleural pressure decreases during exhalation, facilitating the expulsion of air from the lungs",Cause and Effect
+"Pleural pressure decreases during exhalation, facilitating the expulsion of air from the lungs",The balance of pleural pressure is essential for maintaining lung volume and facilitating gas exchange,Cause and Effect
+The balance of pleural pressure is essential for maintaining lung volume and facilitating gas exchange,"Without pleural pressure, the lungs would collapse during exhalation, hindering ventilation",Cause and Effect
+"Without pleural pressure, the lungs would collapse during exhalation, hindering ventilation","Thus, pleural pressure plays a vital role in the mechanics of breathing",Cause and Effect
+"Thus, pleural pressure plays a vital role in the mechanics of breathing",Understanding pleural pressure is key to comprehending how the lungs function properly,Cause and Effect
+Understanding pleural pressure is key to comprehending how the lungs function properly,"In summary, pleural pressure is essential for lung expansion and ventilation, maintaining the necessary pressure differentials for breathing to occur",Cause and Effect

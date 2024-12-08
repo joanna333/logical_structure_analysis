@@ -1,0 +1,7 @@
+Sentence,Label
+"Sensory processing begins with receptors, which are specialized cells that detect environmental stimuli.  Receptors convert physical stimuli into electrical signals, a process essential for sensory perception.",Definition
+"These electrical signals travel along neural pathways to the brain.  The brain interprets these signals, allowing us to perceive sights, sounds, tastes, smells, and textures.",Sequential
+"The skin, for example, contains receptors for touch, temperature, and pain.  Each type of receptor responds to specific stimuli, and the neural pathways they activate are distinct.",Enumeration
+"The pathway from receptor to brain involves multiple neurons.  Neurons transmit the signal by electrical and chemical means, ensuring the message is accurately conveyed.",Causal
+"The central nervous system integrates these signals, allowing for a comprehensive sensory experience.  This integration occurs in the brain and spinal cord, where the information is processed contextually.",Explanation
+"In summary, sensory processing relies on receptors to detect stimuli and neural pathways to transmit this information to the brain for interpretation.  This complex system enables us to interact with and understand our environment.",Summary

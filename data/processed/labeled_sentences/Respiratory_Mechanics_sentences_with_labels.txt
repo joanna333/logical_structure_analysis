@@ -1,0 +1,14 @@
+Sentence,Label
+Breathing involves the movement of air into and out of the lungs.,Definition
+"The lungs have a certain degree of compliance, which means they can expand and contract easily.",Definition
+Airway resistance plays a crucial role in breathing; it affects how easily air can flow through the respiratory tract.,Definition
+"Airway resistance is higher in narrower passages, making breathing more difficult.",Explanation
+Compliance and airway resistance work together to ensure efficient gas exchange.,Explanation
+"Despite resistance, the lungs' compliance allows them to expand and fill with air.",Contrast
+Understanding these mechanics helps in diagnosing breathing disorders.,Purpose
+Breathing is a continuous process relying on the balance of lung compliance and airway resistance.,Summary
+Breathing problems can occur if either compliance or resistance is compromised.,Generalization
+"For instance, in asthma, airway resistance increases, making breathing harder.",Illustration
+"On the other hand, emphysema reduces lung compliance, also impeding breathing.",Contrast
+"Thus, both factors are essential for normal, effortless breathing.",Emphasis
+Efforts to improve breathing often focus on reducing airway resistance and enhancing lung compliance.,Purpose

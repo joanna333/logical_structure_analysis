@@ -1,0 +1,10 @@
+Sentence,Label
+"The skin has a crucial role in protection, acting as a barrier against harmful substances and pathogens.",Definition
+"The skin also plays a significant part in thermoregulation, helping to regulate body temperature by sweating to cool down or constriction of blood vessels to retain heat.",Explanation
+"Sensory perception is another vital function of the skin, allowing individuals to feel touch, pressure, pain, and temperature changes.",Definition
+The skin's ability to sense touch is essential for daily activities like writing and driving.,Illustration
+"Despite its thin appearance, the skin is remarkably strong and resilient, providing robust protection.",Contrast
+"The skin's functions are interconnected, each supporting the others to maintain the body's homeostasis.",Generalization
+"In contrast, without thermoregulation, the body could overheat or become dangerously cold.",Contrast
+Understanding these functions highlights the skin's importance in overall health and well-being.,Purpose
+"In summary, the skin protects, regulates temperature, and perceives sensations, all of which are critical for survival.",Summary

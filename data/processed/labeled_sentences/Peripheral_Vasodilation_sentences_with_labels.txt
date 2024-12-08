@@ -1,0 +1,8 @@
+Sentence,Label
+"Peripheral vasodilation is a response to heat, as the body tries to dissipate excess heat by increasing surface blood flow.",Explanation
+"When peripheral vasodilation happens, the skin may appear reddish due to the increased blood volume.",Illustration
+"On the other hand, peripheral vasodilation can be beneficial in cooling the body during physical activity.",Contrast
+"It is regulated by the body's nervous system, specifically the parasympathetic nervous system, which promotes relaxation and increased blood flow.",Explanation
+Peripheral vasodilation is crucial for maintaining homeostasis by allowing efficient heat exchange and blood distribution.,Generalization
+"In summary, peripheral vasodilation is a physiological response to various stimuli, with both beneficial and potentially harmful effects.",Summary
+Understanding the causes and consequences of peripheral vasodilation is essential for comprehending how the body regulates temperature and blood flow.,Purpose

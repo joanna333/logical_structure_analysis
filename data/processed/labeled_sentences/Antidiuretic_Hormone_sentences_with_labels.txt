@@ -1,0 +1,7 @@
+Sentence,Label
+"Antidiuretic hormone, also known as vasopressin, plays a crucial role in water balance and osmoregulation in the body.",Definition
+"When secreted, it increases the permeability of the distal convoluted tubules and collecting ducts in the kidneys to water.",Causal
+The primary purpose of ADH is to prevent dehydration by conserving water in the body.,Purpose
+"Without adequate ADH, a condition known as diabetes insipidus can occur, leading to excessive urine production and dehydration.",Concession
+"In contrast, too much ADH, known as syndrome of inappropriate antidiuretic hormone secretion (SIADH), results in water retention and hyponatremia.",Contrast
+"Thus, antidiuretic hormone is essential for maintaining fluid balance and regulating the concentration of body fluids.",Summary

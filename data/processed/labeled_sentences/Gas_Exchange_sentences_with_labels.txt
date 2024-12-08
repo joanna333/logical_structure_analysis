@@ -1,0 +1,11 @@
+Sentence,Label
+"In the lungs, gas exchange is crucial for oxygen uptake and carbon dioxide removal.",Definition
+"Oxygen, with a higher partial pressure in the lungs compared to the blood, diffuses across the alveolar membrane into the pulmonary capillaries.",Explanation
+"The partial pressure gradient drives this diffusion, with oxygen moving from an area of high concentration to low concentration.",Explanation
+"Once in the blood, oxygen binds to hemoglobin, a protein in red blood cells, increasing its saturation.",Sequential
+"Hemoglobin saturation rises as more oxygen binds, reaching its maximum capacity at high oxygen partial pressures.",Elaboration
+"Carbon dioxide, meanwhile, is released from the blood into the alveoli due to its higher concentration in the blood.",Sequential
+The partial pressure gradient between the blood and alveoli facilitates its diffusion out of the body.,Explanation
+"This exchange continues until the oxygen partial pressure in the lungs equals that in the pulmonary capillaries, and carbon dioxide partial pressure is higher in the alveoli than in the blood.",Explanation
+The balance of these partial pressures ensures efficient gas exchange and maintains homeostasis.,Summary
+Understanding these relationships helps explain how the lungs facilitate gas exchange.,Explanation

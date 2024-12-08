@@ -1,0 +1,9 @@
+Sentence,Label
+"Cyanosis is a physiological response to hypoxemia, where the hemoglobin in red blood cells fails to carry adequate oxygen.",Explanation
+"The clinical implications of cyanosis are significant, as it is a visible sign of inadequate oxygenation, which can indicate various underlying conditions such as lung or heart diseases.",Explanation
+"In contrast to normal skin color, cyanosis is a clear indication of a potential respiratory or circulatory failure.",Contrast
+"Cyanosis is often observed in the lips, fingers, and toes, serving as a diagnostic tool for healthcare professionals.",Definition
+The presence of cyanosis prompts further investigation to determine the specific cause and appropriate treatment.,Purpose
+Understanding the physiological causes of cyanosis is crucial for effective diagnosis and management of underlying conditions.,Explanation
+"Cyanosis can occur in various conditions, such as asthma, pneumonia, or congenital heart defects, each requiring different treatment approaches.",Enumeration
+"Therefore, recognizing cyanosis is essential for timely intervention to prevent potential complications.",Inference

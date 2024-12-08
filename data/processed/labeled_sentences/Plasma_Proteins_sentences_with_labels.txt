@@ -1,0 +1,10 @@
+Sentence,Label
+"Plasma proteins have several crucial functions in the body.  One of their primary roles is transport, allowing various substances to move through the bloodstream.  Albumin, for instance, helps maintain osmotic pressure and stabilizes blood volume.",Definition
+"Another function is in immunity, where proteins like antibodies bind to pathogens.  This binding marks the invaders for destruction by other immune cells.",Definition
+"Plasma proteins also participate in coagulation, which is essential for blood clotting.  This prevents excessive blood loss from injuries. -[Cause and Effect]",Explanation
+"In contrast, some proteins, like immunoglobulins, are specifically designed for immune defense.  They are not involved in general transport functions.",Contrast
+The balance of plasma proteins is vital for their functions to work effectively.,Emphasis
+"Therefore, plasma proteins are multifunctional, playing key roles in both transport and immunity.",Summary
+Understanding their functions helps in diagnosing and treating related health issues.,Purpose
+"In summary, plasma proteins transport nutrients, hormones, and other substances, while also playing a significant role in the immune response.",Summary
+Their ability to perform these tasks is crucial for maintaining homeostasis and protecting the body from infections.,Explanation

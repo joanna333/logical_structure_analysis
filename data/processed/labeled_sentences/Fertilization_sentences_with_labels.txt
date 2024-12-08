@@ -1,0 +1,8 @@
+Sentence,Label
+"Fertilization occurs when a sperm cell merges with an egg cell, commonly known as the ovum.",Definition
+The fusion of these cells marks the beginning of early embryonic development.,Definition
+"After fertilization, the zygote begins to divide through mitosis, a process known as cleavage.",Sequential
+"The blastula stage follows, where the single-celled zygote transforms into a multicellular structure.",Sequential
+Progesterone and estrogen are crucial hormones that prepare the uterus for implantation and support the early pregnancy.,Explanation
+"Thus, hormonal balance is vital for successful fertilization and early embryonic development.",Explanation
+"In summary, fertilization initiates a complex process that requires precise hormonal timing and support.",Summary

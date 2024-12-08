@@ -1,0 +1,6 @@
+Sentence,Label
+"Calcium and phosphate are essential minerals for bone mineralization.  Without these minerals, bones cannot harden properly.",Definition
+Hormones like parathyroid hormone and calcitonin regulate the levels of calcium and phosphate in the blood.  This regulation is crucial for maintaining bone health.,Explanation
+"Calcitonin, on the other hand, lowers calcium levels by encouraging calcium to move from blood into bones.  It helps in maintaining calcium balance and bone integrity.",Contrast
+The interplay of these hormones ensures that bones receive the necessary minerals for mineralization.  This balance is essential for bone strength and growth.,Explanation
+"In summary, calcium, phosphate, and hormones work together in a delicate balance to ensure bone mineralization occurs correctly.  Any disruption can have significant consequences for bone health.",Summary

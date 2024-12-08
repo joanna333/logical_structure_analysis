@@ -1,0 +1,9 @@
+Sentence,Label
+"Cardiac remodeling refers to the long-term changes in the heart's size, shape, and function in response to various stimuli, both physiological and pathological.",Definition
+"Physiologically, cardiac remodeling occurs in response to increased demand on the heart, such as during pregnancy or athletic training, where the heart muscle grows to accommodate the higher workload without pathological changes.",Explanation
+"Pathologically, cardiac remodeling can occur due to chronic high blood pressure, heart attacks, or other cardiovascular diseases, leading to adverse changes in heart structure and function.",Explanation
+"Chronic high blood pressure, for instance, can cause the heart muscle to thicken, a condition known as hypertrophy, which  leads to increased heart size and can eventually  result in heart failure.",Causal
+"On the other hand, a heart attack can lead to scar formation in the myocardium, which  disrupts the normal electrical conduction and can  trigger remodeling processes that may  result in arrhythmias.",Causal
+"Cardiac remodeling is a double-edged sword; it can be beneficial in the short term, allowing the heart to adapt and maintain function, but  if it progresses unchecked, it can become detrimental, leading to heart failure and other complications.",Contrast
+Monitoring and managing the factors that induce cardiac remodeling is crucial to prevent its pathological consequences and maintain heart health.,Purpose
+"In summary, cardiac remodeling involves both beneficial and harmful adaptations of the heart, depending on the context and underlying conditions.",Summary

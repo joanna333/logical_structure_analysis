@@ -1,0 +1,12 @@
+Sentence 1,Sentence 2,Relationship
+Insulin and glucagon are hormones crucial for maintaining blood glucose levels,Insulin is produced by the pancreas and helps cells absorb glucose from the blood,Cause and Effect
+Insulin is produced by the pancreas and helps cells absorb glucose from the blood,"When blood glucose levels rise, insulin is released to facilitate its entry into cells",Cause and Effect
+"When blood glucose levels rise, insulin is released to facilitate its entry into cells","Glucagon, on the other hand, is released when blood glucose levels are low",Cause and Effect
+"Glucagon, on the other hand, is released when blood glucose levels are low",It prompts the liver to convert stored glycogen into glucose and release it into the bloodstream,Cause and Effect
+It prompts the liver to convert stored glycogen into glucose and release it into the bloodstream,The interplay between insulin and glucagon ensures that blood glucose levels remain stable,Cause and Effect
+The interplay between insulin and glucagon ensures that blood glucose levels remain stable,"When insulin and glucagon work in balance, they prevent hypoglycemia and hyperglycemia",Cause and Effect
+"When insulin and glucagon work in balance, they prevent hypoglycemia and hyperglycemia","If insulin production is insufficient, glucagon's effects can lead to elevated blood glucose levels",Cause and Effect
+"If insulin production is insufficient, glucagon's effects can lead to elevated blood glucose levels","Conversely, if glucagon is not adequately released, insulin's action might lead to low blood sugar",Cause and Effect
+"Conversely, if glucagon is not adequately released, insulin's action might lead to low blood sugar",The body's feedback system involving insulin and glucagon is essential for glucose homeostasis,Cause and Effect
+The body's feedback system involving insulin and glucagon is essential for glucose homeostasis,Understanding this balance is key to managing diabetes effectively,Cause and Effect
+Understanding this balance is key to managing diabetes effectively,"Thus, the coordinated release of insulin and glucagon is vital for maintaining normal blood glucose levels",Cause and Effect

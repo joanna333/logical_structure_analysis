@@ -1,0 +1,12 @@
+Sentence,Label
+Heart sounds and murmurs originate from the heart's chambers and valves as blood flows through them during the cardiac cycle.,Definition
+"The first heart sound, S1, is caused by the closure of the mitral and tricuspid valves as blood enters the ventricles.",Causal
+"The second heart sound, S2, is due to the closure of the aortic and pulmonary valves as blood is pumped out of the ventricles.",Causal
+"Murmurs occur when there is an abnormal flow of blood, which creates an extra sound over the normal heart sounds.",Definition
+"Murmurs can be benign or indicative of heart valve disease, requiring clinical significance for proper diagnosis and treatment.",Explanation
+Listening to heart sounds and murmurs is a crucial part of a clinical assessment to evaluate heart function and detect potential issues.,Purpose
+"A murmur's intensity, location, and timing can help distinguish between innocent flow murmurs and pathologic ones.",Comparison
+Understanding the origin and clinical significance of heart sounds and murmurs is essential for healthcare professionals to diagnose and manage cardiovascular conditions effectively.,Generalization
+"In summary, heart sounds and murmurs are natural sounds and extra noises heard during the heartbeat, with clinical significance in diagnosing heart conditions.",Summary
+The origin of these sounds is directly related to the mechanical actions of the heart valves and chambers.,Explanation
+"Heart murmurs, when present, provide additional information beyond the standard heart sounds, aiding in the assessment of heart health.",Addition

@@ -1,0 +1,12 @@
+Sentence,Label
+Allergic reactions are complex immune responses to normally harmless substances.,Definition
+"The body mistakes these substances, known as allergens, for harmful invaders.",Explanation
+"IgE, or immunoglobulin E, plays a crucial role in allergic reactions.",Definition
+"When exposed to an allergen, IgE antibodies are produced in large quantities.",Sequential
+"These antibodies bind to mast cells, which are found in various tissues like the skin and lungs.",Sequential
+"Upon re-exposure to the same allergen, the IgE-bound mast cells are triggered.",Causal
+"Mast cells' degranulation causes the typical symptoms of an allergic response, such as itching, swelling, and mucus production.",Explanation
+The interaction between IgE and mast cells is essential for the allergic reaction to occur.,Explanation
+"Without IgE, mast cells would remain inactive to these specific allergens.",Conditional
+Understanding these mechanisms helps in developing treatments to manage allergic conditions.,Purpose
+"Thus, IgE and mast cells are central to the mechanisms of allergic reactions.",Summary

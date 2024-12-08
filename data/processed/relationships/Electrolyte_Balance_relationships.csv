@@ -1,0 +1,16 @@
+Sentence 1,Sentence 2,Relationship
+The kidney plays a crucial role in maintaining electrolyte balance,"Without proper electrolyte balance, various bodily functions can be compromised",Cause and Effect
+"Without proper electrolyte balance, various bodily functions can be compromised","The kidney filters blood to remove waste and excess substances, including electrolytes",Cause and Effect
+"The kidney filters blood to remove waste and excess substances, including electrolytes",It adjusts the levels of electrolytes by excreting or reabsorbing them into the bloodstream,Cause and Effect
+It adjusts the levels of electrolytes by excreting or reabsorbing them into the bloodstream,"For instance, when sodium levels are too high, the kidney increases urine output to eliminate excess sodium",Cause and Effect
+"For instance, when sodium levels are too high, the kidney increases urine output to eliminate excess sodium","Conversely, if levels are too low, the kidney conserves sodium for bodily functions",Cause and Effect
+"Conversely, if levels are too low, the kidney conserves sodium for bodily functions","This process ensures that electrolytes remain within a narrow range necessary for muscle contraction, nerve function, and hydration",Cause and Effect
+"This process ensures that electrolytes remain within a narrow range necessary for muscle contraction, nerve function, and hydration","Therefore, the kidney's role in electrolyte balance is vital for overall health",Cause and Effect
+"Therefore, the kidney's role in electrolyte balance is vital for overall health","Any disruption in this process can lead to serious health conditions, such as hypertension or hyponatremia",Cause and Effect
+"Any disruption in this process can lead to serious health conditions, such as hypertension or hyponatremia","In summary, the kidney's ability to manage electrolytes is essential for maintaining homeostasis",Cause and Effect
+"In summary, the kidney's ability to manage electrolytes is essential for maintaining homeostasis",The kidney plays a crucial role in maintaining electrolyte balance,Cause and Effect
+The kidney plays a crucial role in maintaining electrolyte balance,"Without proper electrolyte balance, various bodily functions can be compromised",Cause and Effect
+"Without proper electrolyte balance, various bodily functions can be compromised","The kidney filters blood to remove waste and excess substances, including electrolytes",Cause and Effect
+"The kidney filters blood to remove waste and excess substances, including electrolytes",It adjusts the levels of electrolytes by excreting or reabsorbing them into the bloodstream,Cause and Effect
+It adjusts the levels of electrolytes by excreting or reabsorbing them into the bloodstream,"For instance, when sodium levels are too high, the kidney increases urine output to eliminate excess sodium",Cause and Effect
+"For instance, when sodium levels are too high, the kidney increases urine output to eliminate excess sodium","Conversely,",Cause and Effect

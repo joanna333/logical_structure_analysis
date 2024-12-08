@@ -1,0 +1,11 @@
+Sentence,Label
+An action potential is generated when the membrane potential of a neuron reaches a threshold value.,Definition
+The threshold is the voltage level at which the neuron's voltage-gated sodium channels open.,Explanation
+"Once the membrane is repolarized, it cannot generate another action potential immediately, a period known as the refractory period.",Explanation
+The action potential then propagates down the axon due to the electrical gradient and myelin sheath.,Sequential
+"Myelin, a fatty substance, insulates the axon, increasing the speed of action potential conduction.",Addition
+"Without myelin, action potentials would travel much slower.",Comparison
+The action potential is an all-or-nothing event; it either occurs fully or not at all.,Definition
+This ensures a consistent signal strength as the potential travels along the neuron.,Explanation
+The generation and propagation of action potentials are crucial for neural communication.,Purpose
+Understanding these processes is key to comprehending how neurons function in the nervous system.,Explanation

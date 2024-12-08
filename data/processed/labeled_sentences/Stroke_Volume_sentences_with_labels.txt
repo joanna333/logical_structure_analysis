@@ -1,0 +1,7 @@
+Sentence,Label
+Stroke volume is the amount of blood ejected by the left ventricle of the heart with each beat.,Definition
+"Several factors influence stroke volume, including preload, afterload, contractility, and heart rate.",Enumeration
+"Heart rate, while not directly influencing stroke volume, can impact it indirectly through its effect on preload and contractility.",Conditional
+The impact on cardiac output is significant because cardiac output is the product of stroke volume and heart rate.,Explanation
+Understanding these factors is crucial for diagnosing and treating heart conditions that affect stroke volume and cardiac output.,Purpose
+"In summary, stroke volume is influenced by preload, afterload, contractility, and heart rate, all of which have a direct or indirect impact on cardiac output.",Summary

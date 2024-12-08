@@ -1,0 +1,11 @@
+Sentence,Label
+Bone turnover is a continuous process where old bone is resorbed and new bone is formed.,Definition
+The processes of bone turnover are regulated by several factors.,Explanation
+"Osteoclasts are responsible for bone resorption, while osteoblasts are involved in bone formation.",Definition
+"Several hormones, such as parathyroid hormone and estrogen, play a crucial role in bone turnover.",Explanation
+"Age and gender are significant factors, with bone turnover generally decreasing after peak bone mass is reached.",Generalization
+"Medications, such as bisphosphonates, are used to control bone turnover in conditions like osteoporosis.",Solution
+"Despite these factors, genetic predisposition can also influence bone turnover rates.",Generalization
+Understanding bone turnover is essential for diagnosing and treating bone-related disorders.,Purpose
+"In summary, bone turnover is a complex process influenced by hormones, nutrition, physical activity, age, gender, and genetics.",Summary
+Each of these factors plays a distinct role in maintaining bone health or contributing to bone diseases.,Explanation

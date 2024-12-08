@@ -1,0 +1,9 @@
+Sentence,Label
+The anaerobic threshold is a key concept in exercise physiology.,Definition
+It marks the point during exercise where the body starts to accumulate more lactate than it can remove.,Explanation
+This threshold is significant because it indicates the shift from primarily aerobic metabolism to anaerobic metabolism.,Explanation
+Understanding the anaerobic threshold is crucial for athletes who want to optimize their performance and avoid unnecessary exhaustion.,Purpose
+Coaches and trainers use measurements of the anaerobic threshold to design training programs effectively.,Purpose
+"In contrast, exceeding the anaerobic threshold without proper conditioning can lead to rapid fatigue and decreased exercise efficiency.",Contrast
+"Therefore, the anaerobic threshold is a critical marker for both performance optimization and exercise safety.",Generalization
+"In summary, the anaerobic threshold is a vital concept in exercise science, influencing how we understand and manage physical exertion.",Summary

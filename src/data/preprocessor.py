@@ -1,63 +1,62 @@
-import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.corpus import stopwords
 import re
 from typing import List, Dict, Tuple
 import pandas as pd
-import spacy
-import networkx as nx
+
 
 class TextPreprocessor:
-    def __init__(self):
-        self.nlp = spacy.load('en_core_web_sm')
-        nltk.download('punkt')
-        nltk.download('stopwords')
-        self.stop_words = set(stopwords.words('english'))
+    def split_raw_text(self, text: str) -> None:
+        """Split text into sentences and relationships and save to CSV.
+        
+        Args:
+            text: Input text with relationship markers
+            output_file: Path to save CSV output
+        """
+        # Split text by new line and remove empty lines
+        lines = [line.strip() for line in text.split("\n") if line.strip()]
+        
+        # Extract sentences and relationships
+        data = []
+        for line in lines:
+            # Find relationship marker if exists
+            relationship_match = re.search(r'-\[(\w+)\]-?', line)
+            if relationship_match:
+                # Get relationship type and clean sentence
+                relationship = relationship_match.group(1)
+                sentence = re.sub(r'-\[\w+\]-?', '', line).strip()
+                data.append({
+                    'Sentence': sentence,
+                    'Label': relationship
+                })
+        
+        # Create and save DataFrame
+        df = pd.DataFrame(data)
+        return df
 
     def clean_text(self, text: str) -> str:
-        """Basic text cleaning."""
-        text = re.sub(r'\[[0-9]*\]', '', text)
-        text = re.sub(r'\s+', ' ', text)
-        text = text.lower()
-        return text.strip()
+        """Remove markdown formatting, quotes, and relationship markers from text"""
+        # Remove markdown and quotes
+        cleaned_text = text.replace('**', '').replace('"', ' ')
+        
+        # Remove relationship markers with updated regex to match also -[Cause and Effect]-
+        cleaned_text = re.sub(r'-\[[\w\s]+\]-', '', cleaned_text)  # Matches -[Definition]-, -[Causal]-, -[Cause and Effect]- etc.
+        cleaned_text = re.sub(r'-\[[\w\s]+\]', '', cleaned_text)   # Matches -[Definition], -[Causal], -[Cause and Effect] etc.
+        
+        return cleaned_text
 
-    def segment_sentences(self, text: str) -> List[str]:
-        """Split text into sentences."""
-        return sent_tokenize(text)
-
-    def process_article(self, text: str) -> Dict:
-        """Full preprocessing pipeline."""
+    def split_sentences(self, text: str) -> List[str]:
+        """Split text into sentences and clean them"""
         cleaned_text = self.clean_text(text)
-        sentences = self.segment_sentences(cleaned_text)
-        
-        return {
-            'cleaned_text': cleaned_text,
-            'sentences': sentences,
-            'num_sentences': len(sentences)
-        }
+        sentences = cleaned_text.replace("\n", ". ").split(".")
+        sentences = [sentence.strip() for sentence in sentences 
+                    if sentence.strip() and not sentence.strip().isdigit()]
+        return sentences
 
-    def extract_relations(self, text: str) -> Tuple[List[Dict], nx.DiGraph]:
-        """Extract relations and build initial graph."""
-        doc = self.nlp(text)
-        relations = []
-        graph = nx.DiGraph()
-        
-        for sent in doc.sents:
-            # Extract subject-verb-object triples
-            for token in sent:
-                if token.dep_ == "nsubj":
-                    subject = token.text
-                    verb = token.head.text
-                    obj = None
-                    for child in token.head.children:
-                        if child.dep_ == "dobj":
-                            obj = child.text
-                            relations.append({
-                                'subject': subject,
-                                'predicate': verb,
-                                'object': obj
-                            })
-                            # Add to graph
-                            graph.add_edge(subject, obj, relation=verb)
-        
-        return relations, graph
+
+# Usage example:
+if __name__ == "__main__":
+    preprocessor = TextPreprocessor()
+    with open("data/processed/content_test1/Arterial_Pulse_raw_output.txt", "r") as f:
+        text = f.read()
+    preprocessor.split_raw_text(text, "data/processed/content_test1/arterial_pulse_relationships.csv")
+    sentences = preprocessor.split_sentences(text)
+    print('Sentences', sentences)

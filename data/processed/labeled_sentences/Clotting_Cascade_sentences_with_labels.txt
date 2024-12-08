@@ -1,0 +1,11 @@
+Sentence,Label
+"The clotting cascade begins with the injury to a blood vessel.  This damage exposes blood platelets and vessel walls to the blood, initiating the process.",Causal
+"When platelets adhere to the damaged vessel, they aggregate and form a plug.  This plug helps to seal the break and prevent further blood loss.",Sequential
+"Fibrinogen, a clotting factor, then converts to fibrin.  Fibrin forms a meshwork that stabilizes the platelet plug, creating a stable clot.",Sequential
+Factor XII activates the clotting cascade.  This activation triggers a series of enzymatic reactions.,Causal
+"Calcium ions are essential for the activation of clotting factors.  They bind to these factors, making them active and able to catalyze further reactions.",Explanation
+Anticoagulants like heparin inhibit factor XII and calcium binding.  This prevents excessive clotting and maintains blood fluidity.,Contrast
+Tissue factor (TF) plays a crucial role by activating factor VII.  This step is crucial for the initiation of the intrinsic pathway.,Causal
+The presence of thrombomodulin converts factor X to its active form.  This conversion is necessary for the conversion of prothrombin to thrombin.,Causal
+"Thrombin then converts fibrinogen to fibrin.  This forms the clot matrix, securing the platelet plug.",Causal
+The clotting cascade is tightly regulated to prevent unnecessary clot formation.  This regulation involves,Explanation

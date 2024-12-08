@@ -1,0 +1,9 @@
+Sentence 1,Sentence 2,Relationship
+The blood-brain barrier (BBB) is a protective barrier in the central nervous system (CNS),It is located in the capillaries that supply the brain and spinal cord,Cause and Effect
+It is located in the capillaries that supply the brain and spinal cord,The BBB allows for the passage of essential nutrients and oxygen while preventing harmful substances from entering the CNS,Cause and Effect
+The BBB allows for the passage of essential nutrients and oxygen while preventing harmful substances from entering the CNS,It consists of tightly packed endothelial cells with specialized junctions,Cause and Effect
+It consists of tightly packed endothelial cells with specialized junctions,"These junctions restrict the movement of large molecules and pathogens, ensuring the brain's protection",Cause and Effect
+"These junctions restrict the movement of large molecules and pathogens, ensuring the brain's protection",The BBB is crucial for maintaining the brain's internal environment,Cause and Effect
+The BBB is crucial for maintaining the brain's internal environment,"Without the BBB, the brain would be vulnerable to infections and toxins present in the bloodstream",Cause and Effect
+"Without the BBB, the brain would be vulnerable to infections and toxins present in the bloodstream",The blood-brain barrier illustrates the importance of selective permeability in CNS protection,Cause and Effect
+The blood-brain barrier illustrates the importance of selective permeability in CNS protection,"In summary, the blood-brain barrier is a critical structure that functions to shield the brain from harmful elements while facilitating necessary exchanges",Cause and Effect

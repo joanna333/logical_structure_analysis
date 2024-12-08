@@ -1,0 +1,14 @@
+Sentence,Label
+B cells are a type of white blood cell crucial for humoral immunity.,Definition
+B cells differentiate from progenitor cells in the bone marrow.,Sequential
+The differentiation of B cells is essential for recognizing and neutralizing pathogens.,Explanation
+"Contrastingly, T cells play a key role in cell-mediated immunity.",Contrast
+"B cells, unlike T cells, primarily operate through the humoral immune response.",Comparison
+The role of B cells in humoral immunity underscores the importance of antibody production.,Emphasis
+Understanding B cell differentiation helps in comprehending how the immune system defends against infections.,Purpose
+"In summary, B cells are differentiated to provide a crucial defense mechanism through antibodies in humoral immunity.",Summary
+The differentiation of B cells into plasma cells is a critical step in the immune response to pathogens.,Emphasis
+This process highlights the intricate workings of the immune system in protecting the body.,Elaboration
+"Without B cells, the body would struggle to defend against infections through the humoral pathway.",Inference
+"In conclusion, the differentiation of B cells and their role in humoral immunity are fundamental to the body's defense mechanisms.",Summary
+"The differentiation of B cells into plasma cells is a necessary step for the production of antibodies, which are vital for humoral immunity.",Explanation

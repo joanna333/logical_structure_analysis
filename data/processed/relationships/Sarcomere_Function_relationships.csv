@@ -1,0 +1,9 @@
+Sentence 1,Sentence 2,Relationship
+A sarcomere is the basic functional unit of muscle contraction,It is composed of thin filaments made primarily of the protein actin and thick filaments made of myosin,Cause and Effect
+It is composed of thin filaments made primarily of the protein actin and thick filaments made of myosin,The Z lines anchor the filaments on both ends of the sarcomere,Cause and Effect
+The Z lines anchor the filaments on both ends of the sarcomere,"Myosin heads attach to the actin filaments and then contract, pulling the filaments towards each other",Cause and Effect
+"Myosin heads attach to the actin filaments and then contract, pulling the filaments towards each other","This sliding of filaments shortens the sarcomere, leading to muscle contraction",Cause and Effect
+"This sliding of filaments shortens the sarcomere, leading to muscle contraction","Tropomyosin and troponin regulate the interaction between myosin and actin, allowing contraction only when signaled by calcium ions",Cause and Effect
+"Tropomyosin and troponin regulate the interaction between myosin and actin, allowing contraction only when signaled by calcium ions",The sarcomere's structure and the actions of its components are crucial for precise and controlled muscle movements,Cause and Effect
+The sarcomere's structure and the actions of its components are crucial for precise and controlled muscle movements,"Without the sarcomere's structure and the role of its components, muscle contraction would not be possible",Cause and Effect
+"Without the sarcomere's structure and the role of its components, muscle contraction would not be possible","Thus, the sarcomere's architecture and the function of its parts are essential for muscle function",Cause and Effect

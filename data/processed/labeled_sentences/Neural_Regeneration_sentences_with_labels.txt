@@ -1,0 +1,11 @@
+Sentence,Label
+Neural regeneration in the nervous system presents significant challenges due to the limited regenerative capacity of adult neurons compared to other cell types.,Explanation
+"The main challenge is that once neurons mature, they lose the ability to divide and replace damaged cells.",Explanation
+"Despite these obstacles, mechanisms like neurogenesis and oligodendrogenesis exist, allowing for some degree of neural repair.",Addition
+"Neurogenesis occurs in specific brain regions, such as the hippocampus, where new neurons can be generated.",Definition
+"Oligodendrogenesis involves the formation of new myelin sheaths by oligodendrocytes, which support axon function.",Definition
+"However, these mechanisms are not as robust in adults as they are in developing brains.",Comparison
+Stem cell therapy is an area of research aimed at enhancing neural regeneration by introducing pluripotent cells into the damaged area.,Purpose
+"These cells have the potential to differentiate into various neural cell types, potentially improving recovery.",Explanation
+"In contrast to the brain, the peripheral nervous system can regenerate more effectively due to a lack of the blood-brain barrier.",Contrast
+"In summary, while the nervous system has some inherent mechanisms for neural regeneration, they are limited and often insufficient for full recovery in adults.",Summary

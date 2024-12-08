@@ -1,0 +1,8 @@
+Sentence,Label
+"Under extreme environmental conditions, organisms employ various mechanisms to maintain their body temperature, a process known as thermoregulation.",Definition
+"On the contrary, in freezing cold, mammals often increase their metabolic rate to generate heat, a process called shivering thermogenesis.",Contrast
+"Hibernating animals, like bears, lower their metabolic rate and body temperature to conserve energy during winter, illustrating a temporary suspension of thermoregulation.",Illustration
+"Birds have feathers that insulate and help retain heat, crucial in cold climates.",Explanation
+"In contrast, desert animals often have large surface areas relative to their volume to dissipate heat, a strategy to survive high temperatures.",Contrast
+Thermoregulation is essential for survival as it ensures that internal body functions operate within a safe temperature range.,Explanation
+"In summary, thermoregulation under extreme conditions involves various strategies to maintain a stable internal temperature, crucial for life.",Summary

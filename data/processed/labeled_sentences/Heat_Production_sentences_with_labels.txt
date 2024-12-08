@@ -1,0 +1,10 @@
+Sentence,Label
+"When body temperature rises, the hypothalamus activates mechanisms to cool down the body.",Causal
+"One way to cool down is by increasing sweat production, which cools the skin as it evaporates.",Explanation
+"Another mechanism is vasodilation, where blood vessels near the skin expand to allow more heat to escape.",Explanation
+Shivering and non-shivering thermogenesis are examples of heat production processes.,Definition
+"Brown adipose tissue is particularly effective at generating heat without shivering, using uncoupling proteins.",Explanation
+"In contrast, regular adipose tissue stores energy but does not produce heat directly.",Contrast
+"When the environment is cold, the body conserves heat by reducing non-essential movements and slowing down metabolism.",Causal
+These physiological responses collectively maintain the body's core temperature within a narrow range.,Generalization
+Understanding these mechanisms is crucial for treating conditions like hypothermia and hyperthermia.,Purpose

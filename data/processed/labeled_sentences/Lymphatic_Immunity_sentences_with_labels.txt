@@ -1,0 +1,5 @@
+Sentence,Label
+"The lymphatic system also maintains fluid balance by returning excess interstitial fluid back into the bloodstream.  Without this function, the body would retain too much fluid, leading to swelling and potential health issues.",Purpose
+"Lymph nodes act as filters, trapping pathogens and presenting them to lymphocytes for destruction.  This process is vital for the immune system's ability to recognize and neutralize threats.",Explanation
+"In contrast to the cardiovascular system, the lymphatic system lacks a pump, relying on body movements and muscle contractions to circulate lymph fluid.  This difference highlights the unique mechanisms of the lymphatic system.",Contrast
+"Overall, the lymphatic system is indispensable for both immune defense and fluid regulation in the body.",Summary

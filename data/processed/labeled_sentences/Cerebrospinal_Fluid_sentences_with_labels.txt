@@ -1,0 +1,10 @@
+Sentence,Label
+Cerebrospinal fluid (CSF) is produced in the ventricles of the brain.,Definition
+"CSF circulates through the brain and spinal cord, surrounding and protecting neural tissues.",Function
+"It moves via the cerebral spinal fluid pathways, which include the lateral and fourth ventricles, and the subarachnoid space.",Sequential
+"The function of CSF includes buoyancy for the brain, waste removal, and shock absorption.",Function
+"CSF is constantly renewed, with about 500 mL being produced daily and reabsorbed into the bloodstream.",Fact
+"Understanding CSF production, circulation, and function is crucial for diagnosing and treating neurological disorders.",Purpose
+"CSF analysis can provide insights into brain health, detecting infections or other abnormalities.",Explanation
+"In summary, cerebrospinal fluid is essential for protecting the brain, removing waste, and maintaining proper brain function.",Summary
+"Despite its small volume, CSF plays a vital role in the central nervous system's health and stability.",Emphasis

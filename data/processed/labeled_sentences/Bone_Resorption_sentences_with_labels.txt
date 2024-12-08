@@ -1,0 +1,7 @@
+Sentence,Label
+Bone resorption is a process where bone tissue is broken down and removed from the skeleton.,Definition
+"This process is regulated by hormones, particularly parathyroid hormone (PTH) and calcitonin.",Explanation
+"PTH also inhibits the deposition of calcium into bone, further promoting resorption.",Explanation
+"On the other hand, calcitonin, secreted by the thyroid gland, works to lower blood calcium levels by reducing bone resorption.",Contrast
+The balance between PTH and calcitonin is crucial for maintaining calcium homeostasis in the body.,Explanation
+"Therefore, understanding bone resorption and its hormonal regulation is essential for maintaining healthy bones.",Purpose

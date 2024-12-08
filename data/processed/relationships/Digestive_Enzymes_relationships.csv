@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+"The regulation of digestive enzymes involves complex mechanisms, including hormonal control",Gastrin is a hormone that plays a crucial role in this process,Cause and Effect
+Gastrin is a hormone that plays a crucial role in this process,"When food enters the stomach, gastrin is released, stimulating the secretion of gastric acid and pepsinogen",Cause and Effect
+"When food enters the stomach, gastrin is released, stimulating the secretion of gastric acid and pepsinogen","This release is triggered by the presence of partially digested proteins in the stomach, which activates G cells",Cause and Effect
+"This release is triggered by the presence of partially digested proteins in the stomach, which activates G cells","Secretin, another hormone, is produced by the S cells in the duodenum in response to acidic chyme",Cause and Effect
+"Secretin, another hormone, is produced by the S cells in the duodenum in response to acidic chyme",It works to neutralize the acid by prompting the pancreas to secrete bicarbonate-rich juice,Cause and Effect
+It works to neutralize the acid by prompting the pancreas to secrete bicarbonate-rich juice,Both hormones contribute to maintaining the optimal pH for enzyme activity in the digestive tract,Cause and Effect
+Both hormones contribute to maintaining the optimal pH for enzyme activity in the digestive tract,"Feedback loops are essential in this regulation; increased acidity inhibits gastrin release, while alkaline conditions in the duodenum inhibit secretin production",Cause and Effect
+"Feedback loops are essential in this regulation; increased acidity inhibits gastrin release, while alkaline conditions in the duodenum inhibit secretin production",This feedback ensures that the digestive process remains balanced and efficient,Cause and Effect
+This feedback ensures that the digestive process remains balanced and efficient,The interplay between hormonal control and feedback loops is a fundamental aspect of digestive enzyme regulation,Cause and Effect

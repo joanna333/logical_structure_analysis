@@ -1,0 +1,7 @@
+Sentence,Label
+"Vascular resistance is determined by several factors, each playing a crucial role in regulating blood pressure.",Definition
+"These factors work in concert to maintain homeostasis, ensuring blood pressure remains stable.",Explanation
+Understanding these factors is essential for comprehending how blood pressure is regulated.,Purpose
+"Thus, vascular resistance is intricately linked to blood pressure, with changes in one often prompting adjustments in the other.",Explanation
+"In summary, the factors determining vascular resistance include vessel size and viscosity, cardiac output, vessel elasticity, smooth muscle tone, and nervous system activity.",Summary
+Each plays a distinct role in the complex system that regulates blood pressure.,Explanation

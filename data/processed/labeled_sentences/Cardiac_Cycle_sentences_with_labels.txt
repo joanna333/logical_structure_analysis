@@ -1,0 +1,10 @@
+Sentence,Label
+The cardiac cycle is a sequence of events that describe the mechanical and electrical activities of the heart.,Definition
+"The heart contracts in a specific order, starting with the atria and followed by the ventricles.",Sequential
+Electrical conduction is essential for coordinating these contractions.,Causal
+"The sinoatrial node (SA node) initiates the electrical impulse, which travels through the atrioventricular node (AV node) and into the ventricles.",Explanation
+"When the electrical signal reaches the ventricles, they contract, pumping blood into the circulatory system.",Sequential
+The dependency between electrical conduction and mechanical contraction ensures efficient cardiac output.,Causal
+"Cardiac output is the amount of blood ejected by the heart in one minute, and it depends on both the heart rate and stroke volume.",Definition
+"Therefore, maintaining proper electrical conduction is crucial for maintaining a healthy cardiac cycle and adequate cardiac output.",Explanation
+"In summary, the cardiac cycle is a complex interaction between electrical signals and mechanical contractions, all of which are vital for the heart's ability to pump blood effectively.",Summary

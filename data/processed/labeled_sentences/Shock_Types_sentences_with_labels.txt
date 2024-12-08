@@ -1,0 +1,10 @@
+Sentence,Label
+"Hypovolemic shock occurs when there is a significant reduction in blood volume, leading to decreased cardiac output and perfusion.",Definition
+"This reduction can be due to blood loss from trauma, surgery, or severe vomiting and diarrhea.",Causal
+"Cardiogenic shock happens when the heart fails to pump effectively, often due to a severe heart attack or severe heart muscle damage.",Definition
+"Septic shock is triggered by an overwhelming infection that releases toxins into the bloodstream, damaging blood vessels and causing widespread vasodilation.",Definition
+"Unlike hypovolemic shock, septic shock involves excessive vasodilation despite adequate blood volume.",Comparison
+"While hypovolemic shock is characterized by low blood volume, cardiogenic shock is about the heart's inability to pump, and septic shock is about systemic infection causing vascular damage.",Contrast
+"Treatment for hypovolemic shock includes fluid resuscitation, for cardiogenic shock it involves managing the underlying heart issue, and for septic shock, antibiotics are crucial alongside vasopressors to maintain blood pressure.",Addition
+Understanding these differences is vital for targeted treatment strategies in shock patients.,Generalization
+This differentiation helps in selecting the most appropriate interventions to save lives in,Purpose

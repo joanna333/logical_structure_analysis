@@ -1,0 +1,8 @@
+Sentence,Label
+Spermatogenesis is the process by which sperm cells are produced in the testes.,Definition
+The process begins with the division of germ cells in the testicular tissue.,Sequential
+"These germ cells undergo meiosis, resulting in the formation of haploid sperm cells.",Explanation
+"Testosterone, produced by the Leydig cells, is essential for the development of male reproductive tissues and the production of sperm.",Explanation
+The hormonal regulation of male reproductive function is a delicate balance between FSH and testosterone.,Generalization
+"Therefore, understanding spermatogenesis and hormonal regulation is crucial for diagnosing and treating male reproductive issues.",Purpose
+"In summary, spermatogenesis is a critical process regulated by hormones like FSH and testosterone, which together ensure the proper development and function of male reproductive systems.",Summary

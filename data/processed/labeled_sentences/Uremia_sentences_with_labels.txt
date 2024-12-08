@@ -1,0 +1,5 @@
+Sentence,Label
+"Uremia, a condition associated with kidney failure, occurs when the kidneys lose their ability to filter waste products from the blood effectively.",Definition
+These accumulated toxins can cause a variety of physiological changes throughout the body.,Explanation
+The systemic effects of uremia can exacerbate existing conditions and lead to complications such as infections and cardiovascular problems.,Generalization
+It is crucial to understand these physiological changes and systemic effects to provide appropriate care and support for patients with kidney failure.,Purpose

@@ -1,0 +1,18 @@
+Sentence 1,Sentence 2,Relationship
+Cochlear implants restore hearing by converting sound into electrical signals,These signals bypass the damaged hair cells in the cochlea,Cause and Effect
+These signals bypass the damaged hair cells in the cochlea,"Without hair cells, the auditory nerve cannot directly receive sound vibrations",Cause and Effect
+"Without hair cells, the auditory nerve cannot directly receive sound vibrations","The implants stimulate the auditory nerve directly, sending signals to the brain",Cause and Effect
+"The implants stimulate the auditory nerve directly, sending signals to the brain",The brain interprets these signals as sound,Cause and Effect
+The brain interprets these signals as sound,Cochlear implants are surgically implanted devices,Cause and Effect
+Cochlear implants are surgically implanted devices,"They consist of a microphone, processor, and stimulator",Cause and Effect
+"They consist of a microphone, processor, and stimulator","The microphone picks up sound, the processor converts it into electrical signals, and the stimulator sends these signals to the cochlea",Cause and Effect
+"The microphone picks up sound, the processor converts it into electrical signals, and the stimulator sends these signals to the cochlea",This process allows individuals with severe hearing loss to perceive sound,Cause and Effect
+This process allows individuals with severe hearing loss to perceive sound,"The physiological basis is the direct stimulation of the auditory nerve by electrical signals, mimicking the natural process of sound transmission",Cause and Effect
+"The physiological basis is the direct stimulation of the auditory nerve by electrical signals, mimicking the natural process of sound transmission","Unlike hearing aids, which amplify sound, implants directly stimulate the auditory nerve",Cause and Effect
+"Unlike hearing aids, which amplify sound, implants directly stimulate the auditory nerve",This direct stimulation is crucial for restoring hearing in people with profound hearing loss,Cause and Effect
+This direct stimulation is crucial for restoring hearing in people with profound hearing loss,The success of cochlear implants depends on the individual's ability to interpret these electrical signals,Cause and Effect
+The success of cochlear implants depends on the individual's ability to interpret these electrical signals,"While not restoring normal hearing, they significantly improve communication abilities",Cause and Effect
+"While not restoring normal hearing, they significantly improve communication abilities","For individuals with profound hearing loss, cochlear implants provide a solution to regain some ability to hear",Cause and Effect
+"For individuals with profound hearing loss, cochlear implants provide a solution to regain some ability to hear",The purpose of cochlear implants is to restore functional hearing to those who cannot benefit from hearing aids,Purpose
+The purpose of cochlear implants is to restore functional hearing to those who cannot benefit from hearing aids,They are most beneficial for children who learn to associate the sounds with meaning early on,Purpose
+They are most beneficial for children who learn to associate the sounds with meaning early on,"Despite being a medical solution,",Concession

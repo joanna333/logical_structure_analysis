@@ -1,0 +1,9 @@
+Sentence 1,Sentence 2,Relationship
+"During exercise, muscle fatigue occurs for several physiological reasons","One major cause is the accumulation of lactic acid, which is produced when glucose is broken down without sufficient oxygen",Cause and Effect
+"One major cause is the accumulation of lactic acid, which is produced when glucose is broken down without sufficient oxygen",This acid can interfere with muscle contraction and lead to decreased performance,Cause and Effect
+This acid can interfere with muscle contraction and lead to decreased performance,"Another factor is the depletion of muscle glycogen stores, which provide energy for muscle contractions",Cause and Effect
+"Another factor is the depletion of muscle glycogen stores, which provide energy for muscle contractions","The nervous system also plays a role, as it becomes less efficient at signaling muscles to contract over time",Cause and Effect
+"The nervous system also plays a role, as it becomes less efficient at signaling muscles to contract over time",This neural fatigue can limit the force and speed of muscle contractions,Cause and Effect
+This neural fatigue can limit the force and speed of muscle contractions,"Additionally, there is an increase in hydrogen ions, which can lower the pH in muscles and impair their function",Cause and Effect
+"Additionally, there is an increase in hydrogen ions, which can lower the pH in muscles and impair their function",These factors collectively contribute to the sensation and physiological changes associated with muscle fatigue,Cause and Effect
+These factors collectively contribute to the sensation and physiological changes associated with muscle fatigue,Understanding these causes helps in developing strategies to delay or mitigate muscle fatigue during exercise,Cause and Effect

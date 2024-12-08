@@ -1,0 +1,10 @@
+Sentence 1,Sentence 2,Relationship
+"The liver is essential for metabolism, breaking down nutrients to provide energy for the body",Detoxification is a crucial function where the liver filters harmful substances from the blood,Cause and Effect
+Detoxification is a crucial function where the liver filters harmful substances from the blood,"Bile production is important for digesting fats, allowing the body to absorb fat-soluble vitamins",Cause and Effect
+"Bile production is important for digesting fats, allowing the body to absorb fat-soluble vitamins","Without the liver's detoxification processes, toxins could accumulate and cause harm",Cause and Effect
+"Without the liver's detoxification processes, toxins could accumulate and cause harm",The liver's metabolic processes convert nutrients into essential compounds the body needs,Cause and Effect
+The liver's metabolic processes convert nutrients into essential compounds the body needs,"The liver produces bile, which is necessary for the digestion and absorption of fats",Cause and Effect
+"The liver produces bile, which is necessary for the digestion and absorption of fats","If the liver fails to produce bile, fat digestion is compromised, leading to malnutrition",Cause and Effect
+"If the liver fails to produce bile, fat digestion is compromised, leading to malnutrition","The liver's functions are interconnected, with metabolism influencing detoxification and bile production",Cause and Effect
+"The liver's functions are interconnected, with metabolism influencing detoxification and bile production","Despite its robust capabilities, the liver can become overwhelmed by excessive alcohol or toxins, leading to disease",Cause and Effect
+"Despite its robust capabilities, the liver can become overwhelmed by excessive alcohol or toxins, leading to disease","In summary, the liver's major roles include metabolism, detoxification, and bile production, all of which are vital for maintaining health",Cause and Effect

@@ -1,0 +1,9 @@
+Sentence,Label
+Atherosclerosis is a condition where the arteries harden and narrow due to the buildup of plaque.,Definition
+"Plaque is made up of fat, cholesterol, calcium, and other substances found in the blood.",Explanation
+"The buildup of plaque causes the arteries to become stiff and less flexible, a process known as arteriosclerosis.",Explanation
+"This hardening and narrowing restricts blood flow, which is essential for delivering oxygen and nutrients to tissues and organs throughout the body.",Causal
+"It is a leading cause of cardiovascular disease, which is the leading cause of death worldwide.",Comparison
+"Early detection and management of risk factors like high blood pressure, high cholesterol, and smoking can help prevent or slow the progression of atherosclerosis.",Solution
+Understanding the pathophysiology of atherosclerosis is crucial for developing effective prevention and treatment strategies.,Generalization
+"In summary, atherosclerosis is a complex condition that significantly impacts systemic circulation by causing arterial narrowing and reducing blood flow, which can lead to severe health complications.",Summary

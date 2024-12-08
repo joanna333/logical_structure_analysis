@@ -1,0 +1,14 @@
+Sentence 1,Sentence 2,Relationship
+Glomerular filtration is the process by which blood plasma is filtered in the kidneys to form urine,"The kidneys receive blood through the renal artery, and this blood enters the glomerulus",Cause and Effect
+"The kidneys receive blood through the renal artery, and this blood enters the glomerulus","Within the glomerulus, pressure forces plasma and solutes out of the blood and into the Bowman's capsule",Cause and Effect
+"Within the glomerulus, pressure forces plasma and solutes out of the blood and into the Bowman's capsule","The filtrate, which is now urine, contains water, ions, and small molecules but not blood cells or large proteins",Cause and Effect
+"The filtrate, which is now urine, contains water, ions, and small molecules but not blood cells or large proteins",Regulation of glomerular filtration is crucial to maintain fluid and electrolyte balance in the body,Cause and Effect
+Regulation of glomerular filtration is crucial to maintain fluid and electrolyte balance in the body,"The primary regulators include blood pressure, glomerular capillary hydrostatic pressure, and colloid osmotic pressure",Cause and Effect
+"The primary regulators include blood pressure, glomerular capillary hydrostatic pressure, and colloid osmotic pressure","When blood pressure increases, filtration increases, and more plasma is filtered into the Bowman's capsule",Cause and Effect
+"When blood pressure increases, filtration increases, and more plasma is filtered into the Bowman's capsule","Conversely, when blood pressure decreases, filtration slows down to conserve fluid",Cause and Effect
+"Conversely, when blood pressure decreases, filtration slows down to conserve fluid",The kidneys also adjust filtration based on the osmotic pressure of plasma proteins,Cause and Effect
+The kidneys also adjust filtration based on the osmotic pressure of plasma proteins,This process helps to fine-tune the amount of water reabsorbed into the bloodstream,Cause and Effect
+This process helps to fine-tune the amount of water reabsorbed into the bloodstream,"The net filtration pressure, a combination of these pressures, determines the rate of filtration",Cause and Effect
+"The net filtration pressure, a combination of these pressures, determines the rate of filtration",The kidneys use hormones like angiotensin II and aldosterone to further regulate filtration,Cause and Effect
+The kidneys use hormones like angiotensin II and aldosterone to further regulate filtration,These hormones can increase blood pressure and affect the reabsorption of water and ions,Cause and Effect
+These hormones can increase blood pressure and affect the reabsorption of water and ions,"In summary, glomerular filtration is regulated by multiple factors to ensure proper fluid balance",Cause and Effect

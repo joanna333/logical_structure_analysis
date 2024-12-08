@@ -1,0 +1,9 @@
+Sentence,Label
+"The immune system mistakenly identifies a harmless substance as a threat, triggering an allergic reaction.",Definition
+"Histamine causes the typical symptoms of an allergic reaction, such as sneezing, itching, and swelling.",Explanation
+"Anaphylaxis is a severe, potentially life-threatening allergic reaction that affects multiple body systems simultaneously.",Definition
+"Symptoms of anaphylaxis can include difficulty breathing, swelling of the throat, and a rapid drop in blood pressure.",Explanation
+"Without treatment, anaphylaxis can be fatal, highlighting the importance of carrying an epinephrine auto-injector for those at risk.",Emphasis
+Understanding these mechanisms is crucial for diagnosing and managing allergic reactions and anaphylaxis effectively.,Purpose
+"Therefore, recognizing the signs of an allergic reaction and knowing how to respond is essential for preventing serious outcomes.",Generalization
+The physiological mechanisms behind allergic reactions and anaphylaxis are complex but understanding them can save lives.,Summary

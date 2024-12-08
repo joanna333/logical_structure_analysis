@@ -1,0 +1,10 @@
+Sentence,Label
+Lactation is the process of producing and secreting milk by the mammary glands.,Definition
+Oxytocin and prolactin are the primary hormones involved in lactation.,Definition
+"When a baby suckles, it sends a signal to the brain to release prolactin and oxytocin.",Explanation
+Prolactin levels increase during pregnancy and remain high after childbirth to prepare the body for lactation.,Explanation
+"Oxytocin levels surge during milk letdown, which is essential for feeding the newborn.",Explanation
+Breastfeeding is encouraged as it naturally regulates these hormonal processes.,Purpose
+Understanding these hormonal controls is vital for ensuring successful lactation.,Explanation
+"Therefore, the hormonal control of lactation is a complex yet essential process.",Generalization
+"Each hormone has a specific function, and their coordination is necessary for lactation to occur.",Elaboration

@@ -1,0 +1,8 @@
+Sentence,Label
+"Neurotransmitter balance in the brain is crucial for proper communication between neurons.  Without this balance, neural signals may not be transmitted effectively.",Causal
+"Neurotransmitters like dopamine, serotonin, and norepinephrine play essential roles in mood regulation.  Imbalances in these neurotransmitters can lead to disorders such as depression and anxiety.",Definition
+"For example, low levels of serotonin are linked to depression, while high levels can cause agitation.  This highlights the importance of maintaining the right balance.",Illustration
+"The brain uses receptors to regulate neurotransmitter activity, ensuring that signals are neither too strong nor too weak.  This mechanism helps in maintaining homeostasis within the neural network.",Explanation
+Medications often target specific neurotransmitters to treat these imbalances.  This intervention aims to restore the necessary equilibrium in the brain.,Solution
+"Therefore, understanding neurotransmitter balance is key to comprehending brain function and mental health.  It underscores the complexity and interdependence of neural processes.",Generalization
+"In summary, neurotransmitter balance is vital for normal brain function and mental health.  Disruptions can lead to serious consequences, making it a critical area of study in neuroscience.",Summary

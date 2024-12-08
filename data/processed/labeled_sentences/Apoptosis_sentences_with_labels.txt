@@ -1,0 +1,8 @@
+Sentence,Label
+Apoptosis is a programmed cell death process that is crucial for maintaining tissue homeostasis.,Definition
+"Apoptosis helps to remove these cells without causing inflammation, which is essential for the health and integrity of tissues.",Explanation
+"On the other hand, excessive apoptosis can also be harmful, leading to tissue degradation and autoimmune diseases.",Contrast
+"Therefore, apoptosis is tightly regulated to ensure that it occurs at the right time and place, maintaining the equilibrium of tissues.",Explanation
+"In summary, apoptosis is vital for tissue homeostasis as it removes damaged cells without causing harm to the surrounding tissues.",Summary
+Understanding the role of apoptosis in maintaining tissue homeostasis is key to comprehending how diseases arise when this process is disrupted.,Generalization
+"In conclusion, apoptosis serves as a critical mechanism for the body to manage cell numbers and prevent tissue dysfunction.",Summary

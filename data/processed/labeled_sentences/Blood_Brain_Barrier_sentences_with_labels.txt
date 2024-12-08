@@ -1,0 +1,10 @@
+Sentence,Label
+The blood-brain barrier (BBB) is a protective barrier in the central nervous system (CNS).,Definition
+It is located in the capillaries that supply the brain and spinal cord.,Location
+The BBB allows for the passage of essential nutrients and oxygen while preventing harmful substances from entering the CNS.,Function
+It consists of tightly packed endothelial cells with specialized junctions.,Structure
+"These junctions restrict the movement of large molecules and pathogens, ensuring the brain's protection.",Causal
+The BBB is crucial for maintaining the brain's internal environment.,Emphasis
+"Without the BBB, the brain would be vulnerable to infections and toxins present in the bloodstream.",Consequence
+The blood-brain barrier illustrates the importance of selective permeability in CNS protection.,Explanation
+"In summary, the blood-brain barrier is a critical structure that functions to shield the brain from harmful elements while facilitating necessary exchanges.",Summary

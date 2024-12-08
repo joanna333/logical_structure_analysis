@@ -1,0 +1,9 @@
+Sentence,Label
+The oxygen-hemoglobin dissociation curve illustrates how the amount of oxygen bound to hemoglobin changes with the oxygen partial pressure.,Definition
+pH and temperature are two key factors that influence this curve.,Addition
+These changes in the curve are crucial for understanding how oxygen is delivered to tissues under different physiological conditions.,Explanation
+"In summary, the oxygen-hemoglobin dissociation curve is sensitive to pH and temperature, which are critical for the efficient delivery of oxygen to tissues.",Summary
+"Understanding these factors helps in diagnosing conditions such as carbon monoxide poisoning, where a rightward shift can indicate the presence of a competitive oxygen binder.",Illustration
+"Despite these influences, the curve remains relatively stable within normal physiological ranges, ensuring consistent oxygen delivery.",Clarification
+"In conclusion, the oxygen-hemoglobin dissociation curve is significantly impacted by pH and temperature, which are essential for the proper functioning of the oxygen transport system in the body.",Summary
+"The relationship between these factors and the curve is a fundamental aspect of physiological chemistry, highlighting the body's intricate mechanisms for oxygen transport.",Explanation

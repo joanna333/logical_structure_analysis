@@ -1,0 +1,8 @@
+Sentence,Label
+"Platelets play a crucial role in hemostasis, the process of stopping bleeding.",Definition
+"When a blood vessel is injured, platelets are the first to respond.",Sequential
+Platelets adhere to the vessel wall at the site of injury.,Sequential
+This adherence is followed by shape change and aggregation of platelets.,Sequential
+Platelets also release substances that promote clot formation.,Explanation
+These substances include clotting factors that further stabilize the clot.,Explanation
+"Thus, platelets are essential for hemostasis and maintaining normal blood coagulation.",Summary

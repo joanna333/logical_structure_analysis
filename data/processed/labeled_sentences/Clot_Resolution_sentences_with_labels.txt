@@ -1,0 +1,12 @@
+Sentence,Label
+"Clot resolution is the process by which clots dissolve and are removed from the bloodstream, restoring normal blood flow.",Definition
+Fibrinolysis plays a crucial role in this process.,Explanation
+"During fibrinolysis, fibrin, the protein that forms the clot, is broken down into its constituent parts.",Explanation
+This breakdown is achieved through the action of enzymes like plasmin.,Explanation
+"Plasmin degrades fibrin, which helps to liquefy the clot, allowing it to be absorbed by the body.",Explanation
+"Therefore, fibrinolysis is essential for maintaining a healthy circulatory system.",Generalization
+"In contrast, excessive fibrinolysis can lead to bleeding disorders.",Contrast
+"Thus, the body has a delicate balance to maintain between clot formation and clot resolution.",Generalization
+Understanding this balance is key to comprehending how the body manages bleeding and prevents unnecessary clotting.,Explanation
+"In summary, clot resolution is a vital process managed by fibrinolysis, which ensures that clots form when needed but are removed when they are no longer necessary.",Summary
+"The role of fibrinolysis in clot resolution is a critical aspect of hemostasis, ensuring that blood clots form properly and are cleared away efficiently.",Explanation

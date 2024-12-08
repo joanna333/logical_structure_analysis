@@ -1,0 +1,11 @@
+Sentence,Label
+"Prolactin is a hormone produced by the pituitary gland, playing a crucial role in lactation in mammals.",Definition
+"Prolactin regulates milk production in women after childbirth, enabling feeding of newborns.",Explanation
+"Prolactin also influences sexual function in both males and females, although its exact roles are complex and not fully understood.",Elaboration
+"Prolactin's secretion is influenced by other hormones, such as estrogen and progesterone in females, and by the hypothalamic-pituitary-testicular axis in males.",Explanation
+The regulation of prolactin involves a negative feedback loop where high levels of prolactin inhibit its further release.,Definition
+"Prolactin's physiological roles extend beyond reproduction, affecting metabolism, immune function, and growth.",Elaboration
+"Despite its name, prolactin is not solely responsible for lactation; other hormones like oxytocin play critical roles as well.",Contrast
+Understanding the regulation and roles of prolactin is essential for comprehending various physiological processes.,Purpose
+Research continues to explore how prolactin interacts with other hormones to maintain homeostasis in the body.,Generalization
+"Any disruption in prolactin levels can lead to health issues, highlighting its importance in physiological balance.",Emphasis

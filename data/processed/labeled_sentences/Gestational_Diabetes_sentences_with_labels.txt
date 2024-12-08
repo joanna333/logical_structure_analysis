@@ -1,0 +1,8 @@
+Sentence,Label
+Gestational diabetes occurs when a woman without pre-existing diabetes develops high blood sugar levels during pregnancy.,Definition
+The physiological basis involves the body's inability to produce enough insulin to meet the increased demands of pregnancy.,Explanation
+"Insulin is crucial as it helps cells absorb glucose for energy, and its deficiency leads to elevated blood sugar levels.",Explanation
+Managing gestational diabetes is crucial to prevent these complications and ensure a healthy pregnancy and baby.,Purpose
+Regular monitoring of blood sugar levels and dietary adjustments are often recommended to control the condition.,Solution
+"Despite these measures, some women may still experience complications, underscoring the importance of close medical supervision.",Emphasis
+"In summary, gestational diabetes involves the body's insulin resistance during pregnancy, leading to various complications for both mother and baby.",Summary

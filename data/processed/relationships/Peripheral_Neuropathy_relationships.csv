@@ -1,0 +1,14 @@
+Sentence 1,Sentence 2,Relationship
+"Peripheral neuropathy can be caused by several factors, such as diabetes, vitamin deficiencies, and exposure to toxic substances","Diabetes is a common cause of peripheral neuropathy, leading to damage in the nerves of the extremities",Cause and Effect
+"Diabetes is a common cause of peripheral neuropathy, leading to damage in the nerves of the extremities","Vitamin deficiencies, particularly B12, can result in peripheral neuropathy by affecting nerve function",Cause and Effect
+"Vitamin deficiencies, particularly B12, can result in peripheral neuropathy by affecting nerve function","Toxic substances, like certain medications or heavy metals, can also lead to peripheral neuropathy by damaging nerve fibers",Cause and Effect
+"Toxic substances, like certain medications or heavy metals, can also lead to peripheral neuropathy by damaging nerve fibers","Physiologically, peripheral neuropathy manifests as numbness, tingling, and pain in the hands and feet",Cause and Effect
+"Physiologically, peripheral neuropathy manifests as numbness, tingling, and pain in the hands and feet","The condition can also cause muscle weakness and loss of coordination, impacting daily activities",Cause and Effect
+"The condition can also cause muscle weakness and loss of coordination, impacting daily activities","In severe cases, peripheral neuropathy may lead to a loss of sensation, increasing the risk of injury",Cause and Effect
+"In severe cases, peripheral neuropathy may lead to a loss of sensation, increasing the risk of injury","Peripheral neuropathy can affect autonomic nerves, leading to digestive issues and bladder problems",Cause and Effect
+"Peripheral neuropathy can affect autonomic nerves, leading to digestive issues and bladder problems",The exact mechanism of nerve damage varies depending on the underlying cause,Cause and Effect
+The exact mechanism of nerve damage varies depending on the underlying cause,"For example, in diabetes, high blood sugar levels can impair nerve function over time",Cause and Effect
+"For example, in diabetes, high blood sugar levels can impair nerve function over time","Peripheral neuropathy is often diagnosed through a combination of patient history, physical examination, and nerve function tests",Cause and Effect
+"Peripheral neuropathy is often diagnosed through a combination of patient history, physical examination, and nerve function tests","Treatment focuses on managing symptoms and addressing the underlying cause, when possible",Cause and Effect
+"Treatment focuses on managing symptoms and addressing the underlying cause, when possible",It's important to manage risk factors to prevent the onset or progression of peripheral neuropathy,Cause and Effect
+It's important to manage risk factors to prevent the onset or progression of peripheral neuropathy,Early detection and management can help slow the progression and,Cause and Effect

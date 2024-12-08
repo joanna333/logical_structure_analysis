@@ -1,0 +1,11 @@
+Sentence,Label
+"One common disorder is Hemophilia, which is caused by a lack of clotting factors in the blood.",Causal
+Patients with Hemophilia experience prolonged bleeding because their blood fails to clot properly.,Explanation
+"Factor V Leiden, another clotting disorder, is characterized by a mutated gene that increases the risk of excessive clotting.",Definition
+Anticoagulant medications are often used to treat clotting disorders by inhibiting the clotting process.,Solution
+"Warfarin, a common anticoagulant, works by reducing the production of clotting factors in the blood.",Explanation
+"While effective, anticoagulants require careful monitoring to avoid bleeding complications.",Addition
+Genetic mutations and environmental factors can both contribute to the development of blood clotting disorders.,Addition
+Understanding the physiological basis of these disorders is crucial for developing targeted treatments.,Purpose
+"In summary, blood clotting disorders are often the result of genetic mutations or deficiencies in clotting factors.",Summary
+These disorders can lead to severe health complications if not managed properly.,Emphasis

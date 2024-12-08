@@ -1,0 +1,9 @@
+Sentence,Label
+T cell activation is a crucial process in adaptive immunity.,Definition
+T cells are a type of lymphocyte that play a central role in the immune response.,Definition
+"Upon encountering a specific antigen, T cells become activated.",Causal
+Activation occurs when the T cell receptor binds to the antigen presented by an antigen-presenting cell.,Explanation
+This binding triggers a series of signaling events inside the T cell.,Explanation
+T cell activation is significant because it allows for a specific and targeted immune response.,Explanation
+"Without T cell activation, the immune system would be less effective at recognizing and fighting pathogens.",Explanation
+"In summary, T cell activation is essential for adaptive immunity, enabling the immune system to recognize and respond to specific threats.",Summary

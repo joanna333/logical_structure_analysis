@@ -1,0 +1,16 @@
+Sentence 1,Sentence 2,Relationship
+Dopamine is a neurotransmitter associated with pleasure and reward,It plays a crucial role in motivation and addiction,Cause and Effect
+It plays a crucial role in motivation and addiction,Serotonin helps regulate mood and is linked to feelings of well-being,Cause and Effect
+Serotonin helps regulate mood and is linked to feelings of well-being,Low levels are associated with depression,Cause and Effect
+Low levels are associated with depression,GABA is the primary inhibitory neurotransmitter in the brain,Cause and Effect
+GABA is the primary inhibitory neurotransmitter in the brain,"It reduces neural activity, which can calm excitatory signals",Cause and Effect
+"It reduces neural activity, which can calm excitatory signals","Dopamine's release is causal in the reward system, encouraging behaviors that lead to pleasure",Cause and Effect
+"Dopamine's release is causal in the reward system, encouraging behaviors that lead to pleasure",Serotonin's role in mood regulation is conditional on its availability in the synaptic gap,Cause and Effect
+Serotonin's role in mood regulation is conditional on its availability in the synaptic gap,"GABA's function is sequential to excitatory neurotransmitters, working to balance neural activity",Cause and Effect
+"GABA's function is sequential to excitatory neurotransmitters, working to balance neural activity","Dopamine and serotonin are often contrasted in their effects on mood, with dopamine enhancing pleasure and serotonin promoting calmness",Contrast
+"Dopamine and serotonin are often contrasted in their effects on mood, with dopamine enhancing pleasure and serotonin promoting calmness","The purpose of neurotransmitters like dopamine, serotonin, and GABA is to facilitate neural communication",Purpose
+"The purpose of neurotransmitters like dopamine, serotonin, and GABA is to facilitate neural communication",Understanding these neurotransmitters clarifies how brain chemistry influences mood and behavior,Purpose
+Understanding these neurotransmitters clarifies how brain chemistry influences mood and behavior,"Dopamine, serotonin, and GABA are key neurotransmitters with distinct roles in neural communication",Cause and Effect
+"Dopamine, serotonin, and GABA are key neurotransmitters with distinct roles in neural communication","Low levels of serotonin can lead to depression, highlighting its importance in mood regulation",Cause and Effect
+"Low levels of serotonin can lead to depression, highlighting its importance in mood regulation",GABA's role as an inhibitor is essential for preventing neural overactivity,Cause and Effect
+GABA's role as an inhibitor is essential for preventing neural overactivity,"While dopamine enhances pleasure, serotonin promotes a sense of well-being, illustrating their different roles",Cause and Effect

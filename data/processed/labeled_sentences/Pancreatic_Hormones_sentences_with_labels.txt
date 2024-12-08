@@ -1,0 +1,11 @@
+Sentence,Label
+"Pancreatic hormones play crucial roles in metabolic regulation. Insulin is a hormone that lowers blood glucose levels by facilitating glucose entry into cells, thereby reducing blood sugar.",Definition
+"Glucagon, on the other hand, increases blood glucose levels by stimulating the liver to convert stored glycogen into glucose, releasing it into the bloodstream.",Definition
+"Somatostatin inhibits the secretion of both insulin and glucagon, serving to regulate the balance between glucose uptake and release.",Explanation
+"When blood sugar levels are high, insulin is secreted to lower them, while glucagon is suppressed to prevent further glucose release.",Causal
+"Conversely, when blood sugar levels are low, glucagon is released to raise them, and insulin secretion is inhibited by somatostatin.",Causal
+"These hormones work in tandem to maintain homeostasis of blood glucose levels, ensuring energy supply to the body's cells.",Explanation
+"In contrast, somatostatin acts as a regulator, preventing excessive glucose release or uptake when levels are already optimal.",Contrast
+"The interplay between insulin, glucagon, and somatostatin is essential for metabolic balance, demonstrating the complexity of hormonal regulation in the body.",Explanation
+Understanding these roles helps in comprehending how diabetes and other metabolic disorders can disrupt this delicate balance.,Purpose
+"In summary, insulin lowers blood sugar, glucagon raises it, and somatostatin controls the secretion of both, ensuring metabolic stability.",Summary

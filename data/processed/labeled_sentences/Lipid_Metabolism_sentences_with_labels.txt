@@ -1,0 +1,10 @@
+Sentence,Label
+"Lipid metabolism involves the breakdown and synthesis of lipids, which are essential for cellular function.",Definition
+"Adipose tissue releases hormones like leptin, which signal satiety and inhibit further food intake, and adiponectin, which affects insulin sensitivity and metabolism.",Explanation
+"Glucagon, on the other hand, stimulates the breakdown of glycogen and triglycerides, acting as a counterbalance to insulin.",Contrast
+"The thyroid hormones T3 and T4 increase the basal metabolic rate, thereby affecting lipid utilization and storage.",Explanation
+Pancreatic hormones like cortisol and glucagon also influence lipid metabolism by modulating the release of stored energy.,Explanation
+"The liver is central to lipid metabolism, synthesizing cholesterol and triglycerides while also breaking them down as needed.",Definition
+The hormonal control of lipid metabolism is finely tuned to maintain energy balance and ensure adequate supply for cellular functions.,Explanation
+Understanding these pathways and controls is vital for developing treatments for metabolic disorders.,Purpose
+"Thus, the physiological pathways of lipid metabolism are intricately linked to hormonal control, ensuring a balanced energy supply.",Summary

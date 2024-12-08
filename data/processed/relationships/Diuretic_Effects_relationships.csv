@@ -1,0 +1,24 @@
+Sentence 1,Sentence 2,Relationship
+Diuretics are medications that increase urine output,-[Definition-],Cause and Effect
+-[Definition-],"Loop diuretics, such as furosemide, act on the ascending limb of the loop of Henle in the nephron",Cause and Effect
+"Loop diuretics, such as furosemide, act on the ascending limb of the loop of Henle in the nephron",-[Causal-],Cause and Effect
+-[Causal-],"This segment is crucial for reabsorbing sodium and chloride, and blocking it leads to increased excretion of these ions into the urine",Cause and Effect
+"This segment is crucial for reabsorbing sodium and chloride, and blocking it leads to increased excretion of these ions into the urine",-[Causal-],Cause and Effect
+-[Causal-],-[Explanation-],Cause and Effect
+-[Explanation-],"Thiazide diuretics, like hydrochlorothiazide, inhibit the sodium-chloride symporter in the distal convoluted tubule",Cause and Effect
+"Thiazide diuretics, like hydrochlorothiazide, inhibit the sodium-chloride symporter in the distal convoluted tubule",-[Definition-],Cause and Effect
+-[Definition-],"By blocking reabsorption of sodium and chloride, thiazides increase the osmolarity of the urine, which enhances water excretion",Cause and Effect
+"By blocking reabsorption of sodium and chloride, thiazides increase the osmolarity of the urine, which enhances water excretion",-[Causal-],Cause and Effect
+-[Causal-],-[Explanation-],Cause and Effect
+-[Explanation-],"Carbonic anhydrase inhibitors, such as acetazolamide, reduce the production of carbonic acid in the proximal convoluted tubule",Cause and Effect
+"Carbonic anhydrase inhibitors, such as acetazolamide, reduce the production of carbonic acid in the proximal convoluted tubule",-[Definition-],Cause and Effect
+-[Definition-],"This decrease inhibits sodium bicarbonate reabsorption, leading to a more acidic urine and increased water excretion",Cause and Effect
+"This decrease inhibits sodium bicarbonate reabsorption, leading to a more acidic urine and increased water excretion",-[Causal-],Cause and Effect
+-[Causal-],-[Explanation-],Cause and Effect
+-[Explanation-],Each type of diuretic targets a different part of the nephron to alter the concentration of solutes in the urine and consequently increase urine volume,Cause and Effect
+Each type of diuretic targets a different part of the nephron to alter the concentration of solutes in the urine and consequently increase urine volume,-[Explanation-],Cause and Effect
+-[Explanation-],-[Addition-],Addition
+-[Addition-],Understanding these mechanisms helps in the appropriate use of diuretics for managing conditions like hypertension and edema,Cause and Effect
+Understanding these mechanisms helps in the appropriate use of diuretics for managing conditions like hypertension and edema,-[Purpose-],Purpose
+-[Purpose-],-[Clarification-],Clarification
+-[Clarification-],"By knowing how each diuretic affects the nephron, doctors can choose the most effective type for",Cause and Effect

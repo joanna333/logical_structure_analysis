@@ -1,0 +1,9 @@
+Sentence,Label
+The physiological effects of hyperventilation are often uncomfortable and can be mistaken for a panic attack.,Explanation
+"To prevent hyperventilation, it's important to breathe slowly and deeply, focusing on inhaling through the nose and exhaling through the mouth.",Solution
+Breathing into a paper bag can help restore CO2 levels if someone is currently experiencing hyperventilation symptoms.,Solution
+Hyperventilation is a condition that can be controlled with proper breathing techniques and understanding its effects.,Generalization
+Understanding the cause and effect of hyperventilation helps in recognizing and managing it effectively.,Explanation
+Hyperventilation is a condition where the body takes in too much oxygen and expels too much carbon dioxide.,Definition
+This imbalance can lead to a range of physical and psychological symptoms.,Explanation
+"Hyperventilation is often triggered by stress or anxiety, making it a common issue for many people.",Addition

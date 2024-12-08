@@ -1,0 +1,12 @@
+Sentence 1,Sentence 2,Relationship
+"Muscle contraction relies on several energy systems, each playing a crucial role","The first system is ATP, adenosine triphosphate, which directly provides energy for short, high-intensity bursts",Cause and Effect
+"The first system is ATP, adenosine triphosphate, which directly provides energy for short, high-intensity bursts","ATP is immediately available but is quickly depleted, lasting only a few seconds",Cause and Effect
+"ATP is immediately available but is quickly depleted, lasting only a few seconds","Creatine phosphate acts as a secondary reserve, replenishing ATP by donating phosphate molecules",Cause and Effect
+"Creatine phosphate acts as a secondary reserve, replenishing ATP by donating phosphate molecules",Creatine phosphate is essential for maintaining energy during the early stages of intense exercise,Cause and Effect
+Creatine phosphate is essential for maintaining energy during the early stages of intense exercise,"Aerobic metabolism kicks in after ATP and creatine phosphate are exhausted, providing sustained energy",Cause and Effect
+"Aerobic metabolism kicks in after ATP and creatine phosphate are exhausted, providing sustained energy",This system uses oxygen and is slower to initiate but can last for extended periods,Cause and Effect
+This system uses oxygen and is slower to initiate but can last for extended periods,"Anaerobic metabolism occurs when oxygen is insufficient, leading to the production of lactic acid",Cause and Effect
+"Anaerobic metabolism occurs when oxygen is insufficient, leading to the production of lactic acid",This process is faster than aerobic metabolism but can only sustain exercise for a few minutes due to the accumulation of lactic acid,Cause and Effect
+This process is faster than aerobic metabolism but can only sustain exercise for a few minutes due to the accumulation of lactic acid,The contrast between aerobic and anaerobic metabolism lies in their reliance on oxygen and their duration of effectiveness,Contrast
+The contrast between aerobic and anaerobic metabolism lies in their reliance on oxygen and their duration of effectiveness,Understanding these energy systems helps in optimizing exercise performance and recovery,Contrast
+Understanding these energy systems helps in optimizing exercise performance and recovery,"In summary, muscle contraction involves ATP, creatine phosphate, and the aerobic/anaerobic systems, each serving distinct roles based on energy demands and duration",Cause and Effect

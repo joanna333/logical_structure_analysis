@@ -1,0 +1,9 @@
+Sentence,Label
+"Natural killer (NK) cells play a crucial role in the immune response by identifying and destroying infected or abnormal cells, such as cancer cells and virus-infected cells, without directly recognizing specific antigens.",Definition
+NK cells are a type of innate immune cells that do not need to be activated by antibodies like B cells or T cells do.,Definition
+"The activation of NK cells is regulated by the balance of inhibitory and activating receptors on their surface, which recognize MHC molecules on the surface of cells.",Explanation
+"If the inhibitory signals are stronger, NK cells remain inactive; however, if the activating signals outweigh the inhibitory ones, NK cells are activated to kill the target cell.",Explanation
+NK cells are essential for the rapid initial response against viral infections before the adaptive immune system can be fully mobilized.,Explanation
+"In contrast to adaptive immunity, which is highly specific, NK cells provide a broad defense mechanism against a wide range of pathogens.",Contrast
+The presence of NK cells is vital for maintaining homeostasis and preventing the spread of infections and development of tumors.,Emphasis
+"In summary, NK cells are critical for the immune system's ability to quickly eliminate compromised cells, providing a first line of defense against infections and cancer.",Summary

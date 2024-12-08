@@ -1,0 +1,8 @@
+Sentence,Label
+"The viscosity of blood also depends on the plasma composition; for instance, higher levels of proteins can increase viscosity.",Comparison
+This increased resistance can strain the heart and contribute to cardiovascular diseases over time.,Explanation
+"On the other hand, low viscosity allows blood to flow more freely, reducing the workload on the heart and lowering blood pressure.",Comparison
+Proper hydration and certain medications can help maintain optimal blood viscosity levels.,Addition
+Understanding these factors and their effects is essential for diagnosing and managing conditions related to blood flow and resistance.,Purpose
+"In summary, blood viscosity is influenced by the number of red blood cells, plasma composition, and other factors, which directly impact blood flow and resistance in the circulatory system.",Summary
+Recognizing these relationships helps in comprehending the complexity of blood circulation and the importance of maintaining optimal viscosity levels for overall health.,Generalization

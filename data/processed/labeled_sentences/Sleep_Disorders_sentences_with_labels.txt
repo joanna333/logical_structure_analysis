@@ -1,0 +1,8 @@
+Sentence,Label
+Insomnia is a common sleep disorder characterized by difficulty falling asleep or staying asleep.,Definition
+"The physiological basis of insomnia often involves disruptions in the body's circadian rhythm, which is regulated by the hormone melatonin.",Explanation
+"On the other hand, sleep apnea is a disorder where breathing repeatedly stops and starts during sleep.",Definition
+"This condition is primarily due to the relaxation of throat muscles, which blocks the airway.",Explanation
+The relationship between these two disorders is that both can lead to fragmented sleep and daytime fatigue.,Comparison
+Understanding the physiological basis of these disorders is crucial for effective treatment and management.,Emphasis
+"In summary, insomnia and sleep apnea are distinct but related sleep disorders with different physiological causes but similar impacts on sleep quality.",Summary

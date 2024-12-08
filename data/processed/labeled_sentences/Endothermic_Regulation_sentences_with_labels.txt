@@ -1,0 +1,9 @@
+Sentence,Label
+"Mammals maintain body temperature through endothermic regulation, which means they generate heat internally.",Definition
+"Fur and fat serve as insulation, helping to retain body heat.",Explanation
+"When it's hot, mammals sweat or pant to cool down, which is a form of heat dissipation.",Explanation
+"Endothermy enables mammals to be active in a wide range of temperatures, unlike ectotherms that rely on external heat sources.",Comparison
+The relationship between these processes is crucial for mammals to maintain a stable internal temperature.,Generalization
+Understanding these mechanisms helps us appreciate the complexity of mammalian physiology.,Clarification
+"In summary, mammals use a combination of metabolic heat production, insulation, and heat loss mechanisms to regulate their body temperature.",Summary
+These processes are essential for mammals to survive in diverse environments.,Purpose

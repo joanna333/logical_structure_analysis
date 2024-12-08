@@ -1,0 +1,8 @@
+Sentence,Label
+The cochlea is a snail-shaped structure in the inner ear crucial for hearing.,Definition
+The brain interprets these signals as sound.,Explanation
+"The organization of hair cells in the cochlea, from base to apex, allows for different frequencies to be detected.",Explanation
+This frequency-place theory explains how the cochlea transduces sound.,Explanation
+The cochlea's role in sound transduction is essential for hearing.,Emphasis
+Understanding these mechanisms helps in diagnosing and treating hearing impairments.,Purpose
+The cochlea's structure and function are finely tuned to convert sound waves into neural signals.,Explanation

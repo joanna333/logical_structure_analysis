@@ -1,0 +1,6 @@
+Sentence,Label
+Gluconeogenesis is a metabolic pathway that occurs in the liver and kidneys.,Definition
+"This process generates glucose from non-carbohydrate sources such as lactate, glycerol, and certain amino acids.",Explanation
+"To maintain blood sugar levels, the body needs to synthesize glucose.",Purpose
+Gluconeogenesis becomes crucial as it provides the necessary glucose for energy.,Explanation
+"Thus, gluconeogenesis plays a vital role in ensuring energy supply when dietary carbohydrates are unavailable.",Summary

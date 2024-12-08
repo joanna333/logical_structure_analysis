@@ -1,0 +1,7 @@
+Sentence 1,Sentence 2,Relationship
+Ventilation-perfusion matching is crucial for efficient gas exchange in the lungs,"Without proper matching, oxygen cannot effectively move from the lungs into the bloodstream, and carbon dioxide cannot be adequately removed",Cause and Effect
+"Without proper matching, oxygen cannot effectively move from the lungs into the bloodstream, and carbon dioxide cannot be adequately removed",This matching occurs when alveolar ventilation equals pulmonary blood flow,Cause and Effect
+This matching occurs when alveolar ventilation equals pulmonary blood flow,"When ventilation and perfusion are not balanced, ventilation-perfusion mismatch happens, leading to hypoxia or hypercapnia",Cause and Effect
+"When ventilation and perfusion are not balanced, ventilation-perfusion mismatch happens, leading to hypoxia or hypercapnia",The importance lies in maintaining adequate oxygen levels and removing carbon dioxide to sustain life,Cause and Effect
+The importance lies in maintaining adequate oxygen levels and removing carbon dioxide to sustain life,"Ventilation-perfusion mismatch can occur in conditions like pulmonary embolism, where blood flow is reduced in part of the lung",Cause and Effect
+"Ventilation-perfusion mismatch can occur in conditions like pulmonary embolism, where blood flow is reduced in part of the lung","Therefore, ventilation-perfusion matching is essential for gas exchange and overall health",Cause and Effect

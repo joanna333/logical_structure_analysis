@@ -1,0 +1,10 @@
+Sentence,Label
+"The diaphragm is a primary muscle used in ventilation, playing a crucial role in breathing.",Definition
+"Intercostal muscles, located between the ribs, also assist in ventilation by elevating the ribs during inhalation.",Definition
+Both the diaphragm and intercostal muscles work together to ensure efficient ventilation.,Addition
+Understanding their roles helps in comprehending how the body maintains adequate oxygen levels.,Explanation
+"In contrast, if these muscles fail to function properly, breathing difficulties can occur.",Contrast
+"Thus, the coordinated action of the diaphragm and intercostal muscles is essential for life.",Emphasis
+"Their roles in ventilation are vital, highlighting the importance of respiratory muscle health.",Emphasis
+"In summary, the diaphragm and intercostal muscles are key to the process of ventilation, working in tandem to facilitate breathing.",Summary
+Recognizing these roles can lead to better strategies for managing respiratory conditions.,Purpose

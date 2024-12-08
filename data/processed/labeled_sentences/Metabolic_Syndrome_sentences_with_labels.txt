@@ -1,0 +1,11 @@
+Sentence,Label
+"Metabolic syndrome is a cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes.",Definition
+"Central obesity, or excess abdominal fat, is a key component of metabolic syndrome.",Definition
+"High blood sugar levels, a hallmark of insulin resistance, are also part of metabolic syndrome.",Definition
+"These components are interconnected, with each influencing the others in a complex  web of metabolic dysfunction.",Addition
+Reducing abdominal fat can help break this cycle and improve other metabolic markers.,Solution
+"Thus, managing each component is crucial for controlling metabolic syndrome.",Generalization
+The interrelationships highlight the importance of a holistic approach to treatment.,Explanation
+"In summary, metabolic syndrome is characterized by several components that interact and increase the risk of disease.",Summary
+Understanding these relationships is key to effective management and prevention.,Purpose
+Clarifying these connections helps in devising targeted interventions for patients with metabolic syndrome.,Clarification

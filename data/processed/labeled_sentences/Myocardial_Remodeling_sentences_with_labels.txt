@@ -1,0 +1,12 @@
+Sentence,Label
+"After a myocardial infarction, the heart muscle undergoes significant changes known as myocardial remodeling.",Definition
+Myocardial remodeling can lead to changes in heart size and shape.,Consequence
+"These changes may either stabilize the heart or contribute to heart failure, depending on the extent of damage.",Comparison
+"Remodeled heart tissue might be weaker, increasing the risk of arrhythmias.",Consequence
+The consequences of myocardial remodeling post-infarction can vary greatly between individuals.,Generalization
+"Therefore, monitoring and managing post-infarction recovery is crucial for optimal heart function.",Purpose
+Understanding these processes helps in developing better treatment strategies.,Purpose
+"In summary, myocardial remodeling post-infarction involves complex biological responses with varied outcomes.",Summary
+The heart's ability to remodel effectively post-infarction is essential for long-term survival and quality of life.,Emphasis
+Each stage of remodeling and its potential consequences must be carefully managed to achieve the best possible outcome.,Clarification
+"The heart's response to a myocardial infarction, including remodeling, highlights the importance of timely and effective medical intervention.",Explanation

@@ -1,0 +1,13 @@
+Sentence 1,Sentence 2,Relationship
+An action potential is generated when the membrane potential of a neuron reaches a threshold value,The threshold is the voltage level at which the neuron's voltage-gated sodium channels open,Cause and Effect
+The threshold is the voltage level at which the neuron's voltage-gated sodium channels open,"When these channels open, sodium ions rush into the neuron, depolarizing the membrane",Cause and Effect
+"When these channels open, sodium ions rush into the neuron, depolarizing the membrane","This depolarization triggers the opening of voltage-gated potassium channels, allowing potassium ions to flow out",Cause and Effect
+"This depolarization triggers the opening of voltage-gated potassium channels, allowing potassium ions to flow out","The flow of potassium ions repolarizes the membrane, restoring the resting potential",Cause and Effect
+"The flow of potassium ions repolarizes the membrane, restoring the resting potential","Once the membrane is repolarized, it cannot generate another action potential immediately, a period known as the refractory period",Cause and Effect
+"Once the membrane is repolarized, it cannot generate another action potential immediately, a period known as the refractory period",The action potential then propagates down the axon due to the electrical gradient and myelin sheath,Cause and Effect
+The action potential then propagates down the axon due to the electrical gradient and myelin sheath,"Myelin, a fatty substance, insulates the axon, increasing the speed of action potential conduction",Cause and Effect
+"Myelin, a fatty substance, insulates the axon, increasing the speed of action potential conduction","Without myelin, action potentials would travel much slower",Cause and Effect
+"Without myelin, action potentials would travel much slower",The action potential is an all-or-nothing event; it either occurs fully or not at all,Cause and Effect
+The action potential is an all-or-nothing event; it either occurs fully or not at all,This ensures a consistent signal strength as the potential travels along the neuron,Cause and Effect
+This ensures a consistent signal strength as the potential travels along the neuron,The generation and propagation of action potentials are crucial for neural communication,Cause and Effect
+The generation and propagation of action potentials are crucial for neural communication,Understanding these processes is key to comprehending how neurons function in the nervous system,Cause and Effect

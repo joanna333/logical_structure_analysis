@@ -1,0 +1,16 @@
+Sentence 1,Sentence 2,Relationship
+"Sensory processing begins with receptors, which are specialized cells that detect environmental stimuli","Receptors convert physical stimuli into electrical signals, a process essential for sensory perception",Cause and Effect
+"Receptors convert physical stimuli into electrical signals, a process essential for sensory perception",These electrical signals travel along neural pathways to the brain,Cause and Effect
+These electrical signals travel along neural pathways to the brain,"The brain interprets these signals, allowing us to perceive sights, sounds, tastes, smells, and textures",Cause and Effect
+"The brain interprets these signals, allowing us to perceive sights, sounds, tastes, smells, and textures","The skin, for example, contains receptors for touch, temperature, and pain",Cause and Effect
+"The skin, for example, contains receptors for touch, temperature, and pain","Each type of receptor responds to specific stimuli, and the neural pathways they activate are distinct",Cause and Effect
+"Each type of receptor responds to specific stimuli, and the neural pathways they activate are distinct",The pathway from receptor to brain involves multiple neurons,Cause and Effect
+The pathway from receptor to brain involves multiple neurons,"Neurons transmit the signal by electrical and chemical means, ensuring the message is accurately conveyed",Cause and Effect
+"Neurons transmit the signal by electrical and chemical means, ensuring the message is accurately conveyed","If a stimulus is strong, more neurons may be involved in the pathway",Cause and Effect
+"If a stimulus is strong, more neurons may be involved in the pathway",This amplification helps the brain recognize the intensity of the stimulus,Cause and Effect
+This amplification helps the brain recognize the intensity of the stimulus,"The central nervous system integrates these signals, allowing for a comprehensive sensory experience",Cause and Effect
+"The central nervous system integrates these signals, allowing for a comprehensive sensory experience","This integration occurs in the brain and spinal cord, where the information is processed contextually",Cause and Effect
+"This integration occurs in the brain and spinal cord, where the information is processed contextually","Without receptors and neural pathways, sensory processing would not occur",Cause and Effect
+"Without receptors and neural pathways, sensory processing would not occur","Receptors are the first step, and neural pathways are the conduit through which sensory information flows to the brain",Cause and Effect
+"Receptors are the first step, and neural pathways are the conduit through which sensory information flows to the brain","In summary, sensory processing relies on receptors to detect stimuli and neural pathways to transmit this information to the brain for interpretation",Cause and Effect
+"In summary, sensory processing relies on receptors to detect stimuli and neural pathways to transmit this information to the brain for interpretation",This complex system enables us to interact with and understand our environment,Cause and Effect

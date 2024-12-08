@@ -1,0 +1,11 @@
+Sentence,Label
+Immunological memory is a crucial aspect of the immune system's ability to protect the body against pathogens.,Definition
+"After an initial exposure to a specific pathogen, the immune system generates a response.",Sequential
+This response includes the production of antibodies and the activation of specific T cells.,Elaboration
+These cells remember the pathogen and are primed to respond more quickly upon subsequent encounters.,Explanation
+"Without memory cells, the body would be susceptible to reinfection by the same pathogen.",Contrast
+"Memory cells persist in the body for a long time, providing sustained protection.",Explanation
+Immunological memory highlights the adaptive nature of the immune system.,Generalization
+"In summary, immunological memory is essential for long-term immunity, as it enables the immune system to recognize and combat pathogens more efficiently upon repeated exposures.",Summary
+Understanding this process underscores the importance of maintaining a robust immune memory for overall health.,Emphasis
+Clarification: Immunological memory is not just about immediate protection but about setting up a system that remembers and responds faster to known threats.,Clarification

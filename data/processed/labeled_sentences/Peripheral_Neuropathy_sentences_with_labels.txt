@@ -1,0 +1,9 @@
+Sentence,Label
+"Physiologically, peripheral neuropathy manifests as numbness, tingling, and pain in the hands and feet.",Definition
+"The condition can also cause muscle weakness and loss of coordination, impacting daily activities.",Explanation
+"In severe cases, peripheral neuropathy may lead to a loss of sensation, increasing the risk of injury.",Explanation
+"Peripheral neuropathy can affect autonomic nerves, leading to digestive issues and bladder problems.",Explanation
+The exact mechanism of nerve damage varies depending on the underlying cause.,Clarification
+"For example, in diabetes, high blood sugar levels can impair nerve function over time.",Explanation
+"Peripheral neuropathy is often diagnosed through a combination of patient history, physical examination, and nerve function tests.",Definition
+It's important to manage risk factors to prevent the onset or progression of peripheral neuropathy.,Generalization

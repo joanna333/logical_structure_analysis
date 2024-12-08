@@ -1,0 +1,6 @@
+Sentence,Label
+"Reflex arcs are fundamental in rapid response mechanisms.  They consist of a series of neurons.  The first neuron receives a stimulus.  This stimulus then travels along the arc.  The next neuron in the arc processes this signal.  This continues until the final neuron triggers a response.  Muscles or glands react to this signal.  Reflex arcs ensure quick, automatic responses to stimuli.  This is crucial for survival as it protects the body without conscious thought.  For instance, withdrawing your hand from a hot surface is a reflex arc in action.",Definition
+"Reflex arcs operate without the involvement of the brain.  They are part of the autonomic nervous system.  This system controls involuntary actions.  Reflex arcs are essential for maintaining homeostasis.  They help regulate body temperature, blood pressure, and more.",Definition
+"In contrast, voluntary movements involve the brain.  Reflex arcs are automatic and immediate.  Voluntary movements require conscious thought and are slower.",Contrast
+The purpose of reflex arcs is to protect the body swiftly.  They bypass the brain to ensure rapid responses.,Purpose
+Understanding reflex arcs is crucial for grasping how the nervous system functions.  They demonstrate the body's ability to react quickly to threats.,Generalization

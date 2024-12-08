@@ -1,0 +1,11 @@
+Sentence,Label
+Motor units are the basic functional units of skeletal muscles.,Definition
+Each motor unit consists of a motor neuron and the muscle fibers it innervates.,Definition
+The size of the motor unit determines the strength and precision of the muscle contraction.,Explanation
+"Smaller motor units are more precise, allowing for fine movements, while larger ones are used for powerful contractions.",Comparison
+The brain controls the activation of motor units through neural signals.,Explanation
+The coordinated firing of multiple motor units leads to the contraction of the entire muscle.,Sequential
+Understanding motor units is crucial for explaining how muscles generate force and how movements are controlled.,Explanation
+"Motor unit recruitment is a key process in muscle physiology, where larger units are activated as needed for increased force output.",Explanation
+This recruitment strategy ensures that muscles can perform a wide range of tasks from delicate finger movements to heavy lifting.,Explanation
+"Thus, motor units play a critical role in muscle function and movement control.",Emphasis

@@ -1,0 +1,8 @@
+Sentence 1,Sentence 2,Relationship
+Pulmonary surfactant is a crucial substance in the lungs,It reduces the surface tension at the air-liquid interface in the alveoli,Cause and Effect
+It reduces the surface tension at the air-liquid interface in the alveoli,This reduction is essential for alveolar stability,Cause and Effect
+This reduction is essential for alveolar stability,"Without surfactant, the alveoli would collapse after each exhalation",Cause and Effect
+"Without surfactant, the alveoli would collapse after each exhalation","Surfactant improves lung compliance, making it easier to inflate the lungs",Cause and Effect
+"Surfactant improves lung compliance, making it easier to inflate the lungs",The presence of surfactant allows the lungs to expand and contract with less effort,Cause and Effect
+The presence of surfactant allows the lungs to expand and contract with less effort,"Surfactant-deficient lungs experience decreased compliance, leading to respiratory distress",Cause and Effect
+"Surfactant-deficient lungs experience decreased compliance, leading to respiratory distress","Thus, pulmonary surfactant plays a vital role in maintaining healthy lung function",Cause and Effect

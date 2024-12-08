@@ -1,0 +1,10 @@
+Sentence,Label
+Conductive hearing loss occurs when sound cannot pass properly through the outer ear or middle ear.,Definition
+"This type of hearing loss can often be corrected with medical intervention, such as removing earwax or inserting a hearing aid.",Solution
+"Presbycusis, or age-related hearing loss, is a common type that develops gradually as people grow older.",Definition
+Hearing aids are a common adaptation for those experiencing presbycusis.,Solution
+"For sensorineural hearing loss, cochlear implants may be an option for some individuals.",Solution
+Adaptations such as lip reading or sign language can also help those with hearing loss communicate effectively.,Addition
+"Each type of hearing loss has unique physiological causes, and the adaptations recommended depend on the specific nature of the loss.",Generalization
+Understanding these causes and potential adaptations is crucial for effective management and support of individuals with hearing impairments.,Purpose
+Clarification of the physiological causes and adaptations can lead to better identification and treatment of hearing loss.,Clarification

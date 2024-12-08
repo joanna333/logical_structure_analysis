@@ -1,0 +1,8 @@
+Sentence,Label
+"Flexibility, on the other hand, is influenced by the elasticity of tendons and muscles, as well as the range of motion within the joint itself.",Comparison
+"Ligaments, which are less elastic than tendons, contribute to joint stability by stabilizing the joint without significantly compromising flexibility.",Comparison
+"However, excessive flexibility can lead to instability, as the joint may not have enough structural support to maintain its position.",Contrast
+Joint stability and flexibility are interdependent; an increase in one often requires careful management of the other to prevent injury.,Generalization
+"In summary, joint stability is maintained by muscles, ligaments, and tendons, while flexibility is influenced by the joint's structure and the elasticity of its surrounding tissues.",Summary
+Understanding these physiological factors is key to preventing joint injuries and optimizing movement.,Purpose
+Clarifying these relationships helps in devising effective exercise and rehabilitation programs tailored to individual joint needs.,Clarification

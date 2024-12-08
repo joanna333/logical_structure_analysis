@@ -1,0 +1,11 @@
+Sentence,Label
+Neurons generate action potentials when the voltage across their membrane reaches a threshold.,Definition
+"Once an action potential starts, it cannot be stopped or reversed; this is known as the all-or-none principle.",Definition
+"The action potential moves along the axon because of the rapid change in membrane potential, which triggers sodium channel opening in adjacent segments.",Explanation
+Action potentials are essential for neurons to communicate with each other.,Purpose
+"Without action potentials, neurons could not transmit information effectively to other cells.",Concession
+The generation and propagation of action potentials are crucial for the functioning of the nervous system.,Generalization
+"Despite being electrical in nature, action potentials are not affected by the electrical resistance of the extracellular space.",Clarification
+"The action potential ends when the sodium channels close and potassium channels open, leading to repolarization.",Explanation
+This process ensures that the electrical signal is transmitted accurately and rapidly from one part of the neuron to another.,Purpose
+Understanding action potentials is key to comprehending how neurons function and communicate.,Generalization

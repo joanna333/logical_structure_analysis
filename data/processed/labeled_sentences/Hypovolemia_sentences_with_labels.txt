@@ -1,0 +1,10 @@
+Sentence,Label
+"Hypovolemia occurs when there is a significant reduction in blood volume, leading to a decrease in blood pressure and oxygen delivery to tissues.",Definition
+"The body responds to hypovolemia by activating the renin-angiotensin-aldosterone system, which helps to conserve fluid and maintain blood pressure.",Explanation
+"The heart rate increases to compensate for the reduced blood volume, aiming to ensure adequate circulation.",Sequential
+"Dehydration symptoms, such as thirst and dark urine, are common as the body attempts to conserve water.",Addition
+The restoration of fluid volume is crucial to prevent organ damage and restore normal physiological functions.,Emphasis
+Monitoring vital signs and urine output is essential during fluid restoration to assess the effectiveness of treatment.,Clarification
+"Several mechanisms, including vasopressin release and increased thirst, work together to manage and correct hypovolemia.",Enumeration
+"These responses are vital for survival, as prolonged hypovolemia can lead to shock and organ failure.",Emphasis
+Understanding these physiological responses and mechanisms is key to effective treatment and prevention of complications.,Generalization

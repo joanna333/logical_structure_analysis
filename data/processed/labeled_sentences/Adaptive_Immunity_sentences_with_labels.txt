@@ -1,0 +1,16 @@
+Sentence,Label
+The activation of adaptive immunity begins with the recognition of antigens by lymphocytes.,Definition
+Adaptive immunity is regulated by various checkpoints to ensure specificity and accuracy.,Explanation
+"Upon antigen recognition, T cells are activated through the presentation by antigen-presenting cells.",Causal
+The activation of B cells occurs when they bind to the same antigen.,Causal
+"Helper T cells release cytokines, which are essential for the full activation of B and T cells.",Causal
+Regulation involves the inhibition of self-reactive cells to prevent autoimmunity.,Explanation
+Negative regulation is achieved through mechanisms such as clonal deletion and suppression by regulatory T cells.,Explanation
+Positive regulation includes the stimulation by cytokines and costimulation.,Explanation
+The specificity of adaptive immunity is crucial for targeting pathogens without harming the host.,Explanation
+Adaptive immunity memory allows for a faster and stronger response upon re-exposure to the same pathogen.,Explanation
+"In contrast, innate immunity is non-specific and immediate but lacks memory.",Contrast
+The balance between activation and regulation is vital for effective and safe immune responses.,Explanation
+Understanding these processes helps in developing better immunotherapies.,Purpose
+"In summary, adaptive immunity activation and regulation involve complex interactions between various cells and signals.",Summary
+These processes ensure that the immune system can effectively defend against pathogens while minimizing damage to the host.,Explanation

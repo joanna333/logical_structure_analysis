@@ -1,0 +1,15 @@
+Sentence 1,Sentence 2,Relationship
+Plasma proteins have several crucial functions in the body,"One of their primary roles is transport, allowing various substances to move through the bloodstream",Cause and Effect
+"One of their primary roles is transport, allowing various substances to move through the bloodstream","Albumin, for instance, helps maintain osmotic pressure and stabilizes blood volume",Cause and Effect
+"Albumin, for instance, helps maintain osmotic pressure and stabilizes blood volume","Another function is in immunity, where proteins like antibodies bind to pathogens",Cause and Effect
+"Another function is in immunity, where proteins like antibodies bind to pathogens",This binding marks the invaders for destruction by other immune cells,Cause and Effect
+This binding marks the invaders for destruction by other immune cells,"Plasma proteins also participate in coagulation, which is essential for blood clotting",Cause and Effect
+"Plasma proteins also participate in coagulation, which is essential for blood clotting",This prevents excessive blood loss from injuries,Cause and Effect
+This prevents excessive blood loss from injuries,"In contrast, some proteins, like immunoglobulins, are specifically designed for immune defense",Contrast
+"In contrast, some proteins, like immunoglobulins, are specifically designed for immune defense",They are not involved in general transport functions,Contrast
+They are not involved in general transport functions,The balance of plasma proteins is vital for their functions to work effectively,Cause and Effect
+The balance of plasma proteins is vital for their functions to work effectively,"When this balance is disrupted, it can lead to disorders such as edema or bleeding disorders",Cause and Effect
+"When this balance is disrupted, it can lead to disorders such as edema or bleeding disorders","Therefore, plasma proteins are multifunctional, playing key roles in both transport and immunity",Cause and Effect
+"Therefore, plasma proteins are multifunctional, playing key roles in both transport and immunity",Understanding their functions helps in diagnosing and treating related health issues,Cause and Effect
+Understanding their functions helps in diagnosing and treating related health issues,"In summary, plasma proteins transport nutrients, hormones, and other substances, while also playing a significant role in the immune response",Cause and Effect
+"In summary, plasma proteins transport nutrients, hormones, and other substances, while also playing a significant role in the immune response",Their ability to perform these tasks is crucial for maintaining homeostasis and protecting the body from infections,Cause and Effect

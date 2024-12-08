@@ -1,0 +1,9 @@
+Sentence,Label
+"The body regulates fever through a complex process involving the hypothalamus, which acts as the body's thermostat.",Explanation
+"Pyrogens play a crucial role in this process as they signal the body to raise its temperature, which can help fight off infections.",Explanation
+"Without pyrogens, the body might not mount an effective immune response to pathogens.",Concession
+The body's ability to regulate fever through pyrogens is a vital defense mechanism against various infections.,Generalization
+"In summary, pyrogens are key in triggering the body's fever response, which is essential for combating infections.",Summary
+Understanding how pyrogens work helps in appreciating the body's intricate defense mechanisms.,Clarification
+"In contrast, if pyrogens are absent or ineffective, the body may struggle to raise its temperature adequately, potentially compromising the immune response.",Contrast
+"Thus, pyrogens and the body's response to them are critical in maintaining health and fighting off diseases.",Emphasis

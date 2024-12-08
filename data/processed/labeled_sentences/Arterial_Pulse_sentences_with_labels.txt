@@ -1,0 +1,9 @@
+Sentence,Label
+"The arterial pulse is a physical manifestation of the heartbeat, which can be felt at various locations on the body where the pulse is closest to the skin's surface.",Definition
+"The physiological determinants of the arterial pulse include blood pressure, heart rate, and the elasticity of the arterial walls.",Explanation
+"The heart rate, or the number of times the heart beats per minute, affects the frequency of the arterial pulses.",Explanation
+"The elasticity of the arterial walls, which can vary due to factors like age and health, determines how well the arteries can expand and contract with each heartbeat.",Explanation
+"Clinically, the arterial pulse is interpreted based on its rhythm, strength, and quality.",Definition
+"A regular rhythm suggests a normal heart rate and rhythm, while irregularities may indicate arrhythmias.",Explanation
+The strength of the pulse is assessed to evaluate blood pressure and vascular health.,Explanation
+"The quality of the pulse, such as its fullness or collapse, can provide insights into arterial wall conditions and blood flow.",Explanation

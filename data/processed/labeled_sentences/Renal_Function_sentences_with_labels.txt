@@ -1,0 +1,11 @@
+Sentence,Label
+The nephron is the functional unit of the kidney responsible for filtering blood.,Definition
+"Filtration is the process where blood pressure forces fluid and solutes out of the blood in the glomerulus, passing into the Bowman's capsule.",Definition
+This initial step is crucial for the renal process as it sets the stage for reabsorption and secretion.,Explanation
+Reabsorption occurs when useful substances like glucose and electrolytes move back into the blood from the filtrate in the proximal convoluted tubule.,Definition
+"Reabsorption is essential for conserving water and nutrients, maintaining fluid balance within the body.",Explanation
+"Secretion is the opposite process, where the tubules actively transport waste products or toxins from the blood into the filtrate to be excreted.",Definition
+"Secretion helps eliminate harmful substances, contributing to the overall goal of maintaining homeostasis.",Explanation
+"Together, filtration, reabsorption, and secretion work in a sequential manner to cleanse the blood and regulate fluid balance.",Sequential
+The precise control of these processes ensures that the body maintains the correct concentration of fluids and electrolytes.,Explanation
+"Thus, the nephron's processes are vital for maintaining fluid balance and overall health.",Emphasis

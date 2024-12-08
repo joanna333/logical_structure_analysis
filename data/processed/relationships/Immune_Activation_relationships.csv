@@ -1,0 +1,9 @@
+Sentence 1,Sentence 2,Relationship
+The immune response begins when an antigen is recognized by specific receptors on immune cells,"Upon recognition, these receptors trigger a series of events",Cause and Effect
+"Upon recognition, these receptors trigger a series of events","The immune cell then differentiates and proliferates, leading to the activation of more cells",Cause and Effect
+"The immune cell then differentiates and proliferates, leading to the activation of more cells","These activated cells release cytokines, which are signaling molecules",Cause and Effect
+"These activated cells release cytokines, which are signaling molecules",Cytokines instruct other immune cells to move to the site of infection and to activate,Cause and Effect
+Cytokines instruct other immune cells to move to the site of infection and to activate,The release of cytokines is crucial for coordinating the immune response,Cause and Effect
+The release of cytokines is crucial for coordinating the immune response,"Different types of cytokines can have contrasting effects, such as inducing inflammation or regulating immune activity",Contrast
+"Different types of cytokines can have contrasting effects, such as inducing inflammation or regulating immune activity","Together, antigen recognition and cytokine release form the backbone of the immune response",Contrast
+"Together, antigen recognition and cytokine release form the backbone of the immune response",Understanding these processes is key to comprehending how the immune system defends against pathogens,Cause and Effect

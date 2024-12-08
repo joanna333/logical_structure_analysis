@@ -1,0 +1,4 @@
+Sentence,Label
+"These effects can vary greatly among individuals, making menopause a unique experience for each woman.",Generalization
+Understanding these hormonal changes helps in managing the symptoms and health risks associated with menopause.,Purpose
+Clarification of these hormonal changes provides a foundation for effective treatment and support during this life stage.,Clarification

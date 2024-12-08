@@ -1,0 +1,10 @@
+Sentence,Label
+Thermogenesis is the process by which the body generates heat.,Definition
+The nervous system regulates thermogenesis through the activation of brown adipose tissue.,Causal
+The endocrine system also plays a role by releasing hormones like norepinephrine and thyroid hormones.,Addition
+The balance between nervous system activation and endocrine hormone release controls the intensity of thermogenesis.,Explanation
+"For instance, during cold exposure, both systems work together to increase heat production.",Illustration
+"Thus, thermogenesis is finely tuned by both the nervous and endocrine systems to regulate body temperature.",Summary
+Understanding this process helps in developing treatments for obesity and hypothermia.,Purpose
+The interplay between these systems ensures that thermogenesis is efficient and responsive to environmental changes.,Explanation
+"In summary, thermogenesis is regulated by the nervous and endocrine systems through a coordinated response to temperature changes.",Summary

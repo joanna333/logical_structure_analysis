@@ -1,0 +1,8 @@
+Sentence,Label
+The baroreceptor reflex is a critical mechanism for maintaining blood pressure homeostasis.,Definition
+It involves the response of the autonomic nervous system to changes in blood pressure.,Explanation
+The brain then adjusts heart rate and blood vessel diameter to restore normal pressure levels.,Explanation
+This process is essential for keeping blood pressure within a safe range.,Emphasis
+"Without the baroreceptor reflex, blood pressure fluctuations could lead to dangerous health conditions.",Contrast
+"Thus, it plays a crucial role in the body's ability to regulate blood pressure.",Emphasis
+"In summary, the baroreceptor reflex is a vital mechanism for maintaining homeostasis of blood pressure.",Summary

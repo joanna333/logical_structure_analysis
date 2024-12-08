@@ -1,0 +1,7 @@
+Sentence,Label
+"Brown adipose tissue plays a crucial role in thermogenesis, the process of heat production to maintain body temperature.",Definition
+"The primary function of brown adipose tissue is to burn calories and convert them into heat, which helps in energy balance.",Explanation
+"In contrast to white adipose tissue, which stores energy, brown adipose tissue is more involved in energy expenditure.",Contrast
+"Research has shown that brown adipose tissue is more abundant in hibernating animals and infants, but it can also be activated in adults.",Enumeration
+Understanding brown adipose tissue's role in thermogenesis and energy balance is essential for developing strategies to combat obesity and metabolic diseases.,Purpose
+"In summary, brown adipose tissue is a key player in maintaining body temperature and energy balance, distinct from white fat in its role of energy expenditure.",Summary

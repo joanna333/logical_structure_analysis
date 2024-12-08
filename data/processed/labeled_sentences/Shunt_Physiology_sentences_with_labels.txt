@@ -1,0 +1,8 @@
+Sentence,Label
+"Right-to-left shunts often result in cyanosis, a bluish tint to the skin due to insufficient oxygen .",Explanation
+"Left-to-right shunts may not always cause visible symptoms, as the body can sometimes compensate for the extra oxygen .",Explanation
+"Right-to-left shunts are more common in conditions like patent ductus arteriosus, while left-to-right shunts can be seen in conditions like tetralogy of Fallot .",Definition
+"In contrast, right-to-left shunts reduce the amount of oxygen reaching the systemic circulation, while left-to-right shunts increase it .",Contrast
+Understanding these effects is crucial for diagnosing and treating cardiovascular conditions .,Purpose
+Identifying the specific type of shunt is essential for determining the appropriate treatment strategy .,Clarification
+"In summary, right-to-left shunts decrease oxygenation, while left-to-right shunts increase it, both affecting heart function .",Summary

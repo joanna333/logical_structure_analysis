@@ -1,0 +1,14 @@
+Sentence,Label
+"The concept of immune privilege refers to the ability of certain tissues, like the brain and eyes, to resist immune system attacks.",Definition
+These areas are considered privileged because they have unique mechanisms to limit immune system activity.,Explanation
+The brain and eyes are protected from immune invasion to prevent unnecessary inflammation that could harm neural tissue.,Explanation
+"Despite this privilege, they are not completely immune to all pathogens; they just have specific ways to control immune responses.",Addition
+"For instance, the blood-brain barrier restricts the passage of immune cells into the brain.",Illustration
+"In contrast, other tissues allow a more robust immune response to fight infections.",Contrast
+Immune privilege is crucial for maintaining the integrity and function of these sensitive areas.,Emphasis
+Understanding immune privilege helps in developing treatments that can target pathogens in these areas without causing harm.,Purpose
+"Despite their privileged status, the eyes can still develop immune-related diseases like uveitis, illustrating that privilege is not absolute.",Contrast
+The mechanisms behind immune privilege are complex and involve a balance between immune tolerance and protection.,Elaboration
+These mechanisms are crucial for preserving the delicate balance required for optimal brain and eye function.,Emphasis
+Research into immune privilege continues to provide insights into autoimmune diseases and potential therapeutic strategies.,Generalization
+"In summary, immune privilege in the brain and eyes is a protective mechanism that limits immune system activity to safeguard these critical organs.",Summary

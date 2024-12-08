@@ -1,0 +1,13 @@
+Sentence,Label
+"The hypothalamus plays a crucial role in regulating body temperature  by controlling the mechanisms that generate heat or cool the body, such as shivering or sweating.",Causal
+"It also manages hunger  by signaling to the brain when the body needs energy, prompting feelings of hunger.",Causal
+"Additionally, the hypothalamus regulates circadian rhythms  by responding to light cues to set the body's internal clock, influencing sleep-wake cycles.",Causal
+"Moreover, it controls body temperature, hunger, and circadian rhythms  through its complex network of connections with other parts of the brain and the endocrine system.",Addition
+The hypothalamus is essential for maintaining homeostasis  in the body by balancing these physiological processes.,Definition
+"In contrast, while it influences these functions, other parts of the brain and the body contribute to the overall regulation .",Contrast
+Understanding these functions highlights the hypothalamus's importance in maintaining bodily functions .,Emphasis
+These roles are part of its broader function to keep the body's internal environment stable .,Generalization
+The hypothalamus's ability to respond to environmental changes is vital for survival .,Purpose
+Clarifying these functions helps in comprehending how disruptions in the hypothalamus can lead to disorders like obesity or sleep disorders .,Clarification
+"In summary, the hypothalamus is responsible for regulating body temperature, hunger, and circadian rhythms through its complex interactions .",Summary
+Identifying these functions is key to understanding the mechanisms behind physiological processes .,Purpose

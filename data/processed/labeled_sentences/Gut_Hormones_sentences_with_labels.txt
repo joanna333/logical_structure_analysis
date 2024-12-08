@@ -1,0 +1,7 @@
+Sentence,Label
+"Leptin, produced by fat cells, works in contrast to ghrelin by signaling the brain that the body has had enough to eat, helping to regulate food intake and body weight .",Contrast
+These hormones work together to maintain energy balance and regulate appetite .,Generalization
+"When ghrelin levels rise, it stimulates hunger, while leptin and CCK help to signal satiety .",Explanation
+Understanding these hormones is crucial for comprehending how appetite and body weight are regulated .,Purpose
+"Each hormone plays a distinct role in the complex system of appetite regulation, with ghrelin encouraging hunger, leptin signaling satiety, and CCK promoting fullness .",Enumeration
+"Despite their roles, hormonal balance can be disrupted by various factors, leading to conditions like obesity or anorexia .",Generalization

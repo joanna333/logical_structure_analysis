@@ -1,0 +1,7 @@
+Sentence,Label
+Pleural pressure is a crucial factor in lung expansion and ventilation.,Definition
+Pleural pressure is the pressure difference between the pleural cavity and the atmosphere.,Definition
+The balance of pleural pressure is essential for maintaining lung volume and facilitating gas exchange.,Explanation
+"Thus, pleural pressure plays a vital role in the mechanics of breathing.",Summary
+Understanding pleural pressure is key to comprehending how the lungs function properly.,Explanation
+"In summary, pleural pressure is essential for lung expansion and ventilation, maintaining the necessary pressure differentials for breathing to occur.",Summary

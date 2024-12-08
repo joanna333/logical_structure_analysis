@@ -1,0 +1,9 @@
+Sentence,Label
+"A thyroid storm, also known as thyrotoxic crisis, is a severe and potentially life-threatening condition caused by an extreme hyperthyroidism.",Definition
+"Symptoms include fever, tachycardia, agitation, and sweating profusely.",Enumeration
+"The patient may experience tremors and anxiety, reflecting the body's hyperactive state.",Enumeration
+"Treatment typically involves high doses of antithyroid drugs and, in severe cases, corticosteroids and iodine.",Solution
+The crisis demands hospitalization to monitor vital signs and manage complications.,Emphasis
+Failure to control the storm can result in cardiac arrest or coma.,Consequence
+"Thus, recognizing the signs of a thyroid storm is crucial for timely intervention.",Emphasis
+Understanding the systemic effects helps in the prompt management of this medical emergency.,Explanation

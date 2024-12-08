@@ -1,0 +1,4 @@
+Sentence,Label
+"The heart's muscle cells, or cardiomyocytes, generate electrical impulses known as cardiac action potentials.  These action potentials are crucial for the heart's rhythmic contraction, which is essential for blood circulation.",Definition
+"This propagation ensures that the heart contracts as a coordinated unit.  Without this mechanism, the heart would not function efficiently, leading to irregular heartbeats.",Explanation
+"In summary, cardiac action potentials and their propagation are essential for the heart's rhythmic contraction.  Understanding these mechanisms is key to comprehending how the heart functions properly.",Summary

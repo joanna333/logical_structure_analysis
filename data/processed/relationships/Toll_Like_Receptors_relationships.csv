@@ -1,0 +1,14 @@
+Sentence 1,Sentence 2,Relationship
+Toll-like receptors (TLRs) are crucial for innate immunity,They recognize structural motifs from pathogens known as pathogen-associated molecular patterns (PAMPs),Cause and Effect
+They recognize structural motifs from pathogens known as pathogen-associated molecular patterns (PAMPs),"When TLRs detect these PAMPs, they trigger innate immune responses",Cause and Effect
+"When TLRs detect these PAMPs, they trigger innate immune responses",This response often includes the activation of inflammatory pathways and the recruitment of immune cells,Cause and Effect
+This response often includes the activation of inflammatory pathways and the recruitment of immune cells,"Essentially, TLRs alert the immune system to the presence of pathogens",Cause and Effect
+"Essentially, TLRs alert the immune system to the presence of pathogens","Without TLRs, the immune system would be unable to mount an effective response to invading microbes",Cause and Effect
+"Without TLRs, the immune system would be unable to mount an effective response to invading microbes","Unlike adaptive immunity, which is highly specific and depends on previous exposure, innate immunity is rapid and non-specific, relying on TLRs to recognize broad patterns",Cause and Effect
+"Unlike adaptive immunity, which is highly specific and depends on previous exposure, innate immunity is rapid and non-specific, relying on TLRs to recognize broad patterns",TLRs play a critical role in the first line of defense against infections,Cause and Effect
+TLRs play a critical role in the first line of defense against infections,Their function underscores the importance of innate immunity in protecting the host from a wide array of pathogens,Cause and Effect
+Their function underscores the importance of innate immunity in protecting the host from a wide array of pathogens,"The recognition by TLRs is essential for initiating the innate immune response, which can then shape the adaptive immune response",Cause and Effect
+"The recognition by TLRs is essential for initiating the innate immune response, which can then shape the adaptive immune response",Mutations or deficiencies in TLRs can lead to increased susceptibility to infections,Cause and Effect
+Mutations or deficiencies in TLRs can lead to increased susceptibility to infections,Understanding TLR function is key to developing therapies that enhance or modulate the immune response,Cause and Effect
+Understanding TLR function is key to developing therapies that enhance or modulate the immune response,This knowledge helps in designing vaccines and drugs that can either stimulate or suppress the immune system,Cause and Effect
+This knowledge helps in designing vaccines and drugs that can either stimulate or suppress the immune system,"TLRs are found on various cell types, including dendritic cells, macrophages, and epithelial cells, all of which are strategically placed to detect pathogens",Cause and Effect

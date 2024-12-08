@@ -1,0 +1,7 @@
+Sentence,Label
+"Proteinuria can have several physiological implications. It often indicates -[Cause and Effect]- underlying kidney damage, as healthy kidneys retain proteins. In severe cases, -[Cause and Effect]- it can lead to kidney failure. Additionally, excess protein in the urine can cause -[Cause and Effect]- swelling, as the body retains more fluid.",Definition
+"The presence of protein in the urine can also affect the kidneys' ability to filter waste products, potentially worsening kidney function over time.  This is because proteins are essential for blood clotting and immune function, and their loss in urine can lead to systemic issues.",Explanation
+"While some levels of proteinuria are mild and may not require immediate treatment,  severe proteinuria can be a sign of serious health problems that need prompt medical attention.",Contrast
+"Proteinuria is a symptom that can occur in various conditions, not just kidney diseases. It can also be seen in other disorders like diabetes or inflammation.",Generalization
+"If left untreated, the proteinuria might increase, indicating progressive kidney damage. Therefore, it is crucial to identify and manage the underlying cause.",Inference
+"In summary, proteinuria is caused",Summary

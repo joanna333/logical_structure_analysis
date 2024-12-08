@@ -1,0 +1,7 @@
+Sentence,Label
+Exercise-induced hypotension occurs when physical activity leads to a drop in blood pressure.,Definition
+"The implications of this condition can vary; some individuals may experience dizziness or fainting, especially if they stand up quickly after exercising.",Effect
+"For most healthy people, exercise-induced hypotension is temporary and not harmful, but it can pose risks for those with pre-existing cardiovascular conditions.",Comparison
+"To mitigate the risk of hypotension, it is recommended to gradually increase the intensity and duration of exercise sessions.",Solution
+Understanding the physiological causes and implications of exercise-induced hypotension is crucial for designing safe and effective exercise programs.,Explanation
+"In summary, exercise-induced hypotension is a natural response to physical activity, characterized by a decrease in blood pressure, which can have varying effects depending on the individual's health status.",Summary

@@ -1,0 +1,9 @@
+Sentence,Label
+Renal autoregulation is crucial for maintaining glomerular filtration rate (GFR).,Definition
+Autoregulation ensures that the kidneys can adjust their blood flow in response to changes in blood pressure.,Explanation
+This mechanism is vital for keeping GFR stable under varying systemic conditions.,Emphasis
+"Autoregulation prevents excessive fluctuations in GFR, which could lead to either inadequate filtration or harmful backpressure on the cardiovascular system.",Explanation
+"Without autoregulation, changes in systemic blood pressure could significantly alter GFR, potentially disrupting kidney function and homeostasis.",Contrast
+"Thus, renal autoregulation is essential for the kidneys to function effectively and maintain GFR within a safe range.",Purpose
+Understanding these mechanisms helps in appreciating the kidneys' ability to self-regulate and adapt to physiological demands.,Clarification
+"In summary, renal autoregulation is a critical process that maintains GFR by adjusting glomerular pressure in response to blood pressure changes, ensuring the kidneys can function properly under varying conditions.",Summary

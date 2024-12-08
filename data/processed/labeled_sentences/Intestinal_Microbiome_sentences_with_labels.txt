@@ -1,0 +1,4 @@
+Sentence,Label
+"Moreover, these bacteria produce vitamins, such as vitamin K, which are vital for blood clotting and bone health.  This highlights the multifaceted benefits the microbiome provides beyond digestion and immunity.",Addition
+"In contrast, an unhealthy microbiome can result in digestive issues like Irritable Bowel Syndrome (IBS) and inflammatory bowel diseases.  This contrast emphasizes the importance of maintaining a balanced microbiome for optimal digestive and immune health.",Contrast
+"Therefore, nurturing a diverse and balanced intestinal microbiome is not only beneficial for digestion but also for bolstering the immune system.  This underscores the integral connection between the gut microbiome and overall physiological well-being.",Summary
