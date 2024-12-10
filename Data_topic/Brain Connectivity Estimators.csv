@@ -1,0 +1,11 @@
+Sentence,Label
+"Brain connectivity estimators are methods used in neuroimaging research to analyze the connections between different regions of the brain.","Definition"
+"These estimators are vital for understanding brain function, as the brain operates through a network of interconnected regions.","Explanation"
+"Techniques such as functional magnetic resonance imaging (fMRI) and diffusion tensor imaging (DTI) are commonly used to estimate brain connectivity.","Explanation"
+"Brain connectivity estimators help researchers identify which areas of the brain work together during tasks like memory recall or problem-solving.","Explanation"
+"By studying brain connectivity, scientists can better understand neurological conditions such as Alzheimer's disease, schizophrenia, and autism.","Purpose"
+"Estimates of brain connectivity can also aid in understanding the effects of brain injuries or stroke on cognitive and motor functions.","Explanation"
+"Advanced computational models are used to map the brain's functional and structural networks, providing a more comprehensive picture of brain activity.","Explanation"
+"These estimators contribute to precision medicine by identifying individualized patterns of brain connectivity that could guide treatment strategies.","Purpose"
+"In the future, brain connectivity research may lead to new therapeutic approaches for treating mental health disorders and neurological diseases.","Explanation"
+"In conclusion, brain connectivity estimators are essential tools in modern neuroscience research, helping to advance our understanding of the brain’s complex networks.","Summary"
