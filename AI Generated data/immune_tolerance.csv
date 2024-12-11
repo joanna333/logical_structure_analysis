@@ -1,0 +1,33 @@
+Sentence,Label
+Immune tolerance is a critical mechanism by which the immune system avoids attacking the body’s own cells and tissues.,Definition
+"Without immune tolerance, the immune system may mistakenly target self-antigens, leading to autoimmune diseases.",Cause and Effect
+"In this process, the immune system learns to recognize and ignore self-molecules, preventing immune attacks on normal tissues.",Explanation
+Immune tolerance is maintained through both central and peripheral mechanisms.,Enumeration
+Central tolerance occurs during the development of immune cells in the thymus and bone marrow.,Explanation
+Peripheral tolerance is enforced after immune cells have left the thymus and bone marrow.,Explanation
+Both central and peripheral tolerance processes are crucial for preventing autoimmunity.,Addition
+Central tolerance works by eliminating self-reactive T-cells in the thymus.,Explanation
+"Peripheral tolerance, on the other hand, controls any potentially harmful immune responses that escape central tolerance.",Contrast
+One key process involved in peripheral tolerance is the generation of regulatory T-cells that suppress immune responses.,Explanation
+Regulatory T-cells act as a safeguard against the development of autoimmune diseases.,Cause and Effect
+Individuals with deficiencies in regulatory T-cells are at increased risk for autoimmune disorders.,Cause and Effect
+"Autoimmune diseases occur when immune tolerance fails, causing the immune system to attack the body’s own tissues.",Cause and Effect
+"Examples of autoimmune diseases include rheumatoid arthritis, lupus, and type 1 diabetes.",Illustration
+"Immune tolerance can be broken in various ways, such as through genetic mutations or environmental factors.",Cause and Effect
+"For instance, infections may trigger a loss of tolerance by mimicking self-antigens.",Explanation
+"Thus, infections can sometimes act as triggers for autoimmune diseases in genetically predisposed individuals.",Cause and Effect
+Another factor contributing to immune tolerance breakdown is the dysregulation of immune checkpoints.,Explanation
+"Immune checkpoints, such as CTLA-4 and PD-1, help to regulate immune responses and prevent overactivation.",Explanation
+Failure of these checkpoints to function properly can lead to the development of autoimmunity.,Cause and Effect
+Maintaining immune tolerance is crucial for the prevention of autoimmune disorders and the preservation of tissue health.,Emphasis
+Therapies aimed at restoring immune tolerance are being explored as potential treatments for autoimmune diseases.,Purpose
+One approach to restoring immune tolerance is through the use of biologic therapies that target specific immune cells.,Explanation
+These therapies aim to promote tolerance to self-antigens without causing harm to the body.,Purpose
+Another promising strategy is the development of vaccines that induce tolerance in the immune system.,Explanation
+Such treatments aim to reprogram the immune system to prevent the onset of autoimmune responses.,Purpose
+"In contrast to autoimmunity, immune tolerance ensures that the immune system remains responsive to foreign pathogens while avoiding attacks on self.",Contrast
+"Thus, immune tolerance is essential for distinguishing between harmful invaders and the body’s own cells.",Emphasis
+The failure of immune tolerance is a primary factor in the development of autoimmune diseases.,Cause and Effect
+Understanding the mechanisms behind immune tolerance is crucial for developing more effective treatments for these conditions.,Purpose
+"By restoring immune tolerance, it may be possible to prevent or even reverse the damage caused by autoimmune diseases.",Solution
+"Ultimately, immune tolerance plays a central role in maintaining immune homeostasis and preventing self-destructive immune responses.",Summary

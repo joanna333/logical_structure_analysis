@@ -1,0 +1,34 @@
+Sentence,Label
+Sound waves are captured by the outer ear and funneled into the ear canal.,Sequential
+These sound waves cause the eardrum to vibrate.,Causal
+"If the vibrations of the eardrum are strong enough, they are transmitted to the ossicles.",Conditional
+The ossicles amplify the sound and pass it to the oval window of the cochlea.,Sequential
+"In the cochlea, the vibrations cause the fluid inside to move, triggering a response from the hair cells.",Causal
+The hair cells in the cochlea convert the mechanical vibrations into electrical signals.,Explanation
+These electrical signals travel along the auditory nerve to the brain.,Sequential
+The cochlea is essential for the conversion of sound vibrations into nerve impulses.,Definition
+"Without the cochlea, the body would not be able to convert sound waves into recognizable signals for the brain.",Cause and Effect
+"The auditory nerve transmits the signals to the brainstem, which processes them.",Sequential
+"At the brainstem, the auditory information is relayed to the thalamus, which acts as a relay station.",Sequential
+"From the thalamus, the signals are sent to the auditory cortex in the brain.",Sequential
+"The auditory cortex is responsible for interpreting sound, allowing us to recognize and respond to it.",Explanation
+"In comparison to visual signals, auditory signals require less direct input from the eyes but are still processed through similar neural pathways.",Comparison
+"While the eyes focus on light, the ears focus on sound, both involving complex neural networks.",Contrast
+"Sound localization, the ability to identify where a sound is coming from, relies on the timing and intensity differences between the two ears.",Elaboration
+This process occurs in the brainstem before the signals are sent to higher auditory centers.,Sequential
+"The auditory pathway can be disrupted by damage at any stage, affecting hearing ability.",Cause and Effect
+"Furthermore, the quality of hearing can be influenced by aging, genetic factors, and environmental exposure.",Addition
+"Damage to the cochlea, for example, can result in sensorineural hearing loss, a permanent condition.",Contrastive Emphasis
+"On the other hand, conductive hearing loss can be caused by obstructions or damage to the outer or middle ear.",Contrast
+Hearing aids can help those with conductive hearing loss by amplifying sound waves.,Problem Solution
+"In cases of sensorineural hearing loss, cochlear implants may be an effective solution.",Problem Solution
+The inner ear's cochlea is uniquely structured to help distinguish between different sound frequencies.,Emphasis
+The role of the cochlea in frequency detection is essential for understanding speech.,Purpose
+"Without the cochlea's hair cells, the auditory system would not be able to detect the full range of sound frequencies.",Clarification
+"One of the primary functions of the cochlea is to convert vibrations into electrical impulses, which are then processed by the brain.",Explanation
+"These impulses are relayed to the auditory cortex, where they are interpreted as sound.",Sequential
+"In summary, the cochlea is the central organ responsible for converting sound into signals the brain can understand.",Summary
+"Over time, exposure to loud sounds can damage the hair cells in the cochlea, leading to hearing loss.",Cause and Effect
+"Temporal differences in sound reception between the two ears allow for effective sound localization, an essential part of how we navigate our environment.",Temporal Sequence
+"Unlike the visual system, which requires direct line-of-sight, the auditory system can detect sounds even from behind or to the side of us.",Contrast
+"The auditory pathway is incredibly complex, involving multiple structures and processes working together to help us hear.",Generalization

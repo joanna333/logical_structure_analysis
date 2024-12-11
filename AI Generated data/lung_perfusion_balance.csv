@@ -1,0 +1,33 @@
+Sentence,Label
+"Lung perfusion refers to the flow of blood through the lungs, where oxygen is exchanged for carbon dioxide in the alveoli.",Definition
+Effective lung perfusion relies on the coordinated flow of blood through the pulmonary capillaries and ventilation of alveoli with fresh air.,Explanation
+"The balance between airflow and blood circulation is essential for optimal gas exchange, ensuring oxygen is delivered to the bloodstream and carbon dioxide is expelled.",Purpose
+"If blood flow to certain areas of the lung is reduced, the oxygenation of blood becomes inefficient, leading to hypoxemia.",Conditional
+"Airflow to the lungs can be normal, but if blood supply to the alveoli is insufficient, the ventilation-perfusion ratio is compromised.",Contrast
+"When ventilation and perfusion are well matched, oxygen diffuses efficiently from the alveoli into the bloodstream, and carbon dioxide is removed.",Explanation
+"A mismatch between ventilation and perfusion can result in areas of the lung being well-ventilated but poorly perfused, or vice versa.",Contrast
+"Although both ventilation and perfusion are necessary, the degree to which each can affect gas exchange is influenced by the integrity of the alveolar-capillary membrane.",Elaboration
+"In the case of a pulmonary embolism, perfusion to specific lung regions is blocked, leading to ventilation without perfusion and decreased gas exchange.",Illustration
+"Ventilation refers to the process of air moving in and out of the lungs, whereas perfusion involves the flow of blood in the pulmonary capillaries.",Clarification
+"An imbalance between ventilation and perfusion can cause inefficient oxygen uptake and carbon dioxide removal, resulting in respiratory distress.",Cause and Effect
+"Pulmonary diseases such as COPD and asthma can further disrupt the balance between ventilation and perfusion, affecting overall lung function.",Concession
+The body compensates for mismatched ventilation and perfusion through mechanisms like vasoconstriction of blood vessels in poorly ventilated areas.,Problem Solution
+The body generally maintains a balance between airflow and blood flow to optimize the efficiency of gas exchange.,Generalization
+"Poor perfusion of certain lung regions can lead to areas that are ventilated but not adequately oxygenated, resulting in dead space ventilation.",Inference
+The process of matching ventilation with perfusion ensures that oxygen-rich air is directed toward areas of the lung where blood flow is most abundant.,Purpose
+"Mismatch occurs when air enters regions of the lung that receive little or no blood flow, leading to wasted ventilation.",Explanation
+"During exercise, the body increases both ventilation and perfusion to meet the increased oxygen demands of active tissues.",Sequential
+The ventilation-perfusion ratio is considered optimal when the amount of air reaching the alveoli is matched by the amount of blood flowing through the capillaries.,Definition
+"Ventilation-perfusion inequality contributes to conditions like pulmonary embolism, where blocked blood vessels lead to ventilation without perfusion.",Illustration
+"Although ventilation can be increased during exercise, perfusion must also adapt to ensure sufficient blood supply to the lungs for gas exchange.",Comparison
+The mismatch in ventilation and perfusion typically results in a decrease in the oxygen saturation of the blood.,Cause and Effect
+Low oxygen levels due to impaired ventilation-perfusion matching may lead to symptoms like shortness of breath and cyanosis.,Inference
+Understanding the role of lung perfusion balance is critical for treating respiratory conditions and optimizing gas exchange in the lungs.,Summary
+Adjustments to perfusion are made via the constriction or dilation of pulmonary arterioles to match areas of the lung that are being ventilated.,Clarification
+Poorly ventilated regions of the lung lead to compensatory mechanisms that direct blood flow away from them to more ventilated areas.,Cause and Effect
+"Blood flow to the lungs increases with physical activity, matching the enhanced need for oxygen in active tissues.",Temporal Sequence
+"To maintain adequate oxygenation, the lungs must balance the amount of air reaching the alveoli with sufficient blood circulation for efficient gas exchange.",Purpose
+"Ventilation-perfusion mismatch often leads to inefficient gas exchange, which can worsen respiratory conditions like pneumonia and pulmonary hypertension.",Problem Solution
+"The lungs constantly adjust ventilation and perfusion to maintain optimal oxygen and carbon dioxide levels in the blood, supporting homeostasis.",Emphasis
+"When ventilation and perfusion are well-coordinated, they ensure that oxygen is absorbed and carbon dioxide is removed with maximal efficiency.",Comparison
+"The efficiency of the lung's perfusion system is crucial in maintaining adequate oxygen supply to the body, particularly during exertion or disease.",Elaboration

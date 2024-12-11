@@ -1,0 +1,32 @@
+Sentence,Label
+"An action potential is a rapid, temporary change in the membrane potential of a neuron.",Definition
+"When a neuron is at rest, its membrane potential is negative, around -70 mV.",Explanation
+The process of generating an action potential begins when a neuron is stimulated to a threshold level.,Causal
+"As the stimulus depolarizes the membrane, sodium (Na+) channels open, allowing Na+ to flow into the neuron.",Cause and Effect
+"If the stimulus is strong enough to reach the threshold, it triggers an action potential.",Conditional
+"The influx of sodium ions makes the inside of the neuron more positive, causing further depolarization.",Sequential
+"Once the membrane reaches a certain threshold, voltage-gated sodium channels open fully.",Sequential
+"This results in a rapid depolarization of the membrane, where the inside becomes positive compared to the outside.",Explanation
+"At the peak of the action potential, sodium channels close and potassium (K+) channels open.",Sequential
+"Potassium ions then flow out of the neuron, causing the membrane potential to become more negative again.",Cause and Effect
+"This phase is known as repolarization, and it restores the membrane to its resting potential.",Explanation
+"After repolarization, the sodium-potassium pump restores the resting ion concentrations by actively pumping Na+ out and K+ in.",Cause and Effect
+"The entire process of depolarization, repolarization, and restoration occurs in a matter of milliseconds.",Temporal Sequence
+"However, during the action potential, the neuron cannot be stimulated to fire another action potential immediately.",Contrast
+"This period is known as the refractory period, and it ensures the action potential travels in one direction.",Clarification
+"During the refractory period, the neuron is either partially or completely unable to fire another action potential.",Explanation
+"Action potentials are an 'all-or-nothing' event, meaning once they are initiated, they will always reach the same peak amplitude.",Generalization
+"This is in contrast to graded potentials, which can vary in strength depending on the stimulus.",Contrast
+The propagation of an action potential along the axon occurs through a process called saltatory conduction in myelinated neurons.,Explanation
+Saltatory conduction is much faster than continuous conduction in unmyelinated neurons.,Comparison
+"The myelin sheath, made of glial cells, acts as an insulator, speeding up the action potential's travel down the axon.",Explanation
+"As the action potential reaches a node of Ranvier, the depolarization jumps from one node to the next.",Sequential
+This jumping process allows the action potential to travel rapidly across long distances.,Cause and Effect
+"Unmyelinated axons conduct action potentials more slowly due to the lack of insulation, resulting in continuous conduction.",Contrast
+"The action potential propagates in one direction, from the dendrites to the axon terminals, due to the refractory period.",Explanation
+"In myelinated neurons, the action potential can travel faster due to the reduced number of channels needed to propagate it.",Cause and Effect
+An action potential can be considered a communication signal that transmits information within the nervous system.,Explanation
+"The signal travels from the neuron’s axon terminals to other neurons or muscles, where it triggers a response.",Purpose
+"Once the action potential reaches the axon terminals, it causes the release of neurotransmitters into the synapse.",Sequential
+"These neurotransmitters bind to receptors on the next cell, initiating a new electrical signal.",Sequential
+"In this way, the action potential ensures the efficient transmission of information throughout the nervous system.",Summary

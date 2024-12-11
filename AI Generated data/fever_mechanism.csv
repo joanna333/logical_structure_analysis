@@ -1,0 +1,31 @@
+Sentence,Label
+Fever is a complex physiological response that plays a critical role in protecting the body from infection.,Definition
+"During fever, the hypothalamus raises the body's temperature set point in response to pyrogens.",Explanation
+"When the body detects infection or injury, immune cells release pyrogens, which trigger the fever response.",Causal
+An increase in body temperature helps inhibit the growth of many pathogens by creating an unfavorable environment for them.,Cause and Effect
+"As the immune system detects the presence of harmful agents, it initiates a cascade of events that raise body temperature.",Sequential
+"Fever enhances the activity of certain immune cells, such as T cells, which are important for fighting infections.",Cause and Effect
+One function of fever is to activate enzymes that accelerate immune cell activity and promote faster immune responses.,Purpose
+"Fever also stimulates the production of heat shock proteins, which help protect cells from damage during stress.",Addition
+"While fever is a beneficial response in many situations, excessively high temperatures can be harmful to the body.",Contrast
+"Fever can also improve the efficiency of white blood cells, aiding in the rapid detection and elimination of pathogens.",Explanation
+"Different pyrogens, such as those produced by bacteria or viruses, can trigger a fever response through slightly varied mechanisms.",Comparison
+"Although fever can aid in defense, a prolonged fever can lead to dehydration and other complications.",Concession
+The fever process begins when the body recognizes harmful invaders and starts the inflammatory response.,Temporal Sequence
+"In response to an infection, cytokines such as interleukin-1 are released, prompting the hypothalamus to raise the set point for body temperature.",Sequential
+"Fever can be categorized as low-grade, moderate, or high, depending on the degree of temperature elevation.",Enumeration
+"Unlike other immune responses, fever does not directly attack pathogens but creates conditions that hinder their survival.",Contrast
+"By raising the body temperature, fever accelerates the destruction of bacteria and enhances the immune cells' ability to fight the infection.",Cause and Effect
+A mild fever may even promote faster recovery from some infections by enhancing immune function.,Inference
+"Although fever is generally protective, in some cases, it may signal a more severe underlying condition that requires medical intervention.",Clarification
+"High fevers, especially those above 104°F (40°C), can lead to harmful effects, including brain damage if not controlled.",Emphasis
+"Fever works in tandem with other immune mechanisms, such as the production of antibodies, to mount a more effective defense against invaders.",Addition
+"In contrast to its role in fighting infections, fever may be counterproductive in conditions like heatstroke.",Contrastive Emphasis
+Fever is often treated with antipyretic medications to lower the temperature and provide relief from discomfort.,Problem Solution
+"By raising the body's temperature, fever induces a response that accelerates tissue repair and reduces pathogen survival.",Explanation
+"Although fever is often associated with infections, it can also occur in response to other factors, such as autoimmune disorders.",Generalization
+Fever may also enhance the body's ability to heal by promoting the release of certain growth factors that accelerate tissue regeneration.,Elaboration
+"When a person experiences fever, the immune system typically becomes more efficient in responding to invading pathogens.",Cause and Effect
+"In addition to acting as a defense mechanism, fever can also stimulate other aspects of the immune system, such as the release of interferons.",Addition
+"Fever is part of the acute phase response, which is activated shortly after the immune system detects an infection.",Temporal Sequence
+"Although fever can be a useful immune response, its exact role in each disease may vary depending on the pathogen and the individual's condition.",Explanation

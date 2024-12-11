@@ -1,0 +1,29 @@
+Sentence,Label
+Heart failure is a condition in which the heart is unable to pump blood efficiently to meet the body's needs.,Definition
+"In response to this, the body initiates several compensation mechanisms to maintain blood flow and oxygen delivery.",Causal
+"One key mechanism is the activation of the sympathetic nervous system, which increases heart rate and contractility.",Explanation
+"Additionally, the kidneys release renin, which leads to the activation of the renin-angiotensin-aldosterone system (RAAS).",Addition
+"RAAS activation results in water and sodium retention, increasing blood volume to support cardiac output.",Cause and Effect
+"These compensatory mechanisms may initially alleviate symptoms, but over time, they can worsen heart failure.",Contrast
+"As the heart fails, the ventricular walls may become stretched, leading to dilation and a decrease in the heart's ability to contract effectively.",Sequential
+"This phenomenon is referred to as ventricular remodeling, and it often worsens the condition.",Clarification
+"In contrast, hypertrophy of the heart muscle may also occur as an adaptive response to increased workload.",Contrast
+"However, this hypertrophy can eventually lead to further dysfunction of the heart if it becomes excessive.",Concession
+"Importantly, these compensatory mechanisms are initially beneficial but often contribute to a vicious cycle of worsening heart failure.",Cause and Effect
+"Thus, while the body tries to compensate, it also inadvertently accelerates the decline in cardiac function.",Inference
+"One of the major effects of heart failure is a decrease in the ejection fraction, the percentage of blood the heart pumps with each contraction.",Explanation
+"Furthermore, fluid retention due to RAAS can lead to edema, particularly in the legs and lungs.",Explanation
+"This can result in symptoms such as shortness of breath, fatigue, and swelling.",Enumeration
+The compensatory mechanisms are generally aimed at maintaining blood pressure and perfusion of vital organs.,Generalization
+"However, these mechanisms become maladaptive when the heart's ability to pump blood decreases significantly.",Contrastive Emphasis
+"Over time, the sustained increase in heart rate and volume load can cause further dilation of the heart, worsening its ability to pump effectively.",Sequential
+"Heart failure can be classified into two main types: systolic heart failure, where the heart's pumping ability is impaired, and diastolic heart failure, where the heart's ability to relax and fill with blood is compromised.",Definition
+"These two forms of heart failure may share some common compensatory responses, but their underlying causes differ.",Comparison
+"In systolic failure, the heart's reduced contractility results in inadequate blood flow, prompting compensatory mechanisms to increase output.",Explanation
+"On the other hand, in diastolic heart failure, the heart struggles to fill properly, leading to increased pressure in the blood vessels and lungs.",Contrast
+"Despite these differences, both types involve a decrease in effective cardiac output, leading to systemic effects.",Comparison
+"As heart failure progresses, the compensatory mechanisms may no longer be sufficient to maintain adequate perfusion, and patients may experience worsening symptoms.",Temporal Sequence
+This is why early diagnosis and management of heart failure are critical in preventing the progression of the disease.,Purpose
+"In conclusion, while the body initially attempts to compensate for heart failure through various mechanisms, these responses can ultimately contribute to further deterioration of heart function.",Summary
+Effective management focuses on targeting these compensatory mechanisms to prevent the cycle of worsening heart failure.,Problem Solution
+"Ultimately, treatment strategies aim to reduce the workload on the heart and improve its efficiency.",Purpose

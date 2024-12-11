@@ -1,0 +1,32 @@
+Sentence,Label
+"Antibody production begins when a pathogen enters the body, triggering an immune response.",Cause and Effect
+"When a pathogen is detected, antigen-presenting cells (APCs) like dendritic cells process the pathogen's antigens.",Sequential
+"These APCs then migrate to the lymph nodes, where they present the antigens to naive T cells.",Sequential
+"If the T cell receptor on a helper T cell recognizes the antigen, it becomes activated.",Conditional
+"Upon activation, helper T cells release cytokines that stimulate B cells to start antibody production.",Cause and Effect
+"B cells are specific to the antigens they encounter, meaning they can only produce antibodies against particular pathogens.",Definition
+"Once a B cell binds to its matching antigen, it processes the antigen and presents it on its surface.",Explanation
+"This process, known as antigen presentation, is essential for activating helper T cells.",Clarification
+"These T cells, now activated, secrete cytokines that induce B cells to proliferate and differentiate into plasma cells.",Cause and Effect
+Plasma cells are specialized in producing large amounts of antibodies.,Definition
+"Antibodies bind to specific antigens, marking pathogens for destruction by other immune cells.",Explanation
+"At the same time, memory B cells are formed, which remain in the body for future encounters with the same pathogen.",Temporal Sequence
+Memory cells help the immune system respond more quickly if the pathogen is encountered again.,Purpose
+"This coordination between B cells, T cells, and antigen presentation ensures a robust immune response.",Generalization
+"Without helper T cells, B cells would not receive the necessary signals to produce antibodies.",Contrast
+"B cells and T cells rely on each other for efficient antibody production, highlighting their interdependent roles.",Comparison
+"However, while helper T cells are crucial for activating B cells, cytotoxic T cells target and destroy infected cells directly.",Contrast
+"Although B cells are responsible for antibody production, the presence of helper T cells is essential for their activation.",Emphasis
+"Both humoral immunity, through antibodies, and cell-mediated immunity, through T cells, are required for a complete immune defense.",Elaboration
+"Moreover, helper T cells also assist in activating cytotoxic T cells, creating a broader immune response.",Addition
+"In some cases, if T cell activation is impaired, antibody production can be weakened or absent, leading to immune deficiencies.",Cause and Effect
+"Therefore, any disruption in antigen presentation can delay or weaken the immune response.",Cause and Effect
+"By the time the adaptive immune response is fully active, the body has begun to produce antibodies capable of neutralizing the pathogen.",Temporal Sequence
+"Once antibodies are produced, they circulate throughout the body, seeking and binding to the pathogens they are specific to.",Sequential
+Antibodies may neutralize pathogens directly or mark them for destruction by phagocytes and other immune cells.,Explanation
+An example of this process is the way antibodies help neutralize viruses by blocking their ability to enter host cells.,Illustration
+"If antibodies are able to neutralize pathogens effectively, the immune system will clear the infection more rapidly.",Cause and Effect
+"However, some pathogens evolve to evade immune recognition, which may complicate the immune response.",Problem Solution
+"In contrast, vaccines stimulate the production of antibodies against specific pathogens without causing disease, providing immunity.",Contrastive Emphasis
+"Thus, the collaboration between B cells, T cells, and antigen-presenting cells is vital for an effective immune defense.",Summary
+"Through this process, the body can adapt and respond more efficiently to future infections by 'remembering' the pathogens it has encountered.",Inference

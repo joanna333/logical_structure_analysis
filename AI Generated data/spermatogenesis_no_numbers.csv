@@ -1,0 +1,31 @@
+Sentence,Label
+Spermatogenesis is the process by which sperm cells are produced in the testes.,Definition
+"It begins with a stem cell called a spermatogonium, which undergoes a series of divisions.",Explanation
+The spermatogonium divides by mitosis to produce two primary spermatocytes.,Sequential
+Each primary spermatocyte then undergoes meiosis to reduce the chromosome number by half.,Cause and Effect
+"This results in the formation of secondary spermatocytes, each containing 23 chromosomes.",Cause and Effect
+"The secondary spermatocytes then divide again to form spermatids, which are haploid cells.",Sequential
+Spermatids are not yet fully mature and must undergo a process called spermiogenesis.,Explanation
+"During spermiogenesis, spermatids transform into streamlined sperm cells with a tail for mobility.",Cause and Effect
+"This final step involves the development of a head, midpiece, and tail, each serving a specific function.",Elaboration
+"The sperm's head contains the DNA necessary for fertilization, while the tail provides motility.",Explanation
+"Hormonal regulation of spermatogenesis begins with the hypothalamus, which secretes gonadotropin-releasing hormone (GnRH).",Cause and Effect
+GnRH stimulates the pituitary gland to release two hormones: luteinizing hormone (LH) and follicle-stimulating hormone (FSH).,Cause and Effect
+LH stimulates the Leydig cells in the testes to produce testosterone.,Cause and Effect
+Testosterone is crucial for the initiation and maintenance of spermatogenesis.,Explanation
+"FSH acts on Sertoli cells, which support and nourish the developing sperm cells.",Cause and Effect
+"Sertoli cells also secrete inhibin, which provides negative feedback to regulate FSH levels.",Cause and Effect
+"As sperm production increases, inhibin levels rise, reducing FSH secretion from the pituitary.",Cause and Effect
+This feedback loop ensures that sperm production is kept within a normal range.,Explanation
+"If testosterone levels become too high, the hypothalamus reduces GnRH production, which in turn lowers LH secretion.",Cause and Effect
+This negative feedback prevents excessive production of testosterone and sperm.,Purpose
+"Spermatogenesis continues throughout a male's life, although the efficiency of sperm production may decline with age.",Generalization
+"The entire process of spermatogenesis, from spermatogonium to mature sperm, takes approximately 64-72 days.",Temporal Sequence
+"Although testosterone plays a primary role, other factors such as temperature can also influence sperm production.",Contrast
+"High temperatures can negatively affect sperm production, which is why the testes are located outside the body in the scrotum.",Explanation
+This temperature regulation ensures an optimal environment for spermatogenesis.,Cause and Effect
+"Additionally, the presence of certain hormones, such as prolactin, can also impact sperm production, albeit to a lesser extent.",Addition
+"A decrease in testosterone or an increase in estrogen can disrupt spermatogenesis, leading to infertility.",Contrast
+"Therefore, hormonal balance is crucial for normal male reproductive function.",Emphasis
+"In summary, spermatogenesis is a complex, hormonally regulated process that produces mature sperm essential for reproduction.",Summary
+"By understanding the stages and regulation of spermatogenesis, we can better address male infertility issues.",Problem Solution

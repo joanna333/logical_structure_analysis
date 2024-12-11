@@ -1,0 +1,34 @@
+Sentence,Label
+"During the female reproductive cycle, various hormones work together to regulate the process of ovulation and menstruation.",Explanation
+"The hypothalamus releases gonadotropin-releasing hormone (GnRH), which stimulates the pituitary gland to release FSH and LH.",Cause and Effect
+"FSH promotes the development of ovarian follicles, while LH triggers ovulation, causing the release of an egg.",Explanation
+"Once ovulation occurs, the ruptured follicle forms the corpus luteum, which secretes progesterone.",Sequential
+Progesterone is responsible for preparing the uterus for a potential pregnancy by thickening the endometrial lining.,Explanation
+Both estrogen and progesterone work together to maintain the uterine lining during the luteal phase.,Comparison
+"If pregnancy does not occur, the corpus luteum degenerates, leading to a drop in progesterone levels.",Conditional
+"This drop in progesterone triggers the shedding of the endometrial lining, resulting in menstruation.",Cause and Effect
+The follicular phase begins on the first day of menstruation and lasts until ovulation.,Temporal Sequence
+"During this phase, FSH stimulates the growth of several ovarian follicles.",Cause and Effect
+"Estrogen, produced by the growing follicles, helps regulate the release of FSH and LH.",Cause and Effect
+"As the follicles mature, one follicle becomes dominant, and its estrogen production increases.",Sequential
+"The dominant follicle’s high estrogen levels provide negative feedback to the pituitary gland, suppressing further FSH production.",Cause and Effect
+"At this point, LH levels rise, which is a signal for ovulation to occur.",Sequential
+"After ovulation, the luteal phase begins, characterized by the secretion of progesterone from the corpus luteum.",Temporal Sequence
+"Progesterone further inhibits the production of FSH and LH, preventing new follicles from maturing during this phase.",Cause and Effect
+"In the event of pregnancy, the fertilized egg produces hCG, which supports the corpus luteum and maintains progesterone production.",Cause and Effect
+"If pregnancy does not occur, the drop in progesterone causes the endometrial lining to break down, leading to menstruation.",Cause and Effect
+Menstruation marks the end of the luteal phase and the beginning of a new follicular phase.,Temporal Sequence
+"The entire cycle is typically around 28 days, though it can vary from woman to woman.",Generalization
+The interplay between estrogen and progesterone is critical in regulating the cycle’s different phases.,Emphasis
+High estrogen levels during the follicular phase promote the growth and development of the endometrial lining.,Explanation
+"Progesterone levels rise after ovulation, ensuring that the uterine lining remains ready for implantation.",Cause and Effect
+"The process of ovulation is closely linked to a surge in LH, which induces the release of an egg from the dominant follicle.",Explanation
+"Comparatively, the luteal phase is more focused on maintaining the uterine environment for potential pregnancy.",Comparison
+"Without the action of LH and FSH, the reproductive cycle would not function properly, leading to issues like anovulation.",Problem Solution
+"In contrast, when pregnancy occurs, the hormonal signals needed to maintain pregnancy are sustained, preventing menstruation.",Contrastive Emphasis
+"Understanding these hormonal regulations helps explain many reproductive health conditions, such as irregular periods.",Clarification
+"Thus, both estrogen and progesterone must be balanced for a healthy reproductive cycle to occur.",Summary
+"Each phase of the menstrual cycle is influenced by a distinct combination of hormones, leading to physiological changes in the body.",Clarification
+"From the start of menstruation to the onset of ovulation, hormonal signals dictate the maturation of follicles and the development of the egg.",Illustration
+"By regulating FSH and LH secretion, the body ensures that only one follicle becomes dominant each cycle.",Explanation
+These hormonal changes are a clear illustration of how the body prepares itself for possible pregnancy each month.,Illustration

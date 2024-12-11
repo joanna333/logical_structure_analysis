@@ -1,0 +1,32 @@
+Sentence,Label
+Growth hormone (GH) plays a key role in regulating physical growth and development by stimulating various tissues to grow and divide.,Definition
+"One of the primary physiological effects of growth hormone is its promotion of linear growth, particularly in bones and cartilage.",Explanation
+"When GH is released, it triggers the liver to produce insulin-like growth factor 1 (IGF-1), which mediates many of its growth-promoting effects.",Cause and Effect
+"IGF-1, in turn, stimulates the growth of bones, muscles, and other tissues.",Cause and Effect
+"GH also helps in the regulation of metabolism, promoting the breakdown of fats and the use of fat as an energy source.",Explanation
+"Excessive GH release can lead to conditions such as gigantism or acromegaly, where abnormal growth occurs.",Explanation
+"In contrast, insufficient GH production can result in growth deficiencies, such as dwarfism in children.",Contrast
+"The regulation of growth hormone secretion is complex, involving feedback mechanisms that maintain balance in the body.",Generalization
+"One of the primary feedback loops involves the hypothalamus, which secretes growth hormone-releasing hormone (GHRH) to stimulate GH release.",Explanation
+"As GH levels rise, they suppress the secretion of GHRH and stimulate the release of somatostatin, a hormone that inhibits GH release.",Sequential
+"Somatostatin acts to reduce GH secretion when it reaches optimal levels, ensuring that the body doesn't overproduce the hormone.",Clarification
+"This feedback loop ensures that GH levels stay within a healthy range, preventing both excess and deficiency.",Purpose
+"Additionally, IGF-1 itself plays a role in this feedback regulation by inhibiting the release of GHRH from the hypothalamus.",Explanation
+"When IGF-1 levels are high, they signal the hypothalamus to decrease GHRH secretion, thus decreasing GH production.",Cause and Effect
+"Furthermore, stress, sleep, and exercise can also influence GH secretion, showing that its regulation is not solely controlled by feedback loops.",Illustration
+"In the absence of adequate sleep, for instance, GH production can be reduced, which highlights its connection to circadian rhythms.",Cause and Effect
+"GH secretion tends to peak during sleep, especially during the deep stages of the sleep cycle.",Temporal Sequence
+"The secretion of growth hormone is also affected by the body’s nutritional status, with higher levels being released during periods of fasting.",Cause and Effect
+"Obesity can decrease GH secretion, leading to a variety of metabolic and growth-related issues.",Cause and Effect
+"Overall, GH has both anabolic and catabolic effects, promoting tissue growth while also influencing energy metabolism.",Generalization
+"One common issue with GH deficiency is delayed puberty, which occurs due to impaired growth and development of sexual characteristics.",Example
+"In terms of muscle function, GH stimulates protein synthesis, which is crucial for muscle growth and repair.",Explanation
+"Research has also shown that GH has a direct effect on the heart, improving cardiac function and supporting blood circulation.",Explanation
+"Comparing GH's effects in children and adults, it is primarily involved in linear growth in children, whereas in adults, it helps regulate metabolism and maintain muscle mass.",Comparison
+"Although GH is critical for growth, it is just one factor in a larger system of hormones and signaling pathways involved in development.",Addition
+"Exercise, particularly high-intensity activity, has been shown to naturally increase GH secretion, demonstrating the hormone's role in recovery and fitness.",Illustration
+"In summary, growth hormone is a vital regulator of growth, metabolism, and overall health, with its effects influenced by complex feedback loops and external factors.",Summary
+"While GH deficiency can lead to stunted growth and metabolic disorders, it can often be treated with synthetic GH injections.",Problem Solution
+"The use of GH therapy, however, must be carefully controlled to avoid side effects like joint pain or abnormal tissue growth.",Contrastive Emphasis
+"To better understand GH's role, further research is needed into its long-term effects and the potential risks of its therapeutic use.",Inference
+"Ultimately, the body's ability to regulate GH is essential for maintaining proper growth, metabolism, and overall health throughout life.",Emphasis

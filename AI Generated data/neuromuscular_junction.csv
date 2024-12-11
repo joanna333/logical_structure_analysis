@@ -1,0 +1,33 @@
+Sentence,Label
+"At the neuromuscular junction, a motor neuron communicates with a muscle fiber to initiate contraction.",Definition
+"Upon an action potential reaching the motor neuron, calcium ions enter the axon terminal.",Cause and Effect
+"As calcium ions flow into the axon terminal, they trigger the release of acetylcholine into the synaptic cleft.",Temporal Sequence
+"Acetylcholine binds to receptors on the muscle fiber's sarcolemma, initiating an electrical signal in the muscle cell.",Cause and Effect
+"This electrical signal, called an action potential, travels along the muscle fiber's membrane and into the T-tubules.",Explanation
+"Once the action potential reaches the T-tubules, it stimulates the release of calcium ions from the sarcoplasmic reticulum.",Cause and Effect
+"Calcium ions bind to troponin, a regulatory protein found on the actin filaments of the muscle fiber.",Explanation
+"When calcium binds to troponin, the troponin-tropomyosin complex shifts, exposing binding sites on actin.",Explanation
+"This exposes the active sites on actin, allowing myosin heads to bind to them.",Sequential
+"The binding of myosin to actin forms cross-bridges, a crucial step in muscle contraction.",Definition
+"As myosin heads pivot, they pull the actin filaments toward the center of the sarcomere.",Cause and Effect
+"This pulling action, known as the power stroke, shortens the muscle fiber, causing contraction.",Explanation
+"The energy for the power stroke comes from ATP, which is hydrolyzed by myosin.",Addition
+ATP is also necessary for detaching the myosin head from the actin after the power stroke.,Explanation
+"Without sufficient ATP, the muscle would remain in a contracted state, a condition known as rigor mortis.",Contrast
+"Once the signal to contract stops, calcium ions are actively transported back into the sarcoplasmic reticulum.",Temporal Sequence
+"Calcium dissociates from troponin, causing the troponin-tropomyosin complex to block the actin binding sites again.",Sequential
+"This prevents further binding of myosin heads to actin, leading to muscle relaxation.",Cause and Effect
+"At rest, the muscle fiber is in a relaxed state, and no cross-bridges are formed.",Definition
+"In order for the process to begin again, the motor neuron must release another action potential.",Clarification
+The overall process of muscle contraction is known as the sliding filament theory.,Definition
+"Through this theory, actin and myosin slide past each other, shortening the muscle fiber and producing force.",Explanation
+"Acetylcholine's action at the neuromuscular junction is terminated by the enzyme acetylcholinesterase, which breaks it down.",Cause and Effect
+"By removing acetylcholine, the muscle fiber is no longer stimulated to contract.",Cause and Effect
+The ability of the muscle to contract depends on the availability of calcium and ATP.,Conditional
+Calcium plays a crucial role in enabling the actin and myosin interaction necessary for contraction.,Emphasis
+"Conversely, without calcium, the muscle cannot contract, regardless of the neural signal.",Contrast
+"In summary, muscle contraction is initiated at the neuromuscular junction and involves a series of events leading to the sliding of actin and myosin filaments.",Summary
+"Although the contraction process is highly regulated, factors like calcium imbalances can lead to disorders such as muscle weakness or spasms.",Concession
+"Without proper function at the neuromuscular junction, coordinated muscle movement would be impossible.",Purpose
+"Thus, understanding the neuromuscular junction is essential for comprehending how muscles contract and relax.",Generalization
+"Finally, any disruption in the communication between the motor neuron and the muscle fiber can result in impaired muscle function.",Problem Solution

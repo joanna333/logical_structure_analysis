@@ -1,0 +1,31 @@
+Sentence,Label
+Pulmonary gas transfer is the process by which gases like oxygen and carbon dioxide move between the alveoli and the blood in the lungs.,Definition
+"Gas transfer occurs due to differences in the concentration of gases, where oxygen is transferred into the blood and carbon dioxide is removed.",Explanation
+"Oxygen moves from the alveolar air, where its concentration is high, to the blood, where its concentration is lower.",Causal
+"If the concentration gradient is steep, gas transfer happens more quickly, enhancing oxygen uptake and carbon dioxide removal.",Conditional
+The movement of oxygen across the alveolar-capillary membrane occurs by simple molecular diffusion.,Sequential
+"In comparison to oxygen, carbon dioxide diffuses faster due to its higher solubility in plasma and lower molecular weight.",Comparison
+The rate of diffusion is directly proportional to the concentration gradient between the alveolar air and the blood.,Cause and Effect
+Efficient oxygen transport depends not only on diffusion but also on the ability of hemoglobin in red blood cells to bind oxygen.,Elaboration
+"Gas exchange occurs when oxygen moves into the blood, where it binds to hemoglobin, while carbon dioxide diffuses from the blood into the alveoli.",Explanation
+"Although diffusion is the primary mechanism for gas transfer, it is also influenced by factors such as temperature and the partial pressure of gases.",Concession
+"Generally, the alveolar surface area and the thickness of the respiratory membrane determine the efficiency of gas transfer.",Generalization
+"The partial pressure of oxygen in the alveoli is higher than that in the blood, driving the diffusion of oxygen into the bloodstream.",Cause and Effect
+"Alveolar ventilation increases during exercise, which enhances the concentration gradient, promoting faster gas exchange.",Illustration
+"Carbon dioxide, on the other hand, moves from the blood into the alveoli because the partial pressure of carbon dioxide in the blood is higher than in the alveoli.",Clarification
+"During the exchange, oxygen diffuses through the thin walls of the alveoli and capillaries, while carbon dioxide moves in the opposite direction.",Sequential
+Changes in the ventilation-perfusion ratio can influence gas transfer efficiency in the lungs.,Problem Solution
+"The purpose of pulmonary gas transfer is to ensure that oxygen reaches the blood and is transported to tissues, while carbon dioxide is removed from the body.",Purpose
+"At high altitudes, the partial pressure of oxygen decreases, which reduces the concentration gradient and impairs oxygen uptake.",Contrastive Emphasis
+The diffusion of oxygen into the blood is driven by the concentration gradient created by the constant removal of oxygen from the blood by tissues.,Cause and Effect
+"In order for oxygen to be transported through the bloodstream, it must bind to hemoglobin in red blood cells.",Explanation
+"Even though carbon dioxide is removed from the blood, it is transported back to the lungs as bicarbonate, which then dissociates to release CO2.",Addition
+Increased blood flow through the lungs can improve gas exchange by enhancing the delivery of deoxygenated blood to the alveoli.,Cause and Effect
+The transport of gases in the blood relies on the efficiency of hemoglobin and the relationship between hemoglobin saturation and oxygen partial pressure.,Clarification
+"As blood flows through the pulmonary capillaries, oxygen binds to hemoglobin while carbon dioxide is released into the alveolar space for exhalation.",Sequential
+"During periods of intense physical activity, the demand for oxygen increases, which requires greater pulmonary gas transfer to meet metabolic needs.",Temporal Sequence
+The concentration gradient for oxygen between the alveoli and the capillaries is driven by the low oxygen concentration in the blood and high concentration in the alveoli.,Cause and Effect
+"More carbon dioxide is carried in the form of bicarbonate ions in the blood, which is converted back into carbon dioxide in the lungs for exhalation.",Addition
+"Although both oxygen and carbon dioxide follow similar diffusion principles, the efficiency of their transfer is influenced by their molecular properties.",Comparison
+"During sleep, pulmonary ventilation decreases, which reduces the efficiency of gas exchange but is usually compensated by other factors.",Concession
+Pulmonary gas transfer plays a critical role in maintaining blood gas homeostasis and ensuring tissues receive adequate oxygen for metabolic processes.,Summary

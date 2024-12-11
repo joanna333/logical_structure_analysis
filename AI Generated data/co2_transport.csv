@@ -1,0 +1,34 @@
+Sentence,Label
+Carbon dioxide (CO2) is produced as a waste product of cellular metabolism and must be transported to the lungs for exhalation.,Definition
+"Although CO2 is primarily transported as bicarbonate (HCO3-), several mechanisms contribute to its transport in the blood.",Explanation
+"One of the primary ways CO2 is carried is by converting it into bicarbonate, which accounts for approximately 70% of CO2 transport in the blood.",Explanation
+"Some CO2 binds to hemoglobin, forming carbamino compounds, which contribute to around 20% of CO2 transport.",Explanation
+The remaining 10% of CO2 is transported in the blood in its dissolved form.,Enumeration
+"These different forms of CO2 transport occur simultaneously, allowing efficient removal of CO2 from tissues.",Cause and Effect
+"Bicarbonate ions are formed when CO2 reacts with water, catalyzed by the enzyme carbonic anhydrase.",Explanation
+The carbonic acid (H2CO3) formed from CO2 and water rapidly dissociates into hydrogen ions (H+) and bicarbonate ions (HCO3-).,Explanation
+"Bicarbonate ions move from the red blood cells into the plasma in exchange for chloride ions, a process called the chloride shift.",Definition
+"Carbamino compounds are formed when CO2 binds to the amino groups of proteins, particularly hemoglobin.",Explanation
+"Unlike bicarbonate, carbamino compounds do not dissociate into separate ions but remain bound to hemoglobin.",Contrast
+"In the lungs, the processes are reversed: bicarbonate re-enters red blood cells and is converted back to CO2, which is then exhaled.",Cause and Effect
+The conversion of CO2 to bicarbonate and back is crucial for maintaining blood pH balance.,Explanation
+"As CO2 levels rise, more bicarbonate is formed, and the blood becomes more acidic.",Cause and Effect
+"However, when CO2 levels decrease, bicarbonate levels drop, and the blood becomes less acidic.",Cause and Effect
+The ability of hemoglobin to carry CO2 is influenced by its affinity for oxygen; this is known as the Haldane effect.,Explanation
+"In the tissues, where oxygen levels are lower, hemoglobin has a higher affinity for CO2, facilitating its transport.",Explanation
+"On the other hand, in the lungs, where oxygen levels are higher, hemoglobin releases CO2 and binds to oxygen.",Contrast
+The CO2 dissociation curve illustrates how CO2 is released from blood as it passes through the lungs.,Illustration
+"In addition to the mechanisms of CO2 transport, ventilation plays an important role in regulating CO2 levels in the blood.",Addition
+"Breathing more rapidly can help expel excess CO2, while slow breathing can cause CO2 to accumulate.",Cause and Effect
+"Thus, respiration serves as a direct means of controlling the CO2 concentration in the blood.",Explanation
+"Even though bicarbonate is the main form of CO2 transport, carbamino compounds provide an additional means of carrying CO2 without affecting pH as much.",Contrast
+These various mechanisms are complementary and ensure efficient CO2 transport under different conditions.,Generalization
+"Because CO2 is mainly transported as bicarbonate, the process helps prevent harmful changes in blood acidity.",Cause and Effect
+"In the tissues, high concentrations of CO2 promote the formation of bicarbonate, helping to clear CO2 from the cells.",Cause and Effect
+"In contrast, in the lungs, low concentrations of CO2 allow bicarbonate to be converted back to CO2 for exhalation.",Contrast
+The process of CO2 transport is essential for cellular respiration and maintaining homeostasis within the body.,Purpose
+"To summarize, CO2 is transported in the blood primarily as bicarbonate, with smaller amounts carried as carbamino compounds and dissolved CO2.",Summary
+"By utilizing these mechanisms, the body efficiently transports and expels CO2, helping to maintain optimal function.",Conclusion
+Efficient CO2 transport is crucial because an imbalance in CO2 levels can lead to serious health issues such as acidosis or alkalosis.,Explanation
+"Given the importance of these processes, disturbances in CO2 transport can have significant physiological consequences.",Inference
+"However, under normal conditions, these systems work together to ensure CO2 is safely removed from the body.",Concession

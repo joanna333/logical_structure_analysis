@@ -1,0 +1,31 @@
+Sentence,Label
+"Fetal circulation is a system that allows blood to bypass the lungs, which are not yet functional in the fetus.",Definition
+"Through this system, oxygenated blood from the placenta is directed to the fetus's heart and body.",Explanation
+"One of the key features of fetal circulation is the presence of three special shunts: the ductus venosus, the foramen ovale, and the ductus arteriosus.",Enumeration
+These shunts allow blood to flow through the body in a way that avoids the non-functioning lungs.,Explanation
+"At birth, when the baby takes its first breath, the circulatory system undergoes significant changes.",Temporal Sequence
+"As the lungs inflate, the pressure in the pulmonary vessels drops, causing blood to flow to the lungs.",Cause and Effect
+"Meanwhile, the increased pressure in the left atrium causes the foramen ovale to close.",Cause and Effect
+"Without the foramen ovale, the blood must now flow to the lungs, marking the beginning of normal circulation.",Causal
+"In contrast to the fetal system, the post-birth circulation involves direct oxygen exchange in the lungs.",Contrast
+The closure of the ductus arteriosus prevents blood from bypassing the lungs after birth.,Cause and Effect
+"Similarly, the ductus venosus closes after birth, ensuring that blood no longer bypasses the liver.",Cause and Effect
+"As a result, the fetus's circulation system transitions from relying on placental oxygen to using its own lungs for oxygen exchange.",Temporal Sequence
+"Although the circulatory system changes dramatically at birth, some aspects, such as the flow through the umbilical cord, cease altogether.",Contrast
+"The placenta no longer serves as the primary source of oxygen, as the baby begins to breathe air.",Explanation
+"After birth, the circulatory system is similar to that of an adult, where blood circulates through the lungs to be oxygenated.",Comparison
+The closure of fetal shunts helps to separate the pulmonary and systemic circulations.,Purpose
+"Thus, the circulatory changes at birth are essential for the baby to adapt to breathing outside the womb.",Emphasis
+"However, in some cases, these changes may be delayed, leading to conditions like patent ductus arteriosus.",Concession
+These conditions are typically treated to prevent complications with the baby’s oxygenation and overall health.,Problem Solution
+"Following birth, the newborn's circulatory system gradually adapts over the first few days, ensuring full lung function.",Temporal Sequence
+The transition from fetal to post-birth circulation is a critical process for survival outside the womb.,Clarification
+"Unlike the fetal circulatory system, the adult system relies on complete separation of oxygenated and deoxygenated blood.",Contrast
+This distinction emphasizes the importance of the circulatory changes that occur immediately after birth.,Emphasis
+"Furthermore, the closure of the fetal shunts also prevents unnecessary blood flow from one circulatory path to another.",Elaboration
+"As these changes take place, the newborn becomes capable of independent respiration and circulation.",Cause and Effect
+"The process begins within seconds of birth, and is fully established within the first few minutes.",Temporal Sequence
+"Given the complexity of fetal circulation, it’s crucial to understand how the system works before and after birth.",Generalization
+One of the most significant changes occurs when the foramen ovale and ductus arteriosus close to allow for lung-based oxygenation.,Illustration
+"After birth, the systemic circulation begins to mirror that of an adult, with blood circulating through the lungs for oxygenation.",Cause and Effect
+"Finally, the entire process of circulatory transition at birth is critical for the newborn to survive independently from the placenta.",Summary

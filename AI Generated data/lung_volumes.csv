@@ -1,0 +1,33 @@
+Sentence,Label
+"The human lungs have the ability to hold a variety of volumes of air, which are crucial for breathing.",Generalization
+One key function of lung volumes is to indicate the amount of air in the lungs at different phases of the respiratory cycle.,Explanation
+Doctors often use lung volume measurements to assess the health of a patient's lungs and their respiratory function.,Cause and Effect
+"Lung volumes can be measured using various methods, including spirometry, plethysmography, and body plethysmography.",Enumeration
+"Vital capacity, one of the lung capacities, refers to the maximum amount of air a person can exhale after taking a deep breath.",Definition
+"Total lung capacity, on the other hand, is the total amount of air the lungs can hold, including all volumes.",Contrast
+"By contrast, residual volume is the amount of air that remains in the lungs after a person exhales as forcefully as possible.",Contrastive Emphasis
+"In clinical settings, measuring the residual volume can be important for diagnosing obstructive lung diseases.",Purpose
+The tidal volume represents the amount of air inhaled or exhaled with each breath during normal breathing.,Definition
+"On average, the tidal volume for a healthy adult is around 500 milliliters per breath.",Comparison
+The inspiratory reserve volume is the extra amount of air that can be inhaled after taking a normal breath.,Definition
+"In patients with restrictive lung diseases, this volume is often reduced due to decreased lung expansion.",Explanation
+"Conversely, the expiratory reserve volume is the amount of air that can be exhaled after a normal exhalation.",Definition
+These volumes are essential for understanding the lung's ability to ventilate properly and meet the body’s oxygen needs.,Cause and Effect
+"Functional residual capacity is the amount of air left in the lungs after a normal exhalation, which helps prevent lung collapse.",Definition
+Measuring lung volumes accurately can give physicians insight into diseases such as emphysema or pulmonary fibrosis.,Purpose
+"Lung volume measurements are often compared with predicted values based on a person's age, sex, and body size.",Comparison
+"These comparisons help identify abnormalities, suggesting conditions like asthma or chronic obstructive pulmonary disease (COPD).",Cause and Effect
+"Interestingly, lung volumes can be affected by both intrinsic factors, such as genetics, and extrinsic factors, like smoking.",Explanation
+"In obstructive lung diseases, the lung volumes may appear larger due to trapped air, while in restrictive diseases, volumes are smaller.",Contrast
+"Furthermore, changes in lung volumes can be monitored over time to assess the progression or improvement of respiratory diseases.",Elaboration
+One limitation of spirometry is that it may not be able to measure residual volume or functional residual capacity.,Problem Solution
+The measurement of lung volumes can be essential for assessing the effectiveness of a prescribed treatment plan for a respiratory condition.,Purpose
+"Lung volumes are typically measured during a pulmonary function test, where a patient is asked to breathe into a device called a spirometer.",Clarification
+"Moreover, lung volumes can vary according to activity levels, as the body requires different amounts of air during rest versus physical exertion.",Cause and Effect
+"As lung volumes increase, more oxygen can be delivered to tissues, helping to maintain bodily functions during exertion.",Explanation
+"These changes highlight the dynamic nature of lung function, which is influenced by both internal and external factors.",Clarification
+"From a clinical perspective, tracking lung volumes is essential to monitor recovery from lung surgeries or illnesses.",Cause and Effect
+"People with asthma, for instance, might show normal lung volumes during a routine test but could have difficulty exhaling quickly.",Illustration
+"Through the careful measurement of these lung volumes, physicians can tailor treatments that help maintain optimal respiratory function.",Purpose
+"Overall, lung volumes offer a comprehensive view of pulmonary health and provide critical insights for diagnosis and treatment planning.",Summary
+"Thus, understanding lung volumes and their capacities is integral for both healthy individuals and those with respiratory issues.",Inference

@@ -1,0 +1,32 @@
+Sentence,Label
+"Pituitary hormones play a key role in regulating essential bodily functions such as growth, metabolism, and reproduction.",Generalization
+"The anterior pituitary secretes several important hormones, including growth hormone, prolactin, and thyroid-stimulating hormone.",Definition
+"Growth hormone stimulates growth and regulates metabolism, helping maintain overall homeostasis.",Explanation
+"Prolactin is essential for milk production in lactating women, whereas thyroid-stimulating hormone stimulates the thyroid gland to regulate metabolism.",Contrast
+"If the anterior pituitary fails to release adequate growth hormone, stunted growth and metabolic disturbances can occur.",Cause and Effect
+"Conversely, excessive growth hormone release can lead to gigantism or acromegaly.",Contrast
+"The posterior pituitary releases antidiuretic hormone (ADH) and oxytocin, both of which are crucial for homeostasis.",Definition
+ADH helps regulate water balance in the body by promoting water reabsorption in the kidneys.,Explanation
+"Oxytocin, in contrast, is involved in childbirth and lactation, facilitating uterine contractions and milk ejection.",Contrast
+Both ADH and oxytocin are released into the bloodstream by the posterior pituitary in response to specific physiological triggers.,Causal
+"ADH secretion is stimulated by high blood osmolarity, which indicates dehydration.",Causal
+"When blood osmolarity rises, the hypothalamus signals the posterior pituitary to release ADH to conserve water.",Temporal Sequence
+"Furthermore, oxytocin is released during labor to increase uterine contractions, ensuring successful childbirth.",Addition
+Oxytocin also plays a role in bonding between mother and child post-delivery.,Elaboration
+The anterior pituitary and posterior pituitary work together to ensure bodily functions remain in equilibrium.,Comparison
+"Although the anterior pituitary synthesizes its own hormones, the posterior pituitary stores and releases hormones produced by the hypothalamus.",Contrast
+"Additionally, the hypothalamus regulates the pituitary gland through releasing and inhibiting hormones.",Addition
+"For instance, thyrotropin-releasing hormone from the hypothalamus stimulates the anterior pituitary to release thyroid-stimulating hormone.",Clarification
+"Thus, the hypothalamus and pituitary communicate closely to maintain homeostasis.",Explanation
+"Without this communication, the body would not be able to respond effectively to changes in the internal or external environment.",Inference
+"Moreover, feedback mechanisms ensure that hormone levels remain within a healthy range, preventing overproduction or underproduction.",Cause and Effect
+"If hormone levels deviate too far from their set point, the body can suffer from disorders such as hypothyroidism or diabetes.",Cause and Effect
+The interaction between the hypothalamus and pituitary also highlights the importance of these glands in the endocrine system.,Emphasis
+Pituitary hormones are essential not only for growth and reproduction but also for regulating critical functions like stress response and metabolism.,Summary
+"In conditions where pituitary function is impaired, such as in pituitary tumors, these homeostatic mechanisms can become disrupted.",Problem Solution
+"Thus, maintaining the balance of pituitary hormones is vital for long-term health and survival.",Purpose
+"Pituitary dysfunction can lead to various complications, including hormonal imbalances that affect multiple organ systems.",Contrastive Emphasis
+"Despite the differences in their functions, both anterior and posterior pituitary hormones ultimately contribute to maintaining body stability.",Comparison
+"Overall, the pituitary plays a central role in coordinating the body's responses to internal and external stimuli, ensuring overall homeostasis.",Summary
+"Imbalances in pituitary hormones may require medical intervention, including hormone replacement therapies or surgical procedures.",Problem Solution
+"Therefore, proper functioning of the pituitary gland is essential for sustaining health and regulating body systems effectively.",Emphasis

@@ -1,0 +1,32 @@
+Sentence,Label
+"The process of vision begins when light enters the eye through the cornea, which helps focus the light onto the retina.",Temporal Sequence
+"The retina contains photoreceptors that convert light into neural signals, forming the foundation of vision.",Definition
+"If the cornea or lens is misshapen, it can lead to blurry vision, known as refractive errors.",Conditional
+"The focused light travels through the pupil, the size of which is controlled by the iris, to regulate light entry.",Causal
+"The lens further adjusts its shape to focus the light onto the retina, especially for near or distant objects.",Elaboration
+"The retina is composed of two primary types of photoreceptors: rods and cones, each with distinct functions.",Enumeration
+"Rods are highly sensitive to low light levels, making them crucial for night vision, but they do not detect color.",Explanation
+"In contrast, cones function best in bright light and are responsible for color perception and fine detail.",Contrast
+"Three types of cones respond to different wavelengths of light: short (blue), medium (green), and long (red).",Addition
+"Damage to cones or their pathways can lead to color blindness, highlighting their importance in color vision.",Emphasis
+"Once the photoreceptors are activated, they generate electrical signals transmitted to the bipolar cells.",Sequential
+"The bipolar cells, in turn, relay these signals to the ganglion cells, whose axons form the optic nerve.",Cause and Effect
+The optic nerve carries the visual information from the retina to the brain for further processing.,Clarification
+"The signals pass through the optic chiasm, where information from each eye partially crosses to the opposite hemisphere.",Illustration
+"This crossing ensures that visual input from the left visual field is processed in the right brain hemisphere, and vice versa.",Purpose
+"The signals are then directed to the lateral geniculate nucleus in the thalamus, a relay station for sensory information.",Generalization
+The thalamus organizes the visual data and forwards it to the primary visual cortex in the occipital lobe of the brain.,Summary
+"In the visual cortex, complex processes occur, enabling the perception of shapes, motion, and depth.",Explanation
+"Problems along this pathway, such as optic nerve damage, can result in partial or complete vision loss.",Problem Solution
+"The brain integrates input from both eyes to create a single, cohesive three-dimensional image of the environment.",Inference
+"Although both eyes contribute to the field of vision, the brain compensates for any minor discrepancies between them.",Concession
+"Conditions like macular degeneration or retinitis pigmentosa can disrupt this integration process, causing visual impairments.",Contrastive Emphasis
+"The role of rods and cones is complemented by other retinal cells, like horizontal and amacrine cells, which refine visual signals.",Addition
+"The fovea, a small central part of the retina, contains a high concentration of cones, allowing for sharp central vision.",Illustration
+"Peripheral vision, however, relies more on rods, which are distributed around the edges of the retina.",Contrast
+The balance between central and peripheral vision allows humans to focus on details while being aware of their surroundings.,Elaboration
+"If the retina detaches, the connection between photoreceptors and neural pathways is disrupted, requiring immediate medical attention.",Conditional
+The overall process of vision demonstrates how light energy is transformed into a neural representation of the world.,Summary
+This transformation relies on the precise function of photoreceptors and the intricate network of neural connections.,Emphasis
+Understanding the process of vision can aid in developing treatments for disorders affecting sight.,Purpose
+The complexity of the visual system highlights the interplay between physiological structures and neural mechanisms.,Conclusion

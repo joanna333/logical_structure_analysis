@@ -1,0 +1,34 @@
+Sentence,Label
+"During exercise, the body works to maintain a stable internal environment despite increased demands on its systems.",Generalization
+"When physical activity begins, the cardiovascular system increases blood flow to the muscles, delivering more oxygen and nutrients.",Cause and Effect
+"As a result, the respiratory rate increases to supply more oxygen to the bloodstream.",Cause and Effect
+"If the body does not adjust to the increased demand for oxygen, muscles will become fatigued more quickly.",Conditional
+"Exercise causes the heart to pump more efficiently, raising cardiac output and ensuring proper circulation.",Explanation
+"At the same time, the rate of breathing rises, which helps to expel the excess carbon dioxide produced by muscle activity.",Sequential
+Increased oxygen intake during exercise allows the muscles to perform at higher intensities.,Explanation
+"Exercise also results in the release of hormones like adrenaline, which further stimulate the cardiovascular and respiratory systems.",Addition
+"Despite the increased workload on the heart and lungs, the body still maintains a steady supply of oxygen to essential organs.",Contrast
+"Although the cardiovascular and respiratory systems are crucial, the muscular system also plays an important role in maintaining homeostasis during exercise.",Emphasis
+"As muscle activity increases, the body produces more heat, which must be dissipated to avoid overheating.",Cause and Effect
+"The body accomplishes this through sweating and vasodilation, helping regulate body temperature.",Explanation
+"In comparison to rest, exercise requires the body to exert greater control over temperature and fluid balance.",Comparison
+"Consequently, sweating increases as the body works to cool itself, while vasodilation directs blood to the skin's surface.",Cause and Effect
+"Even though the body works hard to maintain temperature and hydration, it can still become overwhelmed if exercise intensity exceeds its capacity.",Concession
+"As the muscles contract, they produce waste products like lactic acid, which must be cleared to prevent buildup.",Explanation
+"To counteract this, the body increases blood flow to the muscles and facilitates the removal of metabolic byproducts.",Cause and Effect
+Muscles release more carbon dioxide as a byproduct of anaerobic metabolism during high-intensity exercise.,Illustration
+"If the lungs cannot expel this excess carbon dioxide quickly enough, it could lead to acidosis and disrupt the pH balance.",Conditional
+The cardiovascular system adjusts by increasing heart rate and stroke volume to meet the body’s oxygen demands.,Explanation
+"Meanwhile, the respiratory system works to expel carbon dioxide by increasing the rate and depth of breathing.",Sequential
+The combined efforts of the cardiovascular and respiratory systems enable the muscles to continue exercising even as fatigue sets in.,Cause and Effect
+"During recovery, the body slowly returns to its resting state by gradually decreasing heart rate and respiratory rate.",Temporal Sequence
+Homeostasis is restored once the body has expended the extra heat and cleared metabolic waste products.,Summary
+Exercise intensity and duration determine how effectively the body can maintain homeostasis and recover afterward.,Generalization
+"In extreme conditions, like intense heat or dehydration, the body may struggle to maintain equilibrium.",Problem Solution
+"However, with adequate hydration and cooling mechanisms, the body can continue to exercise without risking overheating.",Contrastive Emphasis
+"To facilitate this, the body may increase blood flow to the skin and activate thermoregulatory processes to stabilize internal temperature.",Cause and Effect
+"Regular exercise helps the body improve its ability to maintain homeostasis over time by enhancing cardiovascular, respiratory, and muscular efficiency.",Clarification
+"Muscles, for instance, become better at utilizing oxygen, while the cardiovascular system becomes more adept at delivering it.",Elaboration
+"Overall, the dynamic interactions between the cardiovascular, respiratory, and muscular systems ensure that homeostasis is maintained during exercise.",Summary
+"Without the coordinated efforts of these systems, the body would not be able to sustain physical activity for long periods.",Inference
+"Therefore, the regulation of temperature, oxygen, and waste products is essential for both performance and safety during exercise.",Purpose

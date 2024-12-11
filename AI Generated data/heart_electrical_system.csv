@@ -1,0 +1,31 @@
+Sentence,Label
+"Heart electrical activity begins at the sinoatrial (SA) node, located in the right atrium.",Definition
+"The SA node generates electrical impulses, causing the atria to contract.",Explanation
+"Due to its position, the SA node is often referred to as the heart's natural pacemaker.",Clarification
+"Without the SA node, the heart would lack a consistent rhythm.",Cause and Effect
+"Next, the electrical impulse travels to the atrioventricular (AV) node.",Temporal Sequence
+"The AV node serves as a critical relay station, briefly delaying the signal before it moves further.",Explanation
+This delay allows the atria to fully contract and empty blood into the ventricles.,Purpose
+"If the AV node malfunctions, the delay can be insufficient, causing arrhythmias.",Problem Solution
+"After the delay, the signal travels down the bundle of His and into the Purkinje fibers.",Sequential
+The Purkinje fibers distribute the electrical impulse throughout the ventricles.,Explanation
+"This results in coordinated ventricular contraction, which pumps blood to the lungs and the rest of the body.",Cause and Effect
+"In the absence of the Purkinje fibers, the ventricles would contract uncoordinatedly, leading to inefficient blood flow.",Contrast
+"The electrical impulses move rapidly through the Purkinje fibers, ensuring synchronized contraction.",Emphasis
+"Compared to the SA and AV nodes, Purkinje fibers conduct the electrical impulse faster.",Comparison
+This rapid conduction ensures that the ventricles contract efficiently and effectively.,Illustration
+The heart's electrical system functions in a precise sequence to maintain proper blood circulation.,Summary
+"When the SA node fires, it sets off a chain reaction that ultimately leads to heart contraction.",Sequential
+"Furthermore, the AV node prevents the atria and ventricles from contracting simultaneously.",Addition
+"In contrast, without the AV node's delay, atrial and ventricular contractions would overlap, reducing efficiency.",Contrastive Emphasis
+Defects in the heart's electrical system can lead to conditions such as arrhythmias.,Problem Solution
+"Therefore, each component of the conduction system plays a vital role in maintaining heart rhythm.",Cause and Effect
+Arrhythmias are often treated by targeting specific parts of the electrical system to restore normal function.,Problem Solution
+"After the electrical impulse reaches the Purkinje fibers, it ensures that the ventricles contract from the bottom upward.",Sequential
+This upward contraction is critical for effectively pumping blood out of the ventricles.,Purpose
+"If the signal reaches the Purkinje fibers too slowly, the contraction becomes ineffective, potentially causing fainting or shock.",Concession
+"The heart's conduction system is designed to allow rapid, coordinated contractions that meet the body's oxygen demands.",Generalization
+The efficiency of the heart's electrical system reflects the health of the individual.,Inference
+"Heart disease can impair electrical conduction, which is why it is essential to monitor heart function regularly.",Cause and Effect
+"Thus, maintaining a healthy electrical conduction system is crucial for overall cardiovascular health.",Emphasis
+"By understanding the heart's electrical system, medical professionals can better treat and manage heart diseases.",Purpose

@@ -1,0 +1,31 @@
+Sentence,Label
+"Immune memory is a fundamental feature of the adaptive immune system, allowing the body to respond more effectively to previously encountered pathogens.",Definition
+"It is established after an initial infection or vaccination, enabling a quicker and stronger immune response upon subsequent exposures.",Explanation
+"When a pathogen enters the body for the first time, the immune system generates specific antibodies and memory cells against it.",Sequential
+"These memory cells persist in the body long after the pathogen has been cleared, ready to respond to future encounters.",Temporal Sequence
+"If the same pathogen re-invades, memory cells recognize it and initiate a rapid and robust immune response.",Causal
+This response is often so efficient that the individual does not even experience symptoms of the disease.,Inference
+"In cases where the immune system encounters a slightly mutated version of the pathogen, it may take longer to respond.",Conditional
+"Unlike innate immunity, which provides immediate but non-specific defense, adaptive immunity is highly specific and long-lasting.",Comparison
+Memory B cells and T cells are the key players in this long-term immunity.,Emphasis
+"Memory B cells produce antibodies specific to the pathogen, while memory T cells assist in destroying infected cells.",Addition
+"For instance, after recovering from chickenpox, memory cells protect against future infections of the same virus.",Illustration
+"In contrast, innate immune responses do not have the capability to 'remember' past infections.",Contrast
+"Vaccines work by simulating an infection, thereby training the immune system to develop memory cells without causing illness.",Purpose
+"By introducing harmless components of a pathogen, vaccines trigger the production of antibodies and memory cells.",Clarification
+"This strategy has been crucial in controlling diseases like measles, polio, and smallpox worldwide.",Enumeration
+"However, not all pathogens elicit a strong immune memory, as seen with rapidly mutating viruses like influenza.",Concession
+"To address this, researchers develop updated vaccines each year to match the circulating strains of the virus.",Problem Solution
+The ability of immune memory to adapt to new challenges highlights its role in protecting against evolving pathogens.,Elaboration
+"In some cases, immune memory can also lead to overreactions, such as in autoimmune diseases where the immune system attacks the body.",Cause and Effect
+Allergic reactions are another example where immune memory contributes to heightened sensitivity to certain substances.,Illustration
+"Despite these challenges, the advantages of immune memory far outweigh its drawbacks in maintaining health.",Contrastive Emphasis
+"The process of generating memory cells involves multiple stages, including antigen recognition and clonal expansion.",Sequential
+"During clonal expansion, the immune system produces numerous copies of cells specific to the pathogen.",Explanation
+These cells then differentiate into either effector cells to fight the current infection or memory cells for future protection.,Addition
+"Over time, the number of memory cells may decline, which is why booster shots are sometimes necessary.",Generalization
+"For example, the tetanus vaccine requires periodic boosters to maintain immunity.",Illustration
+The longevity of immune memory varies depending on the pathogen and the individual's overall health.,Comparison
+Understanding the mechanisms of immune memory has led to advances in immunotherapy and vaccine development.,Summary
+"Without immune memory, humans would need to fight infections from scratch every time, leading to more severe outcomes.",Cause and Effect
+"Through its remarkable ability to 'remember,' the immune system provides a durable shield against countless diseases.",Generalization
