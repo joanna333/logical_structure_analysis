@@ -76,7 +76,7 @@ class BiLSTMAttentionBERT(nn.Module):
         # Multi-head attention
         self.attention = nn.MultiheadAttention(
             embed_dim=hidden_dim * 2,  # *2 for bidirectional
-            num_heads=1,
+            num_heads=4,
             dropout=dropout,
             batch_first=True
         )
@@ -132,7 +132,8 @@ def load_data():
     data_files = [
         'data/processed/all_labeled_sentences/combined_labeled_sentences.csv',
         'data/processed/all_labeled_sentences/combined_new_labeled_sentences.csv',
-        'data/processed/all_labeled_sentences/combined_sentence_types.csv'
+        'data/processed/all_labeled_sentences/combined_sentence_types.csv',
+        'data/processed/all_labeled_sentences/combined_ai_data.csv'
     ]
     
     # Load and combine all files
@@ -158,7 +159,7 @@ def create_data_loaders(df, batch_size=16, tokenizer=None):
     if tokenizer is None:
         tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
     # Split data
-    train_df, val_df = train_test_split(df, test_size=0.2, random_state=42)
+    train_df, val_df = train_test_split(df, test_size=0.1, random_state=42)
     
     # Create datasets
     train_dataset = SentenceDataset(train_df['Sentence'], train_df['Label'], tokenizer)
@@ -170,7 +171,7 @@ def create_data_loaders(df, batch_size=16, tokenizer=None):
     
     return train_loader, val_loader
 
-def train_model(num_epochs=5, learning_rate=2e-5, weight_decay=0.01, device=None):
+def train_model(num_epochs=10, learning_rate=2e-5, weight_decay=0.01, device=None):
     """
     Training function for BiLSTM model with BERT embeddings.
     """

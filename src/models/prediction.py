@@ -138,31 +138,6 @@ def print_labels(label_encoder, show_counts=False):
     print("-" * 40)
     print(f"Total number of classes: {len(label_encoder.classes_)}\n")
 
-# if __name__ == '__main__':
-#     freeze_support()
-    
-#     # Disable MPS globally
-#     torch.backends.mps.enabled = False
-    
-#     model_path = 'models/bilstm_bert_20241211_140129_valacc_68.58.pt'
-    
-#     try:
-#         model, label_encoder, tokenizer = load_model_for_prediction(model_path)
-        
-#         if all((model, label_encoder, tokenizer)):
-#             sentence = "By reducing both inflammation and bronchoconstriction, combination therapy addresses both major components of asthma."
-#             result = predict_sentence(model, sentence, tokenizer, label_encoder)
-            
-#             if result[0] is not None:
-#                 predicted_class, prob = result
-#                 print(f"Predicted: {predicted_class} (confidence: {prob:.2f})")
-#             else:
-#                 print("Prediction failed")
-#         else:
-#             print("Failed to load model components")
-            
-#     except Exception as e:
-#        print(f"An error occurred: {str(e)}")
 
 if __name__ == '__main__':
     model_path = 'models/bilstm_bert_20241211_140129_valacc_68.58.pt'

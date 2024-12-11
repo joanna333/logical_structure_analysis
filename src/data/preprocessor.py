@@ -404,6 +404,41 @@ class TextPreprocessor:
             print(f"Error processing {file_path}: {e}")
             return {}
 
+    # Remove all lines from a file that do not contain a label from a list
+    def filter_labels(self, file_path: str) -> None:
+        """Filter lines in a file to only include specific labels.
+        
+        Args:
+            file_path: Path to CSV file
+            labels: List of labels to keep
+        """
+        # Validate file exists and is CSV
+        if not os.path.exists(file_path):
+            print(f"Error: File not found: {file_path}")
+            return
+            
+        if not file_path.endswith('.csv'):
+            print(f"Error: Not a CSV file: {file_path}")
+            return
+            
+        try:
+            # Read CSV
+            df = pd.read_csv(file_path, encoding='latin-1')
+            
+            # Verify Label column exists
+            if 'Label' not in df.columns:
+                print(f"Error: No Label column in {file_path}")
+                return
+                
+            # Filter by labels
+            filtered_df = df[df['Label'].isin(self.valid_labels)]
+            
+            # Export to CSV
+            filtered_df.to_csv(file_path, index=False)
+            
+        except Exception as e:
+            print(f"Error processing {file_path}: {e}")
+
 # Update main execution:
 if __name__ == "__main__":
     preprocessor = TextPreprocessor()
@@ -418,9 +453,49 @@ if __name__ == "__main__":
     #     combined_df, counts = preprocessor.combine_and_count_files(full_path)
     #     print(f"Found {len(combined_df)} rows in {dir_name}")
     #     print(f"Label counts: {counts}")
-counts = preprocessor.count_unique_labels_in_file("data/processed/combined_new_labeled_sentences.csv", "data/processed/combined_new_labeled_sentences_count.csv")
-print(f"Label counts: {counts}")
-counts = preprocessor.count_unique_labels_in_file("data/processed/combined_sentence_types.csv", "data/processed/combined_sentence_types_count.csv")
-print(f"Label counts: {counts}")
-counts = preprocessor.count_unique_labels_in_file("data/processed/combined_labeled_sentences.csv", "data/processed/combined_labeled_sentences_count.csv")
-print(f"Label counts: {counts}")
+# counts = preprocessor.count_unique_labels_in_file("data/processed/combined_new_labeled_sentences.csv", "data/processed/combined_new_labeled_sentences_count.csv")
+# print(f"Label counts: {counts}")
+# counts = preprocessor.count_unique_labels_in_file("data/processed/all_labeled_sentences/combined_sentence_types.csv", "data/processed/combined_sentence_types_count.csv")
+# print(f"Label counts: {counts}")
+# counts = preprocessor.count_unique_labels_in_file("data/processed/combined_labeled_sentences.csv", "data/processed/combined_labeled_sentences_count.csv")
+# print(f"Label counts: {counts}")
+
+# combine all files in data/AI_Generated_data and in data/Data_topic to one csv file and save it in data/processed, count the number of lines in the combined file and print it
+# Combine all files in data/AI Generated data
+# combined_ai_data = preprocessor.combine_files(preprocessor.find_files("data/AI_Generated_data"))
+# combined_data_topic = preprocessor.combine_files(preprocessor.find_files("data/Data_topic"))
+# combined_df = pd.concat([combined_ai_data, combined_data_topic], ignore_index=True)
+# preprocessor.export_csv(combined_df, "data/processed/combined_ai_data.csv")
+# print(f"Total lines in combined file: {preprocessor.count_lines('data/processed/combined_ai_data.csv')}")
+
+# # count the number of unique labels in the combined file and print it and save it in a csv file
+
+# preprocessor.filter_labels("data/processed/combined_ai_data.csv")
+# counts = preprocessor.count_unique_labels_in_file("data/processed/combined_ai_data.csv", "data/processed/combined_ai_data_count.csv")
+# print(f"Label counts: {counts}")
+
+labels_df1 = pd.read_csv("data/processed/label_count/combined_ai_data_count.csv")
+labels_df2 = pd.read_csv("data/processed/label_count/combined_labeled_sentences_count.csv")
+labels_df3 = pd.read_csv("data/processed/label_count/combined_new_labeled_sentences_count.csv")
+labels_df4 = pd.read_csv("data/processed/label_count/combined_sentence_types_count.csv")
+
+# Create dictionary to store counts
+label_dict = {}
+
+for label in preprocessor.valid_labels:
+    total_count = (
+        labels_df1.loc[labels_df1['Label'] == label, 'Count'].sum() +
+        labels_df2.loc[labels_df2['Label'] == label, 'Count'].sum() +
+        labels_df3.loc[labels_df3['Label'] == label, 'Count'].sum() +
+        labels_df4.loc[labels_df4['Label'] == label, 'Count'].sum()
+    )
+    label_dict[label] = total_count
+
+# Convert to DataFrame and save
+result_df = pd.DataFrame.from_dict(label_dict, orient='index', columns=['Count'])
+result_df.index.name = 'Label'
+result_df.to_csv("data/processed/label_count/combined_label_count.csv")
+
+print("Label counts:")
+print(result_df)
+

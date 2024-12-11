@@ -1,6 +1,10 @@
 Label,Count
 Problem Solution,511
+Inference,344
+Enumeration,272
+Contrastive Emphasis,231
 Summary,194
+Temporal Sequence,188
 Purpose,183
 Definition,176
 Clarification,175
@@ -9,16 +13,11 @@ Conditional,168
 Concession,159
 Addition,154
 Illustration,151
-Inference,149
 Generalization,147
-Temporal Sequence,139
-Contrastive Emphasis,131
 Cause and Effect,125
 Explanation,124
-Enumeration,124
 Causal,120
-Emphasis,110
 Elaboration,110
+Emphasis,110
 Sequential,110
 Contrast,61
-Label,1

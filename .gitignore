@@ -113,3 +113,239 @@ models/tokenizer/special_tokens_map.json
 models/tokenizer/tokenizer_config.json
 models/tokenizer/tokenizer.json
 models/tokenizer/vocab.txt
+models/bilstm_bert_20241211_182239_valacc_51.49.pt
+models/bilstm_bert_20241211_182239_valacc_56.36.pt
+models/bilstm_bert_20241211_182239_valacc_58.30.pt
+models/bilstm_bert_20241211_182239_valacc_59.35.pt
+models/bilstm_bert_20241211_182239_valacc_60.46.pt
+models/bilstm_bert_20241211_203047_valacc_48.92.pt
+models/bilstm_bert_20241211_203047_valacc_56.50.pt
+models/bilstm_bert_20241211_203047_valacc_59.21.pt
+models/bilstm_bert_20241211_203047_valacc_60.18.pt
+data/Data_topic/Abdomen.csv
+data/Data_topic/Achilles Tendon.csv
+data/Data_topic/Adductor Hiatus.csv
+data/Data_topic/allergist.csv
+data/Data_topic/Alveolus.csv
+data/Data_topic/Amniotic Sac.csv
+data/Data_topic/Anatomical Terminology.csv
+data/Data_topic/Anatomical Terms of Bone  csv Copy code.csv
+data/Data_topic/Anatomical Terms of Muscle.csv
+data/Data_topic/Anatomical Terms of Neuroanatomy.csv
+data/Data_topic/Anatomy of Human.csv
+data/Data_topic/Anthropomaximology.csv
+data/Data_topic/Anti-Aging Medicine.csv
+data/Data_topic/AntiAsthmaticAgent.csv
+data/Data_topic/AntiAsthmaticAgents.csv
+data/Data_topic/Arthrology.csv
+data/Data_topic/Axial Skeleton.csv
+data/Data_topic/Beclard Triangle.csv
+data/Data_topic/Biomedical Sciences.csv
+data/Data_topic/Body Worlds.csv
+data/Data_topic/Brain Connectivity Estimators.csv
+data/Data_topic/BreastmilkMedicine.csv
+data/Data_topic/Bregma.csv
+data/Data_topic/Cancer_exodus_hypothesis.csv
+data/Data_topic/Cardiology.csv
+data/Data_topic/Cavoatrial Junction.csv
+data/Data_topic/Center for Anatomy of the Charite.csv
+data/Data_topic/Central_Brain_Tumor_Registry_of_the_United_States.csv
+data/Data_topic/Cervical Artery Dissection.csv
+data/Data_topic/Cervical Rib.csv
+data/Data_topic/Civil_surgeon.csv
+data/Data_topic/Clinical Practice.csv
+data/Data_topic/Clinical_handover.csv
+data/Data_topic/Clinical_physiology.csv
+data/Data_topic/Coccygeal Glomus.csv
+data/Data_topic/Compensatory Growth (Organ).csv
+data/Data_topic/Composition of the Human Body.csv
+data/Data_topic/Conflict_and_Catastrophe_Medicine.csv
+data/Data_topic/Confocal_endoscopy.csv
+data/Data_topic/Corona of Glans Penis.csv
+data/Data_topic/Darwin's Tubercle.csv
+data/Data_topic/Dental anatomy.csv
+data/Data_topic/Dermatocranium.csv
+data/Data_topic/Diabetes_selfmanagement.csv
+data/Data_topic/Diagnostic Medicine.csv
+data/Data_topic/Diving_Medical_Examiner.csv
+data/Data_topic/Diving_Medical_Practitioner.csv
+data/Data_topic/Diving_medicine.csv
+data/Data_topic/Dorsal_pancreatic_agenesis.csv
+data/Data_topic/DroneEnhanced_Emergency_Medical_Services.csv
+data/Data_topic/Eardrum.csv
+data/Data_topic/Endocranium.csv
+data/Data_topic/Endocrinology.csv
+data/Data_topic/Environmental_medicine.csv
+data/Data_topic/Epidemiology.csv
+data/Data_topic/Exercise_medicine.csv
+data/Data_topic/Eyelid.csv
+data/Data_topic/Fingerprint.csv
+data/Data_topic/Fontanelle.csv
+data/Data_topic/Foreskin.csv
+data/Data_topic/Gastroenterology.csv
+data/Data_topic/Global Health.csv
+data/Data_topic/Health Care.csv
+data/Data_topic/Health Crisis.csv
+data/Data_topic/Hematology.csv
+data/Data_topic/Human Back.csv
+data/Data_topic/Human Body.csv
+data/Data_topic/Human Fat.csv
+data/Data_topic/Human Genetics.csv
+data/Data_topic/Human Nose.csv
+data/Data_topic/Human_mouth.csv
+data/Data_topic/Human_reproductive_system.csv
+data/Data_topic/Human_skeleton.csv
+data/Data_topic/Human_tooth.csv
+data/Data_topic/Human_vestigiality.csv
+data/Data_topic/Immunology.csv
+data/Data_topic/Infectious Diseases.csv
+data/Data_topic/Isotropic_bands.csv
+data/Data_topic/LAMA2_related_congenital_muscular_dystrophy.csv
+data/Data_topic/Lips.csv
+data/Data_topic/List of Anatomy Mnemonics.csv
+data/Data_topic/List_of_forms_of_alternative_medicine.csv
+data/Data_topic/Little Finger.csv
+data/Data_topic/LY-2365109.csv
+data/Data_topic/Marginal Sinus.csv
+data/Data_topic/Mass_gathering_medicine.csv
+data/Data_topic/Medical Psychology.csv
+data/Data_topic/Medical_entomology.csv
+data/Data_topic/Medical_specialty.csv
+data/Data_topic/medicine.csv
+data/Data_topic/Middle Ear.csv
+data/Data_topic/Neurodegenerative Diseases.csv
+data/Data_topic/Neurology.csv
+data/Data_topic/Neurosurgical_anesthesia.csv
+data/Data_topic/Obstetrics and Gynecology.csv
+data/Data_topic/Oncology.csv
+data/Data_topic/Oral and Maxillofacial Surgery.csv
+data/Data_topic/Orthopedics.csv
+data/Data_topic/Otorhinolaryngology.csv
+data/Data_topic/Outline of Health Sciences.csv
+data/Data_topic/Outline of the Human Nervous System.csv
+data/Data_topic/outlineofMedicine.csv
+data/Data_topic/Parasitology.csv
+data/Data_topic/Pathology.csv
+data/Data_topic/Pediatric_endocrinology.csv
+data/Data_topic/Pediatrics.csv
+data/Data_topic/Pharmacology.csv
+data/Data_topic/Phoniatrics.csv
+data/Data_topic/PlasticSurgery.csv
+data/Data_topic/Poison_exon.csv
+data/Data_topic/Portal_Medicine.csv
+data/Data_topic/Psychiatry.csv
+data/Data_topic/Psychosomatic Medicine.csv
+data/Data_topic/Radiology.csv
+data/Data_topic/Railway Surgery.csv
+data/Data_topic/RNU4-2_syndrome.csv
+data/Data_topic/Skin Fold.csv
+data/Data_topic/Surgical Techniques.csv
+data/Data_topic/Terminology of Alternative Medicine.csv
+data/Data_topic/The Body in Traditional Chinese Medicine.csv
+data/Data_topic/Transfusion Medicine.csv
+data/Data_topic/Urinary_antiInfective_agent.csv
+data/Data_topic/Urology.csv
+data/Data_topic/Vascular Surgery.csv
+data/Data_topic/Venereology.csv
+data/Data_topic/Virology.csv
+data/AI_Generated_data/acid_base_buffers.csv
+data/AI_Generated_data/action_potential.csv
+data/AI_Generated_data/adrenal_medulla.csv
+data/AI_Generated_data/altitude_hypoxia.csv
+data/AI_Generated_data/anaerobic_threshold_sentences.csv
+data/AI_Generated_data/antibody_production.csv
+data/AI_Generated_data/arterial_pulse.csv
+data/AI_Generated_data/autonomic_control.csv
+data/AI_Generated_data/baroreceptor_reflex.csv
+data/AI_Generated_data/blood_pressure_control.csv
+data/AI_Generated_data/blood_sugar_control.csv
+data/AI_Generated_data/blood_viscosity.csv
+data/AI_Generated_data/body_adaptation_altitude.csv
+data/AI_Generated_data/bone_remodeling.csv
+data/AI_Generated_data/brain_gut_interaction.csv
+data/AI_Generated_data/calcium_regulation.csv
+data/AI_Generated_data/cerebrospinal_fluid.csv
+data/AI_Generated_data/chemoreceptor_reflex.csv
+data/AI_Generated_data/circadian_rhythms.csv
+data/AI_Generated_data/circulatory_flow.csv
+data/AI_Generated_data/co2_transport.csv
+data/AI_Generated_data/coronary_circulation.csv
+data/AI_Generated_data/dehydration_response.csv
+data/AI_Generated_data/digestive_control.csv
+data/AI_Generated_data/electrolyte_homeostasis.csv
+data/AI_Generated_data/energy_production.csv
+data/AI_Generated_data/erythropoiesis_sentences.csv
+data/AI_Generated_data/exercise_metabolism.csv
+data/AI_Generated_data/exercise_response.csv
+data/AI_Generated_data/exercise_vasodilation.csv
+data/AI_Generated_data/fetal_circulation.csv
+data/AI_Generated_data/fever_mechanism.csv
+data/AI_Generated_data/fluid_balance.csv
+data/AI_Generated_data/fluid_shifts.csv
+data/AI_Generated_data/growth_hormone_sentences.csv
+data/AI_Generated_data/gut_motility.csv
+data/AI_Generated_data/hearing_loss_sentences.csv
+data/AI_Generated_data/hearing_mechanism.csv
+data/AI_Generated_data/heart_cycle.csv
+data/AI_Generated_data/heart_electrical_system.csv
+data/AI_Generated_data/heart_failure_text.csv
+data/AI_Generated_data/hemostasis_sentences.csv
+data/AI_Generated_data/homeostasis_exercise.csv
+data/AI_Generated_data/hormonal_feedback.csv
+data/AI_Generated_data/hypercapnia_sentences.csv
+data/AI_Generated_data/hypothalamus_functions.csv
+data/AI_Generated_data/hypoxia_types.csv
+data/AI_Generated_data/immune_memory.csv
+data/AI_Generated_data/immune_tolerance.csv
+data/AI_Generated_data/inflammatory_response.csv
+data/AI_Generated_data/ischemia_reperfusion.csv
+data/AI_Generated_data/kidney_countercurrent.csv
+data/AI_Generated_data/kidney_function.csv
+data/AI_Generated_data/lactation_data.csv
+data/AI_Generated_data/liver_functions.csv
+data/AI_Generated_data/lung_compliance.csv
+data/AI_Generated_data/lung_perfusion_balance.csv
+data/AI_Generated_data/lung_volumes.csv
+data/AI_Generated_data/lymphatic_system.csv
+data/AI_Generated_data/motor_control.csv
+data/AI_Generated_data/muscle_activation.csv
+data/AI_Generated_data/muscle_fiber_types.csv
+data/AI_Generated_data/nephron_adaptation.csv
+data/AI_Generated_data/nerve_reflexes.csv
+data/AI_Generated_data/neural_plasticity.csv
+data/AI_Generated_data/neuromuscular_junction.csv
+data/AI_Generated_data/neurotransmitter_roles.csv
+data/AI_Generated_data/nutrient_digestion.csv
+data/AI_Generated_data/oxygen_exchange.csv
+data/AI_Generated_data/oxygen_hemoglobin_dissociation.csv
+data/AI_Generated_data/pain_perception.csv
+data/AI_Generated_data/pancreatic_hormones.csv
+data/AI_Generated_data/peripheral_circulation.csv
+data/AI_Generated_data/pituitary_hormones.csv
+data/AI_Generated_data/placental_function_sentences.csv
+data/AI_Generated_data/puberty_hormones.csv
+data/AI_Generated_data/pulmonary_gas_transfer.csv
+data/AI_Generated_data/pulmonary_hypertension_sentences.csv
+data/AI_Generated_data/pulmonary_suractant.csv
+data/AI_Generated_data/renal_blood_flow.csv
+data/AI_Generated_data/renal_clearance.csv
+data/AI_Generated_data/renal_ph_regulation.csv
+data/AI_Generated_data/reproductive_cycle.csv
+data/AI_Generated_data/respiratory_acid_base.csv
+data/AI_Generated_data/respiratory_control.csv
+data/AI_Generated_data/respiratory_muscles_sentences.csv
+data/AI_Generated_data/sarcomere_function.csv
+data/AI_Generated_data/sensory_processing.csv
+data/AI_Generated_data/shock_types.csv
+data/AI_Generated_data/skin_functions.csv
+data/AI_Generated_data/spermatogenesis_no_numbers.csv
+data/AI_Generated_data/starling_forces.csv
+data/AI_Generated_data/stress_physiology.csv
+data/AI_Generated_data/temp
+data/AI_Generated_data/thermogenesis_explanation.csv
+data/AI_Generated_data/thermoregulation.csv
+data/AI_Generated_data/thyroid_regulation.csv
+data/AI_Generated_data/vascular_resistance.csv
+data/AI_Generated_data/vestibular_system.csv
+data/AI_Generated_data/vision_process.csv
+data/AI_Generated_data/wound_healing.csv
