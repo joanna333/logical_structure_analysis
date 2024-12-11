@@ -1,0 +1,85 @@
+Sentence,Label
+"Skin is the largest organ of the human body.",Definition  
+"The skin acts as a barrier to protect the body from external threats.",Explanation  
+"If the skin is damaged, it can lead to infections.",Conditional  
+"The skin has multiple layers, including the epidermis, dermis, and subcutaneous tissue.",Enumeration  
+"Because the skin is constantly exposed to the environment, it is prone to various conditions.",Cause and Effect  
+"To maintain healthy skin, it is important to keep it clean and hydrated.",Purpose  
+"Unlike other organs, the skin is visible and plays a significant role in appearance.",Contrast  
+"The epidermis is the outermost layer of the skin, which provides a waterproof barrier.",Elaboration  
+"Although the skin is tough, it can be easily damaged by cuts or burns.",Concession  
+"Skin serves not only as a protective layer but also as a sensory organ.",Addition  
+"The dermis contains blood vessels, nerves, and hair follicles.",Illustration  
+"Since the skin regulates body temperature, it helps in maintaining homeostasis.",Cause and Effect  
+"In addition to protection, the skin also plays a role in vitamin D synthesis.",Addition  
+"Compared to other organs, the skin has a high regenerative capacity.",Comparison  
+"Despite its strength, the skin can be affected by various diseases.",Concession  
+"The subcutaneous layer is composed of fat, which provides insulation and cushioning.",Explanation  
+"Skin conditions like eczema can cause significant discomfort.",Explanation  
+"Maintaining healthy skin can prevent premature aging.",Purpose  
+"Because the skin is exposed to the sun, it is susceptible to damage from UV rays.",Cause and Effect  
+"Skin can be damaged by excessive sun exposure, leading to conditions like melanoma.",Cause and Effect  
+"By applying sunscreen, you can protect your skin from UV damage.",Problem Solution  
+"Although skin care is important, it is often overlooked.",Concession  
+"Skin rejuvenation treatments can help reduce the appearance of wrinkles.",Purpose  
+"Excessive scratching of the skin can lead to infections.",Cause and Effect  
+"Skin grafts are often used to treat severe burns.",Explanation  
+"Moreover, the skin plays a crucial role in sensing touch, temperature, and pain.",Addition  
+"Even though the skin is tough, it can be sensitive to certain chemicals.",Concession  
+"Skin can be an indicator of overall health, as certain conditions manifest on the skin.",Explanation  
+"Furthermore, the skin helps in the regulation of body temperature through sweating.",Addition  
+"Skin diseases like psoriasis can have a significant impact on a person's quality of life.",Explanation  
+"Although the skin is self-healing, some injuries may require medical intervention.",Concession  
+"Skin care routines can vary depending on an individual's skin type.",Conditional  
+"Skin aging is a natural process, but it can be influenced by external factors.",Explanation  
+"Moreover, the skin is involved in the synthesis of vitamin D when exposed to sunlight.",Addition  
+"Skin pigmentation can be affected by hormonal changes, leading to conditions like melasma.",Cause and Effect  
+"Although moisturizing is important, it is not the only aspect of skin care.",Concession  
+"Skin can be damaged by environmental factors such as pollution and smoke.",Cause and Effect  
+"Skin inflammation can lead to conditions like dermatitis.",Cause and Effect  
+"Furthermore, the skin is a key factor in the sense of touch, allowing us to perceive our environment.",Explanation  
+"Although the skin is resilient, it is not invincible.",Concession  
+"Skin care products can help maintain the skin's health and appearance.",Purpose  
+"Moreover, the skin is involved in the excretion of sweat, which helps in cooling the body.",Addition  
+"Skin conditions like acne can be treated with various topical creams.",Explanation  
+"Although the skin is a protective barrier, it can also be a site for infections.",Concession  
+"Skin elasticity decreases with age, leading to the formation of wrinkles.",Cause and Effect  
+"Furthermore, the skin plays a role in the immune system by acting as a barrier to pathogens.",Explanation  
+"Although the skin is often taken for granted, it is essential for survival.",Concession  
+"Skin care routines should be tailored to individual needs.",Conditional  
+"Moreover, the skin is involved in the production of sebum, which keeps it moisturized.",Addition  
+"Skin can be damaged by harsh chemicals, leading to conditions like contact dermatitis.",Cause and Effect  
+"Although the skin is self-repairing, some injuries may leave scars.",Concession  
+"Skin care is important for maintaining overall health and well-being.",Purpose  
+"Furthermore, the skin is a reflection of a person's emotional and physical health.",Explanation  
+"Although the skin is tough, it can be sensitive to certain stimuli.",Concession
+"The skin is the largest organ of the human body that serves as a protective barrier.","Definition"
+"If the skin is damaged, pathogens can enter the body more easily.","Conditional"
+"First, new skin cells are formed in the deeper layers, then they migrate upwards, and finally they are shed off.","Sequential"
+"The skin of an infant is thinner than that of an adult.","Comparison"
+"The skin regulates body temperature by sweating when it's hot.","Explanation"
+"Exposure to sunlight stimulates the production of vitamin D in the skin because ultraviolet rays trigger its synthesis.","Cause and Effect"
+"While the outer layer is tough and waterproof, the inner layers are more sensitive.","Contrast"
+"The skin provides sensation and also helps in thermoregulation.","Addition"
+"Maintaining healthy skin is essential for overall well-being.","Emphasis"
+"The skin consists of three main layers: the epidermis, dermis, and hypodermis.","Enumeration"
+"For example, oily skin tends to be more prone to acne.","Illustration"
+"Even though skin protects the body, it is susceptible to damage from UV radiation.","Concession"
+"Most skin cells regenerate every few weeks.","Generalization"
+"Based on its color and texture, one can determine the condition of the skin.","Inference"
+"In summary, the skin plays multiple roles including protection, sensation, and temperature control.","Summary"
+"To treat dry skin, moisturizing regularly is an effective solution.","Problem Solution"
+"Rather than being a simple covering, the skin is a complex organ with many functions.","Contrastive Emphasis"
+"The primary role of the skin is to protect internal organs from external harm.","Purpose"
+"In other words, the skin acts as the body's first line of defense.","Clarification"
+"The skin provides touch, temperature, and pain sensations through its nerve endings.","Enumeration"
+"An injury to the skin can lead to infection through open wounds.","Cause and Effect"
+"As a person ages, the skin loses elasticity and becomes more prone to wrinkles.","Temporal Sequence"
+"The sweat glands in the skin help eliminate waste products from the body.","Explanation"
+"Skin cells contain keratin, which strengthens and waterproofs the outer layer.","Elaboration"
+"If moisture is not retained, the skin can become dry and cracked.","Conditional"
+"Compared to other organs, the skin is directly exposed to environmental factors.","Comparison"
+"Using sunscreen protects the skin from harmful ultraviolet rays.","Emphasis"
+"The skin's microbiome includes beneficial bacteria that prevent the growth of harmful microbes.","Addition"
+"Skin conditions like eczema can significantly affect a person's quality of life.","Cause and Effect"
+"After an injury, the skin heals itself through a complex repair process.","Sequential"

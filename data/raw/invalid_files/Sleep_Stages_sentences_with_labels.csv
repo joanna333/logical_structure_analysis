@@ -1,0 +1,7 @@
+Sentence,Label
+"Without adequate sleep, these stages cannot fulfill their restorative roles, leading to weakened immune systems, impaired memory, and decreased physical performance."
+" Each stage serves a specific purpose, and the body cycles through them in a precise sequence to ensure comprehensive restoration ."
+" Understanding these stages helps in recognizing the importance of quality sleep for overall health .",Consequence
+"In summary, sleep stages are interdependent in their roles, with each contributing uniquely to the body's recovery processes ."
+" The body's inability to progress through these stages properly due to sleep disorders or insufficient sleep can lead to a multitude of health issues", -[Problem Solution]-. 
+"Thus, ensuring a full sleep cycle is essential for maintaining bodily functions .",Summary

@@ -1,0 +1,134 @@
+Label,Count
+Explanation,222
+Conditional,159
+Cause and Effect,150
+Contrast,144
+Comparison,137
+Causal,132
+Sequential,132
+Concession,128
+Definition,127
+Elaboration,126
+Emphasis,126
+Generalization,125
+Illustration,123
+Addition,122
+Summary,119
+Temporal Sequence,111
+Problem Solution,108
+Inference,105
+Clarification,101
+Purpose,101
+Enumeration,94
+Contrastive Emphasis,90
+" ""Explanation""",61
+ Explanation,53
+" ""Cause and Effect""",47
+" ""Generalization""",42
+" ""Definition""",40
+" ""Purpose""",40
+" ""Sequential""",36
+" ""Summary""",36
+" ""Comparison""",35
+" ""Conditional""",34
+" ""Elaboration""",34
+" ""Addition""",34
+" ""Concession""",33
+" ""Emphasis""",29
+" ""Contrastive Emphasis""",28
+" ""Contrast""",28
+" ""Causal""",27
+" ""Clarification""",26
+" ""Inference""",26
+" ""Temporal Sequence""",25
+" ""Problem Solution""",25
+Explanatory,24
+" ""Enumeration""",22
+" ""Contrast""  ",21
+" ""Sequential""  ",21
+" ""Cause and Effect""  ",20
+" ""Illustration""",20
+" ""Explanation""  ",19
+Explanation  ,19
+Cause and Effect  ,18
+" ""Purpose""  ",17
+" ""Concession""  ",17
+Concession  ,17
+Addition  ,16
+" ""Generalization""  ",16
+" ""Addition""  ",15
+" ""Emphasis""  ",14
+" ""Illustration""  ",13
+" ""Definition""  ",13
+" ""Comparison""  ",13
+" ""Elaboration""  ",12
+Purpose  ,12
+" ""Summary""  ",11
+" ""Conditional""  ",10
+" ""Causal""  ",10
+" ""Problem Solution""  ",10
+" ""Contrastive Emphasis""  ",10
+Conditional  ,10
+" ""Inference""  ",9
+" ""Clarification""  ",9
+" ""Enumeration""  ",7
+Enumeration  ,7
+Generalization  ,7
+Problem Solution  ,7
+Illustration  ,6
+Conclusion,6
+Definition  ,6
+Clarification  ,6
+Sequential  ,6
+Comparison  ,6
+Inference  ,5
+" ""Advice""",5
+ Definition,5
+Contrastive Emphasis  ,5
+Emphasis  ,5
+Contrast  ,5
+ Elaboration,5
+Elaboration  ,4
+Summary  ,4
+Temporal Sequence  ,4
+" ""Temporal Sequence""  ",3
+Causal  ,3
+ Causal  ,2
+ Concession,2
+ Definition  ,2
+ Purpose  ,2
+ Conditional  ,2
+ Sequential  ,2
+ Contrast,2
+ Sequential,2
+" ""Solution""  ",2
+ CauseandEffect,2
+Labels,2
+ Temporal Sequence,2
+ Cause and Effect  ,2
+ Enumeration  ,2
+ Clarification  ,2
+ Contrastive Emphasis  ,2
+ Problem Solution  ,2
+ Summary  ,2
+ Inference  ,2
+ Generalization  ,2
+ Concession  ,2
+ Illustration  ,2
+ Emphasis  ,2
+ Addition  ,2
+ Contrast  ,2
+ Explanation  ,2
+" ""Warning""  ",1
+Concession ,1
+Solution,1
+Prevention,1
+ Summary,1
+ Advice,1
+ Addition,1
+ Purpose,1
+Advice,1
+Consequence,1
+ Elaboration  ,1
+ Comparison  ,1
+" ""Classification""  ",1

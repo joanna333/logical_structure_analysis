@@ -1,0 +1,12 @@
+Sentence,Label
+"The adrenal glands play a crucial role in the stress response.
+""  When the body perceives stress, the adrenal glands release hormones.", -[Cause and Effect]- 
+"These hormones, primarily adrenaline and cortisol, prepare the body for a fight-or-flight response."
+"  Adrenaline increases heart rate and blood pressure, providing immediate energy."
+"  Cortisol helps sustain this heightened state by regulating metabolism and reducing inflammation. "
+" The regulation of these hormones is crucial to ensure the body can return to normal after the stressor is gone. "
+" The hypothalamus, pituitary gland, and adrenal glands work together in a feedback loop to control the release of these hormones.  "
+This system is known as the hypothalamic-pituitary-adrenal (HPA) axis. "
+" The balance of these hormones is essential for maintaining homeostasis and preventing prolonged stress, which can lead to health issues."
+"  If the stress response is not properly regulated, it can result in chronic stress, affecting mood, immune function, and overall health. "
+" Therefore, understanding and maintaining the regulation of adrenal hormones is vital for managing stress effectively.",Definition

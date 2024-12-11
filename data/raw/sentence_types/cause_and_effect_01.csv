@@ -1,0 +1,126 @@
+Sentence,Label
+Smoking cigarettes increases the risk of developing lung cancer.,Cause and Effect
+The overuse of antibiotics can lead to the development of antibiotic-resistant bacteria.,Cause and Effect
+Vaccination stimulates the immune system to produce antibodies against specific pathogens.,Cause and Effect
+A deficiency in vitamin C can result in scurvy.,Cause and Effect
+Exposure to ultraviolet radiation can cause skin cancer.,Cause and Effect
+Regular physical activity lowers the risk of developing type 2 diabetes.,Cause and Effect
+The mutation of the BRCA1 gene increases the risk of breast cancer.,Cause and Effect
+Consuming a high-sodium diet can lead to hypertension.,Cause and Effect
+Insulin deficiency leads to hyperglycemia in diabetes mellitus.,Cause and Effect
+The release of adrenaline prepares the body for a fight-or-flight response.,Cause and Effect
+Obesity is a major risk factor for the development of cardiovascular disease.,Cause and Effect
+The influenza virus can cause severe respiratory infections.,Cause and Effect
+Antioxidants help prevent cellular damage caused by free radicals.,Cause and Effect
+Excessive alcohol consumption can lead to liver cirrhosis.,Cause and Effect
+The human papillomavirus (HPV) can cause cervical cancer.,Cause and Effect
+A high-fiber diet promotes healthy digestion and prevents constipation.,Cause and Effect
+The Zika virus can cause microcephaly in developing fetuses.,Cause and Effect
+Regular sleep deprivation can weaken the immune system.,Cause and Effect
+The use of sunscreen reduces the risk of skin cancer.,Cause and Effect
+Hypertension can lead to the development of kidney disease.,Cause and Effect
+The hormone oxytocin is released during childbirth to stimulate uterine contractions.,Cause and Effect
+Exposure to asbestos increases the risk of mesothelioma.,Cause and Effect
+The HIV virus can lead to the development of AIDS.,Cause and Effect
+A high cholesterol diet can contribute to the formation of arterial plaques.,Cause and Effect
+The flu vaccine helps prevent influenza infections.,Cause and Effect
+Excessive sugar intake can lead to dental cavities.,Cause and Effect
+The hormone insulin regulates blood glucose levels.,Cause and Effect
+Exposure to lead can cause developmental delays in children.,Cause and Effect
+The overactivation of the immune system can lead to autoimmune diseases.,Cause and Effect
+Regular handwashing reduces the spread of infectious diseases.,Cause and Effect
+The consumption of omega-3 fatty acids can reduce inflammation in the body.,Cause and Effect
+"An increase in blood pressure causes damage to the arterial walls.","Cause and Effect"
+"High levels of cholesterol lead to plaque buildup in the arteries.","Cause and Effect"
+"Exposure to sunlight triggers the skin to produce vitamin D.","Cause and Effect"
+"Low oxygen levels stimulate the kidneys to release erythropoietin.","Cause and Effect"
+"Insulin resistance results in higher blood glucose levels.","Cause and Effect"
+"Dehydration causes a reduction in blood volume.","Cause and Effect"
+"Activation of the sympathetic nervous system leads to an increased heart rate.","Cause and Effect"
+"Excessive alcohol consumption damages liver cells.","Cause and Effect"
+"Lack of calcium intake causes bone density to decrease.","Cause and Effect"
+"Infections in the lungs lead to inflammation and fluid accumulation.","Cause and Effect"
+"A deficiency in iron results in anemia.","Cause and Effect"
+"Damage to the pancreas causes a reduction in insulin production.","Cause and Effect"
+"Smoking leads to the destruction of alveoli in the lungs.","Cause and Effect"
+"Viral infections trigger an immune response to neutralize the pathogen.","Cause and Effect"
+"Exposure to allergens causes the release of histamines.","Cause and Effect"
+"Poor nutrition results in weakened immune function.","Cause and Effect"
+"Chronic stress increases cortisol levels in the bloodstream.","Cause and Effect"
+"Physical inactivity contributes to the development of obesity.","Cause and Effect"
+"Blockage of coronary arteries leads to a heart attack.","Cause and Effect"
+"UV radiation causes DNA damage in skin cells.","Cause and Effect"
+"Excessive salt intake increases blood pressure.","Cause and Effect"
+"Prolonged exposure to loud noises damages the auditory system.","Cause and Effect"
+"Liver dysfunction leads to an accumulation of toxins in the blood.","Cause and Effect"
+"Inflammation in the intestines causes pain and digestive discomfort.","Cause and Effect"
+"Genetic mutations can result in inherited diseases.","Cause and Effect"
+"Vitamin C deficiency leads to scurvy.","Cause and Effect"
+"Excess sugar consumption increases the risk of diabetes.","Cause and Effect"
+"Cellular hypoxia causes energy production to decrease.","Cause and Effect"
+"High levels of cortisol suppress the immune system.","Cause and Effect"
+"Calcium deficiency weakens the structure of bones.","Cause and Effect"
+"Obesity causes an increased risk of cardiovascular diseases.","Cause and Effect"
+"A blood clot in the brain leads to a stroke.","Cause and Effect"
+"Excessive exercise causes muscle fatigue and soreness.","Cause and Effect"
+"Chronic inflammation contributes to the progression of autoimmune diseases.","Cause and Effect"
+"Accumulation of lactic acid causes muscle cramps.","Cause and Effect"
+"Excessive fluid intake dilutes sodium levels in the blood.","Cause and Effect"
+"A lack of sleep impairs cognitive function.","Cause and Effect"
+"Insufficient protein intake leads to muscle wasting.","Cause and Effect"
+"Increased CO2 levels in the blood stimulate the respiratory center.","Cause and Effect"
+"Exposure to toxins in the environment causes cellular damage.","Cause and Effect"
+"High blood sugar levels result in damage to small blood vessels.","Cause and Effect"
+"Dehydration leads to decreased sweat production.","Cause and Effect"
+"Chronic alcohol abuse results in liver cirrhosis.","Cause and Effect"
+"Increased friction causes the skin to form calluses.","Cause and Effect"
+"Excess body weight puts pressure on the joints, causing pain.","Cause and Effect"
+"Inflammation in the lungs leads to difficulty breathing.","Cause and Effect"
+"High protein intake causes increased kidney workload.","Cause and Effect"
+"Excessive insulin secretion results in hypoglycemia.","Cause and Effect"
+"Low thyroid hormone levels cause metabolic rates to slow down.","Cause and Effect"
+"Elevated stress hormones lead to increased blood sugar levels.","Cause and Effect"
+"Reduced dopamine levels cause symptoms of Parkinson's disease.","Cause and Effect"
+"Poor wound care results in delayed healing.","Cause and Effect"
+"Exposure to pathogens triggers the production of antibodies.","Cause and Effect"
+"Blocked lymphatic vessels cause swelling in the affected area.","Cause and Effect"
+"High salt levels in the diet result in fluid retention.","Cause and Effect"
+"A genetic predisposition increases the likelihood of certain cancers.","Cause and Effect"
+"Smoking causes a loss of elasticity in the lungs.","Cause and Effect"
+"Chronic kidney disease leads to an imbalance of electrolytes.","Cause and Effect"
+"A sharp drop in blood sugar causes dizziness and confusion.","Cause and Effect"
+"Excess fat around the abdomen increases the risk of insulin resistance.","Cause and Effect"
+"Infections cause a rise in body temperature to fight off pathogens.","Cause and Effect"
+"Reduced estrogen levels in menopause lead to decreased bone density.","Cause and Effect"
+"Prolonged immobility causes blood clots to form in the veins.","Cause and Effect"
+"High levels of androgens in women cause the development of polycystic ovarian syndrome.","Cause and Effect"
+"Obstruction of the bile duct leads to jaundice.","Cause and Effect"
+"Chronic sleep deprivation increases the risk of hypertension.","Cause and Effect"
+"A deficiency in vitamin D leads to rickets in children.","Cause and Effect"
+"Excessive intake of trans fats raises LDL cholesterol levels.","Cause and Effect"
+"Long-term inflammation in the arteries contributes to atherosclerosis.","Cause and Effect"
+"Inhalation of harmful chemicals damages lung tissue.","Cause and Effect"
+"Decreased cardiac output causes organs to receive less oxygen.","Cause and Effect"
+"Lack of sunlight exposure results in low vitamin D levels.","Cause and Effect"
+"A rapid loss of fluids causes a drop in blood pressure.","Cause and Effect"
+"Prolonged fasting causes the body to break down muscle for energy.","Cause and Effect"
+"Increased stomach acid levels result in heartburn.","Cause and Effect"
+"Prolonged exposure to cold causes hypothermia.","Cause and Effect"
+"Damage to the inner ear results in hearing loss.","Cause and Effect"
+"Reduced nerve function leads to delayed reflexes.","Cause and Effect"
+"Overproduction of mucus in the airways leads to difficulty breathing.","Cause and Effect"
+"Defective insulin receptors cause cells to resist glucose uptake.","Cause and Effect"
+"An overactive thyroid gland results in unintentional weight loss.","Cause and Effect"
+"Blocked blood flow to tissues causes necrosis.","Cause and Effect"
+"Severe dehydration leads to kidney failure.","Cause and Effect"
+"Overconsumption of alcohol increases the risk of pancreatitis.","Cause and Effect"
+"High CO2 levels in the blood cause rapid breathing.","Cause and Effect"
+"Infection in the bloodstream causes a systemic inflammatory response.","Cause and Effect"
+"Prolonged low blood oxygen causes cyanosis.","Cause and Effect"
+"Decreased serotonin levels lead to symptoms of depression.","Cause and Effect"
+"Excessive iron in the body results in organ damage.","Cause and Effect"
+"Mutations in DNA cause the production of abnormal proteins.","Cause and Effect"
+"Overuse of antibiotics leads to antibiotic resistance.","Cause and Effect"
+"Uncontrolled cell growth results in the formation of tumors.","Cause and Effect"
+"Damage to blood vessels leads to impaired circulation.","Cause and Effect"
+"A sharp rise in blood sugar causes increased urination and thirst.","Cause and Effect"

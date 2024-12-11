@@ -1,0 +1,148 @@
+Sentence,Label
+"Most viruses are smaller than bacteria.",Generalization
+"Enzymes generally speed up chemical reactions in living organisms.",Generalization
+"Plants typically convert sunlight into energy through photosynthesis.",Generalization
+"White blood cells usually play a critical role in the immune response.",Generalization
+"Most mammals give live birth instead of laying eggs.",Generalization
+"Neurons generally transmit signals via electrical impulses.",Generalization
+"Antibodies commonly bind to antigens to neutralize pathogens.",Generalization
+"Organisms tend to adapt to their environment over time.",Generalization
+"Cells often rely on ATP as their main source of energy.",Generalization
+"Red blood cells typically transport oxygen throughout the body.",Generalization
+"Proteins are usually made up of amino acids.",Generalization
+"Many diseases are caused by a combination of genetic and environmental factors.",Generalization
+"Most plants require water, sunlight, and nutrients to grow.",Generalization
+"Hormones generally regulate various physiological processes.",Generalization
+"Respiratory systems in animals commonly exchange oxygen and carbon dioxide.",Generalization
+"DNA usually carries genetic information in most organisms.",Generalization
+"Most bacteria reproduce through binary fission.",Generalization
+"Cells often divide through processes like mitosis or meiosis.",Generalization
+"Many chronic diseases are associated with lifestyle factors.",Generalization
+"Proteins generally function as enzymes, structural components, or signaling molecules.",Generalization
+"Viruses usually require a host cell to replicate.",Generalization
+"Most ecosystems rely on producers, consumers, and decomposers.",Generalization
+"Photosynthetic organisms generally serve as the foundation of most food chains.",Generalization
+"Antibiotics typically target bacterial infections.",Generalization
+"Vaccines usually help the immune system recognize and fight specific pathogens.",Generalization
+"Neurons generally communicate via synapses.",Generalization
+"Animals often rely on sensory organs to interact with their environment.",Generalization
+"Chronic stress is commonly associated with increased cortisol levels.",Generalization
+"Blood vessels typically transport nutrients and oxygen to tissues.",Generalization
+"Fungi are often decomposers in ecosystems.",Generalization
+"Most chemical reactions in living organisms are catalyzed by enzymes.",Generalization
+"Evolution typically occurs through natural selection over many generations.",Generalization
+"Most cells have a membrane to regulate the passage of substances.",Generalization
+"Organisms commonly rely on homeostasis to maintain internal balance.",Generalization
+"Genetic mutations are usually a source of variation in populations.",Generalization
+"Photosynthesis generally produces oxygen as a byproduct.",Generalization
+"Energy is often transferred through trophic levels in an ecosystem.",Generalization
+"The cardiovascular system typically circulates blood throughout the body.",Generalization
+"Bone marrow commonly produces red and white blood cells.",Generalization
+"Most vertebrates have a central nervous system.",Generalization
+"Chromosomes generally carry hereditary information in the form of genes.",Generalization
+"Environments with limited resources often lead to competition among organisms.",Generalization
+"Plants commonly absorb carbon dioxide during photosynthesis.",Generalization
+"Hormonal imbalances are frequently associated with various disorders.",Generalization
+"Immune systems typically recognize and destroy foreign invaders.",Generalization
+"Metabolism generally involves catabolic and anabolic reactions.",Generalization
+"Pathogens often evolve to evade host immune responses.",Generalization
+"Many ecosystems depend on keystone species for stability.",Generalization
+"Natural selection typically favors traits that improve survival and reproduction.",Generalization
+"Blood circulation usually depends on the heart's pumping action.",Generalization
+"Most enzymes function optimally within a specific temperature range.",Generalization
+"Living organisms generally need energy to maintain their biological processes.",Generalization
+"Cells commonly communicate through chemical signals.",Generalization
+"Many ecosystems experience seasonal changes that affect biodiversity.",Generalization
+"Proteins in the human body often perform structural, enzymatic, or signaling roles.",Generalization
+"Most viruses consist of genetic material encapsulated in a protein coat.",Generalization
+"Carbon cycles are generally essential for maintaining life on Earth.",Generalization
+"Plants often rely on their root systems to absorb water and nutrients.",Generalization
+"The nervous system usually coordinates voluntary and involuntary actions.",Generalization
+"Respiratory systems typically enable gas exchange between the environment and the organism.",Generalization
+"Hormonal changes are commonly involved in growth and development.",Generalization
+"Many animals use camouflage to avoid predators.",Generalization
+"Bacterial cells generally lack a nucleus but contain genetic material.",Generalization
+"Most antibiotics are ineffective against viral infections.",Generalization
+"Immune responses commonly involve the production of antibodies.",Generalization
+"Water is generally essential for the biochemical processes of life.",Generalization
+"Mutations in DNA often lead to genetic variation.",Generalization
+"Plants typically store energy as starch.",Generalization
+"Most mammals have lungs for breathing air.",Generalization
+"Fats are commonly broken down into fatty acids and glycerol for energy.",Generalization
+"The skeletal system generally provides structure and support to the body.",Generalization
+"Photosynthesis usually takes place in chloroplasts within plant cells.",Generalization
+"Reproductive strategies often vary between species to maximize survival.",Generalization
+"The circulatory system typically transports oxygen, nutrients, and waste products.",Generalization
+"Most living organisms rely on a steady supply of nutrients to survive.",Generalization
+"Cells commonly rely on the plasma membrane to maintain their internal environment.",Generalization
+"Genetic information is typically passed from parents to offspring.",Generalization
+"Protein synthesis generally occurs in ribosomes within the cell.",Generalization
+"Most ecosystems include interactions between producers, consumers, and decomposers.",Generalization
+"Energy flow in ecosystems is usually unidirectional, starting with the sun.",Generalization
+"Biochemical reactions often require specific enzymes to proceed efficiently.",Generalization
+"Adaptations generally enhance an organism's ability to survive in its environment.",Generalization
+"The majority of hormones travel through the bloodstream to target organs.",Generalization
+"Respiration in cells usually produces carbon dioxide as a byproduct.",Generalization
+"Plants generally rely on chlorophyll to capture light energy for photosynthesis.",Generalization
+"Most vertebrates have a spinal column to protect the spinal cord.",Generalization
+"Glucose is commonly used as a primary energy source in cells.",Generalization
+"Reproductive success often drives the evolution of species.",Generalization
+"Red blood cells typically transport oxygen and carbon dioxide in the bloodstream.",Generalization
+"Cells generally undergo division to grow or repair tissue.",Generalization
+"The immune system usually distinguishes between self and non-self molecules.",Generalization
+"Water is commonly involved in transporting nutrients and waste in organisms.",Generalization
+"Most organisms depend on cellular respiration to release energy from food.",Generalization
+"DNA replication typically precedes cell division.",Generalization
+"Viruses often mutate rapidly, which complicates vaccine development.",Generalization
+"The kidneys generally filter waste products from the blood.",Generalization
+"Most ecosystems experience interdependence among species.",Generalization
+"Photosynthesis commonly converts light energy into chemical energy.",Generalization
+"Proteins are generally essential for cell structure and function.",Generalization
+"Most enzymes are highly specific to the substrates they act upon.",Generalization
+"Animals commonly exhibit behaviors that increase their chances of survival.",Generalization
+"Most hormones influence target cells by binding to specific receptors.",Generalization
+"Many aquatic animals rely on gills for oxygen exchange.",Generalization
+"Energy in ecosystems typically flows from producers to consumers.",Generalization
+"Adaptation is generally a response to environmental pressures.",Generalization
+"The majority of nutrients are absorbed in the small intestine.",Generalization
+"Most birds have hollow bones to aid in flight.",Generalization
+"DNA is usually double-stranded in most living organisms.",Generalization
+"Carbohydrates commonly serve as a quick source of energy for cells.",Generalization
+"Proteins generally function as enzymes, hormones, or structural components.",Generalization
+"Photosynthesis primarily occurs in the leaves of plants.",Generalization
+"Many diseases are associated with genetic mutations.",Generalization
+"Most vaccines stimulate the immune system to produce memory cells.",Generalization
+"Organisms generally require water to transport nutrients and waste products.",Generalization
+"Cell membranes typically regulate the movement of substances in and out of cells.",Generalization
+"Plants often rely on pollinators to reproduce.",Generalization
+"Decomposers play a crucial role in nutrient recycling within ecosystems.",Generalization
+"Most mammals maintain a constant body temperature through thermoregulation.",Generalization
+"Protein synthesis commonly involves transcription and translation processes.",Generalization
+"Natural selection usually favors traits that enhance reproductive success.",Generalization
+"Fats are typically stored as an energy reserve in animals.",Generalization
+"Most bacteria require nutrients and moisture to grow.",Generalization
+"Cells generally maintain a pH balance for optimal functioning.",Generalization
+"Plants commonly produce oxygen as a byproduct of photosynthesis.",Generalization
+"Many viruses infect host cells to replicate.",Generalization
+"Enzymes typically lower the activation energy of biochemical reactions.",Generalization
+"Mutations in DNA can often lead to beneficial or harmful changes.",Generalization
+"Most ecosystems are influenced by abiotic and biotic factors.",Generalization
+"Neurons generally transmit signals via electrical and chemical methods.",Generalization
+"Circulatory systems in animals typically transport oxygen and nutrients.",Generalization
+"Respiratory systems commonly expel carbon dioxide as a waste product.",Generalization
+"The majority of living organisms are composed of cells.",Generalization
+"Muscles usually contract to produce movement in the body.",Generalization
+"Most ecosystems depend on sunlight as their primary energy source.",Generalization
+"Plants typically absorb water and minerals through their roots.",Generalization
+"Living organisms generally maintain homeostasis to function properly.",Generalization
+"Antibiotic resistance often develops due to misuse or overuse of antibiotics.",Generalization
+"Cells commonly use mitochondria to produce energy in the form of ATP.",Generalization
+"Blood usually transports hormones to target organs.",Generalization
+"Most ecosystems are characterized by food webs that interconnect species.",Generalization
+"Proteins generally serve as the building blocks of tissues.",Generalization
+"Most animals rely on oxygen to break down food for energy.",Generalization
+"Enzymes are commonly affected by changes in pH and temperature.",Generalization
+"DNA replication generally ensures accurate transmission of genetic information.",Generalization
+"Most ecosystems require decomposers to break down organic matter.",Generalization
+"Viruses typically exploit host cell machinery to replicate.",Generalization
+"The immune system usually defends the body against pathogens.",Generalization

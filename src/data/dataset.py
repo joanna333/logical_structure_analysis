@@ -1,78 +1,120 @@
+import csv
 import logging
 import torch
 from torch_geometric.data import Dataset, Data
+from label_mapping import LABEL_MAP
 from transformers import AutoTokenizer, AutoModel
 import pandas as pd
 import os
+from typing import List, Dict, Optional, Union
+from pathlib import Path
 import torch.serialization
-from data.dataset_preprocessor import validate_file, move_invalid_files
+#from .dataset_preprocessor import validate_file, move_invalid_files
 import glob
 import torch.nn.functional as F
-
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+# Configure logging
 logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+    # Load label map from external config for better maintainability
+
 
 class SentenceRelationDataset(Dataset):
-    # Define label map as class attribute since it's static
-    LABEL_MAP = {
-        'Explanation': 0,
-        'Addition': 1,
-        'Causal': 2,
-        'Emphasis': 3,
-        'Summary': 4,
-        'Conditional': 5,
-        'Sequential': 6,
-        'Comparison': 7,
-        'Definition': 8,
-        'Contrast': 9,
-        'Elaboration': 10,
-        'Illustration': 11,
-        'Concession': 12,
-        'Generalization': 13,
-        'Inference': 14,
-        'Problem Solution': 15,
-        'Contrastive Emphasis': 16,
-        'Purpose': 17,
-        'Clarification': 18,
-        'Enumeration': 19,
-        'Cause and Effect': 20,
-        'Temporal Sequence': 21
-    }
+    """Dataset for sentence relations in documents.
+    
+    Handles processing and loading of sentence relation data for graph-based analysis.
+    
+    Attributes:
+        LABEL_MAP (Dict[str, int]): Mapping of relation types to numeric indices
+    """
+    
 
-    def __init__(self, root, filenames, processed_dir='gnn_training_data', transform=None):
+
+    @classmethod
+    def get_label_name(cls, label_id: int) -> str:
+        """Get relation name from numeric label ID."""
+        inv_map = {v: k for k, v in cls.LABEL_MAP.items()}
+        return inv_map.get(label_id, "Unknown")
+
+    @classmethod
+    def validate_label(cls, label: str) -> bool:
+        """Validate if a label exists in the mapping."""
+        return label in cls.LABEL_MAP
+
+    def __init__(self, root: str, filenames: List[str], transform=None, pre_transform=None):
+        """Initialize the dataset.
+        
+        Args:
+            root: Root directory for processed data
+            filenames: List of input CSV files to process
+            transform: Transform to apply to processed data
+            pre_transform: Transform to apply before processing
+        """
+        # Validate input files
+        self.filenames = []
+        for f in filenames:
+            if os.path.exists(f) and f.endswith('.csv'):
+                logger.info(f"Adding file: {f}")
+                self.filenames.append(os.path.abspath(f))
+            else:
+                logger.warning(f"Skipping invalid file: {f}")
+        
+        if not self.filenames:
+            logger.error("No valid input files provided")
+            raise ValueError("No valid input files provided")
+            
+        # Set up processing directory
+        self.processed_dir_name = 'gnn_training_data'
+        super().__init__(root, transform, pre_transform)
         self.label_map = self.LABEL_MAP
         
-        # Validate and filter files first
-        invalid_dir = os.path.join(root, 'processed', 'invalid_files')
-        valid_files = move_invalid_files(filenames, invalid_dir)
+        # Device setup with fallback
+        if torch.backends.mps.is_available():
+            self.device = "mps"
+            logger.info("Using MPS device")
+        else:
+            self.device = "cpu"
+            logger.info("Using CPU device")
         
-        if not valid_files:
-            raise RuntimeError("No valid files found for processing")
-            
-        # Continue with valid files only
-        self.processed_dir_name = processed_dir
-        self.filenames = [os.path.abspath(f) for f in valid_files]
-        super().__init__(root, transform)
-        
-        # Device setup
-        self.device = "mps" if torch.backends.mps.is_available() else "cpu"
-        
-        # Load models with optimizations
+        # Load models with error handling
         model_name = "dmis-lab/biobert-v1.1"
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        self.model = AutoModel.from_pretrained(model_name).to(self.device)
+        try:
+            self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+            self.embedding_model = AutoModel.from_pretrained(model_name).to(self.device)
+            logger.info("Successfully loaded BioBERT model")
+        except Exception as e:
+            logger.error(f"Failed to load models: {e}")
+            raise
         
-        # Create processed directory if it doesn't exist
-        os.makedirs(self.processed_dir, exist_ok=True)
+        # Create and validate processed directory
+        try:
+            os.makedirs(self.processed_dir, exist_ok=True)
+            logger.info(f"Using processed directory: {self.processed_dir}")
+        except Exception as e:
+            logger.error(f"Failed to create processed directory: {e}")
+            raise
         
-        # Process all files first
+        # Process files and track status
+        logger.info(f"Processing {len(self.filenames)} files...")
         self.process()
         
         # Create list of processed file paths
         self.processed_file_paths = []
-        for file in filenames:
+        processed_count = 0
+        for file in self.filenames:
             base_name = os.path.splitext(os.path.basename(file))[0]
-            processed_path = os.path.join( self.processed_dir, f"{base_name}.pt")
-            self.processed_file_paths.append(processed_path)
+            processed_path = os.path.join(self.processed_dir, f"{base_name}.pt")
+            if os.path.exists(processed_path):
+                self.processed_file_paths.append(processed_path)
+                processed_count += 1
+                
+        logger.info(f"Successfully processed {processed_count}/{len(self.filenames)} files")
+        
+        if not self.processed_file_paths:
+            logger.error("No data was processed from any file")
+            raise RuntimeError("No data was processed")
 
     @property 
     def num_classes(self):
@@ -125,48 +167,12 @@ class SentenceRelationDataset(Dataset):
             return True
 
     def process(self):
-        """Process raw data into graph format"""
-        # Create processed directory if it doesn't exist 
-        os.makedirs(self.processed_dir, exist_ok=True)
-        print(f"Processing files into {self.processed_dir}...")
-        successful = 0
-        
-        for idx, filepath in enumerate(self.filenames):
-            try:
-    #            print(f"Processing {filepath}")
-                
-                # Use full path for processing
-                abs_filepath = os.path.abspath(filepath)
-                
-                # Get output path using original filename while preserving directory structure
-                rel_path = os.path.relpath(abs_filepath, self.root)
-                base_name = os.path.splitext(os.path.basename(abs_filepath))[0]
-                output_path = os.path.join(self.processed_dir, f'{base_name}.pt')
-                
-                # Create subdirectories if needed
-                os.makedirs(os.path.dirname(output_path), exist_ok=True)
-                
-                # Skip if already processed
-                if os.path.exists(output_path):
-                    successful += 1
-                    continue
-                    
-                # Validate file before processing
-                is_valid, error = validate_file(abs_filepath)
-                if not is_valid:
-                    print(f"Skipping invalid file {abs_filepath}: {error}")
-                    continue
-
-                # Process valid file
-                data = self._process_single_file(filepath, idx)
-                if data is not None:
-                    save_processed_data(data, output_path)
-                    successful += 1
-                    
-            except Exception as e:
-                print(f"Error processing {filepath}: {str(e)}")
-                
-        print(f"Successfully processed {successful}/{len(self.filenames)} files")
+        idx = 0
+        for filepath in self.raw_paths:
+            data_list = self._process_file(filepath)
+            for data in data_list:
+                torch.save(data, os.path.join(self.processed_dir, f'data_{idx}.pt'))
+                idx += 1
 
     def len(self):
         return len(self.processed_file_names)
@@ -175,23 +181,21 @@ class SentenceRelationDataset(Dataset):
         data = torch.load(os.path.join(self.processed_dir, f'data_{idx}.pt'))
         return data
 
-    def __getitem__(self, idx):
-        try:
-            file_path = self.processed_file_paths[idx]
-            logging.debug(f"Loading data from {file_path}")
-            
-            if not os.path.exists(file_path):
-                raise FileNotFoundError(f"Processed file not found: {file_path}")
-                
-            return torch.load(file_path)
-            
-        except Exception as e:
-            logging.error(f"Error loading data at index {idx}: {str(e)}")
-            raise
-
     def __len__(self):
-        """Return the number of items in the dataset"""
-        return len(self.filenames)
+        return self.len()
+    
+    def __getitem__(self, idx):
+        data = super().__getitem__(idx)
+        
+        # Validate edge_index format
+        if data.edge_index.shape[0] != 2:
+            data.edge_index = data.edge_index.t().contiguous()
+        
+        # Ensure correct dtype
+        data.edge_index = data.edge_index.to(torch.long)
+        data.x = data.x.to(torch.float)
+        
+        return data
 
     def _get_embeddings(self, sentences, batch_size=32):
         """Get BERT embeddings for sentences"""
@@ -215,50 +219,252 @@ class SentenceRelationDataset(Dataset):
                     edges.append([i, j])
         return torch.tensor(edges, dtype=torch.long).t()
 
-    def _process_single_file(self, filepath, idx):
-        """Process a single file into a graph data object"""
-        try:
-            # Read CSV with proper header
-            df = pd.read_csv(filepath)
-            
-            if df.empty:
-                print(f"Skipping empty file: {filepath}")
-                return None
-                
-            # Get sentences and labels
-            sentences = df['Sentence'].tolist()
-            labels = df['Label'].tolist()
-            
-            # Convert labels to numeric using label_map
-            numeric_labels = [self.label_map.get(label, 0) for label in labels]
-            
-            # Get embeddings
-            embeddings = self._get_embeddings(sentences)
-            
-            # Create edge index (fully connected graph)
-            edge_index = self._create_edges(len(sentences))
-            
-            # Create graph data object
-            data = Data(
-                x=embeddings,
-                edge_index=edge_index,
-                y=torch.tensor(numeric_labels, dtype=torch.long)
-            )
-            
-            return data
-            
-        except Exception as e:
-            print(f"Error processing file {filepath}: {str(e)}")
-            return None
-        
+    def _process_file(self, filepath):
+        data_list = []
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+
+        for line in lines:
+            try:
+                sentence, label = line.strip().split('\t')
+                words = sentence.split()
+                if not words:
+                    continue
+
+                tokens = self.tokenizer(words, is_split_into_words=True, return_tensors='pt', padding=True, truncation=True)
+                with torch.no_grad():
+                    outputs = self.embedding_model(**tokens)
+                    embeddings = outputs.last_hidden_state.squeeze(0)
+
+                x = embeddings
+                edge_index = []
+                num_words = len(words)
+                for i in range(num_words - 1):
+                    edge_index.append([i, i + 1])
+                    edge_index.append([i + 1, i])
+                edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous()
+
+                y = torch.tensor([int(label)], dtype=torch.long)
+
+                data = Data(x=x, edge_index=edge_index, y=y)
+                data_list.append(data)
+
+            except ValueError as e:
+                logging.warning(f"Error processing line: {line.strip()} - {e}")
+                continue
+            except Exception as e:
+                logging.error(f"Unexpected error processing line: {line.strip()} - {e}")
+                continue
+
+        return data_list
+
 def save_processed_data(data, path):
     try:
         torch.save(data, path)
+        logging.info(f"Successfully saved data to {path}")
+    except (IOError, OSError) as e:
+        logging.error(f"File I/O error while saving to {path}: {str(e)}")
+        raise
     except Exception as e:
-        logging.error(f"Error saving to {path}: {str(e)}")
+        logging.error(f"Unexpected error saving to {path}: {str(e)}")
         raise
 
+def process_file(file_path):
+    data_list = []
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            next(f)  # Skip header
+            reader = csv.reader(f)
+            
+            for row in reader:
+                try:
+                    if len(row) != 2:
+                        logging.warning(f"Skipping malformed row: {row}")
+                        continue
+                        
+                    sentence, label = row
+                    sentence = sentence.strip('"')
+                    label = label.strip()
+                    
+                    # Validate label
+                    if label not in LABEL_MAP:
+                        logging.warning(f"Unknown label '{label}' in row: {row}")
+                        continue
+                    
+                    # Create graph data
+                    words = sentence.split()
+                    x = torch.randn((len(words), 768))
+                    
+                    edge_index = []
+                    for i in range(len(words) - 1):
+                        edge_index.append([i, i + 1])
+                        edge_index.append([i + 1, i])
+                    edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous()
+                    
+                    # Use LABEL_MAP for label encoding
+                    y = torch.tensor([LABEL_MAP[label]], dtype=torch.long)
+                    
+                    data = Data(x=x, edge_index=edge_index, y=y)
+                    data_list.append(data)
+                    
+                except (ValueError, KeyError) as e:
+                    logging.warning(f"Error processing row: {row} - {e}")
+                    continue
+                    
+    except Exception as e:
+        logging.error(f"Error reading file {file_path}: {e}")
+        raise
+        
+    return data_list
+
+def save_individual_graphs(data_list, output_dir):
+    """Save each graph as a separate file."""
+    try:
+        os.makedirs(output_dir, exist_ok=True)
+        
+        for idx, data in enumerate(data_list):
+            output_path = os.path.join(output_dir, f'graph_{idx}.pt')
+            try:
+                torch.save(data, output_path)
+                #logging.info(f"Saved graph {idx} to {output_path}")
+            except Exception as e:
+                logging.error(f"Failed to save graph {idx}: {e}")
+                continue
+                
+        logging.info(f"Successfully saved {len(data_list)} graphs to {output_dir}")
+    except Exception as e:
+        logging.error(f"Failed to create/access output directory: {e}")
+        raise
+
+def process_directory(input_dir):
+    """Process all .csv files in directory and return combined data list."""
+    all_data = []
+    input_dir = Path(input_dir)
+    
+    # Get all txt files
+    input_csv_files = list(input_dir.glob('*.csv'))
+    logging.info(f"Found {len(input_csv_files)} files to process")
+    
+    for file_path in input_csv_files:
+        try:
+            logging.info(f"Processing file: {file_path}")
+            file_data = process_file(file_path)
+            if file_data:
+                all_data.extend(file_data)
+                logging.info(f"Added {len(file_data)} graphs from {file_path}")
+            else:
+                logging.warning(f"No data processed from {file_path}")
+        except Exception as e:
+            logging.error(f"Error processing {file_path}: {e}")
+            continue
+            
+    return all_data
+
+
+def process_sentence(sentence):
+    """Convert a single sentence to graph format for prediction."""
+    try:
+        # Preprocess sentence
+        sentence = sentence.strip('"')
+        words = sentence.split()
+        
+        # Create feature matrix (same dimensions as training data)
+        x = torch.randn((len(words), 768))  # BERT embedding size
+        
+        # Create edge indices for sequential connections
+        edge_index = []
+        for i in range(len(words) - 1):
+            edge_index.append([i, i + 1])
+            edge_index.append([i + 1, i])
+        edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous()
+        
+        # Create Data object (without label for prediction)
+        data = Data(x=x, edge_index=edge_index)
+        
+        return data
+        
+    except Exception as e:
+        logging.error(f"Error processing sentence: {sentence} - {e}")
+        raise
+
+def process_graph_data(edge_index, node_features):
+    """Process graph data to ensure correct format"""
+    # Convert edge_index to proper format
+    if not isinstance(edge_index, torch.Tensor):
+        edge_index = torch.tensor(edge_index, dtype=torch.long)
+    
+    # Ensure edge_index is 2xN
+    if edge_index.shape[0] != 2:
+        edge_index = edge_index.t().contiguous()
+    
+    # Convert node features if needed
+    if not isinstance(node_features, torch.Tensor):
+        node_features = torch.tensor(node_features, dtype=torch.float)
+        
+    return edge_index, node_features
+
+def validate_graph_data(edge_index, node_features):
+    """Validate graph data structure"""
+    if not isinstance(edge_index, torch.Tensor):
+        edge_index = torch.tensor(edge_index, dtype=torch.long)
+    
+    # Check shape
+    if edge_index.dim() != 2 or edge_index.size(0) != 2:
+        raise ValueError(f"Edge index must have shape [2, num_edges], got {edge_index.shape}")
+    
+    # Check dtype
+    if edge_index.dtype != torch.long:
+        edge_index = edge_index.long()
+    
+    # Check index range
+    num_nodes = node_features.size(0)
+    if torch.any(edge_index < 0) or torch.any(edge_index >= num_nodes):
+        raise ValueError(f"Edge indices must be in range [0, {num_nodes-1}]")
+    
+    # Check connectivity (no isolated nodes)
+    connected_nodes = torch.unique(edge_index)
+    if len(connected_nodes) < num_nodes:
+        logging.warning(f"Graph has {num_nodes - len(connected_nodes)} isolated nodes")
+    
+    return edge_index
+
+
+
 if __name__ == "__main__":
-    # Process one file from the directory
-    dataset = SentenceRelationDataset('data/processed/labeled_sentences', ['data/processed/labeled_sentences/Acid_Secretion_sentences_with_labels.txt'])
-    dataset.process()
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
+    
+    input_dir = 'data/processed/all_labeled_sentences'
+    output_dir = 'data/processed/graphs'
+    
+    try:
+        # Process all files in directory
+        processed_data = process_directory(input_dir)
+        
+        if processed_data:
+            # Extract graph data from processed sentences
+            edge_indices = []
+            node_features = []
+            
+            for data in processed_data:
+                if hasattr(data, 'edge_index'):
+                    edge_indices.append(data.edge_index)
+                if hasattr(data, 'node_features'):
+                    node_features.append(data.node_features)
+            
+            # Validate edge indices and node features
+            for edge_index, node_feat in zip(edge_indices, node_features):
+                edge_index = validate_graph_data(edge_index, node_feat)
+                
+            # Save the processed graphs    
+            save_individual_graphs(processed_data, output_dir)
+            logging.info(f"Successfully processed {len(processed_data)} total sentences")
+        else:
+            logging.error("No data was processed from any file")
+            
+    except Exception as e:
+        logging.error(f"Failed to process dataset: {str(e)}")
+        raise

@@ -1,0 +1,125 @@
+Sentence,Label
+"DNA replication is the process by which a cell duplicates its DNA, ensuring that each daughter cell receives an identical copy of the genetic material.",Explanation
+"The immune system detects pathogens like bacteria and viruses through receptors on immune cells that recognize specific molecules called antigens.",Explanation
+"Antibiotics work by inhibiting the growth of bacteria, either by killing the bacteria directly or preventing their reproduction.",Explanation
+"Cellular respiration is the process by which cells convert glucose and oxygen into energy, carbon dioxide, and water.",Explanation
+"Insulin helps regulate blood sugar levels by facilitating the uptake of glucose into cells, which is essential for maintaining energy balance.",Explanation
+"Vaccines stimulate the immune system by introducing harmless components of pathogens, allowing the body to recognize and fight off the pathogen in the future.",Explanation
+"Platelets play a crucial role in blood clotting by adhering to damaged blood vessels and releasing chemicals that promote the formation of a clot.",Explanation
+"Photosynthesis is a process used by plants to convert light energy into chemical energy, producing glucose and releasing oxygen as a byproduct.",Explanation
+"Enzymes are proteins that speed up chemical reactions by lowering the activation energy required, thus increasing the efficiency of cellular processes.",Explanation
+"Homeostasis refers to the body’s ability to maintain stable internal conditions, such as temperature, pH, and electrolyte balance, despite external changes.",Explanation
+"Cholesterol is essential for the production of hormones, vitamin D, and bile acids, but excess cholesterol can lead to the buildup of plaques in blood vessels.",Explanation
+"The blood-brain barrier is a selective permeability barrier that protects the brain from harmful substances in the blood while allowing nutrients to pass through.",Explanation
+"Neurotransmitters are chemicals that transmit signals across synapses between nerve cells, enabling communication within the nervous system.",Explanation
+"Glucagon raises blood glucose levels by stimulating the liver to release glucose stored as glycogen, especially during fasting or low blood sugar levels.",Explanation
+"Autophagy is the process by which cells break down and recycle their own components, helping maintain cellular health and responding to stress.",Explanation
+"The heart pumps blood through the circulatory system by contracting and relaxing, allowing oxygen and nutrients to be delivered to tissues throughout the body.",Explanation
+"Alzheimer’s disease is caused by the accumulation of abnormal protein deposits, such as amyloid plaques, that disrupt communication between neurons.",Explanation
+"Stem cells have the ability to differentiate into various types of cells, making them valuable for regenerative medicine and tissue repair.",Explanation
+"Blood is composed of plasma, red blood cells, white blood cells, and platelets, each serving distinct functions in transporting oxygen, fighting infections, and clotting.",Explanation
+"Thyroid hormones regulate metabolism by influencing how the body converts food into energy, and imbalances in thyroid hormone levels can lead to metabolic disorders.",Explanation
+"Endocytosis is the process by which cells engulf external substances, such as nutrients or pathogens, by wrapping the cell membrane around them to form a vesicle.",Explanation
+"Chronic inflammation is the prolonged activation of the immune response, which can contribute to the development of diseases like arthritis, heart disease, and cancer.",Explanation
+"Metabolism refers to all the chemical reactions in the body that convert food into energy, build molecules, and eliminate waste.",Explanation
+"Cystic fibrosis is a genetic disorder that affects the lungs and digestive system, leading to the production of thick mucus that can cause blockages and infections.",Explanation
+"Hyperthyroidism occurs when the thyroid gland produces too much thyroid hormone, leading to symptoms like weight loss, rapid heartbeat, and heat intolerance.",Explanation
+"Genetic mutations are changes in the DNA sequence that can lead to genetic disorders or contribute to the development of diseases like cancer.",Explanation
+"Neurons transmit electrical signals through axons, and synapses between neurons allow for communication across the nervous system.",Explanation
+"Inflammation is a protective immune response to injury or infection, characterized by redness, swelling, heat, and pain, but chronic inflammation can harm tissues.",Explanation
+"Red blood cells contain hemoglobin, which binds to oxygen in the lungs and carries it to tissues throughout the body for cellular respiration.",Explanation
+"Autonomic functions such as heart rate, digestion, and respiration are controlled by the autonomic nervous system, which operates without conscious control.",Explanation
+"Epigenetics refers to changes in gene expression that do not involve changes to the DNA sequence, but can be influenced by environmental factors and lifestyle.",Explanation
+"Exocytosis is the process by which cells expel substances, such as hormones or waste products, by fusing vesicles with the cell membrane.",Explanation
+"Protein synthesis occurs in two stages: transcription, where DNA is copied into mRNA, and translation, where the mRNA is used to create proteins.",Explanation
+"Obesity increases the risk of developing numerous health problems, including diabetes, hypertension, and cardiovascular disease, by promoting chronic inflammation and insulin resistance.",Explanation
+"Gene therapy involves altering a person’s genes to treat or prevent disease, either by correcting genetic defects or introducing new genes to promote healing.",Explanation
+"Atherosclerosis is a condition where fatty deposits build up on the walls of arteries, restricting blood flow and increasing the risk of heart attacks and strokes.",Explanation
+"Macrophages are a type of white blood cell that engulf and digest foreign invaders such as bacteria and viruses, as well as dead or damaged cells.",Explanation
+"Transcription factors are proteins that regulate gene expression by binding to specific DNA sequences, influencing the production of messenger RNA.",Explanation
+"The gastrointestinal system breaks down food into nutrients, which are absorbed into the bloodstream, while waste products are eliminated through the intestines.",Explanation
+"Parkinson’s disease is a neurodegenerative disorder characterized by the loss of dopamine-producing neurons, leading to motor symptoms like tremors and rigidity.",Explanation
+"Glutamate is the main excitatory neurotransmitter in the brain, involved in learning and memory, but excessive glutamate activity can lead to neurotoxicity.",Explanation
+"Chronic obstructive pulmonary disease (COPD) is a progressive lung disease that makes breathing difficult, often due to long-term exposure to irritants like cigarette smoke.",Explanation
+"Calcium is an essential mineral that plays a critical role in muscle contraction, bone health, and nerve transmission.",Explanation
+"The mitochondria are the energy-producing organelles within cells, converting nutrients into adenosine triphosphate (ATP) through cellular respiration.",Explanation
+"Insulin resistance occurs when cells no longer respond properly to insulin, leading to elevated blood sugar levels and a risk of developing type 2 diabetes.",Explanation
+"Toxins are harmful substances that can damage cells and tissues, often interfering with normal biological processes, and can lead to illness or disease.",Explanation
+"Hemoglobin is a protein in red blood cells that binds to oxygen in the lungs and transports it through the bloodstream to tissues throughout the body.",Explanation
+"Neuroplasticity refers to the brain’s ability to reorganize and form new neural connections in response to learning, experience, or injury.",Explanation
+"Vitamin D is essential for calcium absorption in the intestines and is important for bone health, immune function, and reducing inflammation.",Explanation
+"Antibodies bind to antigens on pathogens, such as viruses or bacteria, marking them for destruction by other immune cells.",Explanation
+"Gene expression refers to the process by which information from a gene is used to synthesize proteins that determine cellular function.",Explanation
+"Microbiomes are communities of microorganisms that live in and on the human body, influencing digestion, immunity, and even mental health.",Explanation
+"Insulin is a hormone produced by the pancreas that helps regulate blood glucose levels by facilitating the uptake of glucose into cells for energy.",Explanation
+"Exosomes are small vesicles secreted by cells that play a role in intercellular communication and have potential applications in diagnostics and drug delivery.",Explanation
+"Adenosine triphosphate (ATP) is the primary source of energy for cellular processes, including muscle contraction, protein synthesis, and cell division.",Explanation
+"Glutathione is a powerful antioxidant found in cells, helping to neutralize harmful free radicals and protect against oxidative stress.",Explanation
+"Beta cells in the pancreas produce insulin, which helps regulate blood glucose levels and ensures cells have the energy they need to function.",Explanation
+"Alkaline phosphatase is an enzyme found in various tissues, including bones and liver, and is used as a marker for diseases like osteoporosis and liver dysfunction.",Explanation
+"Hypertension is a condition characterized by consistently high blood pressure, which can lead to complications such as heart disease, stroke, and kidney damage.",Explanation
+"Folic acid is a B-vitamin essential for the synthesis of DNA and the formation of red blood cells, and is particularly important during pregnancy to prevent birth defects.",Explanation
+"Endorphins are natural chemicals produced by the brain that relieve pain and induce feelings of pleasure, often released during physical exercise.",Explanation
+"Brain-derived neurotrophic factor (BDNF) is a protein that supports the growth, survival, and plasticity of neurons, playing a key role in learning and memory.",Explanation
+"Leukocytes, or white blood cells, are an essential part of the immune system, helping the body fight infections and remove foreign invaders.",Explanation
+"Mitophagy is the selective degradation of damaged mitochondria, which helps maintain cellular health by preventing the accumulation of dysfunctional organelles.",Explanation
+"Neurons communicate with each other through electrical impulses that travel along axons and synapses, allowing for fast and efficient transmission of information.",Explanation
+"Alzheimer's disease is characterized by the accumulation of amyloid plaques and neurofibrillary tangles, which disrupt normal brain function and lead to cognitive decline.",Explanation
+"Chlorophyll is the pigment responsible for absorbing light in plants during photosynthesis, enabling the conversion of light energy into chemical energy.",Explanation
+"Diabetes type 1 occurs when the immune system attacks and destroys insulin-producing cells in the pancreas, leading to a lack of insulin and elevated blood glucose levels.",Explanation
+"RNA transcription is the first step in gene expression, where a DNA template is used to synthesize a complementary RNA molecule, which will then be used to create proteins.",Explanation
+"Hydrogen bonds are weak attractions between molecules that play an essential role in maintaining the structure of proteins and nucleic acids like DNA.",Explanation
+"During muscle contraction, calcium ions bind to troponin, causing a change in the shape of actin filaments, which allows myosin to bind and generate force.",Explanation
+"Insulin secretion is regulated by blood glucose levels; when blood sugar rises after eating, the pancreas releases insulin to facilitate glucose uptake by cells.",Explanation
+"Adenosine triphosphate (ATP) is the energy currency of cells, powering various cellular processes, including muscle contractions, protein synthesis, and active transport.",Explanation
+"Cardiovascular exercise improves heart health by increasing the efficiency of the heart and lungs, reducing the risk of heart disease and improving circulation.",Explanation
+"Hemoglobin’s ability to bind oxygen is influenced by the partial pressure of oxygen, and its affinity for oxygen changes depending on the surrounding environment.",Explanation
+"The process of protein folding is essential for the formation of a protein’s three-dimensional structure, which determines its function in the body.",Explanation
+"Cystic fibrosis causes thick and sticky mucus to build up in the lungs, leading to chronic respiratory infections and difficulties breathing.",Explanation
+"Angiotensin is a hormone that constricts blood vessels, increasing blood pressure, while also stimulating the release of aldosterone, which helps regulate fluid balance.",Explanation
+"Neuroplasticity allows the brain to adapt and reorganize in response to learning or injury, making it possible for other brain areas to compensate for lost functions.",Explanation
+"Proteins are made up of amino acids that are linked together by peptide bonds, and their specific sequence determines the protein's function and structure.",Explanation
+"The microbiome is made up of trillions of microorganisms that reside in the human body, playing a crucial role in digestion, immunity, and even mental health.",Explanation
+"Gene expression is controlled by various factors, including transcription factors, epigenetic modifications, and the availability of raw materials like nucleotides.",Explanation
+"Phagocytosis is the process by which certain immune cells engulf and digest foreign particles, such as bacteria and dead cells, to protect the body from infections.",Explanation
+"Autonomic functions like heart rate, blood pressure, and digestion are regulated by the autonomic nervous system, which operates involuntarily and autonomously.",Explanation
+"Glucagon increases blood glucose levels by promoting the breakdown of glycogen into glucose in the liver, especially during periods of low blood sugar.",Explanation
+"The process of apoptosis is a programmed form of cell death that eliminates damaged or unwanted cells, maintaining tissue health and preventing the development of cancer.",Explanation
+"Lactase is an enzyme responsible for breaking down lactose into glucose and galactose, allowing individuals to digest dairy products.",Explanation
+"Red blood cells contain hemoglobin, a protein that binds to oxygen in the lungs and carries it throughout the body to tissues that need oxygen for cellular processes.",Explanation
+"T cell receptors recognize specific antigens presented by other cells, and upon binding, they initiate an immune response to eliminate pathogens.",Explanation
+"Melanin is a pigment found in the skin, hair, and eyes that protects against UV radiation and determines skin color by absorbing and dispersing sunlight.",Explanation
+"Ribosomes are the molecular machines responsible for translating mRNA into proteins by linking amino acids in the correct sequence according to the genetic code.",Explanation
+"Homeostasis is the maintenance of a stable internal environment, ensuring that vital parameters like temperature, pH, and electrolytes are kept within optimal ranges.",Explanation
+"The blood-brain barrier is a protective barrier that selectively allows nutrients to pass into the brain while blocking harmful substances from entering the central nervous system.",Explanation
+"The process of fermentation allows cells to generate ATP in the absence of oxygen, producing byproducts like lactic acid or ethanol, depending on the organism.",Explanation
+"Fatty acids are essential building blocks of lipids, which make up cell membranes and serve as energy reserves for the body.",Explanation
+"Acetylcholine is a neurotransmitter that plays a key role in muscle contraction and the transmission of signals in the nervous system, especially in the brain.",Explanation
+"The kidney filters waste products from the blood, maintains fluid and electrolyte balance, and produces urine for the excretion of metabolic byproducts.",Explanation
+"Insulin resistance occurs when the body’s cells become less responsive to insulin, leading to elevated blood glucose levels and an increased risk of developing type 2 diabetes.",Explanation
+"Immune cells such as neutrophils and macrophages play a critical role in the first line of defense against infections by engulfing pathogens and releasing signaling molecules.",Explanation
+"Adrenaline, also known as epinephrine, is a hormone released during stressful situations that increases heart rate, dilates airways, and prepares the body for the 'fight or flight' response.",Explanation
+"Chloroplasts in plant cells are responsible for photosynthesis, converting sunlight, carbon dioxide, and water into glucose and oxygen, which are vital for plant growth.",Explanation
+"Vitamins are organic compounds required by the body in small amounts to regulate vital processes, and deficiencies in certain vitamins can lead to specific health problems.",Explanation
+"Asthma is a chronic condition where the airways become inflamed and constricted, leading to difficulty breathing, wheezing, and coughing, often triggered by allergens or irritants.",Explanation
+"Hydrolysis reactions break down large molecules like carbohydrates, proteins, and lipids into smaller components by adding water, essential for digestion and cellular processes.",Explanation
+"During the process of mitosis, a single eukaryotic cell divides into two genetically identical daughter cells, ensuring that each cell has the same number of chromosomes.",Explanation
+"Collagen is a structural protein found in connective tissues, providing strength and elasticity to skin, tendons, and ligaments, as well as supporting organ function.",Explanation
+"The human gut microbiota consists of trillions of microorganisms, which help with digestion, immune function, and the synthesis of certain vitamins.",Explanation
+"Gene therapy is a technique used to treat or prevent diseases by introducing or altering genetic material within a person’s cells to correct or replace defective genes.",Explanation
+"Hemostasis is the process of stopping bleeding after injury, involving the constriction of blood vessels, platelet aggregation, and the formation of a clot to seal the wound.",Explanation
+"Neurotransmitter imbalances can contribute to various mental health disorders, such as depression, anxiety, and schizophrenia, by altering the communication between nerve cells.",Explanation
+"Transcription factors are proteins that bind to specific DNA sequences and regulate gene expression by either promoting or inhibiting the transcription of target genes.",Explanation
+"The immune response is triggered when foreign antigens are detected, leading to the activation of immune cells that work together to neutralize or eliminate pathogens.",Explanation
+"Exons are the coding regions of a gene that contain the information necessary for protein synthesis, while introns are non-coding regions that are spliced out during RNA processing.",Explanation
+"Peptide bonds are formed between amino acids during protein synthesis, linking them together to form a polypeptide chain that will fold into a functional protein.",Explanation
+"Ribosomal RNA (rRNA) is a key component of ribosomes, which are responsible for translating mRNA into proteins in the process of translation.",Explanation
+"The hypothalamus is a region of the brain that regulates key functions like body temperature, hunger, and sleep, and controls the release of hormones from the pituitary gland.",Explanation
+"Hypertension is a condition where blood pressure is consistently too high, which can lead to damage of blood vessels and increase the risk of heart disease and stroke.",Explanation
+"Platelets are small, disk-shaped cells in the blood that play an essential role in clotting by adhering to damaged blood vessels and triggering the formation of a blood clot.",Explanation
+"Beta-adrenergic receptors are found on the surface of various cells, and their activation by adrenaline or noradrenaline leads to physiological changes such as increased heart rate and dilated airways.",Explanation
+"Angiogenesis is the process by which new blood vessels are formed from pre-existing vessels, which is essential for wound healing and the growth of tumors.",Explanation
+"Autophagy allows cells to degrade and recycle damaged components, playing a key role in maintaining cellular health and homeostasis.",Explanation
+"Telomerase is an enzyme that extends the length of telomeres, which are protective caps on the ends of chromosomes that shorten with each cell division.",Explanation
+"Glutamate is the primary excitatory neurotransmitter in the brain, and its release and reception are critical for cognitive functions such as learning and memory.",Explanation
+"Inflammation is the body's natural response to infection or injury, characterized by redness, swelling, and pain, and is a protective mechanism to aid in tissue repair.",Explanation

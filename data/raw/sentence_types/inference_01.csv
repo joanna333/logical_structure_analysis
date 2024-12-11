@@ -1,0 +1,150 @@
+Sentence,Label
+"If the heart rate increases, it could suggest the presence of stress or cardiovascular issues.",Inference
+"Based on the presence of antibodies, the patient likely had a prior exposure to the virus.",Inference
+"If photosynthesis rates decrease, it may indicate insufficient sunlight or nutrient availability.",Inference
+"An increase in white blood cell count suggests an ongoing infection in the body.",Inference
+"Low hemoglobin levels might imply anemia or blood loss.",Inference
+"The presence of glucose in urine could indicate diabetes mellitus.",Inference
+"If a cell lacks mitochondria, it will likely have reduced energy production.",Inference
+"An unusually high fever may indicate the onset of a severe infection or inflammation.",Inference
+"Abnormal ECG readings suggest potential arrhythmia or heart dysfunction.",Inference
+"If a plant's leaves turn yellow, it might be due to nitrogen deficiency.",Inference
+"Reduced lung capacity in a patient could suggest chronic obstructive pulmonary disease.",Inference
+"If insulin secretion is impaired, blood sugar levels are likely to rise.",Inference
+"High levels of cortisol might indicate chronic stress or Cushing's syndrome.",Inference
+"If neurons are damaged, the individual may experience impaired motor or sensory function.",Inference
+"Elevated liver enzyme levels could suggest liver damage or inflammation.",Inference
+"The absence of a reflex response might indicate nerve damage.",Inference
+"Low bone density measurements suggest an increased risk of osteoporosis.",Inference
+"An increase in heart size on an X-ray may indicate congestive heart failure.",Inference
+"If chloroplasts are absent, the organism is unlikely to perform photosynthesis.",Inference
+"Persistent cough and weight loss could imply tuberculosis or lung cancer.",Inference
+"Unusual genetic mutations in a cell may suggest a predisposition to cancer.",Inference
+"Fatigue and muscle weakness might imply an electrolyte imbalance or vitamin deficiency.",Inference
+"If the kidneys fail to concentrate urine, it might suggest chronic kidney disease.",Inference
+"A sudden drop in platelet count could indicate a bleeding disorder or bone marrow issue.",Inference
+"If a drug inhibits bacterial growth, it is likely an effective antibiotic.",Inference
+"Excessive thirst and frequent urination could suggest uncontrolled diabetes.",Inference
+"An increase in blood pressure during exercise suggests potential cardiovascular risk.",Inference
+"If the immune system attacks healthy tissues, it may indicate an autoimmune disease.",Inference
+"Frequent respiratory infections could imply a weakened immune system.",Inference
+"A delay in wound healing might suggest diabetes or poor circulation.",Inference
+"If oxygen levels are low, the individual may experience cyanosis and respiratory distress.",Inference
+"The presence of bile pigments in urine could indicate liver or gallbladder issues.",Inference
+"Chronic inflammation in joints likely points to rheumatoid arthritis.",Inference
+"Abnormal protein levels in cerebrospinal fluid may suggest multiple sclerosis.",Inference
+"If photosynthesis stops, plant growth and survival are likely to decline.",Inference
+"Reduced iron levels in the blood may suggest iron deficiency anemia.",Inference
+"If the thyroid gland is overactive, metabolic rates are likely to increase.",Inference
+"The presence of abnormal cells in a biopsy suggests potential malignancy.",Inference
+"If a patient has severe chest pain, it could indicate a heart attack.",Inference
+"Consistent high glucose levels might suggest poor diabetes management.",Inference
+"Frequent colds and infections may indicate an immunodeficiency disorder.",Inference
+"If the bacteria are resistant to antibiotics, treatment options may be limited.",Inference
+"Swelling in the legs might imply poor circulation or heart failure.",Inference
+"The lack of a specific hormone may lead to developmental delays.",Inference
+"If there is fluid accumulation in the lungs, it could suggest pneumonia or heart failure.",Inference
+"Hyperactivity in children may be linked to imbalances in neurotransmitters.",Inference
+"If blood clotting is impaired, there is a higher risk of excessive bleeding.",Inference
+"A significant loss of neurons could explain memory impairment in Alzheimer’s disease.",Inference
+"If pathogens are present in the blood, the patient might have septicemia.",Inference
+"Low oxygen levels in the blood could indicate a respiratory or cardiac issue.",Inference
+"If a patient experiences severe fatigue, it may suggest hypothyroidism or anemia.",Inference
+"An enlarged spleen might indicate infection, liver disease, or certain cancers.",Inference
+"If a tumor is growing rapidly, it is likely malignant rather than benign.",Inference
+"High levels of LDL cholesterol suggest an increased risk of heart disease.",Inference
+"If neurons are unable to fire properly, cognitive functions may decline.",Inference
+"Consistent joint pain and swelling might suggest arthritis or an autoimmune condition.",Inference
+"The presence of abnormal proteins in urine could indicate kidney disease.",Inference
+"If blood vessels are narrowed, blood flow to tissues may be restricted.",Inference
+"An elevated CRP level suggests systemic inflammation in the body.",Inference
+"If the pancreas stops producing insulin, diabetes is likely to develop.",Inference
+"Sudden weight gain could suggest water retention or a metabolic disorder.",Inference
+"An abnormal thyroid hormone level might indicate hyperthyroidism or hypothyroidism.",Inference
+"If brain activity decreases in specific regions, cognitive functions may be impaired.",Inference
+"The presence of certain antibodies could suggest an autoimmune condition.",Inference
+"If a patient has difficulty breathing, it might indicate asthma or a respiratory infection.",Inference
+"Severe dehydration is likely if electrolyte levels are significantly imbalanced.",Inference
+"If heart valves are damaged, blood flow through the heart will be disrupted.",Inference
+"Chronic headaches might suggest a neurological disorder or stress-related condition.",Inference
+"The presence of lesions in the brain could indicate multiple sclerosis or a stroke.",Inference
+"If a child fails to meet developmental milestones, it may suggest a genetic or environmental issue.",Inference
+"Elevated glucose levels over time could lead to complications like neuropathy or retinopathy.",Inference
+"If the immune system is hyperactive, it might result in allergic reactions.",Inference
+"A prolonged fever without infection might suggest an autoimmune or inflammatory condition.",Inference
+"If red blood cells are abnormally shaped, it could indicate sickle cell anemia.",Inference
+"Difficulty swallowing might suggest a neurological condition or throat obstruction.",Inference
+"If the blood contains excessive carbon dioxide, respiratory failure might be imminent.",Inference
+"Low levels of vitamin D may suggest insufficient sunlight exposure or dietary intake.",Inference
+"If bile ducts are blocked, jaundice and digestive issues may occur.",Inference
+"Consistent chest tightness could suggest chronic obstructive pulmonary disease.",Inference
+"The accumulation of uric acid in joints likely indicates gout.",Inference
+"If the adrenal glands overproduce hormones, it might suggest Cushing's syndrome.",Inference
+"Unexplained bruising could indicate a clotting disorder or low platelet count.",Inference
+"If specific genes are mutated, it may increase susceptibility to certain cancers.",Inference
+"Low protein levels in the blood might suggest malnutrition or liver disease.",Inference
+"If a fetus has abnormal chromosomal numbers, developmental disorders may result.",Inference
+"A sudden loss of vision might suggest a retinal detachment or stroke.",Inference
+"If the immune system overreacts, it could lead to a cytokine storm.",Inference
+"Frequent fractures could imply osteoporosis or a bone mineral deficiency.",Inference
+"If bacteria are resistant to a drug, alternative antibiotics must be considered.",Inference
+"A weak pulse and low blood pressure might indicate shock or cardiac failure.",Inference
+"If iron levels are excessive, it might suggest hemochromatosis.",Inference
+"Persistent coughing with blood might indicate tuberculosis or lung cancer.",Inference
+"If neurotransmitters are imbalanced, mental health disorders might develop.",Inference
+"Swollen lymph nodes in multiple areas might suggest lymphoma or a systemic infection.",Inference
+"If glucose metabolism is impaired, energy levels in cells will decrease.",Inference
+"Delayed recovery from infections might indicate an immunodeficiency condition.",Inference
+"Elevated levels of uric acid could suggest kidney dysfunction or gout.",Inference
+"If cellular respiration is disrupted, ATP production will decline.",Inference
+"A high rate of apoptosis in a tissue could suggest cellular stress or disease.",Inference
+"If the immune response is suppressed, the patient is more vulnerable to infections.",Inference
+"Consistent high blood pressure might indicate chronic hypertension.",Inference
+"If a patient has frequent urination, it could suggest diabetes or a urinary tract infection.",Inference
+"Chronic fatigue and pale skin might imply an iron deficiency.",Inference
+"If liver enzyme levels are elevated, it could suggest liver damage or disease.",Inference
+"The presence of fluid around the heart might indicate pericarditis.",Inference
+"If calcium levels in the blood are low, it could suggest hypocalcemia or parathyroid dysfunction.",Inference
+"A sudden drop in oxygen saturation could indicate respiratory failure.",Inference
+"If a patient experiences dizziness and fainting, it might suggest low blood pressure.",Inference
+"Persistent high cortisol levels might indicate chronic stress or an adrenal disorder.",Inference
+"If skin wounds heal slowly, it may indicate diabetes or poor circulation.",Inference
+"An elevated bilirubin level could suggest liver or gallbladder disease.",Inference
+"If muscle mass decreases significantly, it could indicate malnutrition or a wasting disease.",Inference
+"Frequent infections in a child might suggest an immunodeficiency disorder.",Inference
+"If bone pain is reported, it could suggest vitamin D deficiency or osteoporosis.",Inference
+"Unexplained weight loss might indicate a malignancy or metabolic disorder.",Inference
+"If a patient has irregular periods, it might suggest a hormonal imbalance.",Inference
+"Swelling in the abdomen might indicate fluid accumulation due to liver disease.",Inference
+"If the body temperature remains below normal, it could suggest hypothyroidism.",Inference
+"Consistently low heart rate might indicate bradycardia or a well-trained athlete.",Inference
+"Persistent hoarseness could imply vocal cord damage or laryngeal cancer.",Inference
+"If nerve damage occurs, the patient may lose sensation in the affected area.",Inference
+"An increase in cerebrospinal fluid pressure could suggest hydrocephalus.",Inference
+"If red blood cells break down too quickly, it might indicate hemolytic anemia.",Inference
+"Frequent bone fractures might suggest brittle bone disease.",Inference
+"If the stomach produces too much acid, it could lead to ulcers or GERD.",Inference
+"An increased heart rate during rest might suggest hyperthyroidism.",Inference
+"If the pancreas fails to produce digestive enzymes, it may lead to malabsorption.",Inference
+"Abnormal curvature of the spine could suggest scoliosis.",Inference
+"If neurons are overstimulated, it could result in seizures.",Inference
+"Difficulty in coordination might suggest damage to the cerebellum.",Inference
+"If a patient has elevated triglycerides, it might increase their risk of cardiovascular disease.",Inference
+"Excessive sweating might indicate hyperthyroidism or an autonomic dysfunction.",Inference
+"Rapid breathing might indicate an attempt to compensate for metabolic acidosis.",Inference
+"If the immune system attacks beta cells, it might result in type 1 diabetes.",Inference
+"Swelling in the legs and feet might indicate heart or kidney failure.",Inference
+"Chronic inflammation in the digestive tract might suggest Crohn’s disease.",Inference
+"If blood calcium levels are excessively high, it might indicate hyperparathyroidism.",Inference
+"A high white blood cell count might indicate a bacterial infection.",Inference
+"If a patient has difficulty seeing at night, it could suggest vitamin A deficiency.",Inference
+"Persistent high levels of uric acid might indicate chronic gout.",Inference
+"If the lungs fail to remove carbon dioxide, respiratory acidosis might develop.",Inference
+"Excessive thirst might indicate dehydration or diabetes insipidus.",Inference
+"If a patient exhibits tremors, it could suggest Parkinson’s disease.",Inference
+"Frequent sinus infections might indicate chronic sinusitis.",Inference
+"If the kidney function declines, waste products will accumulate in the blood.",Inference
+"Difficulty in speech might suggest a stroke or brain injury.",Inference
+"If the immune system overproduces antibodies, it might indicate lupus.",Inference
+"Blood in the stool might suggest gastrointestinal bleeding or colon cancer.",Inference
+"If muscle weakness progresses rapidly, it could suggest muscular dystrophy.",Inference

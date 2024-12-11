@@ -1,0 +1,169 @@
+Sentence,Label
+"If the body is exposed to a pathogen, the immune system will recognize and attack it.",Conditional
+"If a person experiences a deficiency in vitamin D, they may develop bone-related disorders like rickets.",Conditional
+"If blood sugar levels rise too high, the pancreas will release insulin to bring them back to normal.",Conditional
+"If the body is dehydrated, it will conserve water by reducing urine output.",Conditional
+"If the immune system identifies a foreign pathogen, it will trigger an inflammatory response.",Conditional
+"If a person consumes too much salt, their blood pressure may increase, leading to hypertension.",Conditional
+"If a cell is damaged, it will trigger apoptosis to prevent the spread of damage.",Conditional
+"If the body encounters an infection, it will produce antibodies to neutralize the pathogens.",Conditional
+"If a patient has low red blood cell count, they may experience symptoms of anemia, like fatigue.",Conditional
+"If a person is exposed to UV radiation, they may develop skin damage or even skin cancer over time.",Conditional
+"If a person's blood oxygen levels drop, their body will increase the rate of breathing to compensate.",Conditional
+"If a person lacks enough iron in their diet, they may develop iron-deficiency anemia.",Conditional
+"If a cell undergoes a mutation in its DNA, it may lead to uncontrolled cell division and cancer.",Conditional
+"If a person has an allergy to a substance, their immune system will overreact when exposed to it.",Conditional
+"If a person doesn't get enough sleep, their cognitive function and immune system may be impaired.",Conditional
+"If the body senses a decrease in blood pressure, it will release hormones like adrenaline to increase heart rate.",Conditional
+"If a person consumes an excess of calories, their body will store the excess as fat.",Conditional
+"If a pathogen produces toxins, they can damage tissues and cause disease.",Conditional
+"If a person undergoes regular exercise, their cardiovascular health and stamina may improve.",Conditional
+"If the body detects a drop in glucose levels, it will release glucagon to stimulate glucose release from the liver.",Conditional
+"If a person suffers from chronic stress, they may develop long-term health problems, including cardiovascular diseases.",Conditional
+"If a person experiences high levels of stress, their immune response may be weakened.",Conditional
+"If the body is exposed to cold temperatures, it will activate thermoregulatory mechanisms like shivering to generate heat.",Conditional
+"If a person has a genetic predisposition to a disease, they may be more likely to develop that condition.",Conditional
+"If the body is exposed to a high concentration of oxygen, it can lead to oxygen toxicity, especially in the lungs.",Conditional
+"If blood clotting is not regulated, a person may experience either excessive bleeding or clot formation leading to thrombosis.",Conditional
+"If a virus infects a host, it will hijack the host's cellular machinery to reproduce itself.",Conditional
+"If a person consumes a high amount of sugar, it can lead to insulin resistance and an increased risk of type 2 diabetes.",Conditional
+"If a cell lacks sufficient nutrients, it may enter a state of dormancy or undergo autophagy to survive.",Conditional
+"If a patient has a high body mass index (BMI), they may be at greater risk for developing heart disease.",Conditional
+"If a person's immune system is weakened, they may be more susceptible to infections.",Conditional
+"If the body receives a traumatic injury, it will activate the clotting cascade to stop bleeding.",Conditional
+"If the body detects an infection, it will release inflammatory cytokines to fight the pathogen.",Conditional
+"If a cell is exposed to stress, it may activate protective responses to avoid damage.",Conditional
+"If a person consumes too much alcohol, it can lead to liver damage and other health complications.",Conditional
+"If a person's kidneys are damaged, they may experience difficulties in filtering waste and regulating fluid balance.",Conditional
+"If a person has a mutation in the BRCA1 gene, they may be at higher risk for breast and ovarian cancers.",Conditional
+"If a person doesn't eat enough protein, they may experience muscle wasting and weakened immune function.",Conditional
+"If a person is allergic to a substance, their body will produce histamines to fight off the perceived threat.",Conditional
+"If a person has chronic pain, it can lead to altered brain function and changes in mood.",Conditional
+"If a person's blood pressure is too low, they may experience dizziness or fainting.",Conditional
+"If the body is exposed to high levels of cortisol over time, it can lead to health issues like increased abdominal fat.",Conditional
+"If a patient has a high cholesterol level, they may be at an increased risk for atherosclerosis and heart disease.",Conditional
+"If a person's body is deficient in vitamin B12, they may experience neurological and cognitive impairments.",Conditional
+"If a person is exposed to a pathogen, they can develop immunity through vaccination or previous exposure.",Conditional
+"If a person has asthma, their airways may constrict during an allergic reaction, making it difficult to breathe.",Conditional
+"If a person is exposed to a cold environment, their body will increase metabolic rate to generate more heat.",Conditional
+"If a person is pregnant, their body will produce additional blood volume and hormones to support fetal development.",Conditional
+"If the body is deprived of sleep, cognitive function and memory consolidation are impaired.",Conditional
+"If a person is diagnosed with type 1 diabetes, they must rely on insulin injections for blood sugar regulation.",Conditional
+"If a person's blood calcium levels drop, their body will release parathyroid hormone to stimulate calcium release from bones.",Conditional
+"If a person has high levels of LDL cholesterol, they are at a higher risk for developing heart disease and stroke.",Conditional
+"If a person suffers from a bacterial infection, antibiotics can be used to target and kill the bacteria.",Conditional
+"If the body is exposed to toxins, it may activate detoxification processes in the liver to neutralize and eliminate them.",Conditional
+"If a person has a family history of heart disease, they may be at greater risk for developing similar conditions.",Conditional
+"If a person doesn't take precautions, they could be exposed to viruses like the flu or common cold.",Conditional
+"Should the body encounter a virus, it will initiate an immune response to neutralize the invader.",Conditional
+"Patients will experience improved cardiovascular health if they engage in regular physical activity.",Conditional
+"Whenever glucose levels fall, the pancreas secretes glucagon to increase blood sugar.",Conditional
+"Excessive alcohol consumption can lead to liver damage, provided the liver's detoxification capacity is overwhelmed.",Conditional
+"A person suffering from vitamin C deficiency may develop scurvy, which affects collagen production.",Conditional
+"Should the immune system recognize an allergen, it will activate mast cells and release histamine.",Conditional
+"In the event of dehydration, the kidneys will conserve water to maintain the body’s fluid balance.",Conditional
+"Whenever an individual consumes a high-fat diet, they may increase their cholesterol levels, potentially leading to heart disease.",Conditional
+"Should you get exposed to ultraviolet light, the skin may produce more melanin to protect against DNA damage.",Conditional
+"High blood pressure can result in stroke or heart failure if left untreated over time.",Conditional
+"Exposure to cold temperatures triggers vasoconstriction in the skin, which helps to preserve core body temperature.",Conditional
+"Children may be at higher risk for respiratory infections if they have underdeveloped immune systems.",Conditional
+"With insufficient sleep, the body experiences increased levels of stress hormones, which can negatively affect overall health.",Conditional
+"A person’s immune system can be compromised if they undergo chemotherapy, increasing susceptibility to infections.",Conditional
+"Low calcium levels can result in muscle cramps and spasms if dietary intake is inadequate.",Conditional
+"When the body undergoes significant trauma, it may trigger an inflammatory response to start the healing process.",Conditional
+"If a person has diabetes and doesn't manage their blood sugar levels, it can lead to long-term complications such as neuropathy.",Conditional
+"Should a person’s kidneys fail, dialysis may be necessary to remove waste products from the bloodstream.",Conditional
+"Consuming a balanced diet rich in fruits and vegetables can help maintain optimal immune function.",Conditional
+"A person’s body will release adrenaline in response to stress, which increases heart rate and prepares for fight-or-flight reactions.",Conditional
+"During a viral infection, fever may develop as the body attempts to inhibit pathogen replication.",Conditional
+"Individuals who have a family history of heart disease are more likely to develop similar conditions themselves.",Conditional
+"Exposure to high levels of environmental pollutants can damage lung tissue, leading to chronic respiratory conditions.",Conditional
+"A low intake of dietary fiber can increase the risk of developing gastrointestinal disorders such as constipation.",Conditional
+"Should the body experience a drop in oxygen levels, breathing rate and heart rate will increase to compensate.",Conditional
+"Insufficient vitamin D levels can result in bone disorders like osteoporosis, particularly in older adults.",Conditional
+"Genetic mutations may cause certain types of cancer, increasing a person’s risk for developing these diseases.",Conditional
+"Smoking can lead to lung cancer and other respiratory diseases, as carcinogens in tobacco smoke damage lung tissue.",Conditional
+"Obesity increases the likelihood of developing type 2 diabetes, heart disease, and certain cancers.",Conditional
+"Exposure to allergens may cause asthma attacks, especially if the immune system reacts strongly to the allergen.",Conditional
+"Chronic stress can suppress immune function, leading to an increased risk of infections and illnesses.",Conditional
+"Drinking excessive amounts of sugary drinks can raise the risk of developing type 2 diabetes over time.",Conditional
+"Individuals with high levels of LDL cholesterol are at an increased risk for heart attacks and stroke.",Conditional
+"Deficiency in vitamin B12 can cause neurological symptoms and anemia, especially in vegetarians who avoid animal products.",Conditional
+"Without sufficient iron in the diet, a person can develop anemia, leading to fatigue and weakness.",Conditional
+"During an infection, the body’s white blood cells will attack pathogens to eliminate them from the body.",Conditional
+"Should blood pressure remain elevated for an extended period, it can lead to kidney damage and other health issues.",Conditional
+"Engaging in regular exercise can help lower the risk of developing cardiovascular disease, particularly in older adults.",Conditional
+"A weakened immune system due to medication may increase a person's susceptibility to opportunistic infections.",Conditional
+"High levels of cortisol, caused by chronic stress, can impair memory and cognitive function over time.",Conditional
+"Exposure to toxins in the environment may impair liver function and hinder its ability to detoxify the body.",Conditional
+"If a person has asthma and is exposed to airborne irritants, it can trigger an asthma attack.",Conditional
+"Should a person be exposed to heavy metals, they may experience symptoms like nausea, dizziness, or long-term organ damage.",Conditional
+"A person with a weakened heart may experience reduced blood flow, leading to fatigue and shortness of breath.",Conditional
+"If the body is deprived of oxygen, tissues can become damaged, leading to conditions like hypoxia.",Conditional
+"Insulin resistance can occur when the body no longer responds effectively to insulin, increasing the risk of type 2 diabetes.",Conditional
+"Regular intake of antioxidants can help neutralize free radicals, potentially reducing the risk of chronic diseases.",Conditional
+"A person may experience depression if their serotonin levels are disrupted, which affects mood regulation.",Conditional
+"Without adequate hydration, kidney function can deteriorate, leading to kidney stones or other complications.",Conditional
+"Increasing fiber intake can help lower cholesterol and improve digestive health, reducing the risk of heart disease.",Conditional
+"If a person’s blood sugar levels are consistently high, it can lead to complications such as nerve damage and vision problems.",Conditional
+"Should a person be exposed to extreme heat, they may suffer from heatstroke, causing damage to organs and tissues.",Conditional
+"Excessive protein intake can strain the kidneys, particularly in individuals with preexisting kidney conditions.",Conditional
+"Should an individual experience severe blood loss, it may lead to shock, a life-threatening condition requiring immediate medical attention.",Conditional
+"If a patient is allergic to penicillin, they may experience symptoms like hives, swelling, or difficulty breathing.",Conditional
+"If a person’s immune system is compromised, they are more susceptible to infections and diseases.",Conditional
+"Should a patient be diagnosed with hypertension, they may need to take medication to control their blood pressure.",Conditional
+"If a person consumes an excessive amount of sugar, they are at a higher risk of developing type 2 diabetes.",Conditional
+"Individuals with a family history of Alzheimer’s disease may be more likely to develop the condition later in life.",Conditional
+"Whenever a person’s body is exposed to a cold environment, it will initiate shivering to generate heat.",Conditional
+"If a person has a genetic predisposition to cancer, they may have a higher risk of developing the disease.",Conditional
+"Should an individual fail to maintain proper hygiene, they could be at an increased risk of bacterial infections.",Conditional
+"If a person is not getting enough vitamin A, they may experience vision problems, including night blindness.",Conditional
+"People who smoke are more likely to develop chronic obstructive pulmonary disease (COPD) later in life.",Conditional
+"Should a person’s blood sugar levels remain high for an extended period, it can lead to diabetic complications.",Conditional
+"If a person has high levels of cholesterol, it can lead to the buildup of plaque in the arteries, increasing the risk of heart disease.",Conditional
+"Whenever the body is exposed to a bacterial infection, the immune system activates to fight the infection.",Conditional
+"If a person’s blood pressure is consistently high, they may be at risk for stroke or heart failure.",Conditional
+"Should an individual have an allergic reaction to pollen, they may experience symptoms such as sneezing and itching.",Conditional
+"Without adequate sleep, a person’s cognitive function and immune system may be impaired.",Conditional
+"If a person’s body experiences a deficiency in calcium, they may develop osteoporosis, which weakens bones.",Conditional
+"Whenever a person is under high levels of stress, their cortisol levels may rise, affecting overall health.",Conditional
+"Should an individual be exposed to high levels of radiation, it can cause damage to their cells and tissues.",Conditional
+"If a patient is diagnosed with asthma, they may need to use an inhaler to manage their symptoms.",Conditional
+"Excessive consumption of alcohol can impair liver function and lead to cirrhosis over time.",Conditional
+"Whenever a person is exposed to allergens, their immune system may overreact, causing symptoms like wheezing or rash.",Conditional
+"If a person has a high intake of salt, it may cause fluid retention and increase blood pressure.",Conditional
+"Should a person develop a bacterial infection, they may need antibiotics to treat the illness.",Conditional
+"If a person experiences a vitamin D deficiency, it may result in bone pain and muscle weakness.",Conditional
+"Without proper hydration, the kidneys may struggle to filter waste effectively, leading to kidney stones.",Conditional
+"Whenever a person exercises regularly, it improves their cardiovascular health and reduces the risk of heart disease.",Conditional
+"If a person develops anemia due to iron deficiency, they may feel fatigued and weak.",Conditional
+"Should a person be exposed to extreme heat for prolonged periods, they may be at risk for heat exhaustion.",Conditional
+"Whenever a person has an infection, their body will produce fever as part of the immune response.",Conditional
+"If a person consumes too much caffeine, they may experience increased heart rate and restlessness.",Conditional
+"Should an individual’s blood oxygen levels drop, their breathing rate will increase to compensate.",Conditional
+"If a person experiences chronic inflammation, it may contribute to the development of autoimmune diseases.",Conditional
+"Whenever a person’s body is exposed to harmful toxins, the liver works to neutralize and excrete them.",Conditional
+"If a person has an allergy to peanuts, they may experience severe reactions, including anaphylaxis, when exposed to peanuts.",Conditional
+"Should a person suffer from chronic pain, it can result in changes to their brain function and mood.",Conditional
+"If a person’s blood sugar levels are too low, they may experience symptoms like dizziness and fatigue.",Conditional
+"Whenever a person’s body is stressed, the release of stress hormones can affect their metabolic processes.",Conditional
+"If a person does not maintain a healthy diet, it can lead to nutritional deficiencies and associated health problems.",Conditional
+"Should a person have a weakened immune system, they may be more prone to opportunistic infections.",Conditional
+"If a person engages in high-intensity exercise without proper recovery, it can lead to muscle strain and injury.",Conditional
+"Whenever a person experiences a drop in blood pressure, they may feel faint or dizzy.",Conditional
+"Should a person’s liver function decline, it can lead to the buildup of toxins in the bloodstream.",Conditional
+"If a person is exposed to loud noise over time, it can lead to permanent hearing loss.",Conditional
+"Whenever the body undergoes significant stress, the sympathetic nervous system is activated to prepare for a fight-or-flight response.",Conditional
+"If a person consumes excessive amounts of trans fats, they may increase their risk of cardiovascular disease.",Conditional
+"Should a person be exposed to excessive UV radiation, they are at an increased risk of developing skin cancer.",Conditional
+"If a person has a compromised immune system, they may require vaccinations to protect against certain infections.",Conditional
+"Whenever a person’s blood pH level becomes too acidic, it can lead to acidosis, which can disrupt normal cellular functions.",Conditional
+"If a person is overweight, they are at greater risk for developing metabolic disorders like type 2 diabetes.",Conditional
+"Should a person be diagnosed with hypertension, they may need to adopt a low-sodium diet to manage their condition.",Conditional
+"If a person is not careful about their posture, they may develop chronic back pain over time.",Conditional
+"Whenever a person is exposed to cold temperatures, the body will initiate thermogenesis to maintain warmth.",Conditional
+"Should a person lack adequate folic acid, they may experience complications such as birth defects in pregnancy.",Conditional
+"If a person has high levels of triglycerides, it can increase their risk of heart disease and pancreatitis.",Conditional
+"Whenever a person’s body is exposed to an inflammatory response, it can lead to swelling and pain in the affected areas.",Conditional
+"Should a person experience a stroke, they may require immediate medical intervention to prevent brain damage.",Conditional
+"If a person develops cataracts, their vision may become clouded, resulting in decreased visual acuity.",Conditional

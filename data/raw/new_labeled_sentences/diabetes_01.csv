@@ -1,0 +1,98 @@
+Sentence,Label
+"Nausea and frequent urination may occur because high blood sugar affects bodily functions.","Causal"
+"If insulin production decreases, blood glucose levels will rise.","Conditional"
+"First, the body digests food into glucose, then insulin helps cells absorb glucose, but in diabetes, this process is impaired.","Sequential"
+"Type 1 diabetes requires insulin injections, whereas Type 2 diabetes can often be managed with lifestyle changes.","Comparison"
+"Insulin regulates blood sugar levels by facilitating the uptake of glucose into cells.","Explanation"
+"Diabetes is a chronic condition characterized by high levels of sugar in the blood.","Definition"
+"While both types involve insulin issues, Type 1 is an autoimmune disorder and Type 2 is linked to insulin resistance.","Contrast"
+"High blood sugar damages blood vessels and increases the risk of heart disease.","Addition"
+"Managing blood sugar levels is crucial for preventing complications.","Emphasis"
+"The pancreas produces insulin, a hormone essential for glucose metabolism.","Elaboration"
+"Symptoms like fatigue and blurred vision indicate uncontrolled diabetes.","Illustration"
+"Despite medication, some patients struggle to maintain normal blood sugar levels.","Concession"
+"Many people with diabetes live healthy lives with proper management.","Generalization"
+"Based on elevated blood sugar levels, a diagnosis of diabetes is likely.","Inference"
+"In essence, diabetes affects how the body uses blood sugar.","Summary"
+"To control diabetes, doctors recommend a combination of diet, exercise, and medication.","Problem Solution"
+"Rather than just monitoring blood sugar, patients should adopt a holistic health approach.","Contrastive Emphasis"
+"The goal of diabetes treatment is to maintain blood sugar levels within a normal range.","Purpose"
+"That is, insulin therapy helps the body process glucose effectively.","Clarification"
+"Signs of diabetes include increased thirst, hunger, and frequent urination.","Enumeration"
+"High carbohydrate intake leads to spikes in blood sugar levels.","Cause and Effect"
+"As time passes, uncontrolled diabetes can cause nerve damage and kidney problems.","Temporal Sequence"
+"The immune system attacks insulin-producing cells in Type 1 diabetes.","Explanation"
+"The risk of developing Type 2 diabetes increases with obesity and lack of exercise.","Cause and Effect"
+"Healthy eating and regular physical activity improve insulin sensitivity.","Elaboration"
+"Unlike adults, children with diabetes require careful monitoring to manage their condition.","Comparison"
+"Insulin resistance means that cells do not respond properly to insulin.","Definition"
+"Genetics and lifestyle factors contribute to the development of diabetes.","Causal"
+"Monitoring blood sugar levels helps in adjusting treatment plans effectively.","Purpose"
+"After a meal, blood sugar levels rise, prompting insulin release.","Sequential"
+"Diabetes is a condition where the body doesn't produce enough insulin or doesn't effectively use insulin.","Definition"
+"There are two main types of diabetes: type 1 and type 2.","Enumeration"
+"Type 1 diabetes is often an autoimmune disease where the body's immune system attacks insulin-producing cells.","Explanation"
+"Conditional upon genetic and environmental factors, type 1 diabetes can develop at any age, but it frequently appears during childhood or adolescence.","Conditional"
+"In contrast, type 2 diabetes usually develops in adults due to lifestyle factors, though it can occur in younger people as well.","Contrast"
+"Obesity, lack of physical activity, and poor diet are common risk factors contributing to the development of type 2 diabetes.","Cause and Effect"
+"People with diabetes must often monitor their blood glucose levels.","Definition"
+"This is typically done using a glucometer, which provides an immediate reading of blood sugar levels.","Explanation"
+"Insulin injections or an insulin pump are common treatments for type 1 diabetes.","Addition"
+"Meanwhile, type 2 diabetes may initially be managed through lifestyle changes such as diet and exercise.","Addition"
+"However, medication or insulin therapy might eventually be required for type 2 diabetics.","Temporal Sequence"
+"The purpose of managing diabetes is to prevent complications, which can include heart disease and nerve damage.","Purpose"
+"Emphasizing the importance of early detection and treatment, regular check-ups are crucial for managing the condition.","Emphasis"
+"Diabetes management involves not only blood sugar control but also a comprehensive approach to health and well-being.","Elaboration"
+"For instance, individuals with diabetes are advised to maintain a balanced diet and a healthy weight.","Illustration"
+"Regular physical activity is another key component of managing diabetes.","Enumeration"
+"This helps improve insulin sensitivity, which is beneficial for both types of diabetes.","Explanation"
+"While there is no cure for type 1 diabetes, advancements in technology have improved the quality of life for those living with it.","Contrastive Emphasis"
+"In the realm of diabetes research, scientists are constantly seeking new methods for prevention, treatment, and cure.","Generalization"
+"The absence of a one-size-fits-all treatment underlines the complexity of diabetes management.","Concession"
+"Diabetes affects millions worldwide, underscoring its significance as a global health issue.","Clarification"
+"Insulin was first discovered in the 20th century, marking a significant breakthrough in diabetes treatment.","Temporal Sequence"
+"The discovery of insulin transformed the prognosis for type 1 diabetes from certain death to a manageable condition.","Concession"
+"Despite these advances, diabetes remains a chronic condition that demands ongoing care and vigilance.","Summary"
+"Adopting a healthy lifestyle is a preventative measure against type 2 diabetes.","Problem Solution"
+"The comparison between the management of type 1 and type 2 diabetes highlights the different approaches necessitated by the conditions.","Contrastive Emphasis"
+"Diabetes education and support groups play a vital role in empowering individuals to manage their condition effectively.","Explanation"
+"In essence, diabetes management is a multifaceted endeavor that requires patience and dedication.","Emphasis"
+"The effectiveness of diabetes management varies greatly among individuals, influenced by a complex interplay of factors.","Generalization"
+"Effective management can lead to an improved quality of life and reduced risk of complications.","Cause and Effect"
+"Mismanagement of diabetes, however, can result in serious health issues.","Cause and Effect"
+"Diabetes management is not just about physical health but also encompasses mental and emotional well-being.","Elaboration"
+"The challenge of living with diabetes presents unique obstacles, but many individuals lead fulfilling lives.","Contrast"
+"Continuous research and innovation are essential to address the multifaceted nature of diabetes.","Purpose"
+"To sum up, diabetes management requires a holistic approach that addresses both immediate and long-term health needs.","Summary"
+"Education is a critical first step in combating the misconceptions and challenges associated with diabetes.","Problem Solution"
+"Through collective efforts in research, education, and support, the management of diabetes can continue to improve.","Conclusion"
+"Diabetes is a chronic condition characterized by high blood sugar levels.",Definition
+"It occurs when the pancreas doesn't produce enough insulin or the body becomes insulin resistant.",Explanation
+"High blood sugar can damage blood vessels over time, leading to complications.",Causal
+"If diabetes is not managed properly, it can result in serious health issues.",Conditional
+"First, blood sugar rises, then the body struggles to regulate it without enough insulin.",Sequential
+"Type 1 diabetes is often diagnosed in childhood, while type 2 is more common in adults.",Comparison
+"While type 1 diabetes is autoimmune, type 2 is frequently associated with lifestyle factors.",Contrast
+"Additionally, diabetes can lead to complications like neuropathy and retinopathy.",Addition
+"It is crucial to manage diabetes to prevent long-term health problems.",Emphasis
+"Managing diabetes involves monitoring blood sugar, diet, and exercise.",Elaboration
+"For example, someone with diabetes might use insulin injections to control their blood sugar.",Illustration
+"Although diabetes is a chronic condition, it can be managed effectively with proper care.",Concession
+"Many people with diabetes lead healthy lives through careful management.",Generalization
+"Since diabetes often runs in families, there may be a genetic predisposition.",Inference
+"In summary, diabetes is a complex condition requiring ongoing attention.",Summary
+"To prevent complications, it's important to monitor blood sugar and take medications as prescribed.",Problem Solution
+"While diabetes is a serious condition, it is not necessarily life-limiting.",Contrastive Emphasis
+"The purpose of diabetes management is to maintain blood sugar within a healthy range.",Purpose
+"When we talk about blood sugar, we're referring to glucose levels in the blood.",Clarification
+"Symptoms of diabetes include increased thirst, frequent urination, and unexplained weight loss.",Enumeration
+"Because diabetes affects blood vessels, it can lead to issues like kidney disease.",Cause and Effect
+"Initially, diabetes may present with mild symptoms, but over time, they can worsen.",Temporal Sequence
+"Moreover, diabetes increases the risk of heart disease and stroke.",Addition
+"Diabetes can be managed through a combination of medication, diet, and exercise.",Clarification
+"Even with management, some complications may occur, highlighting the need for careful monitoring.",Concession
+"For instance, regular foot检查 is important to prevent diabetic foot ulcers.",Illustration
+"Diabetes affects not only physical health but also mental well-being.",Elaboration
+"Furthermore, advancements in treatment have improved outcomes for people with diabetes.",Addition
+"Despite its challenges, diabetes does not define a person's ability to live a full life.",Contrastive Emphasis
+"Overall, understanding and managing diabetes is key to preventing complications and maintaining health.",Summary

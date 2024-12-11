@@ -1,8 +1,0 @@
-Sentence,Label
-The kidneys play a crucial role in handling a daily acid load and maintaining pH balance in the body. ' This process is essential for survival as it helps neutralize acids produced by metabolic activities.,Explanation
-"When the body generates excess acids, the kidneys filter the blood to remove these acids. ' This filtration is a key step in the kidneys' role in acid excretion.",Causal
-The filtered acids are then reabsorbed back into the blood in varying amounts. ' This controlled reabsorption allows the kidneys to regulate the amount of acid returned to the bloodstream.,Contrast
-"The kidneys adjust this reabsorption based on the body's current acid-base needs. ' This adjustment ensures that the pH levels remain stable, preventing either acidosis or alkalosis.",Explanation
-"Conversely, if the body is too alkaline, the kidneys reabsorb more bicarbonate. ' This action helps to buffer the blood, making it less alkaline and restoring the pH balance.",Contrast
-"The kidneys' ability to handle acid loads and maintain pH balance is vital for the proper functioning of other organs. ' Without this regulation, the body's delicate internal environment could be disrupted, leading to serious health issues.",Explanation
-"In summary, the kidneys manage daily acid loads by filtering, reabsorbing, and excreting acids as needed. ' This process ensures that the",Summary

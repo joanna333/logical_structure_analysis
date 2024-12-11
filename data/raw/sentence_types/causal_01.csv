@@ -1,0 +1,121 @@
+Sentence,Label
+"Poor diet choices can lead to obesity, which in turn increases the risk of developing type 2 diabetes.",Causal
+"Chronic exposure to ultraviolet light causes skin damage, which can result in premature aging and skin cancer.",Causal
+"Genetic mutations are responsible for hereditary diseases, such as cystic fibrosis and sickle cell anemia.",Causal
+"Smoking contributes to lung cancer by damaging the cells in the respiratory system over time.",Causal
+"Low levels of physical activity cause muscle weakness and increase the risk of cardiovascular disease.",Causal
+"Air pollution has been linked to respiratory problems, including asthma and chronic obstructive pulmonary disease.",Causal
+"Excessive alcohol consumption can cause liver cirrhosis by overloading the liver's detoxification mechanisms.",Causal
+"Stress activates the release of cortisol, which can negatively affect immune function if prolonged.",Causal
+"Deficiency in vitamin D leads to weakened bones and can cause conditions like osteoporosis.",Causal
+"Sleep deprivation impairs cognitive function, affecting memory, concentration, and decision-making abilities.",Causal
+"High blood pressure damages blood vessels, increasing the risk of heart disease and stroke.",Causal
+"Diabetes causes high blood sugar, which can lead to nerve damage and kidney failure if left untreated.",Causal
+"Lack of hydration impairs kidney function and can lead to kidney stones or other renal issues.",Causal
+"High cholesterol levels cause plaque buildup in arteries, which increases the risk of heart attack and stroke.",Causal
+"Chronic inflammation can lead to tissue damage and contribute to the development of autoimmune diseases.",Causal
+"A sedentary lifestyle leads to poor cardiovascular health and increases the risk of obesity.",Causal
+"Exposure to toxic chemicals can damage the nervous system, leading to cognitive impairments and neurological disorders.",Causal
+"Obesity causes increased fat deposits in the body, which can lead to insulin resistance and type 2 diabetes.",Causal
+"Genetic predispositions to certain cancers increase the likelihood of developing these diseases.",Causal
+"High salt intake causes fluid retention, which can raise blood pressure and strain the heart.",Causal
+"Exposure to loud noise causes hearing damage by affecting the hair cells in the inner ear.",Causal
+"Chronic stress weakens the immune system, making the body more susceptible to infections.",Causal
+"Excessive sugar intake causes insulin spikes, leading to the development of insulin resistance over time.",Causal
+"Alcohol consumption during pregnancy can lead to fetal alcohol syndrome, which causes developmental delays.",Causal
+"High intake of trans fats contributes to cardiovascular disease by raising LDL cholesterol levels.",Causal
+"Smoking during pregnancy can cause low birth weight and premature birth, affecting fetal development.",Causal
+"Lack of sleep leads to impaired immune function, making individuals more susceptible to infections.",Causal
+"Prolonged exposure to stress hormones like cortisol can cause mental health issues, including anxiety and depression.",Causal
+"Chronic dehydration leads to kidney problems, including kidney stones and impaired renal function.",Causal
+"A lack of antioxidants in the diet can increase oxidative stress, leading to cell damage and aging.",Causal
+"Chronic exposure to heavy metals causes toxicity, which can lead to organ damage and neurological disorders.",Causal
+"Obesity increases the risk of metabolic syndrome, a cluster of conditions that increase the risk of heart disease.",Causal
+"Diabetes causes poor circulation, which can lead to nerve damage, especially in the extremities.",Causal
+"Exposure to pesticides has been linked to an increased risk of developing certain cancers, such as leukemia.",Causal
+"High-fat diets increase the risk of atherosclerosis by promoting plaque buildup in the arteries.",Causal
+"Regular exercise improves cardiovascular health by increasing blood flow and strengthening the heart.",Causal
+"Smoking causes chronic bronchitis by irritating the airways and causing inflammation in the lungs.",Causal
+"Chronic drug use leads to dependence by altering the brain’s reward system and neurotransmitter levels.",Causal
+"Insufficient fiber intake contributes to digestive problems, such as constipation and diverticulosis.",Causal
+"Uncontrolled hypertension can lead to stroke by damaging blood vessels in the brain.",Causal
+"Exposure to certain viruses, such as HPV, can cause cervical cancer by altering the DNA of cells in the cervix.",Causal
+"Chronic pain can lead to depression and anxiety by affecting a person’s overall quality of life.",Causal
+"A lack of physical activity can cause weight gain, which in turn increases the risk of developing type 2 diabetes.",Causal
+"Poor air quality contributes to respiratory illnesses, including asthma, bronchitis, and emphysema.",Causal
+"Stress-induced inflammation can damage blood vessels, contributing to the development of heart disease.",Causal
+"A high-protein diet can stress the kidneys, leading to kidney damage, especially in individuals with pre-existing conditions.",Causal
+"Excessive caffeine consumption leads to sleep disturbances and increased anxiety levels.",Causal
+"Chronic exposure to endocrine-disrupting chemicals can interfere with hormone regulation and reproductive health.",Causal
+"Deficient levels of vitamin B12 can cause neurological symptoms, including numbness and tingling in the limbs.",Causal
+"Prolonged exposure to sun without protection leads to skin aging and increases the risk of skin cancer.",Causal
+"Consuming too much red meat increases the risk of colorectal cancer by promoting inflammation in the gut.",Causal
+"Chronic alcohol abuse leads to brain damage by affecting neurotransmitter function and neuron structure.",Causal
+"Genetic mutations in the BRCA1 and BRCA2 genes increase the risk of breast and ovarian cancer.",Causal
+"Untreated sleep apnea causes poor oxygenation during sleep, leading to daytime fatigue and an increased risk of heart disease.",Causal
+"A diet high in processed foods can contribute to inflammation, which may increase the risk of chronic diseases.",Causal
+"Long-term exposure to air pollution contributes to the development of chronic respiratory diseases, such as asthma.",Causal
+"Vitamin C deficiency leads to scurvy, which results in weakness, bleeding gums, and skin problems.",Causal
+"Obesity causes a chronic low-grade inflammatory state, which can increase the risk of developing cancer.",Causal
+"Excessive sun exposure causes DNA damage in skin cells, which can lead to melanoma and other types of skin cancer.",Causal
+"Chronic consumption of high-sugar foods can lead to obesity and increase the risk of developing type 2 diabetes.",Causal
+"Excessive alcohol consumption damages liver cells, leading to liver cirrhosis.",Causal
+"Chronic inflammation caused by autoimmune diseases can damage joints, resulting in conditions like rheumatoid arthritis.",Causal
+"Heavy smoking increases the risk of chronic obstructive pulmonary disease (COPD) by damaging the airways.",Causal
+"Untreated hypertension causes damage to the blood vessels, increasing the risk of stroke and heart disease.",Causal
+"Prolonged use of corticosteroids can weaken bones, increasing the risk of osteoporosis.",Causal
+"Insufficient intake of vitamin A can lead to vision problems, such as night blindness.",Causal
+"Exposure to asbestos increases the risk of developing lung cancer and mesothelioma.",Causal
+"Chronic stress raises cortisol levels, which can weaken the immune system and make the body more susceptible to infections.",Causal
+"Deficiency in iron can cause anemia, leading to fatigue, weakness, and reduced oxygen transport in the blood.",Causal
+"Lack of exercise leads to weight gain and increases the risk of developing type 2 diabetes.",Causal
+"High sugar intake increases the risk of metabolic syndrome, which is associated with obesity and insulin resistance.",Causal
+"Environmental pollutants can disrupt endocrine function, leading to hormonal imbalances and reproductive issues.",Causal
+"High-fat diets can contribute to the development of obesity, which increases the risk of heart disease and diabetes.",Causal
+"Chronic kidney disease causes a gradual decline in kidney function, leading to the need for dialysis or a kidney transplant.",Causal
+"Prolonged exposure to high levels of stress hormones, such as cortisol, can lead to mental health problems, including anxiety and depression.",Causal
+"Smoking during pregnancy causes harm to the fetus, including premature birth and low birth weight.",Causal
+"Too much salt in the diet causes fluid retention, raising blood pressure and putting extra strain on the heart.",Causal
+"Lack of sleep increases the risk of developing high blood pressure and heart disease.",Causal
+"Deficiency in vitamin D contributes to weakened bone structure and an increased risk of fractures.",Causal
+"Obesity causes insulin resistance, which can lead to type 2 diabetes over time.",Causal
+"Exposure to environmental toxins, such as lead, can cause neurological damage, especially in young children.",Causal
+"Chronic exposure to noise pollution can lead to hearing loss and increase the risk of cardiovascular disease.",Causal
+"Consuming a diet high in processed foods increases the risk of obesity, diabetes, and cardiovascular diseases.",Causal
+"Not wearing sunscreen during sun exposure can lead to skin damage, including sunburn and an increased risk of skin cancer.",Causal
+"High cholesterol levels cause plaque buildup in arteries, which can lead to heart disease and stroke.",Causal
+"Regular exercise reduces the risk of cardiovascular disease by improving heart function and circulation.",Causal
+"Chronic alcohol abuse can lead to brain damage and cognitive decline by affecting neurotransmitter function.",Causal
+"Heavy drinking during pregnancy can cause fetal alcohol spectrum disorders, which lead to developmental and physical problems.",Causal
+"Excessive sugar intake contributes to obesity, which increases the likelihood of developing type 2 diabetes.",Causal
+"Lack of hydration leads to kidney stones, as the kidneys cannot effectively filter waste without adequate fluid.",Causal
+"High-fat diets contribute to the formation of plaques in blood vessels, increasing the risk of atherosclerosis.",Causal
+"Exposure to second-hand smoke causes respiratory problems and increases the risk of lung cancer.",Causal
+"Deficiency in vitamin B12 can lead to neurological issues, including numbness and tingling sensations.",Causal
+"Chronic drug use can result in addiction, altering brain chemistry and making it difficult to stop using the substance.",Causal
+"Untreated mental health disorders, such as depression, can lead to chronic stress and worsen physical health conditions.",Causal
+"Smoking accelerates the aging process of the skin, leading to wrinkles and loss of elasticity.",Causal
+"Insulin resistance caused by obesity can lead to the development of type 2 diabetes.",Causal
+"Prolonged exposure to environmental pollutants can cause lung disease, including asthma and emphysema.",Causal
+"High intake of trans fats increases the risk of heart disease by raising levels of LDL cholesterol in the blood.",Causal
+"Lack of physical activity causes a decrease in muscle mass and strength, leading to frailty and loss of mobility in older adults.",Causal
+"Overconsumption of caffeine leads to anxiety, sleep disturbances, and an increased risk of heart palpitations.",Causal
+"High levels of blood sugar caused by poorly controlled diabetes can lead to nerve damage and poor circulation.",Causal
+"Chronic exposure to pesticides has been linked to an increased risk of Parkinson's disease.",Causal
+"Deficient levels of calcium and vitamin D increase the risk of developing osteoporosis, leading to fragile bones.",Causal
+"Chronic dehydration can cause kidney damage, as the kidneys struggle to filter waste without adequate water.",Causal
+"Environmental toxins, such as mercury, can cause neurological impairments and developmental delays in children.",Causal
+"Chronic exposure to cold temperatures can lead to frostbite and permanent tissue damage.",Causal
+"Untreated sleep apnea can cause high blood pressure, heart disease, and daytime fatigue.",Causal
+"Stress hormones, like cortisol, can reduce the body's ability to heal from injuries or illnesses when elevated over time.",Causal
+"Chronic use of nonsteroidal anti-inflammatory drugs (NSAIDs) can lead to kidney damage by affecting renal function.",Causal
+"Obesity causes an increase in fat tissue, which can lead to insulin resistance and the development of type 2 diabetes.",Causal
+"Diabetes can lead to poor circulation, which in turn increases the risk of infections and poor wound healing.",Causal
+"Consuming excessive red meat has been associated with an increased risk of colon cancer due to its effects on gut health.",Causal
+"Lack of antioxidants in the diet can cause oxidative stress, leading to damage of cells and tissues throughout the body.",Causal
+"Chronic exposure to high levels of cortisol can impair the immune system, increasing susceptibility to infections.",Causal
+"Not managing stress effectively can lead to long-term health issues, including heart disease and depression.",Causal
+"Chronic use of antibiotics can disrupt the gut microbiome, leading to digestive problems and weakened immunity.",Causal
+"High sodium intake can cause fluid imbalance and increase the risk of hypertension and stroke.",Causal
+"Unprotected sun exposure can lead to sunburn, which increases the risk of skin cancer over time.",Causal
+"Consuming a lot of processed meats increases the risk of colorectal cancer due to carcinogenic substances produced during processing.",Causal

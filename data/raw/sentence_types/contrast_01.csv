@@ -1,0 +1,62 @@
+Sentence,Label
+"While exercise can improve heart health, excessive physical activity without adequate rest can lead to injuries and overtraining.",Contrast
+"Antibiotics are effective against bacterial infections, whereas antiviral medications are needed to treat viral diseases like the flu.",Contrast
+"Smoking increases the risk of lung cancer, but nonsmokers can still develop the disease due to environmental or genetic factors.",Contrast
+"Although vaccination has led to the eradication of smallpox, other diseases like malaria continue to pose a significant global health threat.",Contrast
+"Some people are naturally predisposed to obesity due to genetic factors, while others may gain weight due to poor dietary habits and lack of exercise.",Contrast
+"While fruits are high in vitamins and antioxidants, processed sugars can contribute to chronic diseases such as diabetes and obesity.",Contrast
+"High-fat diets can contribute to heart disease, but certain fats, like those found in avocados and nuts, are beneficial for cardiovascular health.",Contrast
+"Medication can help manage chronic conditions, but lifestyle changes such as diet and exercise are essential for long-term disease prevention.",Contrast
+"Unlike viruses, which require a host cell to reproduce, bacteria are independent organisms that can grow and multiply on their own.",Contrast
+"While a balanced diet promotes health, overeating even healthy foods can lead to weight gain and increase the risk of metabolic disorders.",Contrast
+"Exercise can strengthen the immune system, but extreme physical stress can weaken immune function and increase susceptibility to illness.",Contrast
+"While some individuals may experience side effects from certain medications, others may not have any noticeable reactions.",Contrast
+"Genetic testing can provide valuable insights into a person's health risks, but it cannot predict all diseases or prevent them from occurring.",Contrast
+"Many vaccines provide immunity against infectious diseases, but some, like the common cold, do not have a vaccine due to the virus's high mutation rate.",Contrast
+"Although genetics play a major role in determining height, environmental factors such as nutrition also influence an individual’s final stature.",Contrast
+"Physical exercise can help reduce anxiety, whereas chronic stress without intervention can contribute to mental health disorders like depression.",Contrast
+"Heart disease is often linked to lifestyle choices like smoking and poor diet, while other conditions, like congenital heart defects, are caused by genetic factors.",Contrast
+"While genetic mutations are a known cause of some cancers, exposure to carcinogens like tobacco smoke or ultraviolet radiation can also increase cancer risk.",Contrast
+"Some people with high blood pressure may not experience symptoms, while others may suffer from headaches or dizziness as a result of the condition.",Contrast
+"Physical activity can promote mental health, but excessive exercise without recovery can lead to burnout and negatively affect emotional well-being.",Contrast
+"Although vaccines have reduced the spread of diseases like measles, others, like HIV, continue to lack a successful vaccine despite extensive research.",Contrast
+"While certain foods can increase the risk of diabetes, a well-balanced diet that includes fiber and low glycemic index foods can help manage blood sugar levels.",Contrast
+"High cholesterol can contribute to cardiovascular diseases, whereas moderate cholesterol intake from foods like eggs does not necessarily increase risk in everyone.",Contrast
+"Although early treatment can improve the prognosis of cancer, late-stage cancers are often more difficult to treat and may require more aggressive therapies.",Contrast
+"While sunlight is a natural source of vitamin D, excessive exposure to UV rays increases the risk of skin cancer and premature aging.",Contrast
+"Some mental health conditions, like depression, can be managed with therapy and medication, while others, like schizophrenia, often require more intensive long-term treatment.",Contrast
+"While medical research has improved treatments for many diseases, access to healthcare remains a major barrier in low-income regions.",Contrast
+"Over-the-counter medications can be effective for short-term relief of symptoms, but prescription drugs may be necessary for chronic or severe conditions.",Contrast
+"While some cancers are linked to lifestyle choices such as diet and smoking, others can occur due to genetic mutations or family history.",Contrast
+"Regular physical exams can detect early signs of diseases, whereas waiting until symptoms develop can result in more advanced, harder-to-treat conditions.",Contrast
+"While mental health disorders like anxiety are commonly treated with therapy and medication, lifestyle changes such as improved sleep and stress management are also important.",Contrast
+"Genetic predisposition can influence the likelihood of developing certain conditions, but environmental factors such as diet and exercise play a significant role in disease prevention.",Contrast
+"Some autoimmune diseases, like rheumatoid arthritis, involve the immune system attacking the body’s tissues, while others, like multiple sclerosis, target the nervous system.",Contrast
+"While regular exercise improves cardiovascular health, prolonged sedentary behavior increases the risk of heart disease and other chronic conditions.",Contrast
+"Certain medications can cause side effects like nausea and fatigue, but others may have more serious risks, such as organ damage or allergic reactions.",Contrast
+"While mental stimulation through learning can improve brain function, a lack of social interaction can contribute to cognitive decline, especially in older adults.",Contrast
+"While a vegetarian diet can lower the risk of chronic diseases like heart disease, a poorly balanced vegetarian diet may result in nutrient deficiencies.",Contrast
+"Although asthma can be triggered by allergens, it can also be worsened by environmental factors like air pollution and extreme weather conditions.",Contrast
+"Some types of cancer, such as skin cancer, can be detected through regular self-exams, while others, like ovarian cancer, may not show symptoms until advanced stages.",Contrast
+"While exercise is crucial for maintaining good health, overtraining without proper rest can lead to muscle strain, fatigue, and injury.",Contrast
+"Viral infections are often treated with antiviral medications, but bacterial infections require antibiotics for effective treatment.",Contrast
+"While consuming a high amount of sugar increases the risk of developing diabetes, consuming moderate amounts as part of a balanced diet may not cause harm.",Contrast
+"While some patients recover from surgery without complications, others may experience side effects like infection or prolonged healing.",Contrast
+"Certain diseases, like Parkinson's, progress slowly and may be managed with medication, while others, like ALS, are rapidly degenerative and harder to treat.",Contrast
+"While obesity increases the risk of heart disease, being underweight can also lead to health issues such as malnutrition and weakened immune function.",Contrast
+"Some people are more susceptible to developing allergies due to genetic factors, while others may develop allergies due to environmental exposures.",Contrast
+"While genetic predisposition plays a role in the development of conditions like diabetes, lifestyle changes such as diet and exercise can mitigate the risk.",Contrast
+"Although regular exercise is beneficial for bone health, excessive physical strain without adequate rest can result in fractures and bone injuries.",Contrast
+"Some types of mental health treatments, like cognitive behavioral therapy, can be highly effective, while others, like electroconvulsive therapy, are used only in severe cases.",Contrast
+"While most people recover from a cold with rest and hydration, individuals with weakened immune systems may experience complications, such as pneumonia.",Contrast
+"While physical rehabilitation can help restore movement after an injury, some individuals may never regain full mobility depending on the severity of the injury.",Contrast
+"High-protein diets can help build muscle mass, while high-carbohydrate diets are more effective for endurance athletes who require sustained energy.",Contrast
+"While a balanced diet supports overall health, poor eating habits can lead to obesity and other chronic conditions, such as type 2 diabetes and hypertension.",Contrast
+"Some genetic disorders are present at birth, while others, like Huntington's disease, develop later in life due to specific mutations.",Contrast
+"While vaccinations have significantly reduced the incidence of infectious diseases, there are still challenges in achieving global vaccination coverage, especially in rural areas.",Contrast
+"While some mental health conditions, like anxiety, can be managed with medication, others, like post-traumatic stress disorder, require therapy and long-term support.",Contrast
+"Although most cancers are related to lifestyle factors such as smoking and diet, some cancers develop due to random genetic mutations with no known cause.",Contrast
+"While most respiratory infections can be managed with rest and hydration, some, like tuberculosis, require prolonged treatment with specific antibiotics.",Contrast
+"While dental hygiene is important for preventing cavities and gum disease, some individuals may still experience dental issues due to genetic factors.",Contrast
+"Although lifestyle changes can prevent some forms of heart disease, certain conditions like arrhythmias may require surgical interventions or lifelong medication.",Contrast
+"While fruits and vegetables are important for a healthy diet, consuming them in excess without balancing other food groups can lead to nutrient imbalances.",Contrast

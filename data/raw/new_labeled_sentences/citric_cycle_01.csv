@@ -1,0 +1,51 @@
+Sentence,Label
+"The citric acid cycle is a series of reactions that generate energy through the oxidation of acetyl-CoA.","Definition"
+"Cells use the citric acid cycle because it efficiently produces energy carriers like NADH and FADH2.","Causal"
+"If oxygen is available, pyruvate from glycolysis enters the mitochondria to begin the cycle.","Conditional"
+"First, acetyl-CoA combines with oxaloacetate to form citrate, then citrate is converted to isocitrate.","Sequential"
+"Next, isocitrate is oxidized to alpha-ketoglutarate, releasing carbon dioxide.","Sequential"
+"The citric acid cycle produces more NADH than glycolysis does.","Comparison"
+"It generates NADH and FADH2 because these molecules are needed for the electron transport chain.","Explanation"
+"While anaerobic processes produce minimal ATP, the citric acid cycle contributes significantly to energy production.","Contrast"
+"The cycle not only produces energy but also supplies precursors for amino acid synthesis.","Addition"
+"Maintaining efficient functioning of the citric acid cycle is crucial for cell metabolism.","Emphasis"
+"Enzymes like citrate synthase catalyze the initial steps, ensuring the cycle proceeds smoothly.","Elaboration"
+"For instance, alpha-ketoglutarate dehydrogenase facilitates the decarboxylation of its substrate.","Illustration"
+"Even though the cycle is central to energy production, some organisms generate energy without it.","Concession"
+"Most aerobic organisms rely on the citric acid cycle for efficient energy generation.","Generalization"
+"Given the increase in ATP levels, we can infer that the citric acid cycle is active.","Inference"
+"In summary, the cycle oxidizes acetyl-CoA to CO₂ while producing NADH and FADH₂.","Summary"
+"To compensate for decreased energy, cells can upregulate enzymes of the citric acid cycle.","Problem Solution"
+"Rather than directly producing ATP, the cycle primarily generates electron carriers for ATP synthesis.","Contrastive Emphasis"
+"The purpose of the cycle is to extract high-energy electrons from carbon compounds.","Purpose"
+"In other words, it oxidizes acetyl groups to produce energy-rich molecules.","Clarification"
+"The cycle produces NADH, FADH₂, ATP, and releases carbon dioxide.","Enumeration"
+"Acetyl-CoA entering the cycle leads to the production of NADH and FADH₂.","Cause and Effect"
+"As the cycle continues, intermediates are regenerated, allowing the process to proceed indefinitely.","Temporal Sequence"
+"High levels of NADH inhibit the cycle, decreasing energy production.","Cause and Effect"
+"Specific enzymes at each step ensure the proper transformation of intermediates.","Elaboration"
+"For example, succinate dehydrogenase participates in both the citric acid cycle and the electron transport chain.","Illustration"
+"Although oxygen is not used directly, the cycle cannot proceed without it.","Concession"
+"Aerobic metabolism universally involves the citric acid cycle.","Generalization"
+"Cells harness the cycle to efficiently extract energy from nutrients.","Purpose"
+"That is, the citric acid cycle is a key metabolic pathway integrating various biochemical processes.","Clarification"
+"The citric acid cycle, also known as the Krebs cycle, is a series of chemical reactions used by all aerobic organisms to generate energy from glucose.", Definition  
+"If oxygen is present, pyruvate enters the mitochondria to begin the citric acid cycle.", Conditional  
+"First, pyruvate is converted into acetyl-CoA, which then enters the cycle.", Sequential  
+"Unlike glycolysis, which occurs in the cytoplasm, the citric acid cycle takes place in the mitochondria.", Contrast  
+"The cycle involves a series of redox reactions that produce electron carriers, such as NADH and FADH2.", Explanation  
+"Each acetyl-CoA molecule that enters the cycle results in the production of 3 NADH, 1 FADH2, and 1 GTP.", Causal  
+"Additionally, the cycle produces two carbon dioxide molecules for each acetyl-CoA that enters.", Addition  
+"It is crucial to emphasize that the citric acid cycle is a key step in aerobic respiration.", Emphasis  
+"For example, in the conversion of isocitrate to alpha-ketoglutarate, a molecule of CO2 is released.", Illustration  
+"Although the cycle itself does not directly produce much ATP, it generates the electron carriers needed for the electron transport chain.", Concession  
+"Overall, the citric acid cycle is a central metabolic pathway that connects carbohydrate, fat, and protein metabolism.", Generalization  
+"From this, we can infer that the cycle plays a vital role in the cell's energy production.", Inference  
+"In summary, the citric acid cycle is a vital process that links glycolysis to the electron transport chain.", Summary  
+"To address the problem of energy deficiency in cells, the citric acid cycle must function efficiently.", Problem Solution  
+"In contrast to glycolysis, the citric acid cycle is a closed loop that regenerates its starting compound, oxaloacetate.", Contrastive Emphasis  
+"The primary purpose of the cycle is to break down acetyl-CoA to produce energy-rich molecules.", Purpose  
+"To clarify, the cycle does not directly use oxygen, but its products are used in the oxygen-dependent electron transport chain.", Clarification  
+"The cycle involves several key steps, including the conversion of citrate to isocitrate, and so on.", Enumeration  
+"The conversion of succinate to fumarate is a key regulatory step in the cycle.", Cause and Effect  
+"As the cycle progresses, energy is gradually released and stored in the form of ATP, NADH, and FADH2.", Temporal Sequence

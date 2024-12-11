@@ -1,0 +1,10 @@
+Sentence,Label
+"As individuals age, physiological systems undergo decline,  which affects their ability to maintain homeostasis."
+" Homeostasis, the body's process of maintaining stable internal conditions, becomes compromised as these systems deteriorate. "
+" Aging leads to reduced function in organs such as the kidneys, heart, and lungs,  which negatively impacts homeostasis."
+" For instance, the kidneys may not filter blood as effectively, leading to imbalances in electrolytes and fluids.", -[Cause and Effect] 
+"This decline in organ function can result in increased vulnerability to diseases and slower recovery times from injuries or illnesses.", -[Cause and Effect]
+" Furthermore, the immune system's decline with age makes older adults more susceptible to infections and less able to fight off diseases.", -[Cause and Effect] 
+"In contrast, younger individuals typically have more robust physiological systems that can better regulate and adapt to changes, maintaining homeostasis more efficiently. "
+" Overall, the decline in physiological systems with aging directly affects the body's ability to maintain homeostasis, leading to various health challenges."
+"  Understanding these relationships is crucial for developing strategies to support aging populations and improve their quality of life.",Causal
