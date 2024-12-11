@@ -170,7 +170,7 @@ def create_data_loaders(df, batch_size=16, tokenizer=None):
     
     return train_loader, val_loader
 
-def train_model(num_epochs=10, learning_rate=2e-5, weight_decay=0.01, device=None):
+def train_model(num_epochs=5, learning_rate=2e-5, weight_decay=0.01, device=None):
     """
     Training function for BiLSTM model with BERT embeddings.
     """
@@ -183,6 +183,7 @@ def train_model(num_epochs=10, learning_rate=2e-5, weight_decay=0.01, device=Non
     # At the start of train_model
     label_encoder = LabelEncoder()
     labels = df['Label'].values  # Assuming df is your dataframe
+    print(f"Labels: {labels}")
     label_encoder.fit(labels)
     
     # Initialize model with proper parameters
@@ -260,7 +261,8 @@ def train_model(num_epochs=10, learning_rate=2e-5, weight_decay=0.01, device=Non
                     optimizer=optimizer,
                     epoch=epoch,
                     val_acc=val_acc,
-                    filename=model_save_path
+                    filename=model_save_path,
+                    label_encoder=label_encoder
                 )
                 no_improve_count = 0
             else:
@@ -387,7 +389,7 @@ def print_and_handle_metrics(epoch, num_epochs, train_loss, train_acc, val_loss,
     print(f'Best Validation Accuracy: {best_val_acc:.4f}')
     #print(f'Early Stopping Patience Remaining: {early_stopping_patience-no_improve_count}')
 
-def save_best_model(model, optimizer, epoch, val_acc, filename):
+def save_best_model(model, optimizer, epoch, val_acc, filename, label_encoder):
     """
     Save the model checkpoint with relevant training information.
     
@@ -399,14 +401,19 @@ def save_best_model(model, optimizer, epoch, val_acc, filename):
         filename: Path where to save the model
     """
     os.makedirs(os.path.dirname(filename), exist_ok=True)
+    print(f"Saving model with {len(label_encoder.classes_)} classes")
+    print("Classes:", label_encoder.classes_)
+    tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
+    tokenizer.save_pretrained(os.path.join('models', 'tokenizer'))
+    
     torch.save({
-        'epoch': epoch,
         'model_state_dict': model.state_dict(),
         'optimizer_state_dict': optimizer.state_dict(),
+        'epoch': epoch,
         'val_acc': val_acc,
-        'timestamp': datetime.now().strftime('%Y%m%d_%H%M%S')
-    }, filename)
-    print(f"Model saved to {filename}")
+        'label_encoder_classes': label_encoder.classes_,
+        'num_classes': len(label_encoder.classes_)
+    }, filename, _use_new_zipfile_serialization=True)
 
 def load_saved_model(model, optimizer, filename):
     """
