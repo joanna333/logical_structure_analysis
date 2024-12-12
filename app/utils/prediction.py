@@ -1,10 +1,14 @@
+import os
+import sys
+sys.path.append(os.getcwd())
+root_path = os.path.dirname(os.getcwd())
+sys.path.append(os.path.join(os.getcwd(), r'/src/data'))
+sys.path.append(os.path.join(os.getcwd(), r'/src/models'))
+sys.path.append("..")
 import torch
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from sklearn.preprocessing import LabelEncoder
-from src.models.BiLSTM_02 import BiLSTMAttentionBERT
-import os
-from multiprocessing import freeze_support
-import traceback
+from src.models.BiLSTM_01 import BiLSTMAttentionBERT
 import numpy as np
 from torch.serialization import add_safe_globals
 import pandas as pd
@@ -40,7 +44,7 @@ def load_model_for_prediction(model_path):
         checkpoint = torch.load(
             model_path,
             map_location=device,
-            weights_only=True
+            weights_only=False
         )
     except Exception as e:
         print(f"Warning: Failed to load with weights_only=True: {str(e)}")
@@ -138,9 +142,31 @@ def print_labels(label_encoder, show_counts=False):
     print("-" * 40)
     print(f"Total number of classes: {len(label_encoder.classes_)}\n")
 
+def predict_sentence2(sentence, model, tokenizer, label_encoder):
+    # Tokenize the input
+    inputs = tokenizer(sentence, 
+                      padding=True,
+                      truncation=True,
+                      return_tensors='pt',
+                      max_length=512)
+    
+    # Move inputs to the same device as model
+    device = next(model.parameters()).device
+    inputs = {k: v.to(device) for k, v in inputs.items()}
+    
+    # Make prediction
+    with torch.no_grad():
+        outputs = model(**inputs)
+        predictions = torch.argmax(outputs.logits, dim=1)
+    
+    # Convert prediction to label
+    predicted_label = label_encoder.inverse_transform(predictions.cpu().numpy())[0]
+    
+    return predicted_label
+
 
 if __name__ == '__main__':
-    model_path = 'models/bilstm_bert_20241211_140129_valacc_68.58.pt'
+    model_path = 'models/model_epoch8_acc72.53.pt'
     try:
         model, label_encoder, tokenizer = load_model_for_prediction(model_path)
         

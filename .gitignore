@@ -82,46 +82,12 @@ models/models--allenai--OLMo-2-1124-7B-Instruct/snapshots/b76b2b179aaea5d8863f9f
 models/models--allenai--OLMo-2-1124-7B-Instruct/snapshots/b76b2b179aaea5d8863f9fa756f38067f8fb508f/tokenizer.json
 models/models--allenai--OLMo-2-1124-7B-Instruct/snapshots/b76b2b179aaea5d8863f9fa756f38067f8fb508f/vocab.json
 
-models/bilstm_bert_20241210_195310_acc71.66.pt
-models/bilstm_bert_20241210_230813.pt
-models/bilstm_bert_20241211_101235_valacc_60.14.pt
-models/bilstm_bert_20241211_101235_valacc_66.48.pt
-models/bilstm_bert_20241211_101235_valacc_68.08.pt
-models/bilstm_bert_20241211_101235_valacc_70.51.pt
-models/bilstm_bert_20241211_104235_valacc_49.89.pt
-models/bilstm_bert_20241211_104235_valacc_61.52.pt
-models/bilstm_bert_20241211_104235_valacc_65.66.pt
-models/bilstm_bert_20241211_104235_valacc_66.70.pt
-models/bilstm_bert_20241211_104235_valacc_69.24.pt
-models/bilstm_bert_20241211_104235_valacc_69.68.pt
-models/bilstm_bert_20241211_104235_valacc_70.73.pt
-models/best_model.pt
-models/bilstm_bert_20241211_133938_valacc_47.85.pt
-models/bilstm_bert_20241211_133938_valacc_61.69.pt
-models/bilstm_bert_20241211_133938_valacc_66.92.pt
-models/bilstm_bert_20241211_140129_valacc_53.42.pt
-models/bilstm_bert_20241211_140129_valacc_63.56.pt
-models/bilstm_bert_20241211_140129_valacc_67.20.pt
-models/bilstm_bert_20241211_140129_valacc_68.14.pt
-models/bilstm_bert_20241211_140129_valacc_68.58.pt
-models/bilstm_bert_20241211_161324_valacc_49.39.pt
-models/bilstm_bert_20241211_161324_valacc_61.36.pt
-models/bilstm_bert_20241211_161324_valacc_64.55.pt
-models/bilstm_bert_20241211_161324_valacc_66.43.pt
-models/bilstm_bert_20241211_161324_valacc_68.52.pt
+
 models/tokenizer/special_tokens_map.json
 models/tokenizer/tokenizer_config.json
 models/tokenizer/tokenizer.json
 models/tokenizer/vocab.txt
-models/bilstm_bert_20241211_182239_valacc_51.49.pt
-models/bilstm_bert_20241211_182239_valacc_56.36.pt
-models/bilstm_bert_20241211_182239_valacc_58.30.pt
-models/bilstm_bert_20241211_182239_valacc_59.35.pt
-models/bilstm_bert_20241211_182239_valacc_60.46.pt
-models/bilstm_bert_20241211_203047_valacc_48.92.pt
-models/bilstm_bert_20241211_203047_valacc_56.50.pt
-models/bilstm_bert_20241211_203047_valacc_59.21.pt
-models/bilstm_bert_20241211_203047_valacc_60.18.pt
+
 data/Data_topic/Abdomen.csv
 data/Data_topic/Achilles Tendon.csv
 data/Data_topic/Adductor Hiatus.csv
@@ -372,3 +338,4 @@ wandb/run-20241212_075812-cd3wg4h2/files/wandb-summary.json
 wandb/run-20241212_075812-cd3wg4h2/logs/debug-core.log
 wandb/run-20241212_075812-cd3wg4h2/logs/debug-internal.log
 wandb/run-20241212_075812-cd3wg4h2/logs/debug.log
+models/model_epoch8_acc72.53.pt
