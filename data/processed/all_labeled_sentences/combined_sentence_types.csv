@@ -3985,3 +3985,400 @@ Transcription factors are proteins that bind to specific DNA sequences and regul
 "Because the parasympathetic system slows heart rate, it might dominate during rest.",Inference
 "The presence of stretch receptors in the bladder suggests a mechanism for controlling urination.",Inference
 "Since oxygen delivery increases during exercise, hemoglobin must release oxygen more readily.",Inference
+"While the heart pumps blood throughout the body, the lungs focus on gas exchange.",Contrastive Emphasis
+"Although veins carry blood back to the heart, arteries transport it away under higher pressure.",Contrastive Emphasis
+"While skeletal muscles are under voluntary control, smooth muscles function involuntarily.",Contrastive Emphasis
+"Although the liver detoxifies substances, the kidneys filter waste directly from the blood.",Contrastive Emphasis
+"Whereas the sympathetic nervous system prepares the body for action, the parasympathetic system promotes relaxation.",Contrastive Emphasis
+"Although insulin lowers blood glucose, glucagon raises it during fasting.",Contrastive Emphasis
+"While the stomach primarily digests proteins, the small intestine handles nutrient absorption.",Contrastive Emphasis
+"Although the hypothalamus regulates homeostasis, the medulla oblongata controls vital autonomic functions.",Contrastive Emphasis
+"Whereas red blood cells transport oxygen, white blood cells defend against pathogens.",Contrastive Emphasis
+"While the endocrine system communicates via hormones, the nervous system relies on electrical signals.",Contrastive Emphasis
+"Although the diaphragm drives breathing, the intercostal muscles assist during deep respiration.",Contrastive Emphasis
+"Whereas the skin prevents water loss, sweat glands facilitate cooling.",Contrastive Emphasis
+"While peristalsis propels food through the digestive tract, segmentation mixes it.",Contrastive Emphasis
+"Although the left side of the heart pumps oxygenated blood, the right side handles deoxygenated blood.",Contrastive Emphasis
+"Whereas tendons connect muscles to bones, ligaments join bones to other bones.",Contrastive Emphasis
+"While the adrenal cortex produces corticosteroids, the adrenal medulla secretes catecholamines.",Contrastive Emphasis
+"Although the small intestine absorbs nutrients, the large intestine focuses on water and electrolyte recovery.",Contrastive Emphasis
+"Whereas slow-twitch muscle fibers are suited for endurance, fast-twitch fibers generate power.",Contrastive Emphasis
+"While the sympathetic system increases heart rate, the parasympathetic system slows it down.",Contrastive Emphasis
+"Although aerobic respiration yields more ATP, anaerobic respiration produces it faster during short bursts.",Contrastive Emphasis
+"Whereas the atria collect blood, the ventricles pump it out to the body and lungs.",Contrastive Emphasis
+"While bile emulsifies fats, pancreatic lipase digests them into absorbable units.",Contrastive Emphasis
+"Although arteries have thick walls to handle pressure, veins have valves to prevent backflow.",Contrastive Emphasis
+"Whereas the proximal tubule reabsorbs most filtrate, the distal tubule fine-tunes electrolyte balance.",Contrastive Emphasis
+"While T cells attack infected cells, B cells produce antibodies.",Contrastive Emphasis
+"Although vasoconstriction conserves heat, vasodilation promotes cooling.",Contrastive Emphasis
+"Whereas systolic pressure measures contraction, diastolic pressure reflects relaxation of the heart.",Contrastive Emphasis
+"While growth hormone stimulates tissue growth, insulin regulates glucose uptake.",Contrastive Emphasis
+"Although high levels of cortisol increase energy availability, prolonged elevation suppresses the immune system.",Contrastive Emphasis
+"Whereas the somatic nervous system controls voluntary actions, the autonomic system manages involuntary processes.",Contrastive Emphasis
+"While exocrine glands secrete through ducts, endocrine glands release hormones directly into the bloodstream.",Contrastive Emphasis
+"Although the small intestine absorbs carbohydrates, the liver processes them into glucose.",Contrastive Emphasis
+"Whereas glycolysis occurs in the cytoplasm, the citric acid cycle takes place in mitochondria.",Contrastive Emphasis
+"While the epidermis forms a protective barrier, the dermis supports it with blood supply and elasticity.",Contrastive Emphasis
+"Although aerobic activity improves cardiovascular health, resistance training builds muscle strength.",Contrastive Emphasis
+"Whereas voluntary movements involve motor cortex activation, reflexes bypass conscious control.",Contrastive Emphasis
+"While hemoglobin transports oxygen, myoglobin stores it in muscle cells.",Contrastive Emphasis
+"Although mechanical digestion breaks food into smaller pieces, chemical digestion breaks molecular bonds.",Contrastive Emphasis
+"Whereas the liver stores glycogen, adipose tissue stores triglycerides.",Contrastive Emphasis
+"While bone marrow produces blood cells, the spleen filters and recycles old red blood cells.",Contrastive Emphasis
+"Although cartilage provides flexibility, bone offers structural support.",Contrastive Emphasis
+"Whereas the pulmonary circuit exchanges gases with the lungs, the systemic circuit supplies the body.",Contrastive Emphasis
+"While antibodies neutralize pathogens, phagocytes engulf and digest them.",Contrastive Emphasis
+"Although hyperventilation reduces CO2 levels, hypoventilation increases them.",Contrastive Emphasis
+"Whereas the sinoatrial node initiates heartbeats, the atrioventricular node regulates their timing.",Contrastive Emphasis
+"While keratin strengthens hair and nails, collagen provides tensile strength to connective tissue.",Contrastive Emphasis
+"Although high blood glucose stimulates insulin release, low blood glucose triggers glucagon secretion.",Contrastive Emphasis
+"Whereas the renal cortex contains filtration structures, the medulla focuses on concentration of urine.",Contrastive Emphasis
+"While the cerebrum controls complex thought, the cerebellum coordinates movement.",Contrastive Emphasis
+"Because the diaphragm contracts, air is drawn into the lungs.",Causal
+"Due to high blood sugar levels, insulin is released from the pancreas.",Causal
+"Since the heart pumps blood, oxygen is delivered to tissues.",Causal
+"As a result of low oxygen availability, red blood cell production increases.",Causal
+"Because the kidneys filter blood, waste products are excreted in urine.",Causal
+"Since the body temperature rises, sweat glands produce sweat to cool the skin.",Causal
+"Due to vasodilation, blood flow to the skin increases during overheating.",Causal
+"Because of dehydration, antidiuretic hormone secretion increases.",Causal
+"Since muscle contraction generates heat, exercise elevates body temperature.",Causal
+"As a consequence of reduced glucose levels, glucagon is secreted.",Causal
+"Because the liver stores glycogen, it can release glucose during fasting.",Causal
+"Due to prolonged stress, cortisol levels in the bloodstream rise.",Causal
+"Because of high blood pressure, baroreceptors send inhibitory signals to the brain.",Causal
+"Since the hypothalamus detects changes in body temperature, it regulates thermoregulation.",Causal
+"As a result of blood vessel damage, platelets aggregate to form a clot.",Causal
+"Because oxygen is required for aerobic metabolism, cells rely on blood supply.",Causal
+"Since hemoglobin binds oxygen, it transports it to the tissues.",Causal
+"Due to electrolyte imbalances, nerve transmission can become impaired.",Causal
+"Because calcium is released in muscle cells, contraction occurs.",Causal
+"Since low pH levels stimulate the respiratory center, breathing rate increases.",Causal
+"As a result of excessive salt intake, blood pressure may rise.",Causal
+"Due to insufficient insulin, blood glucose levels increase in diabetes.",Causal
+"Because sunlight stimulates vitamin D synthesis, bone health is supported.",Causal
+"Since blood flow to the kidneys decreases, renin secretion is triggered.",Causal
+"Due to the presence of stretch receptors, the bladder signals the need to urinate.",Causal
+"Because of arterial blockage, oxygen supply to the heart is reduced.",Causal
+"Since neurotransmitters are released at synapses, signals are transmitted between neurons.",Causal
+"Due to elevated carbon dioxide levels, respiratory rate increases.",Causal
+"Because bile emulsifies fats, digestion of lipids is facilitated.",Causal
+"Since the immune system detects pathogens, it activates defense mechanisms.",Causal
+"Due to the accumulation of lactic acid, muscles feel fatigued after intense activity.",Causal
+"Because the stomach secretes acid, it aids in protein digestion.",Causal
+"Since the adrenal glands release adrenaline, heart rate and energy increase during stress.",Causal
+"Due to the high energy demand of the brain, it consumes significant glucose.",Causal
+"Because of vasoconstriction, blood pressure increases to maintain perfusion.",Causal
+"Since the thyroid gland regulates metabolism, its dysfunction affects energy levels.",Causal
+"As a result of hyperventilation, carbon dioxide levels in the blood drop.",Causal
+"Due to the action of the sinoatrial node, the heart maintains a steady rhythm.",Causal
+"Because proteins denature in extreme heat, enzymes lose their function.",Causal
+"Since calcium strengthens bones, its deficiency leads to osteoporosis.",Causal
+"Due to the presence of hemoglobin, oxygen transport in the blood is efficient.",Causal
+"Because smooth muscle lines the intestines, peristalsis moves food along the tract.",Causal
+"Since baroreceptors sense pressure changes, they adjust cardiac output accordingly.",Causal
+"Due to the secretion of aldosterone, sodium is reabsorbed in the kidneys.",Causal
+"Because blood vessels constrict in cold environments, heat loss is minimized.",Causal
+"Since liver enzymes detoxify chemicals, toxins are neutralized in the body.",Causal
+"Due to the lack of insulin, cells cannot efficiently absorb glucose.",Causal
+"Because the brainstem regulates vital functions, damage can be life-threatening.",Causal
+"Since the skin acts as a barrier, it prevents microbial invasion.",Causal
+"Due to excess cortisol, the immune response can become suppressed.",Causal
+"If blood glucose levels drop, the pancreas secretes glucagon.",Conditional
+"When oxygen supply is insufficient, anaerobic respiration begins.",Conditional
+"If the body temperature rises above normal, sweat production increases.",Conditional
+"When the baroreceptors detect high blood pressure, they signal vasodilation.",Conditional
+"If the kidneys fail to filter waste, toxins accumulate in the bloodstream.",Conditional
+"When insulin is absent, glucose cannot enter most cells.",Conditional
+"If the diaphragm stops contracting, breathing ceases.",Conditional
+"When body water levels are low, antidiuretic hormone release is triggered.",Conditional
+"If muscle fibers lack ATP, contraction cannot occur.",Conditional
+"When calcium is absent, muscle contractions are inhibited.",Conditional
+"If the hypothalamus detects cold temperatures, shivering is initiated.",Conditional
+"When the heart pumps inefficiently, tissues may experience oxygen deprivation.",Conditional
+"If alveolar walls are damaged, gas exchange efficiency decreases.",Conditional
+"When blood vessels constrict, peripheral resistance increases.",Conditional
+"If thyroid hormones are overproduced, metabolic rate increases.",Conditional
+"When the stomach is empty, ghrelin is released to stimulate hunger.",Conditional
+"If CO2 levels in the blood increase, the respiratory rate rises.",Conditional
+"When blood flow to the kidneys is reduced, renin secretion begins.",Conditional
+"If sweat glands are blocked, the body cannot cool effectively.",Conditional
+"When the adrenal glands release adrenaline, the fight-or-flight response activates.",Conditional
+"If neurons lose their myelin sheath, signal transmission slows.",Conditional
+"When arterial pressure drops, the heart rate compensates by increasing.",Conditional
+"If bile is not secreted, fat digestion becomes inefficient.",Conditional
+"When glucose levels rise excessively, insulin is released to restore balance.",Conditional
+"If the immune system is compromised, infections become more likely.",Conditional
+"When the liver stores glycogen, it releases glucose during fasting.",Conditional
+"If the body experiences hypoxia, erythropoietin stimulates red blood cell production.",Conditional
+"When vascular damage occurs, platelets aggregate to form a clot.",Conditional
+"If ATP is depleted, cellular functions begin to fail.",Conditional
+"When heart valves malfunction, blood flow becomes turbulent.",Conditional
+"If dietary sodium intake is too high, blood pressure may increase.",Conditional
+"When blood vessels dilate, heat is dissipated more effectively.",Conditional
+"If the parasympathetic system is dominant, the heart rate slows.",Conditional
+"When oxygen binds to hemoglobin, it is transported to tissues efficiently.",Conditional
+"If the pituitary gland stops producing hormones, multiple body systems are affected.",Conditional
+"When baroreceptors detect low blood pressure, vasoconstriction is initiated.",Conditional
+"If the pancreas fails to produce insulin, blood glucose remains elevated.",Conditional
+"When blood calcium levels fall, the parathyroid glands release PTH.",Conditional
+"If alveoli collapse, oxygenation of blood is impaired.",Conditional
+"When the digestive system lacks enzymes, nutrient absorption is incomplete.",Conditional
+"If the sympathetic nervous system is activated, blood flow is redirected to muscles.",Conditional
+"When the hypothalamus senses dehydration, thirst is stimulated.",Conditional
+"If sodium-potassium pumps stop functioning, membrane potentials are disrupted.",Conditional
+"When arteries become rigid, blood pressure regulation is compromised.",Conditional
+"If the small intestine is inflamed, nutrient absorption is reduced.",Conditional
+"When blood oxygen saturation drops, chemoreceptors stimulate faster breathing.",Conditional
+"If capillary walls become leaky, fluid accumulates in surrounding tissues.",Conditional
+"When cardiac output decreases, systemic circulation is impaired.",Conditional
+"If skin is damaged, the risk of infection increases.",Conditional
+"When core body temperature falls, metabolic rate slows to conserve energy.",Conditional
+"After the diaphragm contracts, air is drawn into the lungs.",Temporal Sequence
+"Once the heart pumps blood, oxygen is delivered to tissues.",Temporal Sequence
+"Before the kidneys filter blood, it passes through the renal artery.",Temporal Sequence
+"As soon as the stomach releases acid, protein digestion begins.",Temporal Sequence
+"Following a meal, insulin is secreted to regulate blood glucose levels.",Temporal Sequence
+"After oxygen binds to hemoglobin, it is transported to the tissues.",Temporal Sequence
+"Before muscles contract, calcium ions are released from the sarcoplasmic reticulum.",Temporal Sequence
+"As soon as body temperature rises, sweat production increases.",Temporal Sequence
+"Once the liver converts glucose to glycogen, it stores it for future use.",Temporal Sequence
+"After a blood vessel is injured, platelets adhere to the site.",Temporal Sequence
+"Following the release of adrenaline, heart rate and energy increase.",Temporal Sequence
+"Before nutrient absorption occurs, food must be broken down by enzymes.",Temporal Sequence
+"As soon as the hypothalamus detects dehydration, it triggers thirst.",Temporal Sequence
+"Once carbon dioxide levels rise, the respiratory rate increases.",Temporal Sequence
+"After the small intestine absorbs nutrients, they are transported to the bloodstream.",Temporal Sequence
+"Before the bladder contracts, signals are sent from stretch receptors.",Temporal Sequence
+"As soon as blood glucose levels drop, glucagon is secreted.",Temporal Sequence
+"Once the kidneys detect low blood flow, renin is released.",Temporal Sequence
+"After vasoconstriction occurs, blood pressure increases.",Temporal Sequence
+"Following the secretion of cortisol, blood sugar levels rise.",Temporal Sequence
+"Before bile emulsifies fats, it is stored in the gallbladder.",Temporal Sequence
+"As soon as hemoglobin releases oxygen, it picks up carbon dioxide.",Temporal Sequence
+"Once the adrenal glands release aldosterone, sodium is reabsorbed.",Temporal Sequence
+"After the pancreas secretes digestive enzymes, they act on food in the duodenum.",Temporal Sequence
+"Following the breakdown of glycogen, glucose is released into the blood.",Temporal Sequence
+"Before oxygen is utilized in cells, it diffuses across the alveolar membrane.",Temporal Sequence
+"As soon as baroreceptors sense high pressure, they signal for vasodilation.",Temporal Sequence
+"Once blood is filtered by the glomerulus, it passes into the tubules.",Temporal Sequence
+"After the hypothalamus releases hormones, the pituitary gland responds.",Temporal Sequence
+"Following muscle contraction, ATP is hydrolyzed to ADP.",Temporal Sequence
+"Before the heart beats, electrical impulses are generated by the sinoatrial node.",Temporal Sequence
+"As soon as the stomach senses food, it releases gastric juices.",Temporal Sequence
+"Once the blood carries nutrients to tissues, cells begin metabolic processes.",Temporal Sequence
+"After the alveoli exchange gases, oxygen enters the blood.",Temporal Sequence
+"Following the opening of ion channels, nerve impulses propagate.",Temporal Sequence
+"Before sweat cools the body, it evaporates from the skin surface.",Temporal Sequence
+"As soon as food enters the esophagus, peristalsis moves it downward.",Temporal Sequence
+"Once enzymes catalyze reactions, metabolic products are formed.",Temporal Sequence
+"After red blood cells are produced, they circulate to deliver oxygen.",Temporal Sequence
+"Following injury to a tissue, the inflammatory response is activated.",Temporal Sequence
+"Before the liver detoxifies chemicals, they are absorbed into the blood.",Temporal Sequence
+"As soon as cardiac output increases, blood is distributed more efficiently.",Temporal Sequence
+"Once the diaphragm relaxes, air is expelled from the lungs.",Temporal Sequence
+"After glucose is absorbed, it is transported to the liver for processing.",Temporal Sequence
+"Following the detection of pathogens, the immune system mounts a response.",Temporal Sequence
+"Before fat is metabolized, it is broken down into fatty acids and glycerol.",Temporal Sequence
+"As soon as the sympathetic nervous system is activated, blood is redirected to muscles.",Temporal Sequence
+"Once ATP is synthesized, it is used for energy-requiring processes.",Temporal Sequence
+"After the body is exposed to cold, shivering begins to generate heat.",Temporal Sequence
+"Following the completion of digestion, waste products move into the colon.",Temporal Sequence
+"To maintain homeostasis, the body regulates temperature through sweating and shivering.",Elaboration
+"This is evident in the way the kidneys filter waste while retaining essential nutrients.",Elaboration
+"For example, the liver converts excess glucose into glycogen for storage.",Elaboration
+"Specifically, the heart pumps blood to deliver oxygen and nutrients to tissues.",Elaboration
+"In particular, the hypothalamus plays a crucial role in regulating hunger and thirst.",Elaboration
+"Such as when the pancreas secretes insulin to lower blood sugar levels.",Elaboration
+"This includes processes like oxygen exchange in the alveoli during respiration.",Elaboration
+"Namely, the production of red blood cells is stimulated by erythropoietin.",Elaboration
+"To illustrate, muscles require calcium ions for contraction.",Elaboration
+"That is, the digestive system breaks down food into absorbable molecules.",Elaboration
+"For instance, the skin acts as a barrier against pathogens.",Elaboration
+"In fact, the nervous system coordinates all voluntary and involuntary actions.",Elaboration
+"This means that the endocrine system releases hormones to regulate bodily functions.",Elaboration
+"More precisely, bile emulsifies fats to aid in digestion.",Elaboration
+"As an example, the adrenal glands release adrenaline during stress.",Elaboration
+"To elaborate, the circulatory system delivers nutrients and oxygen to cells.",Elaboration
+"Such processes include the absorption of water in the large intestine.",Elaboration
+"This can be seen in the way baroreceptors regulate blood pressure.",Elaboration
+"For clarification, insulin allows glucose to enter cells for energy production.",Elaboration
+"That is why the respiratory system must maintain proper oxygen levels in the blood.",Elaboration
+"Consider the role of hemoglobin in transporting oxygen.",Elaboration
+"To clarify, the stomach produces acid to facilitate protein digestion.",Elaboration
+"Such as how sweat glands release sweat to cool the body.",Elaboration
+"This highlights the importance of the immune system in fighting infections.",Elaboration
+"More specifically, the diaphragm's movement controls inhalation and exhalation.",Elaboration
+"In detail, enzymes catalyze biochemical reactions in cells.",Elaboration
+"This involves the transformation of glucose into ATP during cellular respiration.",Elaboration
+"For this reason, the small intestine is essential for nutrient absorption.",Elaboration
+"To provide an example, the heart's valves ensure unidirectional blood flow.",Elaboration
+"That is to say, the liver plays a major role in detoxifying harmful substances.",Elaboration
+"As an illustration, the hypothalamus regulates body temperature.",Elaboration
+"Specifically, the renal system maintains fluid and electrolyte balance.",Elaboration
+"Such as the secretion of cortisol to manage stress responses.",Elaboration
+"This demonstrates the role of the circulatory system in homeostasis.",Elaboration
+"To illustrate further, the skeletal system supports and protects vital organs.",Elaboration
+"In particular, the autonomic nervous system controls involuntary functions.",Elaboration
+"For instance, the capillaries allow exchange of gases and nutrients at the cellular level.",Elaboration
+"Namely, the parathyroid glands regulate calcium levels in the blood.",Elaboration
+"This is evident in the way the lymphatic system removes waste from tissues.",Elaboration
+"To expand, the stomach churns food to mix it with digestive juices.",Elaboration
+"This includes processes like filtration and reabsorption in the nephron.",Elaboration
+"In other words, the endocrine system governs long-term processes like growth.",Elaboration
+"This can be explained by the role of enzymes in speeding up chemical reactions.",Elaboration
+"To detail, blood flow to muscles increases during physical activity.",Elaboration
+"More precisely, the alveoli provide a large surface area for gas exchange.",Elaboration
+"This signifies the importance of maintaining electrolyte balance in cells.",Elaboration
+"In essence, the cardiovascular system sustains life by delivering oxygen.",Elaboration
+"Consider the pancreas, which has both endocrine and exocrine functions.",Elaboration
+"This underscores the need for adequate hydration to support cellular activities.",Elaboration
+"Although the heart pumps efficiently, some blood pooling can occur in veins.",Concession
+"While the liver is capable of regenerating, extensive damage can impair its function.",Concession
+"Even though muscles are highly adaptable, prolonged inactivity can lead to atrophy.",Concession
+"Although the kidneys filter waste, they cannot always remove certain toxins.",Concession
+"While the skin acts as a barrier, it is still susceptible to UV damage.",Concession
+"Even though the pancreas produces insulin, resistance can develop in some tissues.",Concession
+"Although the nervous system is fast-acting, some reflexes may slow with age.",Concession
+"While bones are strong, they are prone to fractures under excessive force.",Concession
+"Even though the immune system defends against pathogens, it can sometimes overreact.",Concession
+"Although the respiratory system is efficient, high altitudes can reduce oxygen availability.",Concession
+"While the digestive system absorbs nutrients, it may not fully extract all vitamins.",Concession
+"Even though the circulatory system is closed, leaks can occur in capillaries.",Concession
+"Although the endocrine system regulates hormones, imbalances can still arise.",Concession
+"While the body maintains homeostasis, extreme conditions can disrupt it.",Concession
+"Even though the bladder stores urine effectively, it can become overactive.",Concession
+"Although the eyes adapt to light changes, they are less effective in dim environments.",Concession
+"While the lymphatic system removes waste, it can become blocked.",Concession
+"Even though muscles can recover from strain, repeated injuries may lead to fibrosis.",Concession
+"Although the stomach produces acid for digestion, excess acid can cause ulcers.",Concession
+"While the brain coordinates bodily functions, it is vulnerable to trauma.",Concession
+"Even though the lungs filter air, they cannot eliminate all pollutants.",Concession
+"Although the heart is a powerful organ, it can be affected by blocked arteries.",Concession
+"While enzymes are efficient catalysts, they are sensitive to pH changes.",Concession
+"Even though sweat cools the body, it can lead to dehydration if excessive.",Concession
+"Although blood vessels are elastic, they may stiffen with age.",Concession
+"While hemoglobin carries oxygen, its affinity decreases in acidic conditions.",Concession
+"Even though the body has repair mechanisms, chronic injuries may not heal completely.",Concession
+"Although the intestines are highly absorptive, some nutrients require specific carriers.",Concession
+"While the body stores energy, long fasting periods can deplete reserves.",Concession
+"Even though the hypothalamus regulates temperature, extreme heat can overwhelm it.",Concession
+"Although the kidneys conserve water, they cannot prevent dehydration indefinitely.",Concession
+"While reflexes protect the body, they may not always be fast enough.",Concession
+"Even though cartilage cushions joints, it cannot regenerate like bone.",Concession
+"Although blood circulation is continuous, clots can disrupt flow.",Concession
+"While the adrenal glands manage stress, chronic stress can exhaust them.",Concession
+"Even though the liver detoxifies substances, it cannot process excessive alcohol.",Concession
+"Although the body produces antioxidants, external sources are often needed.",Concession
+"While cellular respiration generates energy, oxygen deficits can impair it.",Concession
+"Even though fat provides energy, excess storage can lead to metabolic disorders.",Concession
+"Although the immune system recognizes pathogens, some can evade detection.",Concession
+"While the diaphragm facilitates breathing, its function can be impaired by injury.",Concession
+"Even though blood carries nutrients, certain areas may experience ischemia.",Concession
+"Although the thyroid regulates metabolism, its function can decline with age.",Concession
+"While the ears detect sound, prolonged exposure to noise can cause damage.",Concession
+"Even though the reproductive system is efficient, fertility declines over time.",Concession
+"Although the body has pain receptors, chronic pain can persist without clear cause.",Concession
+"While the spleen filters blood, its absence increases infection risk.",Concession
+"Even though cells replicate to repair damage, mutations can occur during division.",Concession
+"Although the body breaks down toxins, repeated exposure can accumulate harm.",Concession
+"While exercise strengthens the heart, overexertion can lead to strain.",Concession
+"Although enzymes accelerate reactions, their activity is highly pH-dependent.",Concession
+"While ATP is a reliable energy currency, its storage in cells is limited.",Concession
+"Even though DNA is stable under normal conditions, it is susceptible to UV damage.",Concession
+"Although proteins can fold into functional shapes, misfolding can lead to diseases.",Concession
+"While lipids are essential for membranes, excessive accumulation causes health issues.",Concession
+"Even though glycolysis generates ATP, it is less efficient than oxidative phosphorylation.",Concession
+"Although hemoglobin binds oxygen effectively, its affinity decreases in acidic environments.",Concession
+"While RNA is crucial for protein synthesis, it is less stable than DNA.",Concession
+"Even though amino acids are building blocks of proteins, some must be obtained from diet.",Concession
+"Although lipase breaks down fats, its activity diminishes without bile salts.",Concession
+"While enzymes are highly specific, competitive inhibitors can interfere with their action.",Concession
+"Even though carbohydrates provide energy, they are metabolized differently based on structure.",Concession
+"Although fatty acids are energy-rich, their oxidation requires sufficient oxygen.",Concession
+"While the citric acid cycle is central to metabolism, it requires oxygen indirectly.",Concession
+"Even though antioxidants neutralize free radicals, excessive radicals can overwhelm defenses.",Concession
+"Although the body synthesizes cholesterol, dietary intake can still affect levels.",Concession
+"While cofactors enhance enzymatic reactions, their absence halts catalysis.",Concession
+"Even though proteins can be degraded for energy, this process is not efficient.",Concession
+"Although DNA polymerase replicates DNA with high fidelity, errors can still occur.",Concession
+"While hydrogen bonds stabilize protein structures, extreme heat can denature them.",Concession
+"Even though NADH stores energy, it must be oxidized in the electron transport chain.",Concession
+"Although phospholipids form membranes, their bilayers are permeable to some molecules.",Concession
+"While ATP synthase is efficient, its activity relies on a proton gradient.",Concession
+"Even though vitamins act as coenzymes, excessive intake can be harmful.",Concession
+"Although the urea cycle removes ammonia, its efficiency varies between individuals.",Concession
+"While glucose is a universal fuel, the brain depends on it almost exclusively.",Concession
+"Even though triglycerides store energy efficiently, their mobilization is slow.",Concession
+"Although metabolic pathways are tightly regulated, mutations can disrupt them.",Concession
+"While allosteric regulation enhances enzyme activity, inhibitors can reverse the effect.",Concession
+"Even though pyruvate enters the mitochondria, its transport depends on specific carriers.",Concession
+"Although the pentose phosphate pathway produces NADPH, it does not yield ATP.",Concession
+"While heme is essential for oxygen transport, free heme is toxic to cells.",Concession
+"Even though proteins are synthesized in ribosomes, post-translational modifications are necessary.",Concession
+"Although glycolysis occurs in the cytoplasm, its end products influence mitochondrial processes.",Concession
+"While ketone bodies provide energy during fasting, their overproduction causes acidosis.",Concession
+"Even though oxidation-reduction reactions drive metabolism, they can produce harmful byproducts.",Concession
+"Although some amino acids are synthesized in the body, others are strictly dietary.",Concession
+"While DNA is compacted in chromatin, accessibility varies during cell cycles.",Concession
+"Even though lipids are hydrophobic, they are transported in the blood via lipoproteins.",Concession
+"Although ribosomes translate mRNA into proteins, errors in translation are possible.",Concession
+"While cytochrome c is key to respiration, it also signals apoptosis.",Concession
+"Even though the TCA cycle integrates metabolism, its intermediates are siphoned for biosynthesis.",Concession
+"Although lactate is a byproduct of anaerobic metabolism, it can be reused in gluconeogenesis.",Concession
+"While free energy changes drive reactions, some require coupling to ATP hydrolysis.",Concession
+"Even though metabolic flux is regulated, external factors can disrupt pathways.",Concession
+"Although oxidative phosphorylation generates most ATP, it produces reactive oxygen species.",Concession
+"While glucose-6-phosphate is a key metabolite, its fate depends on cellular needs.",Concession
+"Even though cholesterol is vital for membranes, its excessive levels lead to plaques.",Concession
+"Although the electron transport chain produces ATP, it can leak electrons, forming radicals.",Concession
+"While enzymes reduce activation energy, their activity can be temperature-sensitive.",Concession
+"For example, the citric acid cycle demonstrates how acetyl-CoA is oxidized to produce energy.",Illustration
+"To illustrate, enzymes like amylase break down starch into glucose for energy use.",Illustration
+"Consider the process of glycolysis, which converts glucose into pyruvate and ATP.",Illustration
+"As an example, hemoglobin transports oxygen by binding to it in the lungs and releasing it in tissues.",Illustration
+"One clear instance is the role of ATP synthase in generating ATP from ADP during oxidative phosphorylation.",Illustration
+"For instance, the activation of fatty acids before beta-oxidation requires ATP consumption.",Illustration
+"A notable case is how insulin regulates glucose uptake by facilitating transporter activity on cell membranes.",Illustration
+"Take the urea cycle, which illustrates how ammonia is detoxified into urea in the liver.",Illustration
+"An example includes the conversion of pyruvate to lactate during anaerobic respiration.",Illustration
+"To clarify, DNA replication involves helicase unwinding the strands before polymerase synthesizes new ones.",Illustration
+"Think about how lipoproteins transport cholesterol and triglycerides through the bloodstream.",Illustration
+"For instance, during photosynthesis, chlorophyll absorbs light energy to drive electron transfer.",Illustration
+"An illustration is how NADPH from the pentose phosphate pathway is used in biosynthetic reactions.",Illustration
+"Take, for instance, how ribosomes assemble amino acids into proteins according to mRNA sequences.",Illustration
+"A good example is how feedback inhibition regulates enzyme activity in metabolic pathways.",Illustration
+"Consider how bile salts emulsify fats, enabling enzymes like lipase to break them down.",Illustration
+"One instance is the role of coenzymes like NAD+ in transferring electrons during metabolism.",Illustration
+"As an illustration, the proton gradient in mitochondria powers ATP synthesis.",Illustration
+"For example, the hydrophobic and hydrophilic regions of phospholipids create membrane bilayers.",Illustration
+"To explain further, allosteric enzymes like phosphofructokinase are regulated by ATP levels.",Illustration
+"An illustrative example is how glucose-6-phosphate acts as a branch point in carbohydrate metabolism.",Illustration
+"To better understand, consider how oxidative stress arises from an imbalance in reactive oxygen species and antioxidants.",Illustration
+"Take, for example, how enzymes like catalase neutralize hydrogen peroxide in cells.",Illustration
+"A typical example is the conversion of acetyl-CoA into citrate in the TCA cycle.",Illustration
+"For clarity, beta-oxidation breaks down fatty acids into acetyl-CoA units for energy production.",Illustration
+"An example to consider is how DNA methylation affects gene expression.",Illustration
+"To illustrate further, competitive inhibitors mimic substrates to block enzyme active sites.",Illustration
+"Think of how electron carriers like FADH2 donate electrons to the electron transport chain.",Illustration
+"As an instance, glycogen phosphorylase breaks glycogen into glucose-1-phosphate.",Illustration
+"Take, for instance, the role of ribozymes, RNA molecules that catalyze biochemical reactions.",Illustration
+"A good illustration is the way cholesterol is synthesized via the mevalonate pathway.",Illustration
+"Consider the example of substrate-level phosphorylation generating ATP during glycolysis.",Illustration
+"For further clarification, cytochrome c transfers electrons between complexes in the ETC.",Illustration
+"An instance to highlight is how vitamins like B12 act as cofactors in enzymatic reactions.",Illustration
+"As an example, the hydrogen bonds in DNA stabilize its double helix structure.",Illustration
+"Take the example of glucagon, which raises blood glucose levels by stimulating glycogen breakdown.",Illustration
+"A clear case is how the phosphorylation of glucose traps it inside the cell for metabolism.",Illustration
+"To demonstrate, transcription factors bind to DNA to regulate gene expression.",Illustration
+"An example of this is how the Cori cycle recycles lactate into glucose in the liver.",Illustration
+"To clarify, the enzyme pyruvate dehydrogenase converts pyruvate into acetyl-CoA for the TCA cycle.",Illustration
+"Think about how antioxidants like vitamin C neutralize free radicals in the body.",Illustration
+"An illustrative case is how lipid rafts in cell membranes organize signaling molecules.",Illustration
+"To provide an example, the role of chaperone proteins is to assist in protein folding.",Illustration
+"One such instance is the conversion of fructose-6-phosphate to fructose-1,6-bisphosphate in glycolysis.",Illustration
+"To make it clearer, lysosomes break down cellular waste using hydrolytic enzymes.",Illustration
+"For instance, G-protein-coupled receptors initiate signal transduction pathways upon ligand binding.",Illustration
+"A good case in point is the synthesis of ATP via substrate-level phosphorylation in the TCA cycle.",Illustration
+"Consider the role of aquaporins, which facilitate water transport across cell membranes.",Illustration
+"An example worth noting is how oxidative deamination removes an amine group from amino acids.",Illustration

@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from sklearn.preprocessing import LabelEncoder
-from BiLSTM import BiLSTMAttentionBERT
+from src.models.BiLSTM_02 import BiLSTMAttentionBERT
 import os
 from multiprocessing import freeze_support
 import traceback

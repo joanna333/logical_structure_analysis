@@ -1,6 +1,6 @@
 Label,Count
-Causal,463
-Conditional,462
+Causal,513
+Conditional,512
 Sequential,563
 Comparison,545
 Explanation,2306
@@ -8,16 +8,16 @@ Definition,1029
 Contrast,642
 Addition,557
 Emphasis,543
-Elaboration,464
-Illustration,488
-Concession,466
+Elaboration,513
+Illustration,537
+Concession,566
 Generalization,573
 Inference,627
 Summary,791
 Problem Solution,929
-Contrastive Emphasis,431
+Contrastive Emphasis,480
 Purpose,1019
 Clarification,574
 Enumeration,522
 Cause and Effect,924
-Temporal Sequence,485
+Temporal Sequence,535
