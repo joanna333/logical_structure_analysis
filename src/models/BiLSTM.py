@@ -10,12 +10,29 @@ from pathlib import Path
 import os
 from datetime import datetime
 from torch.optim.lr_scheduler import ReduceLROnPlateau
-import numpy as np
-from transformers import AutoModel
-import torch.nn as nn
-import torch.optim as optim
 from sklearn.metrics import classification_report, confusion_matrix
 from tqdm import tqdm
+from nlpaug.augmenter.word import BackTranslationAug, RandomWordAug, ContextualWordEmbsAug
+import nlpaug.augmenter.word as naw
+import nlpaug.flow as naf  
+import signal
+from contextlib import contextmanager
+import wandb
+import matplotlib.pyplot as plt
+
+class TimeoutException(Exception):
+    pass
+
+@contextmanager
+def time_limit(seconds):
+    def signal_handler(signum, frame):
+        raise TimeoutException("Timed out!")
+    signal.signal(signal.SIGALRM, signal_handler)
+    signal.alarm(seconds)
+    try:
+        yield
+    finally:
+        signal.alarm(0)
 
 
 # 1. Setup and preprocessing
@@ -51,53 +68,57 @@ class SentenceDataset(Dataset):
 
 # 2. Model Architecture
 class BiLSTMAttentionBERT(nn.Module):
-    def __init__(self, 
-                 hidden_dim=256,
-                 num_classes=22,  # Based on your label distribution
-                 num_layers=2,    # Multiple LSTM layers
-                 dropout=0.5):    
+    def __init__(self, hidden_dim=256, num_classes=22, num_layers=2, dropout=0.5):
         super().__init__()
         
-        # Load BioBERT instead of BERT
+        # 1. Improved Architecture
         self.bert_model = AutoModel.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
-        bert_dim = self.bert_model.config.hidden_size  # Still 768 for BioBERT basee
-        # Dropout for BERT outputs
-        self.dropout_bert = nn.Dropout(dropout)
-        # Multi-layer BiLSTM
+
+        self.dropout_bert = nn.Dropout(dropout)  # Added this line
+        
+        # Freeze initial BERT layers
+        for param in list(self.bert_model.parameters())[:-2]:
+            param.requires_grad = False
+            
+        # 2. Bidirectional LSTM with residual connections
         self.lstm = nn.LSTM(
-            input_size=bert_dim,
+            input_size=768,
             hidden_size=hidden_dim,
             num_layers=num_layers,
             bidirectional=True,
             batch_first=True,
-            dropout=dropout if num_layers > 1 else 0
+            dropout=dropout
         )
         
-        # Multi-head attention
+        # 3. Enhanced Attention
         self.attention = nn.MultiheadAttention(
-            embed_dim=hidden_dim * 2,  # *2 for bidirectional
-            num_heads=4,
+            embed_dim=hidden_dim * 2,
+            num_heads=8,  # Increased heads
             dropout=dropout,
             batch_first=True
         )
         
-        # Regularization layers
+        # 4. Improved Regularization
         self.dropout1 = nn.Dropout(dropout)
         self.dropout2 = nn.Dropout(dropout + 0.1)
-        self.layer_norm = nn.LayerNorm(hidden_dim * 2)
+        self.layer_norm1 = nn.LayerNorm(hidden_dim * 2)
+        self.layer_norm2 = nn.LayerNorm(hidden_dim * 2)
         self.batch_norm = nn.BatchNorm1d(hidden_dim * 2)
         
-        # Classification head
+        # 5. Deeper Classification Head
         self.classifier = nn.Sequential(
             nn.Linear(hidden_dim * 2, hidden_dim),
             nn.ReLU(),
             nn.Dropout(dropout),
             nn.BatchNorm1d(hidden_dim),
-            nn.Linear(hidden_dim, num_classes)
+            nn.Linear(hidden_dim, hidden_dim // 2),
+            nn.ReLU(),
+            nn.Dropout(dropout + 0.1),
+            nn.Linear(hidden_dim // 2, num_classes)
         )
         
     def forward(self, input_ids, attention_mask):
-        # BERT encoding
+        # BERT encoding with dropout
         bert_output = self.bert_model(
             input_ids=input_ids,
             attention_mask=attention_mask,
@@ -105,22 +126,24 @@ class BiLSTMAttentionBERT(nn.Module):
         )
         sequence_output = self.dropout_bert(bert_output.last_hidden_state)
         
-        # BiLSTM processing
+        # BiLSTM with layer norm
         lstm_out, _ = self.lstm(sequence_output)
-        lstm_out = self.layer_norm(lstm_out)
+        lstm_out = self.layer_norm1(lstm_out)  # First layer norm
         
-        # Self-attention
+        # Self-attention with dropout
         attn_out, _ = self.attention(
             query=lstm_out,
             key=lstm_out,
             value=lstm_out,
             need_weights=False
         )
+        attn_out = self.dropout1(attn_out)  # First dropout
+        attn_out = self.layer_norm2(attn_out)  # Second layer norm
         
         # Pooling and normalization
         pooled = torch.mean(attn_out, dim=1)
-        pooled = self.batch_norm(pooled)
-        pooled = self.dropout2(pooled)
+        pooled = self.batch_norm(pooled)  # Batch norm
+        pooled = self.dropout2(pooled)  # Second dropout
         
         # Classification
         return self.classifier(pooled)
@@ -159,7 +182,7 @@ def create_data_loaders(df, batch_size=16, tokenizer=None):
     if tokenizer is None:
         tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
     # Split data
-    train_df, val_df = train_test_split(df, test_size=0.1, random_state=42)
+    train_df, val_df = train_test_split(df, test_size=0.2, random_state=42)
     
     # Create datasets
     train_dataset = SentenceDataset(train_df['Sentence'], train_df['Label'], tokenizer)
@@ -171,114 +194,237 @@ def create_data_loaders(df, batch_size=16, tokenizer=None):
     
     return train_loader, val_loader
 
-def train_model(num_epochs=10, learning_rate=2e-5, weight_decay=0.01, device=None):
-    """
-    Training function for BiLSTM model with BERT embeddings.
-    """
-    # Initialize tokenizer
-    tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
-    # Load and preprocess data
-    df = load_data()  # Your existing load_data function
-    train_loader, val_loader = create_data_loaders(df, tokenizer=tokenizer)  # You'll need to implement this
+def train_model(num_epochs=1, learning_rate=2e-5, weight_decay=0.01, device=None):
+    """Training function for BiLSTM model with BERT embeddings."""
     
-    # At the start of train_model
+    # Initialize components
+    tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
+    df = load_data()
+    
+    # Data augmentation
+    # augmented_df = apply_augmentation(df)
+    # train_loader, val_loader = create_data_loaders(augmented_df, tokenizer=tokenizer)
+    
+    train_loader, val_loader = create_data_loaders(df, tokenizer=tokenizer)
+
+    # Label encoding
     label_encoder = LabelEncoder()
-    labels = df['Label'].values  # Assuming df is your dataframe
-    print(f"Labels: {labels}")
+    labels = df['Label'].values
     label_encoder.fit(labels)
     
-    # Initialize model with proper parameters
+    # Model initialization
     model = BiLSTMAttentionBERT(
-        hidden_dim=128,
-        num_classes=len(label_encoder.classes_),  # You'll need to define label_encoder
+        hidden_dim=256,
+        num_classes=len(label_encoder.classes_),
         num_layers=2,
         dropout=0.5
     )
     
-    # Set device if not provided
-    if device is None:
-        device = torch.device('mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is_available() else 'cpu')
-    
-    # Initialize model and move to device
+    # Device setup
+    device = torch.device('mps' if torch.backends.mps.is_available() else 'cuda' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
     
-    # Initialize optimizer and loss
-    # Optimizer with L2 regularization
+    # Training setup
     optimizer = torch.optim.AdamW(
         model.parameters(),
         lr=learning_rate,
-        weight_decay=weight_decay,  # L2 regularization
-        betas=(0.9, 0.999),
-        eps=1e-8
+        weight_decay=weight_decay,
+        betas=(0.9, 0.999)
     )
     
-    # Gradient clipping
-    torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
-    criterion = nn.CrossEntropyLoss()
+    # Learning rate scheduler
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        optimizer,
+        mode='max',
+        factor=0.5,
+        patience=2,
+        verbose=True
+    )
     
-    # Initialize training tracking
+    # Loss with label smoothing
+    criterion = nn.CrossEntropyLoss(label_smoothing=0.1)
+    
+    # Early stopping
+    early_stopping = EarlyStopping(patience=5, min_delta=0.001)
+    
+    # Training tracking
     best_val_acc = 0
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    
-    # Create output directory if it doesn't exist
-    os.makedirs('models', exist_ok=True)
-    
-    
-   
-    # Initialize tracking variables
-    best_val_acc = 0
-    no_improve_count = 0
-    early_stopping_patience = 3
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    model_save_path = os.path.join('models', f'bilstm_bert_{timestamp}_valacc_{best_val_acc:.2f}.pt')
-    
-    # Training loop
-    try:
-        for epoch in range(num_epochs):
-            # Training phase
-            train_loss, train_acc = train_epoch(model, train_loader, optimizer, criterion, device)
-            
-            # Validation phase
-            val_loss, val_acc = evaluate(model, val_loader, criterion, device)
-            
-            # Print and log metrics
-            print_and_handle_metrics(
-                epoch=epoch,
-                num_epochs=num_epochs,
-                train_loss=train_loss,
-                train_acc=train_acc,
-                val_loss=val_loss,
-                val_acc=val_acc,
-                best_val_acc=best_val_acc,
-                early_stopping_patience=early_stopping_patience
-            )
-            
-            # Save best model and update counters
-            if val_acc > best_val_acc:
-                best_val_acc = val_acc
-                model_save_path = os.path.join('models', f'bilstm_bert_{timestamp}_valacc_{best_val_acc:.2f}.pt')
-                save_best_model(
-                    model=model,
-                    optimizer=optimizer,
-                    epoch=epoch,
-                    val_acc=val_acc,
-                    filename=model_save_path,
-                    label_encoder=label_encoder
-                )
-                no_improve_count = 0
-            else:
-                no_improve_count += 1
-            
-            # Early stopping check
-            if no_improve_count >= early_stopping_patience:
-                print(f"Early stopping triggered after {epoch + 1} epochs")
-                break
-                        
-    except Exception as e:
-        print(f"Error during training: {str(e)}")
-        return None, None, None, None
+    grad_accumulation_steps = 2
+    wandb.init(
+    project="bilstm-classification",
+    config={
+        "learning_rate": learning_rate,
+        "epochs": num_epochs
+        }
+    )
+
+    wandb.config.update({
         
-    return model, train_loader, val_loader, best_val_acc  # Add best_val_acc to return values
+        # Dataset Stats
+        "train_size": len(train_loader.dataset),
+        "val_size": len(val_loader.dataset),
+        "num_classes": len(label_encoder.classes_),
+        
+        # Training Config
+        "optimizer": optimizer.__class__.__name__,
+        "scheduler": scheduler.__class__.__name__ if scheduler else "none",
+    })
+
+    # At the start of training
+    train_losses = []
+    val_losses = []
+    train_accuracies = []
+    val_accuracies = []
+
+    # Training loop
+    for epoch in range(num_epochs):
+        model.train()
+        total_loss = 0
+        optimizer.zero_grad()
+        
+        # Training phase
+        for batch_idx, batch in enumerate(train_loader):
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
+            
+            # Forward pass
+            outputs = model(input_ids, attention_mask)
+            loss = criterion(outputs, labels)
+            
+            # Gradient accumulation
+            loss = loss / grad_accumulation_steps
+            loss.backward()
+            
+            # Gradient clipping
+            if (batch_idx + 1) % grad_accumulation_steps == 0:
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+                optimizer.step()
+                optimizer.zero_grad()
+            
+            total_loss += loss.item() * grad_accumulation_steps
+
+            # Inside training loop, after computing loss
+            train_pred = torch.argmax(outputs, dim=1)
+            train_acc = (train_pred == labels).float().mean()
+        
+        # Validation phase
+        val_loss, val_acc = evaluate(model, val_loader, criterion, device)
+        
+        # Learning rate scheduling
+        scheduler.step(val_acc)
+        
+        # Early stopping check
+        early_stopping(val_loss)
+        if early_stopping.early_stop:
+            print("Early stopping triggered")
+            break
+            
+        # Save best model
+        if val_acc > best_val_acc:
+            best_val_acc = val_acc
+            save_best_model(
+                model=model,
+                optimizer=optimizer,
+                epoch=epoch,
+                val_acc=val_acc,
+                filename=f'models/model_epoch{epoch}_acc{val_acc:.2f}.pt',
+                label_encoder=label_encoder
+            )
+        
+        # After each epoch
+        train_loss = total_loss/len(train_loader)
+        train_losses.append(train_loss)
+        val_losses.append(val_loss)
+        train_accuracies.append(train_acc)
+        val_accuracies.append(val_acc)
+
+        # Print epoch stats
+        print_and_handle_metrics(
+            epoch=epoch,
+            num_epochs=num_epochs,
+            train_loss=total_loss/len(train_loader),
+            train_acc=train_acc,
+            val_loss=val_loss,
+            val_acc=val_acc,
+            best_val_acc=best_val_acc,
+            early_stopping_patience=early_stopping.patience
+        )
+        print(f'Learning Rate: {optimizer.param_groups[0]["lr"]:.6f}')
+        wandb.log({
+            "train_loss": train_loss,
+            "val_loss": val_loss,
+            "train_accuracy": train_acc,
+            "val_accuracy": val_acc,
+            "loss_gap": train_loss - val_loss,
+            "accuracy_gap": train_acc - val_acc,
+            "learning_rate": optimizer.param_groups[0]["lr"]
+        }, step=epoch)
+
+        train_accuracies = train_accuracies.cpu() 
+        val_accuracies = val_accuracies.cpu()
+        train_losses = train_losses.cpu()
+        val_losses = val_losses.cpu()
+        # Plot learning curves
+        plt.figure(figsize=(12,4))
+        plt.subplot(1,2,1)
+        plt.plot(train_losses, label='Train Loss')
+        plt.plot(val_losses, label='Val Loss')
+        plt.legend()
+        plt.title('Loss Curves')
+
+        plt.subplot(1,2,2)
+        plt.plot(train_accuracies, label='Train Acc')
+        plt.plot(val_accuracies, label='Val Acc')
+        plt.legend()
+        plt.title('Accuracy Curves')
+        wandb.log({"learning_curves": wandb.Image(plt)})
+
+    wandb.finish()
+    return model, train_loader, val_loader, best_val_acc
+
+def apply_augmentation(df, aug_factor=0.3, timeout=30):
+    """
+    Apply text augmentation with timeout control
+    """
+    augmented_sentences = []
+    augmented_labels = []
+    
+    # Initialize augmenters
+    back_trans_aug = BackTranslationAug(
+        from_model_name='Helsinki-NLP/opus-mt-en-de',
+        to_model_name='Helsinki-NLP/opus-mt-de-en'
+    )
+    
+    synonym_aug = naw.SynonymAug(aug_p=0.3)
+    
+    n_samples = int(len(df) * aug_factor)
+    aug_indices = np.random.choice(len(df), n_samples, replace=False)
+    
+    for idx in aug_indices:
+        try:
+            with time_limit(timeout):
+                text = df['Sentence'].iloc[idx]
+                label = df['Label'].iloc[idx]
+                
+                # Controlled augmentation
+                augmented_text = synonym_aug.augment(text)[0]
+                augmented_sentences.append(augmented_text)
+                augmented_labels.append(label)
+                
+        except TimeoutException:
+            print(f"Augmentation timed out for index {idx}")
+            continue
+        except Exception as e:
+            print(f"Error at index {idx}: {str(e)}")
+            continue
+    
+    aug_df = pd.DataFrame({
+        'Sentence': augmented_sentences,
+        'Label': augmented_labels
+    })
+    
+    return pd.concat([df, aug_df], ignore_index=True)
 
 # 4. Training function
 def train_epoch(model, train_loader, optimizer, criterion, device):
@@ -440,6 +586,7 @@ def load_saved_model(model, optimizer, filename):
 
 # Modify main training loop
 if __name__ == "__main__":
+    
     model, train_loader, val_loader, best_val_acc = train_model()
     if model is not None:
         print(f"Training completed with best validation accuracy: {best_val_acc:.4f}")
